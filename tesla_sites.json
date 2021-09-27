@@ -163522,6 +163522,16 @@
     "longitude": "114.1851646000"
   },
   {
+    "location_id": "incheonmichuholsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.4707980000",
+    "longitude": "126.6658550000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
