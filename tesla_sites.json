@@ -74971,9 +74971,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.9024940000",
-    "longitude": "139.0232160000"
+    "open_soon": "0",
+    "latitude": "37.8789430600",
+    "longitude": "139.0606217700"
   },
   {
     "location_id": "norrkopingsesupercharger",
@@ -140984,9 +140984,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "64.2614330000",
-    "longitude": "16.4163730000"
+    "open_soon": "0",
+    "latitude": "64.2613950000",
+    "longitude": "16.4177880000"
   },
   {
     "location_id": "Ystadsesupercharger",
@@ -141184,9 +141184,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "25.7944600000",
-    "longitude": "55.9450830000"
+    "open_soon": "0",
+    "latitude": "25.7914920000",
+    "longitude": "55.9663090000"
   },
   {
     "location_id": "DubaiMarinaaesupercharger",
@@ -145627,6 +145627,16 @@
     "open_soon": "1",
     "latitude": "53.5706000000",
     "longitude": "10.0606400000"
+  },
+  {
+    "location_id": "Castellonessupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "39.6729150000",
+    "longitude": "-0.2663010000"
   },
   {
     "location_id": "granadahillscaliforniasupercharger",
@@ -163621,6 +163631,16 @@
     "open_soon": "0",
     "latitude": "44.6925400000",
     "longitude": "8.4842500000"
+  },
+  {
+    "location_id": "dongchunsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.6637500000",
+    "longitude": "127.0087100000"
   },
   {
     "id": "Bodyshop_NA556",
