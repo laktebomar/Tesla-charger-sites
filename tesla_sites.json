@@ -38914,8 +38914,8 @@
   {
     "location_id": "dc19991",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "46.4746580000",
@@ -55975,8 +55975,8 @@
   {
     "location_id": "dc14672",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "44.4093000000",
@@ -123021,15 +123021,6 @@
     "longitude": "0.7955130000"
   },
   {
-    "location_id": "elpasowalterjones",
-    "location_type": [
-      "service"
-    ],
-    "open_soon": "0",
-    "latitude": "31.8177270000",
-    "longitude": "-106.3945450000"
-  },
-  {
     "location_id": "southtucson",
     "location_type": [
       "store",
@@ -141782,9 +141773,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.4612400000",
-    "longitude": "126.8784730000"
+    "open_soon": "0",
+    "latitude": "37.4191720400",
+    "longitude": "126.8821175100"
   },
   {
     "location_id": "suncheonsupercharger",
@@ -161209,6 +161200,16 @@
     "longitude": "135.5129751600"
   },
   {
+    "location_id": "austin500",
+    "location_type": [
+      "store",
+      "service"
+    ],
+    "open_soon": "0",
+    "latitude": "30.2153692000",
+    "longitude": "-97.7616189000"
+  },
+  {
     "location_id": "serviceexpresswashington",
     "location_type": [
       "service"
@@ -163619,6 +163620,16 @@
     "open_soon": "0",
     "latitude": "36.3660730000",
     "longitude": "-77.6743120000"
+  },
+  {
+    "location_id": "verdmontitaly",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.6925400000",
+    "longitude": "8.4842500000"
   },
   {
     "id": "Bodyshop_NA556",
