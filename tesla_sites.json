@@ -81811,16 +81811,6 @@
     "longitude": "-1.9533810000"
   },
   {
-    "location_id": "dc27905",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "53.9657890000",
-    "longitude": "-1.0911820000"
-  },
-  {
     "location_id": "dc28555",
     "location_type": [
       "destination charger",
@@ -126896,16 +126886,6 @@
     "longitude": "-6.3886340000"
   },
   {
-    "location_id": "dc77820",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "53.4482640000",
-    "longitude": "5.6305480000"
-  },
-  {
     "location_id": "dc84769",
     "location_type": [
       "destination charger",
@@ -161181,7 +161161,7 @@
     "longitude": "135.9692083100"
   },
   {
-    "location_id": "tottorisupercharger",
+    "location_id": "tottorijpsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
@@ -163641,6 +163621,46 @@
     "open_soon": "0",
     "latitude": "37.3959939000",
     "longitude": "126.6636560000"
+  },
+  {
+    "location_id": "citycentremirdifp3",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.2162800000",
+    "longitude": "55.4078380000"
+  },
+  {
+    "location_id": "citycentremirdifp1b",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.2162800000",
+    "longitude": "55.4078380000"
+  },
+  {
+    "location_id": "citycentremirdifp2",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.2162800000",
+    "longitude": "55.4078380000"
+  },
+  {
+    "location_id": "torralbenc",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "39.8868000000",
+    "longitude": "4.1465700000"
   },
   {
     "id": "Bodyshop_NA556",
