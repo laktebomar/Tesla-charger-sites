@@ -132376,9 +132376,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "69.0208400000",
-    "longitude": "23.0472300000"
+    "open_soon": "0",
+    "latitude": "69.0203720000",
+    "longitude": "23.0486350000"
   },
   {
     "location_id": "skaidisupercharger",
@@ -141024,9 +141024,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "62.5540400000",
-    "longitude": "15.8315530000"
+    "open_soon": "0",
+    "latitude": "62.5373600000",
+    "longitude": "15.9189260000"
   },
   {
     "location_id": "Malungsesupercharger",
@@ -141945,8 +141945,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "1.2926413960",
-    "longitude": "103.8621360000"
+    "latitude": "1.3017708000",
+    "longitude": "103.9105804000"
   },
   {
     "location_id": "bairnsdalesupercharger",
@@ -158466,9 +158466,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "31.8996020000",
-    "longitude": "34.9379720000"
+    "open_soon": "0",
+    "latitude": "31.8893270000",
+    "longitude": "34.9668240000"
   },
   {
     "location_id": "Bolognaitsupercharger",
@@ -161760,9 +161760,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "52.2722230000",
-    "longitude": "-9.7023870000"
+    "open_soon": "0",
+    "latitude": "52.2606640000",
+    "longitude": "-9.6591820000"
   },
   {
     "location_id": "WesenbergSupercharger",
@@ -163661,6 +163661,46 @@
     "open_soon": "0",
     "latitude": "39.8868000000",
     "longitude": "4.1465700000"
+  },
+  {
+    "location_id": "hartsheadmooreastsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "53.7119710000",
+    "longitude": "-1.7469660000"
+  },
+  {
+    "location_id": "hartsheadmoorwestsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "53.7131580000",
+    "longitude": "-1.7449520000"
+  },
+  {
+    "location_id": "tangiersupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "35.6667410000",
+    "longitude": "-5.9658340000"
+  },
+  {
+    "location_id": "singaporemilleniawalksupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "1.2922543700",
+    "longitude": "103.8597067500"
   },
   {
     "id": "Bodyshop_NA556",
