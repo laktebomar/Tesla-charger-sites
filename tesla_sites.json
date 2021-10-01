@@ -160971,7 +160971,9 @@
   {
     "location_id": "bartlett3020",
     "location_type": [
-      "service"
+      "store",
+      "service",
+      "delivery"
     ],
     "open_soon": "0",
     "latitude": "35.2083664000",
@@ -163701,6 +163703,439 @@
     "open_soon": "0",
     "latitude": "1.2922543700",
     "longitude": "103.8597067500"
+  },
+  {
+    "location_id": "casablancamoroccosupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "33.5864901000",
+    "longitude": "-7.6386354000"
+  },
+  {
+    "location_id": "complexeagoraparktaza",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "34.2660460000",
+    "longitude": "-3.9566410000"
+  },
+  {
+    "location_id": "lixusbeachresort",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "35.2352160000",
+    "longitude": "-6.1339280000"
+  },
+  {
+    "location_id": "hoteltangermed",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "35.6828470000",
+    "longitude": "-5.6909230000"
+  },
+  {
+    "location_id": "kenziclub",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "31.5793350000",
+    "longitude": "-7.9833590000"
+  },
+  {
+    "location_id": "mövenpickhotel",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "31.6237660000",
+    "longitude": "-8.0143660000"
+  },
+  {
+    "location_id": "theoberoihotel",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "31.6118450000",
+    "longitude": "-7.8966780000"
+  },
+  {
+    "location_id": "zakisuiteshôtel",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "33.8806880000",
+    "longitude": "-5.5331620000"
+  },
+  {
+    "location_id": "hotelsahrai",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "34.0434110000",
+    "longitude": "-4.9919410000"
+  },
+  {
+    "location_id": "villa52rabat",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "33.9741050000",
+    "longitude": "-6.8347080000"
+  },
+  {
+    "location_id": "dc867309010",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "51.4265180000",
+    "longitude": "-116.1765130000"
+  },
+  {
+    "location_id": "dc867350592",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "51.1492110000",
+    "longitude": "-115.5585650000"
+  },
+  {
+    "location_id": "dc867352394",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "51.1700060000",
+    "longitude": "-115.5881310000"
+  },
+  {
+    "location_id": "dc867355258",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.5792500000",
+    "longitude": "-53.9481400000"
+  },
+  {
+    "location_id": "dc867360473",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.6506200000",
+    "longitude": "-60.3921300000"
+  },
+  {
+    "location_id": "dc867362058",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.6462250000",
+    "longitude": "-60.9486140000"
+  },
+  {
+    "location_id": "dc867363399",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.8122290000",
+    "longitude": "-60.7677620000"
+  },
+  {
+    "location_id": "dc867364626",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.6506200000",
+    "longitude": "-60.3921300000"
+  },
+  {
+    "location_id": "dc867351613",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "45.6546700000",
+    "longitude": "-60.8693300000"
+  },
+  {
+    "location_id": "dc867395409",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.8289030000",
+    "longitude": "-60.6131330000"
+  },
+  {
+    "location_id": "dc867396831",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.1037770000",
+    "longitude": "-60.7460120000"
+  },
+  {
+    "location_id": "dc867398219",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.4386680000",
+    "longitude": "-65.2086110000"
+  },
+  {
+    "location_id": "dc867399229",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "45.1083540000",
+    "longitude": "-64.3087830000"
+  },
+  {
+    "location_id": "dc867403507",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.2521890000",
+    "longitude": "-63.1271540000"
+  },
+  {
+    "location_id": "dc867402692",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.4452980000",
+    "longitude": "-62.6822420000"
+  },
+  {
+    "location_id": "dc867401866",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.4886960000",
+    "longitude": "-63.3816650000"
+  },
+  {
+    "location_id": "dc867400393",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.4288520000",
+    "longitude": "-63.2011920000"
+  },
+  {
+    "location_id": "dc20200713",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "52.8747040000",
+    "longitude": "-118.0798480000"
+  },
+  {
+    "location_id": "dc20200714",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "45.5928290000",
+    "longitude": "-64.9559980000"
+  },
+  {
+    "location_id": "dc20200930",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "45.6608990000",
+    "longitude": "-65.1381610000"
+  },
+  {
+    "location_id": "dc20200931",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.4337300000",
+    "longitude": "-123.4540800000"
+  },
+  {
+    "location_id": "dc20200932",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.8671540000",
+    "longitude": "-79.8210620000"
+  },
+  {
+    "location_id": "dc20200933",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "43.8608300000",
+    "longitude": "-79.2115930000"
+  },
+  {
+    "location_id": "dc20200934",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.2234380000",
+    "longitude": "-76.5050070000"
+  },
+  {
+    "location_id": "dc20200935",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "45.5989900000",
+    "longitude": "-64.9480540000"
+  },
+  {
+    "location_id": "dc20200936",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "45.3359800000",
+    "longitude": "-60.9904900000"
+  },
+  {
+    "location_id": "dc20200937",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "53.9234890000",
+    "longitude": "-106.0819930000"
+  },
+  {
+    "location_id": "dc20200938",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.2720860000",
+    "longitude": "-69.4703340000"
+  },
+  {
+    "location_id": "dc20200939",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "51.1776850000",
+    "longitude": "-115.5701700000"
+  },
+  {
+    "location_id": "dc20200940",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "51.1740010000",
+    "longitude": "-115.5718270000"
+  },
+  {
+    "location_id": "dc20200941",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "45.5989970000",
+    "longitude": "-64.9480220000"
+  },
+  {
+    "location_id": "dc20200942",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.7733500000",
+    "longitude": "-65.0046500000"
+  },
+  {
+    "location_id": "dc20200943",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.8274270000",
+    "longitude": "-64.9137640000"
+  },
+  {
+    "location_id": "dc20200944",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.7743670000",
+    "longitude": "-65.0033830000"
+  },
+  {
+    "location_id": "dc20200945",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.3925460000",
+    "longitude": "-54.2059520000"
+  },
+  {
+    "location_id": "dc20200946",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "47.5703220000",
+    "longitude": "-52.6861760000"
+  },
+  {
+    "location_id": "dc20200947",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.1241370000",
+    "longitude": "-77.5924130000"
   },
   {
     "id": "Bodyshop_NA556",
