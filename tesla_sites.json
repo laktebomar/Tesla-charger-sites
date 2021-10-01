@@ -163011,6 +163011,15 @@
     "longitude": "-97.1686920200"
   },
   {
+    "location_id": "fredericksburgremotedrive",
+    "location_type": [
+      "store"
+    ],
+    "open_soon": "0",
+    "latitude": "30.2242110000",
+    "longitude": "-98.8004990000"
+  },
+  {
     "location_id": "lubbockremotedrive",
     "location_type": [
       "store"
