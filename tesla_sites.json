@@ -133448,8 +133448,8 @@
   {
     "location_id": "dc531795",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "46.8735620000",
@@ -160971,7 +160971,6 @@
   {
     "location_id": "bartlett3020",
     "location_type": [
-      "store",
       "service",
       "delivery"
     ],
