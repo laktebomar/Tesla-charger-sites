@@ -104581,9 +104581,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.4164550000",
-    "longitude": "-120.6529550000"
+    "open_soon": "0",
+    "latitude": "40.4309170000",
+    "longitude": "-120.6579080000"
   },
   {
     "location_id": "dineitsupercharger",
@@ -142914,9 +142914,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "38.9405510000",
-    "longitude": "-76.5636060000"
+    "open_soon": "0",
+    "latitude": "38.9363500000",
+    "longitude": "-76.5676600000"
   },
   {
     "location_id": "EdsonABsupercharger",
@@ -145024,9 +145024,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "42.1233440000",
-    "longitude": "-71.1095640000"
+    "open_soon": "0",
+    "latitude": "42.1528910000",
+    "longitude": "-71.0735290000"
   },
   {
     "location_id": "SturgeonBayWIsupercharger",
@@ -163015,8 +163015,8 @@
       "store"
     ],
     "open_soon": "0",
-    "latitude": "30.2242110000",
-    "longitude": "-98.8004990000"
+    "latitude": "30.2243780000",
+    "longitude": "-98.8000190000"
   },
   {
     "location_id": "lubbockremotedrive",
@@ -164144,6 +164144,16 @@
     "open_soon": "0",
     "latitude": "44.1241370000",
     "longitude": "-77.5924130000"
+  },
+  {
+    "location_id": "hamiltonnjwoodrowwilsonsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "40.1758370000",
+    "longitude": "-74.6302050000"
   },
   {
     "id": "Bodyshop_NA556",
