@@ -31996,16 +31996,6 @@
     "longitude": "9.4827060000"
   },
   {
-    "location_id": "dc19017",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "46.1866440000",
-    "longitude": "-1.3174580000"
-  },
-  {
     "location_id": "dc19079",
     "location_type": [
       "destination charger",
@@ -35831,16 +35821,6 @@
     "open_soon": "0",
     "latitude": "50.8443430000",
     "longitude": "4.3664510000"
-  },
-  {
-    "location_id": "dc18304",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "54.3816960000",
-    "longitude": "13.7000840000"
   },
   {
     "location_id": "dc19446",
@@ -42134,16 +42114,6 @@
     "longitude": "0.8732650000"
   },
   {
-    "location_id": "dc12244",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "47.6526940000",
-    "longitude": "13.6135740000"
-  },
-  {
     "location_id": "dc12292",
     "location_type": [
       "destination charger",
@@ -44016,16 +43986,6 @@
     "open_soon": "0",
     "latitude": "47.3291060000",
     "longitude": "11.2003150000"
-  },
-  {
-    "location_id": "dc22750",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.4951530000",
-    "longitude": "7.2846040000"
   },
   {
     "location_id": "dc20841",
@@ -51570,16 +51530,6 @@
     "open_soon": "0",
     "latitude": "44.5768510000",
     "longitude": "7.9144470000"
-  },
-  {
-    "location_id": "dc23463",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "50.0950120000",
-    "longitude": "6.7588750000"
   },
   {
     "location_id": "dc14889",
@@ -94770,8 +94720,8 @@
   {
     "location_id": "dc39095",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "46.1754050000",
@@ -122015,16 +121965,6 @@
     "longitude": "19.5736200000"
   },
   {
-    "location_id": "dc72359",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "48.7297680000",
-    "longitude": "13.5996310000"
-  },
-  {
     "location_id": "dc74540",
     "location_type": [
       "destination charger",
@@ -137551,15 +137491,6 @@
     "open_soon": "0",
     "latitude": "56.8214270000",
     "longitude": "-5.1037200000"
-  },
-  {
-    "location_id": "turin-viaroma",
-    "location_type": [
-      "store"
-    ],
-    "open_soon": "0",
-    "latitude": "45.0666738000",
-    "longitude": "7.6820120000"
   },
   {
     "location_id": "thorntoncosupercharger",
@@ -163633,6 +163564,17 @@
     "longitude": "126.6636560000"
   },
   {
+    "location_id": "torinostradadisettimo",
+    "location_type": [
+      "store",
+      "service",
+      "delivery"
+    ],
+    "open_soon": "0",
+    "latitude": "45.1125319000",
+    "longitude": "7.7309991000"
+  },
+  {
     "location_id": "citycentremirdifp3",
     "location_type": [
       "standard charger",
@@ -164164,6 +164106,36 @@
     "open_soon": "0",
     "latitude": "22.3639200000",
     "longitude": "114.1720300000"
+  },
+  {
+    "location_id": "shoppingcitysatumare",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "47.7860300000",
+    "longitude": "22.8700680000"
+  },
+  {
+    "location_id": "devashoppingcitysrl",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "45.8631950000",
+    "longitude": "22.9286560000"
+  },
+  {
+    "location_id": "pullmanbucharestworldtradecenter",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.4757000000",
+    "longitude": "26.0705790000"
   },
   {
     "id": "Bodyshop_NA556",
