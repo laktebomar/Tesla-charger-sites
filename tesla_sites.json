@@ -164156,6 +164156,16 @@
     "longitude": "-74.6302050000"
   },
   {
+    "location_id": "hinkenghksupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.3639200000",
+    "longitude": "114.1720300000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
