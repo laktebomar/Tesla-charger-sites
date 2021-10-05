@@ -53591,6 +53591,16 @@
     "longitude": "-121.9633910000"
   },
   {
+    "location_id": "santabarbaracaliforniasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "34.4399890000",
+    "longitude": "-119.7536860000"
+  },
+  {
     "location_id": "santaclaritacaliforniasupercharger",
     "location_type": [
       "supercharger",
@@ -103617,6 +103627,16 @@
     "longitude": "-79.7619970000"
   },
   {
+    "location_id": "BrentwoodMOsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "38.6268592000",
+    "longitude": "-90.3442280000"
+  },
+  {
     "location_id": "bridesburgpasupercharger",
     "location_type": [
       "supercharger",
@@ -142280,6 +142300,16 @@
     "longitude": "-78.4347200000"
   },
   {
+    "location_id": "CharlottetownPEIsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.2585100000",
+    "longitude": "-63.1808860000"
+  },
+  {
     "location_id": "CharltonMAsupercharger",
     "location_type": [
       "supercharger",
@@ -142680,6 +142710,16 @@
     "longitude": "-78.9910280000"
   },
   {
+    "location_id": "DwightILsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "41.0932987400",
+    "longitude": "-88.4421026100"
+  },
+  {
     "location_id": "EastIrvineCAsupercharger",
     "location_type": [
       "supercharger",
@@ -142708,6 +142748,16 @@
     "open_soon": "0",
     "latitude": "33.9759700000",
     "longitude": "-117.5568600000"
+  },
+  {
+    "location_id": "EdsonABsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "53.5855700000",
+    "longitude": "-116.4209130000"
   },
   {
     "location_id": "ElCentroCAsupercharger",
@@ -143300,6 +143350,16 @@
     "longitude": "-118.2383000000"
   },
   {
+    "location_id": "LouisvilleKYSouthsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "38.1117987500",
+    "longitude": "-85.6774335700"
+  },
+  {
     "location_id": "LubbockTXsupercharger",
     "location_type": [
       "supercharger",
@@ -143598,6 +143658,16 @@
     "open_soon": "1",
     "latitude": "25.6871090000",
     "longitude": "-100.3167500000"
+  },
+  {
+    "location_id": "MontgomeryALsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "32.3612420000",
+    "longitude": "-86.1611090000"
   },
   {
     "location_id": "MontLaurierQCsupercharger",
@@ -144150,6 +144220,16 @@
     "longitude": "-100.3898881000"
   },
   {
+    "location_id": "QuesnelBCsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "52.9668340000",
+    "longitude": "-122.4403840000"
+  },
+  {
     "location_id": "ReddingCAsupercharger",
     "location_type": [
       "supercharger",
@@ -144398,6 +144478,16 @@
     "open_soon": "1",
     "latitude": "37.3426380000",
     "longitude": "-121.9260000000"
+  },
+  {
+    "location_id": "SanJoseCAsupercharger2",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.4173060000",
+    "longitude": "-121.9568250000"
   },
   {
     "location_id": "SanJoseCAsupercharger3",
@@ -162204,9 +162294,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "35.0456810000",
-    "longitude": "-85.6759910000"
+    "open_soon": "0",
+    "latitude": "35.0397800000",
+    "longitude": "-85.6850500000"
   },
   {
     "location_id": "LakeArrowheadCASupercharger",
