@@ -163910,6 +163910,26 @@
     "longitude": "26.0705790000"
   },
   {
+    "location_id": "jeju136",
+    "location_type": [
+      "store",
+      "delivery"
+    ],
+    "open_soon": "0",
+    "latitude": "33.4927362967",
+    "longitude": "126.5070560976"
+  },
+  {
+    "location_id": "jejusupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "33.4926110000",
+    "longitude": "126.5071000000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
