@@ -163900,7 +163900,7 @@
     "longitude": "26.0705790000"
   },
   {
-    "location_id": "jeju136",
+    "location_id": "jejuteslacenter",
     "location_type": [
       "store",
       "delivery"
@@ -163918,6 +163918,26 @@
     "open_soon": "0",
     "latitude": "33.4926110000",
     "longitude": "126.5071000000"
+  },
+  {
+    "location_id": "mountforestonsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.9887012161",
+    "longitude": "-80.7435282905"
+  },
+  {
+    "location_id": "exeteronsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "43.3629081779",
+    "longitude": "-81.4798371350"
   },
   {
     "id": "Bodyshop_NA556",
