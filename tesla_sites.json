@@ -382,7 +382,8 @@
   {
     "location_id": "drammen",
     "location_type": [
-      "store"
+      "store",
+      "delivery"
     ],
     "open_soon": "0",
     "latitude": "59.7291400000",
@@ -5422,8 +5423,7 @@
     "location_type": [
       "store",
       "supercharger",
-      "standard charger",
-      "delivery"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.5762930000",
@@ -160168,16 +160168,6 @@
     "open_soon": "0",
     "latitude": "22.8480280000",
     "longitude": "120.2738290000"
-  },
-  {
-    "location_id": "cadenazzosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "46.1520510000",
-    "longitude": "8.9373110000"
   },
   {
     "location_id": "maxingecenter",
