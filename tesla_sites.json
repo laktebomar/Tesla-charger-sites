@@ -163020,7 +163020,8 @@
   {
     "location_id": "zagrebsales",
     "location_type": [
-      "store"
+      "store",
+      "delivery"
     ],
     "open_soon": "0",
     "latitude": "45.7981466000",
