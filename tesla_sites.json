@@ -136286,6 +136286,16 @@
     "longitude": "11.8680320000"
   },
   {
+    "location_id": "dc535144",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.3809080000",
+    "longitude": "9.0492550000"
+  },
+  {
     "location_id": "dc620137",
     "location_type": [
       "standard charger",
@@ -157032,6 +157042,15 @@
     "longitude": "13.2026930000"
   },
   {
+    "location_id": "reading",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "1",
+    "latitude": "51.4593253000",
+    "longitude": "-0.9798276000"
+  },
+  {
     "location_id": "tinshingplazasupercharger",
     "location_type": [
       "supercharger",
@@ -160181,11 +160200,18 @@
     "longitude": "17.9026418000"
   },
   {
-    "location_id": "bielefeld",
+    "location_id": "Regensburg",
     "location_type": [
-      "store",
-      "service",
-      "delivery"
+      "service"
+    ],
+    "open_soon": "1",
+    "latitude": "49.0165585000",
+    "longitude": "12.0832528000"
+  },
+  {
+    "location_id": "Bielefeldpopup",
+    "location_type": [
+      "store"
     ],
     "open_soon": "0",
     "latitude": "51.9859587000",
@@ -161105,11 +161131,9 @@
     "longitude": "13.0441460000"
   },
   {
-    "location_id": "regensburg",
+    "location_id": "regensburg-popup",
     "location_type": [
-      "store",
-      "service",
-      "delivery"
+      "store"
     ],
     "open_soon": "0",
     "latitude": "48.9693913000",
@@ -162485,6 +162509,15 @@
     "longitude": "114.1794600000"
   },
   {
+    "location_id": "bielefeld",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "1",
+    "latitude": "52.0209460000",
+    "longitude": "8.5317720000"
+  },
+  {
     "location_id": "villachostsupercharger",
     "location_type": [
       "supercharger",
@@ -162790,17 +162823,6 @@
     "open_soon": "0",
     "latitude": "22.3267300000",
     "longitude": "114.1537800000"
-  },
-  {
-    "location_id": "readinguk",
-    "location_type": [
-      "store",
-      "service",
-      "delivery"
-    ],
-    "open_soon": "0",
-    "latitude": "51.4392426000",
-    "longitude": "-0.9694682000"
   },
   {
     "location_id": "kinmingsupercharger",
