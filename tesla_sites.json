@@ -141680,16 +141680,6 @@
     "longitude": "126.8208652000"
   },
   {
-    "location_id": "taoyuaniisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.0002752300",
-    "longitude": "121.2018893000"
-  },
-  {
     "location_id": "tainanshanhuasupercharger",
     "location_type": [
       "supercharger",
@@ -163907,6 +163897,46 @@
     "open_soon": "1",
     "latitude": "43.3629081779",
     "longitude": "-81.4798371350"
+  },
+  {
+    "location_id": "taoyuanguishansupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.0567550000",
+    "longitude": "121.3601490000"
+  },
+  {
+    "location_id": "taoyuanchingpuglobalmall",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.0021653000",
+    "longitude": "121.2018036000"
+  },
+  {
+    "location_id": "keelungxiaodongroad",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.1276744200",
+    "longitude": "121.7809180000"
+  },
+  {
+    "location_id": "taichungfuxingamart",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "24.1152834200",
+    "longitude": "120.6541725000"
   },
   {
     "id": "Bodyshop_NA556",
