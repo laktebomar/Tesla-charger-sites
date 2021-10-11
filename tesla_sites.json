@@ -24770,16 +24770,6 @@
     "longitude": "9.9662660000"
   },
   {
-    "location_id": "dc13902",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.2214120000",
-    "longitude": "6.7835340000"
-  },
-  {
     "location_id": "dc13904",
     "location_type": [
       "destination charger",
@@ -29460,16 +29450,6 @@
     "open_soon": "0",
     "latitude": "-43.3609070000",
     "longitude": "147.3285180000"
-  },
-  {
-    "location_id": "dc16074",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "53.0581330000",
-    "longitude": "6.0911410000"
   },
   {
     "location_id": "dc12199",
@@ -163947,6 +163927,16 @@
     "open_soon": "0",
     "latitude": "37.2339700000",
     "longitude": "140.4363100000"
+  },
+  {
+    "location_id": "habtoorgrandresort",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.0859150000",
+    "longitude": "55.1413520000"
   },
   {
     "id": "Bodyshop_NA556",
