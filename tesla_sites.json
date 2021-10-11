@@ -4424,6 +4424,7 @@
   {
     "location_id": "melbourne",
     "location_type": [
+      "store",
       "service",
       "supercharger"
     ],
@@ -110614,26 +110615,6 @@
     "longitude": "-94.7902710000"
   },
   {
-    "location_id": "dc54928",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "-28.2897790000",
-    "longitude": "153.5746820000"
-  },
-  {
-    "location_id": "dc56538",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "-26.3985190000",
-    "longitude": "153.1117780000"
-  },
-  {
     "location_id": "thousandoakswesthillcrestsupercharger",
     "location_type": [
       "supercharger",
@@ -163937,6 +163918,35 @@
     "open_soon": "0",
     "latitude": "24.1152834200",
     "longitude": "120.6541725000"
+  },
+  {
+    "location_id": "dc1078794",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "-26.3862300000",
+    "longitude": "153.0882600000"
+  },
+  {
+    "location_id": "dc1078828",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "-34.9878800000",
+    "longitude": "138.7091300000"
+  },
+  {
+    "location_id": "dc1081325",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.2339700000",
+    "longitude": "140.4363100000"
   },
   {
     "id": "Bodyshop_NA556",
