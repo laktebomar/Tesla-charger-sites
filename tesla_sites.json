@@ -132637,9 +132637,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "65.6908800000",
-    "longitude": "-18.1078890000"
+    "open_soon": "0",
+    "latitude": "65.6973370000",
+    "longitude": "-18.1390060000"
   },
   {
     "location_id": "demanovasupercharger",
@@ -140217,9 +140217,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "64.2590950000",
-    "longitude": "-15.2070030000"
+    "open_soon": "0",
+    "latitude": "64.2501380000",
+    "longitude": "-15.2054640000"
   },
   {
     "location_id": "Kirkjubaejarklausturissupercharger",
