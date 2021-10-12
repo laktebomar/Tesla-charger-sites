@@ -132806,15 +132806,6 @@
     "longitude": "11.5623050000"
   },
   {
-    "location_id": "firenzepopup",
-    "location_type": [
-      "store"
-    ],
-    "open_soon": "0",
-    "latitude": "43.8100068000",
-    "longitude": "11.1781415000"
-  },
-  {
     "location_id": "seattlelynnwood",
     "location_type": [
       "store",
@@ -160970,6 +160961,17 @@
     "longitude": "139.7554990000"
   },
   {
+    "location_id": "libertyville1121",
+    "location_type": [
+      "store",
+      "service",
+      "delivery"
+    ],
+    "open_soon": "0",
+    "latitude": "42.2667662000",
+    "longitude": "-87.9511833000"
+  },
+  {
     "location_id": "cannes",
     "location_type": [
       "store",
@@ -160998,16 +161000,6 @@
     "open_soon": "1",
     "latitude": "48.8120856000",
     "longitude": "2.5762322000"
-  },
-  {
-    "location_id": "Firenze",
-    "location_type": [
-      "store",
-      "service"
-    ],
-    "open_soon": "1",
-    "latitude": "43.7692750000",
-    "longitude": "11.2557672000"
   },
   {
     "location_id": "Freiburgcenter",
@@ -162547,6 +162539,17 @@
     "longitude": "141.0021300000"
   },
   {
+    "location_id": "rogers22015",
+    "location_type": [
+      "store",
+      "service",
+      "delivery"
+    ],
+    "open_soon": "0",
+    "latitude": "45.1991036000",
+    "longitude": "-93.5599668000"
+  },
+  {
     "location_id": "miranda",
     "location_type": [
       "store",
@@ -163937,6 +163940,17 @@
     "open_soon": "0",
     "latitude": "25.0859150000",
     "longitude": "55.1413520000"
+  },
+  {
+    "location_id": "florenceit",
+    "location_type": [
+      "store",
+      "service",
+      "delivery"
+    ],
+    "open_soon": "0",
+    "latitude": "43.7992220000",
+    "longitude": "11.1898610000"
   },
   {
     "id": "Bodyshop_NA556",
