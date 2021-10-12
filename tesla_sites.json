@@ -164143,56 +164143,6 @@
     ]
   },
   {
-    "id": "Bodyshop_NA563",
-    "residential": "0",
-    "commercial": "0",
-    "solar": "0",
-    "name": "Tesla Collision Long Island City",
-    "rating": null,
-    "customer_rating": "0",
-    "latitude": "40.7382200000",
-    "longitude": "-73.9352000000",
-    "phone_number": "(310) 219-4787",
-    "email": null,
-    "website": null,
-    "service_radius": "150",
-    "territory": null,
-    "country": "United States",
-    "country_code": "us",
-    "city": "Long Island City",
-    "city_map_pin": "Long Island City",
-    "state": "NY",
-    "postal_code": "11101",
-    "address1": "49-62 Van Dam Street",
-    "address2": null,
-    "approved_models": null,
-    "yelp": null,
-    "yelp_rating": null,
-    "yelp_rating_img_url": "",
-    "yelp_review_count": "0",
-    "exclusions": null,
-    "offering": "Appointments can be made by emailing us at BodyRepair-HoustonNo@tesla.com. Operating Hours: Monday - Friday 8:00AM - 5:00PM",
-    "notes": null,
-    "nr_of_reviews": "",
-    "new_distance": null,
-    "new_map_url": null,
-    "location_type": [
-      "bodyshop"
-    ],
-    "location_id": "Bodyshop_NA563",
-    "title": "Tesla Collision Long Island City",
-    "open_soon": "0",
-    "address_line_1": "49-62 Van Dam Street",
-    "address_line_2": null,
-    "destination_website": null,
-    "sales_phone": [
-      {
-        "label": "Phone",
-        "number": "(310) 219-4787"
-      }
-    ]
-  },
-  {
     "id": "Bodyshop_NA564",
     "residential": "0",
     "commercial": "0",
