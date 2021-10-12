@@ -144397,9 +144397,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.3426380000",
-    "longitude": "-121.9260000000"
+    "open_soon": "0",
+    "latitude": "37.2507870000",
+    "longitude": "-121.8607640000"
   },
   {
     "location_id": "SanJoseCAsupercharger2",
@@ -146584,16 +146584,6 @@
     "open_soon": "0",
     "latitude": "39.8747250000",
     "longitude": "116.2939760000"
-  },
-  {
-    "location_id": "cnsc8116",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "30.4796570000",
-    "longitude": "114.1906210000"
   },
   {
     "location_id": "cnsc8117",
