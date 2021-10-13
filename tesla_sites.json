@@ -163943,6 +163943,16 @@
     "longitude": "11.1898610000"
   },
   {
+    "location_id": "flimwellsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "51.0524890000",
+    "longitude": "0.4548620000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
