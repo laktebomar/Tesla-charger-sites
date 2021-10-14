@@ -104457,6 +104457,16 @@
     "longitude": "17.1077740000"
   },
   {
+    "location_id": "SusanvilleCAsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "40.4309170000",
+    "longitude": "-120.6579080000"
+  },
+  {
     "location_id": "dineitsupercharger",
     "location_type": [
       "supercharger",
@@ -142930,6 +142940,16 @@
     "open_soon": "0",
     "latitude": "38.1597346000",
     "longitude": "-87.5519500000"
+  },
+  {
+    "location_id": "HauppaugeNYsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "40.8069130000",
+    "longitude": "-73.2385410000"
   },
   {
     "location_id": "HaywardCAsupercharger",
