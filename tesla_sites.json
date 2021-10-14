@@ -142527,9 +142527,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "39.7401370000",
-    "longitude": "-104.9410000000"
+    "open_soon": "0",
+    "latitude": "39.7175888000",
+    "longitude": "-104.9059230000"
   },
   {
     "location_id": "DenverPAsupercharger",
@@ -142927,9 +142927,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "38.2051090000",
-    "longitude": "-87.5743430000"
+    "open_soon": "0",
+    "latitude": "38.1597346000",
+    "longitude": "-87.5519500000"
   },
   {
     "location_id": "HaywardCAsupercharger",
@@ -143847,9 +143847,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "28.7823880000",
-    "longitude": "-81.9744000000"
+    "open_soon": "0",
+    "latitude": "28.7872060000",
+    "longitude": "-81.9823880000"
   },
   {
     "location_id": "OkanoganWAsupercharger",
@@ -144027,9 +144027,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "26.2315250000",
-    "longitude": "-80.1775000000"
+    "open_soon": "0",
+    "latitude": "26.2265510000",
+    "longitude": "-80.1823980000"
   },
   {
     "location_id": "PomptonLakesNJsupercharger",
