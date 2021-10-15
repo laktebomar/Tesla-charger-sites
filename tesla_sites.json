@@ -162980,16 +162980,6 @@
     "longitude": "0.1607200000"
   },
   {
-    "location_id": "zagreb",
-    "location_type": [
-      "store",
-      "delivery"
-    ],
-    "open_soon": "0",
-    "latitude": "45.7766012000",
-    "longitude": "15.9787329000"
-  },
-  {
     "location_id": "bergamo",
     "location_type": [
       "store",
@@ -163971,6 +163961,15 @@
     "open_soon": "0",
     "latitude": "51.0524890000",
     "longitude": "0.4548620000"
+  },
+  {
+    "location_id": "iecork",
+    "location_type": [
+      "store"
+    ],
+    "open_soon": "0",
+    "latitude": "51.8867753000",
+    "longitude": "-8.3959785000"
   },
   {
     "id": "Bodyshop_NA556",
