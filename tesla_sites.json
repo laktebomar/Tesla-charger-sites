@@ -157590,9 +157590,9 @@
     "longitude": "136.1576107700"
   },
   {
-    "location_id": "reddingcaremotestdrive",
+    "location_id": "duplicatereddingcaremotestdrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "40.5801702000",
@@ -157617,9 +157617,9 @@
     "longitude": "-120.9581493000"
   },
   {
-    "location_id": "emeryvillecaremotetestdrive",
+    "location_id": "duplicateemeryvillecaremotetestdrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "37.8391860000",
@@ -161040,11 +161040,11 @@
     "longitude": "-5.1034460000"
   },
   {
-    "location_id": "turinservice",
+    "location_id": "turinserviceduplicate",
     "location_type": [
-      "service"
+      ""
     ],
-    "open_soon": "1",
+    "open_soon": "0",
     "latitude": "45.0775488000",
     "longitude": "7.6772990000"
   },
@@ -162588,18 +162588,18 @@
     "longitude": "-121.6575490000"
   },
   {
-    "location_id": "meritageresortnaparemotetestdrive",
+    "location_id": "dupemeritageresortnaparemotetestdrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "38.2464456100",
     "longitude": "-122.2739905000"
   },
   {
-    "location_id": "davisuniversityparkremotedrive",
+    "location_id": "duplicatedavisuniversityparkremotedrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "38.5403624100",
@@ -162615,81 +162615,81 @@
     "longitude": "-124.1922121000"
   },
   {
-    "location_id": "dentontowncenterremotedrive",
+    "location_id": "dupedentontowncenterremotedrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "33.2231972300",
     "longitude": "-97.1686920200"
   },
   {
-    "location_id": "fredericksburgremotedrive",
+    "location_id": "dupefredericksburgremotedrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "30.2243780000",
     "longitude": "-98.8000190000"
   },
   {
-    "location_id": "lubbockremotedrive",
+    "location_id": "dupelubbockremotedrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "33.5381088100",
     "longitude": "-101.9501318000"
   },
   {
-    "location_id": "baileysharborremotedrive",
+    "location_id": "dupebaileysharborremotedrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "45.1233192200",
     "longitude": "-87.0588429100"
   },
   {
-    "location_id": "lincon27thremotedrive",
+    "location_id": "dupelincon27thremotedrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "40.8614593300",
     "longitude": "-96.6779808100"
   },
   {
-    "location_id": "rochester1stremotedrive",
+    "location_id": "duperochester1stremotedrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "44.0177430100",
     "longitude": "-92.4641209800"
   },
   {
-    "location_id": "annarborremotedrive",
+    "location_id": "dupeannarborremotedrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "42.2411259600",
     "longitude": "-83.7359236600"
   },
   {
-    "location_id": "wheelinglodgeremotedrive",
+    "location_id": "dupewheelinglodgeremotedrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "40.0987223300",
     "longitude": "-80.6632187900"
   },
   {
-    "location_id": "maumeesalisburyremotedrive",
+    "location_id": "dupemaumeesalisburyremotedrive",
     "location_type": [
-      "store"
+      ""
     ],
     "open_soon": "0",
     "latitude": "41.5881175200",
