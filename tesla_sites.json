@@ -40867,8 +40867,8 @@
   {
     "location_id": "dc10770",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "40.4388940000",
@@ -95769,8 +95769,8 @@
   {
     "location_id": "dc27700",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "42.9912370000",
@@ -109626,16 +109626,6 @@
     "open_soon": "0",
     "latitude": "59.6078970000",
     "longitude": "16.5683720000"
-  },
-  {
-    "location_id": "dc30536",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "65.3266990000",
-    "longitude": "25.3750060000"
   },
   {
     "location_id": "dc30602",
@@ -138745,8 +138735,7 @@
     "location_id": "sunnyvale680",
     "location_type": [
       "store",
-      "service",
-      "delivery"
+      "service"
     ],
     "open_soon": "0",
     "latitude": "37.3590217000",
