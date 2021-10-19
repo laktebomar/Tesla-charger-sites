@@ -138755,7 +138755,8 @@
   {
     "location_id": "irvinebarranca",
     "location_type": [
-      "service"
+      "service",
+      "delivery"
     ],
     "open_soon": "0",
     "latitude": "33.6941017000",
@@ -145692,6 +145693,16 @@
     "open_soon": "0",
     "latitude": "22.6537200000",
     "longitude": "120.3033100000"
+  },
+  {
+    "location_id": "lasvegas3250",
+    "location_type": [
+      "store",
+      "service"
+    ],
+    "open_soon": "0",
+    "latitude": "36.1451074000",
+    "longitude": "-115.1034963000"
   },
   {
     "location_id": "rehobothbeachdesupercharger",
