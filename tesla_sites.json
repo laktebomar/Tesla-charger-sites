@@ -138755,6 +138755,7 @@
   {
     "location_id": "irvinebarranca",
     "location_type": [
+      "store",
       "service",
       "delivery"
     ],
