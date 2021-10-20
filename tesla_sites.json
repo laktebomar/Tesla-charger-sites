@@ -5276,16 +5276,6 @@
     "longitude": "-118.3727563000"
   },
   {
-    "location_id": "aksdalsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "59.4230160000",
-    "longitude": "5.4428720000"
-  },
-  {
     "location_id": "sulzvohringensupercharger",
     "location_type": [
       "supercharger",
@@ -57448,16 +57438,6 @@
     "longitude": "4.9687640000"
   },
   {
-    "location_id": "dc23221",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "54.8415340000",
-    "longitude": "9.5321110000"
-  },
-  {
     "location_id": "dc24300",
     "location_type": [
       "destination charger",
@@ -76827,8 +76807,8 @@
   {
     "location_id": "dc28049",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "45.5258950000",
@@ -121037,16 +121017,6 @@
     "longitude": "144.2697320000"
   },
   {
-    "location_id": "dc30253",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "53.2651720000",
-    "longitude": "-2.8812990000"
-  },
-  {
     "location_id": "dc62670",
     "location_type": [
       "destination charger",
@@ -134425,7 +134395,7 @@
       "destination charger"
     ],
     "open_soon": "0",
-    "latitude": "55.1882780000",
+    "latitude": "25.1125750000",
     "longitude": "55.1882780000"
   },
   {
@@ -156883,16 +156853,6 @@
     "longitude": "7.8667256000"
   },
   {
-    "location_id": "citycentremirdif",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.2162800000",
-    "longitude": "55.4078380000"
-  },
-  {
     "location_id": "familienweingutsattlerhofgmbH",
     "location_type": [
       "standard charger",
@@ -162625,9 +162585,9 @@
     "longitude": "-97.1686920200"
   },
   {
-    "location_id": "dupefredericksburgremotedrive",
+    "location_id": "fredericksburgremotedrive",
     "location_type": [
-      ""
+      "store"
     ],
     "open_soon": "0",
     "latitude": "30.2243780000",
@@ -163259,36 +163219,6 @@
     "open_soon": "0",
     "latitude": "45.1125319000",
     "longitude": "7.7309991000"
-  },
-  {
-    "location_id": "citycentremirdifp3",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.2162800000",
-    "longitude": "55.4078380000"
-  },
-  {
-    "location_id": "citycentremirdifp1b",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.2162800000",
-    "longitude": "55.4078380000"
-  },
-  {
-    "location_id": "citycentremirdifp2",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.2162800000",
-    "longitude": "55.4078380000"
   },
   {
     "location_id": "torralbenc",
