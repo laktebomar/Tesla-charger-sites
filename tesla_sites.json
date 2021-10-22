@@ -3584,7 +3584,7 @@
     "longitude": "0.7448270000"
   },
   {
-    "location_id": "toftaholmsupercharger",
+    "location_id": "lagansupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
@@ -24550,6 +24550,16 @@
     "longitude": "8.6071670000"
   },
   {
+    "location_id": "dc13114",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "56.8734240000",
+    "longitude": "9.3952910000"
+  },
+  {
     "location_id": "dc13152",
     "location_type": [
       "destination charger",
@@ -38512,6 +38522,16 @@
     "open_soon": "0",
     "latitude": "45.7281260000",
     "longitude": "7.3200890000"
+  },
+  {
+    "location_id": "dc18302",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.7975330000",
+    "longitude": "9.8349360000"
   },
   {
     "location_id": "dc18432",
@@ -71342,8 +71362,8 @@
   {
     "location_id": "dc18292",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "47.5614200000",
@@ -95174,8 +95194,8 @@
   {
     "location_id": "dc10205",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.2251630000",
