@@ -142623,6 +142623,16 @@
     "longitude": "-117.5568600000"
   },
   {
+    "location_id": "EdgewaterMDsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "38.9363500000",
+    "longitude": "-76.5676600000"
+  },
+  {
     "location_id": "EdsonABsupercharger",
     "location_type": [
       "supercharger",
@@ -143153,6 +143163,16 @@
     "longitude": "-82.4002370000"
   },
   {
+    "location_id": "LexingtonMAsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "42.4396880000",
+    "longitude": "-71.2579640000"
+  },
+  {
     "location_id": "LibertyMOsupercharger",
     "location_type": [
       "supercharger",
@@ -143251,6 +143271,16 @@
     "open_soon": "1",
     "latitude": "33.5778140000",
     "longitude": "-101.8552630000"
+  },
+  {
+    "location_id": "MadisonWIWestsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "43.0501779400",
+    "longitude": "-89.4725107000"
   },
   {
     "location_id": "MadrasORsupercharger",
@@ -144113,6 +144143,16 @@
     "longitude": "-122.4403840000"
   },
   {
+    "location_id": "RanchoCucamongaCAsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "34.1065360000",
+    "longitude": "-117.5269030000"
+  },
+  {
     "location_id": "ReddingCAsupercharger",
     "location_type": [
       "supercharger",
@@ -144671,6 +144711,16 @@
     "open_soon": "0",
     "latitude": "38.9778600000",
     "longitude": "-77.4119200000"
+  },
+  {
+    "location_id": "StoughtonMAsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "42.1528910000",
+    "longitude": "-71.0735290000"
   },
   {
     "location_id": "SturgeonBayWIsupercharger",
@@ -161998,6 +162048,16 @@
     "open_soon": "1",
     "latitude": "36.6844570000",
     "longitude": "-121.8025060000"
+  },
+  {
+    "location_id": "NewCastleDESupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "39.7098800000",
+    "longitude": "-75.5619300000"
   },
   {
     "location_id": "OldBridgeNJSupercharger",
