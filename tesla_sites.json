@@ -132127,9 +132127,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "69.4719400000",
-    "longitude": "25.5127800000"
+    "open_soon": "0",
+    "latitude": "69.4719100000",
+    "longitude": "25.5093510000"
   },
   {
     "location_id": "kautokeinosupercharger",
@@ -140093,14 +140093,14 @@
     "longitude": "12.0483600000"
   },
   {
-    "location_id": "RohrdorfGermanysupercharger",
+    "location_id": "rosenheimsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "47.7957400000",
-    "longitude": "12.2087800000"
+    "open_soon": "0",
+    "latitude": "47.8170730000",
+    "longitude": "12.1206310000"
   },
   {
     "location_id": "RosentalGermanysupercharger",
