@@ -49313,15 +49313,6 @@
     "longitude": "-73.9687600000"
   },
   {
-    "location_id": "dc19507",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "29.2291320000",
-    "longitude": "-81.0277990000"
-  },
-  {
     "location_id": "dc20652",
     "location_type": [
       "destination charger"
@@ -75373,9 +75364,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "38.2919500000",
-    "longitude": "-122.4578260000"
+    "open_soon": "0",
+    "latitude": "38.2916270000",
+    "longitude": "-122.4522130000"
   },
   {
     "location_id": "southsfsupercharger",
@@ -143019,9 +143010,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "52.8737000000",
-    "longitude": "-118.0815050000"
+    "open_soon": "0",
+    "latitude": "52.8806690000",
+    "longitude": "-118.0782750000"
   },
   {
     "location_id": "JeffersonCityMOsupercharger",
@@ -143179,9 +143170,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "39.2460930000",
-    "longitude": "-94.4194300000"
+    "open_soon": "0",
+    "latitude": "39.2458760000",
+    "longitude": "-94.4486230000"
   },
   {
     "location_id": "LittletonMAsupercharger",
@@ -143649,9 +143640,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "43.0201600000",
-    "longitude": "-123.2938630000"
+    "open_soon": "0",
+    "latitude": "42.9725930000",
+    "longitude": "-123.3400980000"
   },
   {
     "location_id": "NakuspBCsupercharger",
@@ -143679,9 +143670,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.8391720000",
-    "longitude": "-94.3547930000"
+    "open_soon": "0",
+    "latitude": "37.8367456100",
+    "longitude": "-94.3513920000"
   },
   {
     "location_id": "NewCanaanCTsupercharger",
@@ -144519,9 +144510,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "52.1578780000",
-    "longitude": "-106.6700500000"
+    "open_soon": "0",
+    "latitude": "52.0868240000",
+    "longitude": "-106.6457120000"
   },
   {
     "location_id": "SaultSteMarieMIsupercharger",
@@ -144649,9 +144640,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "34.1189800000",
-    "longitude": "-118.1510000000"
+    "open_soon": "0",
+    "latitude": "34.1273000000",
+    "longitude": "-118.1478100000"
   },
   {
     "location_id": "SouthSurreyBCsupercharger",
@@ -145119,9 +145110,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "52.1417520000",
-    "longitude": "-122.1411500000"
+    "open_soon": "0",
+    "latitude": "52.1128780000",
+    "longitude": "-122.1250870000"
   },
   {
     "location_id": "WillistonVTsupercharger",
@@ -145139,9 +145130,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "39.1856040000",
-    "longitude": "-78.1634500000"
+    "open_soon": "0",
+    "latitude": "39.1882000000",
+    "longitude": "-78.1257600000"
   },
   {
     "location_id": "WindsorCAsupercharger",
@@ -158523,9 +158514,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.4020870000",
-    "longitude": "-86.8760880000"
+    "open_soon": "0",
+    "latitude": "37.3766490000",
+    "longitude": "-86.8264400000"
   },
   {
     "location_id": "BristolVASuperhcharger",
@@ -163933,6 +163924,16 @@
     "open_soon": "0",
     "latitude": "51.8867753000",
     "longitude": "-8.3959785000"
+  },
+  {
+    "location_id": "ashevillencthetfordstsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "35.4839650000",
+    "longitude": "-82.5577670000"
   },
   {
     "id": "Bodyshop_NA556",
