@@ -1535,7 +1535,8 @@
     "location_id": "sunnyvale",
     "location_type": [
       "store",
-      "service"
+      "service",
+      "delivery"
     ],
     "open_soon": "0",
     "latitude": "37.3575290000",
