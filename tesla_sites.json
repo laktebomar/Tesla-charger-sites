@@ -43116,16 +43116,6 @@
     "longitude": "-6.3056510000"
   },
   {
-    "location_id": "dc21956",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "43.2676790000",
-    "longitude": "-2.9375980000"
-  },
-  {
     "location_id": "dc21466",
     "location_type": [
       "destination charger",
@@ -61066,8 +61056,8 @@
   {
     "location_id": "dc12687",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "53.3560842000",
@@ -81844,16 +81834,6 @@
     "longitude": "-0.6167270000"
   },
   {
-    "location_id": "dc33610",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "53.4511950000",
-    "longitude": "-6.2264790000"
-  },
-  {
     "location_id": "dc35560",
     "location_type": [
       "standard charger",
@@ -102116,8 +102096,8 @@
   {
     "location_id": "dc39653",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "52.3382545000",
@@ -163934,6 +163914,16 @@
     "open_soon": "0",
     "latitude": "35.4839650000",
     "longitude": "-82.5577670000"
+  },
+  {
+    "location_id": "metropolitanhoteluae",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.1329280000",
+    "longitude": "55.2129260000"
   },
   {
     "id": "Bodyshop_NA556",
