@@ -119402,16 +119402,6 @@
     "longitude": "120.3006310000"
   },
   {
-    "location_id": "macauteslacenter",
-    "location_type": [
-      "store",
-      "service"
-    ],
-    "open_soon": "0",
-    "latitude": "22.1472610000",
-    "longitude": "113.5598280000"
-  },
-  {
     "location_id": "thepulsesupercharger",
     "location_type": [
       "supercharger",
@@ -120556,6 +120546,17 @@
     "open_soon": "0",
     "latitude": "48.1514147000",
     "longitude": "11.7478604000"
+  },
+  {
+    "location_id": "EU-AT-Vienna",
+    "location_type": [
+      "service",
+      "logistics",
+      "delivery"
+    ],
+    "open_soon": "0",
+    "latitude": "48.1490790000",
+    "longitude": "16.3349440000"
   },
   {
     "location_id": "santanarowsjsupercharger",
@@ -125892,6 +125893,17 @@
     "open_soon": "0",
     "latitude": "46.5556420000",
     "longitude": "6.5610040000"
+  },
+  {
+    "location_id": "macauteslacenter",
+    "location_type": [
+      "store",
+      "service",
+      "delivery"
+    ],
+    "open_soon": "0",
+    "latitude": "22.1472610000",
+    "longitude": "113.5598280000"
   },
   {
     "location_id": "berrynswsupercharger",
@@ -131362,6 +131374,17 @@
     "longitude": "-74.3772470000"
   },
   {
+    "location_id": "vaughanwoodbridge",
+    "location_type": [
+      "store",
+      "service",
+      "delivery"
+    ],
+    "open_soon": "0",
+    "latitude": "43.7937330000",
+    "longitude": "-79.5474360000"
+  },
+  {
     "location_id": "bloomingtonolympia",
     "location_type": [
       "store",
@@ -136021,16 +136044,6 @@
     "longitude": "-21.8996660000"
   },
   {
-    "location_id": "torontovaughan",
-    "location_type": [
-      "store",
-      "service"
-    ],
-    "open_soon": "0",
-    "latitude": "43.7939260000",
-    "longitude": "-79.5474470000"
-  },
-  {
     "location_id": "dc614165",
     "location_type": [
       "standard charger",
@@ -137046,7 +137059,7 @@
     "longitude": "-118.2402940000"
   },
   {
-    "location_id": "madridnorthservicelite",
+    "location_id": "northservicelite",
     "location_type": [
       "service"
     ],
@@ -137062,15 +137075,6 @@
     "open_soon": "0",
     "latitude": "30.3072350000",
     "longitude": "-81.8479240000"
-  },
-  {
-    "location_id": "viennatriesterstr",
-    "location_type": [
-      "service"
-    ],
-    "open_soon": "0",
-    "latitude": "48.1482184000",
-    "longitude": "16.3352928000"
   },
   {
     "location_id": "greatbarringtonmasupercharger",
@@ -138359,8 +138363,7 @@
   {
     "location_id": "chateaumcely",
     "location_type": [
-      "destination charger",
-      "sales representative"
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "50.3006950000",
@@ -157069,6 +157072,16 @@
     "longitude": "10.8122810000"
   },
   {
+    "location_id": "budapest",
+    "location_type": [
+      "store",
+      "logistics"
+    ],
+    "open_soon": "0",
+    "latitude": "47.4906198000",
+    "longitude": "19.0239112000"
+  },
+  {
     "location_id": "sendaiservice",
     "location_type": [
       "service"
@@ -159300,15 +159313,6 @@
     "open_soon": "0",
     "latitude": "44.4783616000",
     "longitude": "26.1035652000"
-  },
-  {
-    "location_id": "hubudapest",
-    "location_type": [
-      "store"
-    ],
-    "open_soon": "0",
-    "latitude": "47.4906198000",
-    "longitude": "19.0239112000"
   },
   {
     "location_id": "caviardeneuvic",
