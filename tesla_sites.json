@@ -159171,6 +159171,16 @@
     "longitude": "20.3043975000"
   },
   {
+    "location_id": "manchestertraffordcentredelivery",
+    "location_type": [
+      "store",
+      "delivery"
+    ],
+    "open_soon": "0",
+    "latitude": "53.4661100000",
+    "longitude": "-2.3525034000"
+  },
+  {
     "location_id": "norwell98",
     "location_type": [
       "store",
@@ -159857,15 +159867,6 @@
     "open_soon": "0",
     "latitude": "25.0442846600",
     "longitude": "121.4649287000"
-  },
-  {
-    "location_id": "manchestertraffordcentre",
-    "location_type": [
-      "store"
-    ],
-    "open_soon": "0",
-    "latitude": "53.4661100000",
-    "longitude": "-2.3525034000"
   },
   {
     "location_id": "illertissensupercharger",
