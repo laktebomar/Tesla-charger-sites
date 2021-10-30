@@ -164102,6 +164102,25 @@
     "longitude": "-113.5803996000"
   },
   {
+    "location_id": "taoyuanyangmeisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "24.3011930000",
+    "longitude": "121.7513200000"
+  },
+  {
+    "location_id": "bucharestsales",
+    "location_type": [
+      "store"
+    ],
+    "open_soon": "0",
+    "latitude": "44.4161898000",
+    "longitude": "26.1532777000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
