@@ -113486,14 +113486,14 @@
     "longitude": "9.2107970000"
   },
   {
-    "location_id": "dc29461",
+    "location_id": "gyeonggianyangsupercharger",
     "location_type": [
-      "destination charger",
+      "supercharger",
       "standard charger"
     ],
     "open_soon": "0",
-    "latitude": "46.1605530000",
-    "longitude": "10.7635140000"
+    "latitude": "37.3930100000",
+    "longitude": "126.9622800000"
   },
   {
     "location_id": "dc54957",
