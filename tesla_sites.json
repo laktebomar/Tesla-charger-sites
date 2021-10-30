@@ -2616,6 +2616,15 @@
     "longitude": "-116.4751140000"
   },
   {
+    "location_id": "vancouverpowellst",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "0",
+    "latitude": "49.2838440000",
+    "longitude": "-123.0702146000"
+  },
+  {
     "location_id": "osloskoyen",
     "location_type": [
       "store",
@@ -156966,6 +156975,7 @@
     "location_id": "edmonton17616",
     "location_type": [
       "store",
+      "service",
       "delivery"
     ],
     "open_soon": "0",
