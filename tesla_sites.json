@@ -78460,16 +78460,6 @@
     "longitude": "-89.6621750000"
   },
   {
-    "location_id": "dc28585",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "23.8045430000",
-    "longitude": "121.4582480000"
-  },
-  {
     "location_id": "dc33739",
     "location_type": [
       "standard charger",
@@ -164143,8 +164133,8 @@
   {
     "location_id": "oceanpopwalksupercharger",
     "location_type": [
-      "standard charger",
-      "bodyshop"
+      "supercharger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "22.3030600000",
