@@ -164141,6 +164141,16 @@
     "longitude": "114.2610400000"
   },
   {
+    "location_id": "seoulcheongnyangrisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.5798000000",
+    "longitude": "127.0460100000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
