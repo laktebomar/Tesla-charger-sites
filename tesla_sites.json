@@ -57491,16 +57491,6 @@
     "longitude": "-0.2021010000"
   },
   {
-    "location_id": "dc25804",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "47.6624650000",
-    "longitude": "11.0491030000"
-  },
-  {
     "location_id": "dc25914",
     "location_type": [
       "destination charger",
@@ -86679,16 +86669,6 @@
     "longitude": "-3.8180120000"
   },
   {
-    "location_id": "dc37136",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "49.5968590000",
-    "longitude": "11.0148150000"
-  },
-  {
     "location_id": "dc37143",
     "location_type": [
       "destination charger",
@@ -88764,16 +88744,6 @@
     "open_soon": "0",
     "latitude": "51.5451760000",
     "longitude": "-4.2099020000"
-  },
-  {
-    "location_id": "dc33677",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "55.9410210000",
-    "longitude": "12.7791590000"
   },
   {
     "location_id": "dc36258",
@@ -136837,16 +136807,6 @@
     "longitude": "174.6148530000"
   },
   {
-    "location_id": "aksdalsouthsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "59.4212060000",
-    "longitude": "5.4435000000"
-  },
-  {
     "location_id": "leirasupercharger",
     "location_type": [
       "supercharger",
@@ -142513,9 +142473,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.7161830000",
-    "longitude": "-121.9102280000"
+    "open_soon": "0",
+    "latitude": "37.7020580000",
+    "longitude": "-121.8529320000"
   },
   {
     "location_id": "DublinGAsupercharger",
@@ -143163,9 +143123,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "53.2779570000",
-    "longitude": "-110.0060300000"
+    "open_soon": "0",
+    "latitude": "53.2777640000",
+    "longitude": "-110.0528450000"
   },
   {
     "location_id": "LodiNJsupercharger",
@@ -143733,9 +143693,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "52.7765340000",
-    "longitude": "-108.2975640000"
+    "open_soon": "0",
+    "latitude": "52.7916370000",
+    "longitude": "-108.3036110000"
   },
   {
     "location_id": "NorthConwayNHsupercharger",
@@ -158568,9 +158528,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "42.1488990000",
-    "longitude": "-72.6078330000"
+    "open_soon": "0",
+    "latitude": "42.1749350000",
+    "longitude": "-72.5781970000"
   },
   {
     "location_id": "ColumbiaMOSupercharger",
