@@ -94837,8 +94837,8 @@
     "location_id": "planodemocracydr",
     "location_type": [
       "store",
-      "delivery",
-      "service"
+      "service",
+      "delivery"
     ],
     "open_soon": "0",
     "latitude": "33.0678700000",
