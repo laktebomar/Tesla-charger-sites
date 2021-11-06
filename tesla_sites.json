@@ -142232,9 +142232,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "25.5807880000",
-    "longitude": "-80.3468380000"
+    "open_soon": "0",
+    "latitude": "25.5983160000",
+    "longitude": "-80.3716550000"
   },
   {
     "location_id": "DalevilleVAsupercharger",
@@ -142782,9 +142782,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "45.7067650000",
-    "longitude": "-121.5289890000"
+    "open_soon": "0",
+    "latitude": "45.7096010000",
+    "longitude": "-121.5346270000"
   },
   {
     "location_id": "HoustonTXsupercharger",
@@ -143132,9 +143132,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "44.1630020000",
-    "longitude": "-93.9993000000"
+    "open_soon": "0",
+    "latitude": "44.3364110000",
+    "longitude": "-93.9500110000"
   },
   {
     "location_id": "ManorvilleNYsupercharger",
@@ -144792,9 +144792,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "53.4940230000",
-    "longitude": "-112.0537350000"
+    "open_soon": "0",
+    "latitude": "53.5020520000",
+    "longitude": "-112.0800850000"
   },
   {
     "location_id": "VeniceFLsupercharger",
@@ -144982,9 +144982,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "42.4792600000",
-    "longitude": "-71.1521160000"
+    "open_soon": "0",
+    "latitude": "42.5184110000",
+    "longitude": "-71.1372070000"
   },
   {
     "location_id": "WoodcliffLakeNJsupercharger",
@@ -158662,6 +158662,16 @@
     "longitude": "-120.0605390000"
   },
   {
+    "location_id": "MadisonWISupercharger2",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "43.0805190000",
+    "longitude": "-89.3751350000"
+  },
+  {
     "location_id": "McDonoughGASupercharger",
     "location_type": [
       "supercharger",
@@ -158727,9 +158737,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "30.5083520000",
-    "longitude": "-97.6787130000"
+    "open_soon": "0",
+    "latitude": "30.5097088000",
+    "longitude": "-97.6877510000"
   },
   {
     "location_id": "SanDiegoCASupercharger8",
