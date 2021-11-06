@@ -137843,6 +137843,15 @@
     "longitude": "-122.5145997000"
   },
   {
+    "location_id": "shizuokamobileservice",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "1",
+    "latitude": "34.9769400000",
+    "longitude": "138.3830600000"
+  },
+  {
     "location_id": "elpaso7825",
     "location_type": [
       "store",
@@ -164010,6 +164019,51 @@
     "open_soon": "0",
     "latitude": "22.3030600000",
     "longitude": "114.2610400000"
+  },
+  {
+    "location_id": "okayamamobileservice",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "0",
+    "latitude": "34.6902840000",
+    "longitude": "134.0049910000"
+  },
+  {
+    "location_id": "kumamotomobileservice",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "1",
+    "latitude": "32.7897200000",
+    "longitude": "130.7416700000"
+  },
+  {
+    "location_id": "naganomobileservice",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "1",
+    "latitude": "36.6513900000",
+    "longitude": "138.1811100000"
+  },
+  {
+    "location_id": "gunmamobileservice",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "1",
+    "latitude": "36.3911100000",
+    "longitude": "139.0608300000"
+  },
+  {
+    "location_id": "kyotomobileservice",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "1",
+    "latitude": "35.0213900000",
+    "longitude": "135.7555600000"
   },
   {
     "id": "Bodyshop_NA556",
