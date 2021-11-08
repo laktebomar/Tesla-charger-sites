@@ -141427,16 +141427,6 @@
     "longitude": "121.5273700000"
   },
   {
-    "location_id": "taoyuaniiisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.9564168800",
-    "longitude": "121.1494960000"
-  },
-  {
     "location_id": "hsinchuivsupercharger",
     "location_type": [
       "supercharger",
@@ -164074,6 +164064,56 @@
     "open_soon": "1",
     "latitude": "35.0213900000",
     "longitude": "135.7555600000"
+  },
+  {
+    "location_id": "taichungzhoujisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "24.1995450000",
+    "longitude": "120.6796170000"
+  },
+  {
+    "location_id": "conventodoseixo",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "40.1330350000",
+    "longitude": "-7.5113980000"
+  },
+  {
+    "location_id": "tanutamiranda",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.7038000000",
+    "longitude": "8.3001100000"
+  },
+  {
+    "location_id": "pyhtääsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "60.4890540000",
+    "longitude": "26.5548350000"
+  },
+  {
+    "location_id": "karesuvantosupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "68.4501910000",
+    "longitude": "22.4814320000"
   },
   {
     "id": "Bodyshop_NA556",
