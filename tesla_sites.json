@@ -33831,16 +33831,6 @@
     "longitude": "6.6630200000"
   },
   {
-    "location_id": "dc5964",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "-33.7984860000",
-    "longitude": "151.1834040000"
-  },
-  {
     "location_id": "dc17262",
     "location_type": [
       "destination charger",
