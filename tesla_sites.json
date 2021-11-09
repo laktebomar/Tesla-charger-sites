@@ -3615,16 +3615,6 @@
     "longitude": "-86.8140450000"
   },
   {
-    "location_id": "londontowersupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.5063410000",
-    "longitude": "-0.0727700000"
-  },
-  {
     "location_id": "cordeslakessupercharger",
     "location_type": [
       "supercharger",
@@ -60075,16 +60065,6 @@
     "open_soon": "0",
     "latitude": "46.5680860000",
     "longitude": "11.4495380000"
-  },
-  {
-    "location_id": "dc22252",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "45.4434320000",
-    "longitude": "10.7251780000"
   },
   {
     "location_id": "dc24701",
@@ -164419,6 +164399,16 @@
     "open_soon": "0",
     "latitude": "44.8607400000",
     "longitude": "-93.1124000000"
+  },
+  {
+    "location_id": "kuopiosupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "62.8206180000",
+    "longitude": "27.6076300000"
   },
   {
     "id": "Bodyshop_NA556",
