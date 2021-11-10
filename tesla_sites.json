@@ -157523,16 +157523,6 @@
     "longitude": "114.2259500000"
   },
   {
-    "location_id": "dc502791",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.3981100000",
-    "longitude": "114.1940400000"
-  },
-  {
     "location_id": "dc503769",
     "location_type": [
       "standard charger",
@@ -158871,16 +158861,6 @@
     "open_soon": "0",
     "latitude": "22.3735400000",
     "longitude": "114.2590700000"
-  },
-  {
-    "location_id": "dc502790",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.3759500000",
-    "longitude": "114.1808500000"
   },
   {
     "location_id": "dc859777",
