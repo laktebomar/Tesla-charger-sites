@@ -163934,11 +163934,12 @@
   {
     "location_id": "bucharestsales",
     "location_type": [
-      "store"
+      "store",
+      "delivery"
     ],
     "open_soon": "0",
-    "latitude": "44.4161898000",
-    "longitude": "26.1532777000"
+    "latitude": "44.4034490000",
+    "longitude": "26.1448130000"
   },
   {
     "location_id": "oceanpopwalksupercharger",
