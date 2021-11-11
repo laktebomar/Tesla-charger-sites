@@ -164018,16 +164018,6 @@
     "longitude": "120.6796170000"
   },
   {
-    "location_id": "conventodoseixo",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "40.1330350000",
-    "longitude": "-7.5113980000"
-  },
-  {
     "location_id": "tanutamiranda",
     "location_type": [
       "standard charger",
@@ -164381,6 +164371,16 @@
     "open_soon": "0",
     "latitude": "62.8206180000",
     "longitude": "27.6076300000"
+  },
+  {
+    "location_id": "conventodoseixohotel",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "40.1330350000",
+    "longitude": "-7.5113980000"
   },
   {
     "id": "Bodyshop_NA556",
