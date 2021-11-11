@@ -38617,16 +38617,6 @@
     "longitude": "7.4365770000"
   },
   {
-    "location_id": "dc16484",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "55.0440640000",
-    "longitude": "10.5784240000"
-  },
-  {
     "location_id": "dc17935",
     "location_type": [
       "destination charger",
@@ -44254,8 +44244,8 @@
   {
     "location_id": "dc13689",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "49.6370860000",
@@ -91570,16 +91560,6 @@
     "longitude": "15.3528490000"
   },
   {
-    "location_id": "dc31175",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "49.9489070000",
-    "longitude": "7.1125360000"
-  },
-  {
     "location_id": "dc33866",
     "location_type": [
       "destination charger",
@@ -124818,6 +124798,16 @@
     "longitude": "9.1583170000"
   },
   {
+    "location_id": "versaillessupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.8267520000",
+    "longitude": "2.1186120000"
+  },
+  {
     "location_id": "wismarsupercharger",
     "location_type": [
       "supercharger",
@@ -139345,16 +139335,6 @@
     "longitude": "4.7602180000"
   },
   {
-    "location_id": "Parly2frsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.8272060000",
-    "longitude": "2.1191740000"
-  },
-  {
     "location_id": "velizyisvelizy2supercharger",
     "location_type": [
       "supercharger",
@@ -139890,9 +139870,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "50.7788924000",
-    "longitude": "7.2447376000"
+    "open_soon": "0",
+    "latitude": "50.8137300000",
+    "longitude": "7.1072110000"
   },
   {
     "location_id": "Weiterstadtdesupercharger",
