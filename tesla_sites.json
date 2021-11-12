@@ -45928,16 +45928,6 @@
     "longitude": "55.1235960000"
   },
   {
-    "location_id": "dc23562",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "24.4115990000",
-    "longitude": "54.4845600000"
-  },
-  {
     "location_id": "dc23565",
     "location_type": [
       "destination charger",
@@ -121321,16 +121311,6 @@
     "longitude": "4.3587660000"
   },
   {
-    "location_id": "dc60647",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.9755430000",
-    "longitude": "4.5603847000"
-  },
-  {
     "location_id": "popupdavos",
     "location_type": [
       "sales representative"
@@ -159831,16 +159811,6 @@
     "open_soon": "0",
     "latitude": "52.2718319000",
     "longitude": "0.4925192000"
-  },
-  {
-    "location_id": "bjarkasgolf",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "60.0738585400",
-    "longitude": "22.6377373400"
   },
   {
     "location_id": "brindisisupercharger",
