@@ -10911,8 +10911,8 @@
     "location_id": "orlando",
     "location_type": [
       "store",
-      "delivery",
-      "service"
+      "service",
+      "delivery"
     ],
     "open_soon": "0",
     "latitude": "28.6179790000",
