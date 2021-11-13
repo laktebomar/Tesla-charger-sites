@@ -164333,6 +164333,16 @@
     "longitude": "-7.5113980000"
   },
   {
+    "location_id": "singaporekatongvsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "1.3026778800",
+    "longitude": "103.9033518800"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
