@@ -103938,9 +103938,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "49.0322030000",
-    "longitude": "-119.4691280000"
+    "open_soon": "0",
+    "latitude": "49.0316610000",
+    "longitude": "-119.4668690000"
   },
   {
     "location_id": "ossiningnewyorksupercharger",
@@ -143363,9 +143363,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.9503640000",
-    "longitude": "-107.8710000000"
+    "open_soon": "0",
+    "latitude": "37.9333253000",
+    "longitude": "-107.8546008000"
   },
   {
     "location_id": "MyrtleCreekORsupercharger",
@@ -143816,6 +143816,16 @@
     "open_soon": "1",
     "latitude": "45.5351130000",
     "longitude": "-122.6667430000"
+  },
+  {
+    "location_id": "PrinceGeorgeBCsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "53.9170740000",
+    "longitude": "-122.7497160000"
   },
   {
     "location_id": "ProvoUTsupercharger",
@@ -144873,9 +144883,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "38.5472490000",
-    "longitude": "-122.8167900000"
+    "open_soon": "0",
+    "latitude": "38.5494410000",
+    "longitude": "-122.8058410000"
   },
   {
     "location_id": "WinterParkFLsupercharger",
@@ -157603,6 +157613,16 @@
     "longitude": "4.4437450000"
   },
   {
+    "location_id": "MerrittBCSupercharger2",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "50.1244750000",
+    "longitude": "-120.7484730000"
+  },
+  {
     "location_id": "MariboSupercharger",
     "location_type": [
       "supercharger",
@@ -158218,9 +158238,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "39.5095680000",
-    "longitude": "-76.1643290000"
+    "open_soon": "0",
+    "latitude": "39.5293200000",
+    "longitude": "-76.1939300000"
   },
   {
     "location_id": "AlachuaFLsupercharger",
@@ -158438,9 +158458,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "41.0440980000",
-    "longitude": "-83.6501700000"
+    "open_soon": "0",
+    "latitude": "41.0596100000",
+    "longitude": "-83.6711000000"
   },
   {
     "location_id": "FortLauderdaleFLSupercharger2",
@@ -158648,9 +158668,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "32.9343120000",
-    "longitude": "-117.2367810000"
+    "open_soon": "0",
+    "latitude": "32.9363060000",
+    "longitude": "-117.0994750000"
   },
   {
     "location_id": "SanJoseCASupercharger6",
@@ -161873,9 +161893,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.7265870000",
-    "longitude": "-73.6345030000"
+    "open_soon": "0",
+    "latitude": "40.7416020000",
+    "longitude": "-73.6130580000"
   },
   {
     "location_id": "GarnerNCSupercharger",
@@ -161943,9 +161963,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "39.6297760000",
-    "longitude": "-79.9559360000"
+    "open_soon": "0",
+    "latitude": "39.6201600000",
+    "longitude": "-79.9235200000"
   },
   {
     "location_id": "NorthMiamiBeachFLSupercharger",
@@ -164341,6 +164361,16 @@
     "open_soon": "0",
     "latitude": "1.3026778800",
     "longitude": "103.9033518800"
+  },
+  {
+    "location_id": "veedersburginsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "40.1130100000",
+    "longitude": "-87.2477900000"
   },
   {
     "id": "Bodyshop_NA556",
