@@ -162250,6 +162250,15 @@
     "longitude": "55.2833520000"
   },
   {
+    "location_id": "longislandcity49",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "0",
+    "latitude": "40.7381780000",
+    "longitude": "-73.9352050000"
+  },
+  {
     "location_id": "santafe17730",
     "location_type": [
       "store",
@@ -164371,6 +164380,16 @@
     "open_soon": "0",
     "latitude": "40.1130100000",
     "longitude": "-87.2477900000"
+  },
+  {
+    "location_id": "aksdalsouth",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "59.4212060000",
+    "longitude": "5.4435000000"
   },
   {
     "id": "Bodyshop_NA556",
