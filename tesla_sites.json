@@ -141388,16 +141388,6 @@
     "longitude": "120.5377276000"
   },
   {
-    "location_id": "singaporesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "1.3017708000",
-    "longitude": "103.9105804000"
-  },
-  {
     "location_id": "bairnsdalesupercharger",
     "location_type": [
       "supercharger",
