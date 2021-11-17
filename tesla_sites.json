@@ -132749,16 +132749,6 @@
     "longitude": "-91.9936300000"
   },
   {
-    "location_id": "brescia",
-    "location_type": [
-      "store",
-      "sales representative"
-    ],
-    "open_soon": "0",
-    "latitude": "45.5315800000",
-    "longitude": "10.2249630000"
-  },
-  {
     "location_id": "bolzano",
     "location_type": [
       "store",
@@ -164380,6 +164370,15 @@
     "open_soon": "0",
     "latitude": "59.4212060000",
     "longitude": "5.4435000000"
+  },
+  {
+    "location_id": "bresciasanzenonaviglio",
+    "location_type": [
+      "store"
+    ],
+    "open_soon": "0",
+    "latitude": "45.5012478000",
+    "longitude": "10.2208412000"
   },
   {
     "id": "Bodyshop_NA556",
