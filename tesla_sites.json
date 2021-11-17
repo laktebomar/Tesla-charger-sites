@@ -129313,6 +129313,17 @@
     "longitude": "115.3669990000"
   },
   {
+    "location_id": "elkgrovearthur",
+    "location_type": [
+      "store",
+      "service",
+      "logistics"
+    ],
+    "open_soon": "0",
+    "latitude": "41.9951825000",
+    "longitude": "-87.9483790000"
+  },
+  {
     "location_id": "carlsbad",
     "location_type": [
       "store",
@@ -159495,6 +159506,7 @@
   {
     "location_id": "chicago3059",
     "location_type": [
+      "store",
       "service"
     ],
     "open_soon": "0",
