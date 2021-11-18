@@ -164393,6 +164393,15 @@
     "longitude": "10.2208412000"
   },
   {
+    "location_id": "ayalonmallpopup",
+    "location_type": [
+      "store"
+    ],
+    "open_soon": "0",
+    "latitude": "32.1002323000",
+    "longitude": "34.8242767000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
