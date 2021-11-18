@@ -2789,8 +2789,7 @@
     "location_id": "zwollesupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.5313750000",
@@ -72286,8 +72285,7 @@
     "location_id": "breukelensupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.1671780000",
@@ -130386,8 +130384,7 @@
     "location_id": "duivensupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.9594820000",
@@ -130397,8 +130394,7 @@
     "location_id": "naardensupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.3086580000",
@@ -135240,8 +135236,7 @@
     "location_id": "apeldoornoostsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.2047030000",
@@ -138828,8 +138823,7 @@
     "location_id": "meerkerksupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.8995170000",
@@ -139979,8 +139973,7 @@
     "location_id": "Eemnesnlsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.2354760000",
@@ -140000,8 +139993,7 @@
     "location_id": "Tilburgnlsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.5431835600",
@@ -140061,8 +140053,7 @@
     "location_id": "Hengelonlsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.2872030000",
@@ -162163,8 +162154,7 @@
     "location_id": "sassenheimsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.2132550000",
