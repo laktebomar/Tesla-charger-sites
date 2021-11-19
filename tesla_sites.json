@@ -136922,8 +136922,8 @@
       "service"
     ],
     "open_soon": "0",
-    "latitude": "51.0736178000",
-    "longitude": "-1.2898473000"
+    "latitude": "51.0672590000",
+    "longitude": "-1.3002082000"
   },
   {
     "location_id": "superiorcosouthmarshallroadsupercharging",
@@ -159643,16 +159643,6 @@
     "open_soon": "0",
     "latitude": "48.2188060000",
     "longitude": "10.1273890000"
-  },
-  {
-    "location_id": "thaursupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "47.2768790000",
-    "longitude": "11.4691810000"
   },
   {
     "location_id": "lovosicesupercharger",
