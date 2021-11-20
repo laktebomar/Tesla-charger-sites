@@ -72969,9 +72969,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "32.8286650000",
-    "longitude": "-96.7816860000"
+    "open_soon": "0",
+    "latitude": "32.8677590000",
+    "longitude": "-96.7671840000"
   },
   {
     "location_id": "dalycitysupercharger",
@@ -75257,9 +75257,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "44.9536680000",
-    "longitude": "-93.0895910000"
+    "open_soon": "0",
+    "latitude": "44.9544440000",
+    "longitude": "-93.1549170000"
   },
   {
     "location_id": "storliensupercharger",
@@ -75459,6 +75459,16 @@
     "open_soon": "1",
     "latitude": "36.0590353000",
     "longitude": "140.0595233000"
+  },
+  {
+    "location_id": "tustincaliforniasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "33.7111050000",
+    "longitude": "-117.8166460000"
   },
   {
     "location_id": "newyorkmottstsupercharger",
@@ -141394,9 +141404,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "39.4620380000",
-    "longitude": "-76.2773290000"
+    "open_soon": "0",
+    "latitude": "39.4655900000",
+    "longitude": "-76.3110300000"
   },
   {
     "location_id": "AdairsvilleGAsupercharger",
@@ -141814,9 +141824,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.7524360000",
-    "longitude": "-73.6106240000"
+    "open_soon": "0",
+    "latitude": "40.7447340000",
+    "longitude": "-73.6161760000"
   },
   {
     "location_id": "CarlsbadCAsupercharger",
@@ -141994,9 +142004,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.9256770000",
-    "longitude": "-75.0931370000"
+    "open_soon": "0",
+    "latitude": "40.9338149800",
+    "longitude": "-75.1011568200"
   },
   {
     "location_id": "CommerceCAsupercharger",
@@ -143134,9 +143144,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "44.8755480000",
-    "longitude": "-91.9195150000"
+    "open_soon": "0",
+    "latitude": "44.9014380000",
+    "longitude": "-91.9336010000"
   },
   {
     "location_id": "MercedCAsupercharger",
@@ -144454,9 +144464,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "43.9786580000",
-    "longitude": "-90.5047100000"
+    "open_soon": "0",
+    "latitude": "44.0188710000",
+    "longitude": "90.5074880000"
   },
   {
     "location_id": "TorontoONDonMillssupercharger",
@@ -158699,9 +158709,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "29.9174420000",
-    "longitude": "-81.4119990000"
+    "open_soon": "0",
+    "latitude": "29.9168022000",
+    "longitude": "-81.4035456000"
   },
   {
     "location_id": "StGeorgeSCSupercharger",
@@ -161735,9 +161745,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "36.6844570000",
-    "longitude": "-121.8025060000"
+    "open_soon": "0",
+    "latitude": "36.6664520000",
+    "longitude": "-121.8101050000"
   },
   {
     "location_id": "NewCastleDESupercharger",
@@ -161775,9 +161785,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "35.2825900000",
-    "longitude": "-120.6599530000"
+    "open_soon": "0",
+    "latitude": "35.2481370000",
+    "longitude": "-120.6713110000"
   },
   {
     "location_id": "SantaBarbaraCASupercharger2",
@@ -161895,7 +161905,7 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
+    "open_soon": "0",
     "latitude": "34.2485410000",
     "longitude": "-117.1895450000"
   },
@@ -164370,6 +164380,25 @@
     "open_soon": "0",
     "latitude": "32.1002323000",
     "longitude": "34.8242767000"
+  },
+  {
+    "location_id": "orangeburgscsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "33.5522900000",
+    "longitude": "-80.8279300000"
+  },
+  {
+    "location_id": "mooresvillencsupercharger",
+    "location_type": [
+      ""
+    ],
+    "open_soon": "0",
+    "latitude": "35.5874130000",
+    "longitude": "-80.8730240000"
   },
   {
     "id": "Bodyshop_NA556",
