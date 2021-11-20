@@ -141584,9 +141584,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "38.5830010000",
-    "longitude": "-77.7678060000"
+    "open_soon": "0",
+    "latitude": "38.6198900000",
+    "longitude": "-77.8002400000"
   },
   {
     "location_id": "BeauharnoisQCsupercharger",
@@ -164399,6 +164399,15 @@
     "open_soon": "0",
     "latitude": "35.5874130000",
     "longitude": "-80.8730240000"
+  },
+  {
+    "location_id": "normalileastcollegeavesupercharger",
+    "location_type": [
+      ""
+    ],
+    "open_soon": "0",
+    "latitude": "40.5111600000",
+    "longitude": "-88.9476200000"
   },
   {
     "id": "Bodyshop_NA556",
