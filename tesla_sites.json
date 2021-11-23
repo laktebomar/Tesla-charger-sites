@@ -141089,6 +141089,16 @@
     "longitude": "126.7909000000"
   },
   {
+    "location_id": "seolleungsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.5032160000",
+    "longitude": "127.0416200000"
+  },
+  {
     "location_id": "seongnamsupercharger",
     "location_type": [
       "supercharger",
@@ -160492,13 +160502,13 @@
     "longitude": "-1.5583520000"
   },
   {
-    "location_id": "serviceexpressredabbey",
+    "location_id": "serviceexpresscork",
     "location_type": [
       "service"
     ],
     "open_soon": "0",
-    "latitude": "51.8696100000",
-    "longitude": "-8.4670240000"
+    "latitude": "51.8863177000",
+    "longitude": "-8.3964692000"
   },
   {
     "location_id": "serviceexpressoranmore",
@@ -164388,6 +164398,33 @@
     "open_soon": "0",
     "latitude": "40.5111600000",
     "longitude": "-88.9476200000"
+  },
+  {
+    "location_id": "pyeongchangsupercharger",
+    "location_type": [
+      "supercharger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.5862930000",
+    "longitude": "128.3226650000"
+  },
+  {
+    "location_id": "hokkaidojpmobileservice",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "1",
+    "latitude": "43.0641700000",
+    "longitude": "141.3469400000"
+  },
+  {
+    "location_id": "saitamajpmobileservice",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "1",
+    "latitude": "35.8569400000",
+    "longitude": "139.6488900000"
   },
   {
     "id": "Bodyshop_NA556",
