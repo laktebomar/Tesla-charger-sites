@@ -31552,15 +31552,6 @@
     "longitude": "-92.4626110000"
   },
   {
-    "location_id": "hongkongcastlepeak",
-    "location_type": [
-      "service"
-    ],
-    "open_soon": "0",
-    "latitude": "22.3737610000",
-    "longitude": "114.1042710000"
-  },
-  {
     "location_id": "guangzhouwhiteswan",
     "location_type": [
       "store"
@@ -164425,6 +164416,35 @@
     "open_soon": "1",
     "latitude": "35.8569400000",
     "longitude": "139.6488900000"
+  },
+  {
+    "location_id": "shatinservice",
+    "location_type": [
+      "service"
+    ],
+    "open_soon": "0",
+    "latitude": "22.3829200000",
+    "longitude": "114.2056950000"
+  },
+  {
+    "location_id": "yuchuisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.3818400000",
+    "longitude": "114.2054600000"
+  },
+  {
+    "location_id": "dc1096287",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.3818180000",
+    "longitude": "114.2054920000"
   },
   {
     "id": "Bodyshop_NA556",
