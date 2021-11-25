@@ -132046,6 +132046,16 @@
     "longitude": "-122.4114090000"
   },
   {
+    "location_id": "soledadsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "36.4299780000",
+    "longitude": "-121.3346540000"
+  },
+  {
     "location_id": "traversupercharger",
     "location_type": [
       "supercharger",
@@ -141516,9 +141526,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "30.2671274700",
-    "longitude": "-97.7431622300"
+    "open_soon": "0",
+    "latitude": "30.2472116000",
+    "longitude": "-97.7500050000"
   },
   {
     "location_id": "AustinTXSouthsupercharger",
@@ -142126,9 +142136,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "26.0764580000",
-    "longitude": "-80.2522300000"
+    "open_soon": "0",
+    "latitude": "26.0921630000",
+    "longitude": "-80.2496920000"
   },
   {
     "location_id": "DavisCAsupercharger",
@@ -142146,9 +142156,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "33.7553480000",
-    "longitude": "-96.5369000000"
+    "open_soon": "0",
+    "latitude": "33.7931960000",
+    "longitude": "-96.5549950000"
   },
   {
     "location_id": "DenverCOEastsupercharger",
@@ -142756,9 +142766,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "36.0083300000",
-    "longitude": "-119.9616670000"
+    "open_soon": "0",
+    "latitude": "35.9863330000",
+    "longitude": "-119.9575470000"
   },
   {
     "location_id": "KingGeorgeVAsupercharger",
@@ -143106,9 +143116,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "43.1788530000",
-    "longitude": "-88.1172580000"
+    "open_soon": "0",
+    "latitude": "43.1644540000",
+    "longitude": "-88.0658210000"
   },
   {
     "location_id": "MenomonieWIsupercharger",
@@ -143496,9 +143506,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "41.8402900000",
-    "longitude": "-87.9576350000"
+    "open_soon": "0",
+    "latitude": "41.8543400000",
+    "longitude": "-87.9584600000"
   },
   {
     "location_id": "OakvilleONsupercharger",
@@ -161136,9 +161146,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "34.0211470000",
-    "longitude": "-118.3966660000"
+    "open_soon": "0",
+    "latitude": "34.0267940500",
+    "longitude": "-118.3881681800"
   },
   {
     "location_id": "DelValleTXSupercharger",
@@ -161246,9 +161256,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "33.5009420000",
-    "longitude": "-86.7521670000"
+    "open_soon": "0",
+    "latitude": "33.4866751000",
+    "longitude": "-86.7726870000"
   },
   {
     "location_id": "NapaCASupercharger2",
@@ -164522,6 +164532,66 @@
     "open_soon": "0",
     "latitude": "24.8046096800",
     "longitude": "121.0300123000"
+  },
+  {
+    "location_id": "oldfortncsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "35.6381950000",
+    "longitude": "-82.1430940000"
+  },
+  {
+    "location_id": "guaynaboprcalletabonucosupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "18.4069280000",
+    "longitude": "-66.1061320000"
+  },
+  {
+    "location_id": "johnsoncitytxus281supercharger",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "30.2699580000",
+    "longitude": "-98.3980230000"
+  },
+  {
+    "location_id": "chesapeakevasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "36.6578200000",
+    "longitude": "-76.2244700000"
+  },
+  {
+    "location_id": "abbotttxsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "31.8989980000",
+    "longitude": "-97.0909810000"
+  },
+  {
+    "location_id": "westamptonnjrancocasrdsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "40.0073749700",
+    "longitude": "-74.8611830000"
   },
   {
     "id": "Bodyshop_NA556",
