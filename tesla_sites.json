@@ -102707,16 +102707,6 @@
     "longitude": "15.0502280000"
   },
   {
-    "location_id": "dc46123",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.2087310000",
-    "longitude": "55.2603440000"
-  },
-  {
     "location_id": "dc49070",
     "location_type": [
       "destination charger",
@@ -163930,7 +163920,7 @@
     "longitude": "120.6796170000"
   },
   {
-    "location_id": "tanutamiranda",
+    "location_id": "tenutamiranda",
     "location_type": [
       "standard charger",
       "destination charger"
