@@ -51098,16 +51098,6 @@
     "longitude": "4.7881570000"
   },
   {
-    "location_id": "dc20673",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "55.4565050000",
-    "longitude": "10.5568390000"
-  },
-  {
     "location_id": "dc20931",
     "location_type": [
       "destination charger",
@@ -54511,16 +54501,6 @@
     "open_soon": "0",
     "latitude": "39.0063110000",
     "longitude": "-3.3830350000"
-  },
-  {
-    "location_id": "rittosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.9837620000",
-    "longitude": "135.9566340000"
   },
   {
     "location_id": "rivabellosasupercharger",
@@ -139068,14 +139048,14 @@
     "longitude": "16.4644600000"
   },
   {
-    "location_id": "InnsbruckWestAustriasupercharger",
+    "location_id": "hallintirol",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "47.2498127000",
-    "longitude": "11.3860605000"
+    "open_soon": "0",
+    "latitude": "47.2732500000",
+    "longitude": "11.4753570000"
   },
   {
     "location_id": "SalzburgNordAustriasupercharger",
@@ -140236,9 +140216,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "61.4519910000",
-    "longitude": "10.1873720000"
+    "open_soon": "0",
+    "latitude": "61.4539940000",
+    "longitude": "10.1892070000"
   },
   {
     "location_id": "Treungennosupercharger",
@@ -140246,9 +140226,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "59.0187590000",
-    "longitude": "8.5239730000"
+    "open_soon": "0",
+    "latitude": "59.0187940000",
+    "longitude": "8.5238500000"
   },
   {
     "location_id": "Kloftanosupercharger",
