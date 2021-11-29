@@ -75418,9 +75418,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "36.0590353000",
-    "longitude": "140.0595233000"
+    "open_soon": "0",
+    "latitude": "36.0585003300",
+    "longitude": "140.0611350000"
   },
   {
     "location_id": "tustincaliforniasupercharger",
@@ -164344,7 +164344,7 @@
     "location_type": [
       "service"
     ],
-    "open_soon": "1",
+    "open_soon": "0",
     "latitude": "43.0641700000",
     "longitude": "141.3469400000"
   },
