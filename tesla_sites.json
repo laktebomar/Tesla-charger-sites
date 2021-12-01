@@ -164535,6 +164535,24 @@
     "longitude": "121.3435257000"
   },
   {
+    "location_id": "lacoruna",
+    "location_type": [
+      "store"
+    ],
+    "open_soon": "0",
+    "latitude": "43.3451910000",
+    "longitude": "-8.4277890000"
+  },
+  {
+    "location_id": "bilbao",
+    "location_type": [
+      "store"
+    ],
+    "open_soon": "1",
+    "latitude": "43.2676020000",
+    "longitude": "-2.9403080000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
