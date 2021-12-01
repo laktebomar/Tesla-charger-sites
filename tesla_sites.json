@@ -54344,14 +54344,14 @@
     "longitude": "17.2623770000"
   },
   {
-    "location_id": "ostrowmazowieckasupercharger",
+    "location_id": "bialystoksupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "52.8012710000",
-    "longitude": "21.8937290000"
+    "open_soon": "0",
+    "latitude": "53.1253240000",
+    "longitude": "23.1685350000"
   },
   {
     "location_id": "trzebowniskosupercharger",
@@ -139646,16 +139646,6 @@
     "open_soon": "1",
     "latitude": "48.6057133000",
     "longitude": "13.3693020000"
-  },
-  {
-    "location_id": "ElsdorfGermanysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "53.2336800000",
-    "longitude": "9.3472300000"
   },
   {
     "location_id": "murrsupercharger",
