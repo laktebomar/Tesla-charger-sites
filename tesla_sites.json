@@ -58662,8 +58662,8 @@
   {
     "location_id": "dc20018",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "58.4510780000",
@@ -58808,16 +58808,6 @@
     "open_soon": "0",
     "latitude": "49.0353730000",
     "longitude": "3.3801800000"
-  },
-  {
-    "location_id": "dc15168",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "48.2230680000",
-    "longitude": "15.6358720000"
   },
   {
     "location_id": "dc17293",
@@ -112137,8 +112127,8 @@
   {
     "location_id": "dc53391",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "45.9733340000",
@@ -164551,6 +164541,16 @@
     "open_soon": "1",
     "latitude": "43.2676020000",
     "longitude": "-2.9403080000"
+  },
+  {
+    "location_id": "paradisemallsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.2789000000",
+    "longitude": "114.2382000000"
   },
   {
     "id": "Bodyshop_NA556",
