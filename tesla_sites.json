@@ -140258,7 +140258,7 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
+    "open_soon": "0",
     "latitude": "40.5198140000",
     "longitude": "-3.6569530000"
   },
@@ -141048,9 +141048,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "36.3344240000",
-    "longitude": "127.3976450000"
+    "open_soon": "0",
+    "latitude": "36.3407600000",
+    "longitude": "127.3894900000"
   },
   {
     "location_id": "ulsansupercharger",
@@ -164532,6 +164532,36 @@
     "open_soon": "0",
     "latitude": "22.2789000000",
     "longitude": "114.2382000000"
+  },
+  {
+    "location_id": "yeosusupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "34.7217500000",
+    "longitude": "127.6993800000"
+  },
+  {
+    "location_id": "cnsc9673",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "40.0983392000",
+    "longitude": "116.2727589000"
+  },
+  {
+    "location_id": "cnsc9715",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "52.9751024100",
+    "longitude": "122.5438263000"
   },
   {
     "id": "Bodyshop_NA556",
