@@ -34813,8 +34813,8 @@
   {
     "location_id": "dc16809",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "43.3886380000",
@@ -54333,16 +54333,6 @@
     "open_soon": "0",
     "latitude": "49.5608570000",
     "longitude": "17.2623770000"
-  },
-  {
-    "location_id": "bialystoksupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "53.1253240000",
-    "longitude": "23.1685350000"
   },
   {
     "location_id": "trzebowniskosupercharger",
@@ -73952,9 +73942,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "42.1435290000",
-    "longitude": "-0.4053470000"
+    "open_soon": "0",
+    "latitude": "42.0333440000",
+    "longitude": "0.1041990000"
   },
   {
     "location_id": "HuntingtonBeachCAsupercharger",
@@ -140278,8 +140268,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "40.5196930000",
-    "longitude": "-3.6569620000"
+    "latitude": "40.5198140000",
+    "longitude": "-3.6569530000"
   },
   {
     "location_id": "BarcelonaUrbanessupercharger",
@@ -164534,13 +164524,13 @@
     "longitude": "-8.4277890000"
   },
   {
-    "location_id": "bilbao",
+    "location_id": "bilbaopopup",
     "location_type": [
       "store"
     ],
-    "open_soon": "1",
-    "latitude": "43.2676020000",
-    "longitude": "-2.9403080000"
+    "open_soon": "0",
+    "latitude": "43.2680540000",
+    "longitude": "-2.9405170000"
   },
   {
     "location_id": "paradisemallsupercharger",
