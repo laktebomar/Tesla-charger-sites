@@ -37149,15 +37149,6 @@
     "longitude": "-84.3870670000"
   },
   {
-    "location_id": "dc13629",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "35.5961380000",
-    "longitude": "-82.5597470000"
-  },
-  {
     "location_id": "dc16966",
     "location_type": [
       "destination charger"
@@ -157218,15 +157209,6 @@
     "longitude": "146.4607177000"
   },
   {
-    "location_id": "dc",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "35.2179985000",
-    "longitude": "-80.7858963000"
-  },
-  {
     "location_id": "dc859769",
     "location_type": [
       "standard charger",
@@ -160073,15 +160055,6 @@
     "longitude": "-74.4171547800"
   },
   {
-    "location_id": "dc5564tgfd2",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "34.9480252500",
-    "longitude": "-119.6903161000"
-  },
-  {
     "location_id": "twoifcsupercharger",
     "location_type": [
       "supercharger",
@@ -160178,15 +160151,6 @@
     "open_soon": "0",
     "latitude": "40.6627017900",
     "longitude": "-74.4171547800"
-  },
-  {
-    "location_id": "5564tgfd2",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "34.9480252500",
-    "longitude": "-119.6903161000"
   },
   {
     "location_id": "dc972051",
@@ -164308,7 +164272,7 @@
     "longitude": "-103.2664849000"
   },
   {
-    "location_id": "dcdc13629",
+    "location_id": "dc13629",
     "location_type": [
       "destination charger"
     ],
