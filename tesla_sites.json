@@ -105624,16 +105624,6 @@
     "longitude": "15.5364622000"
   },
   {
-    "location_id": "dc48884",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "50.8194510000",
-    "longitude": "7.1145290000"
-  },
-  {
     "location_id": "dc50838",
     "location_type": [
       "destination charger",
@@ -163620,8 +163610,8 @@
       "destination charger"
     ],
     "open_soon": "0",
-    "latitude": "43.6319007900",
-    "longitude": "79.3715972900"
+    "latitude": "46.9464519000",
+    "longitude": "-84.5751100000"
   },
   {
     "location_id": "dc847431281",
@@ -164562,6 +164552,33 @@
     "open_soon": "0",
     "latitude": "52.9751024100",
     "longitude": "122.5438263000"
+  },
+  {
+    "location_id": "dc874072215",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "20.6942940000",
+    "longitude": "-88.2047867000"
+  },
+  {
+    "location_id": "dc877878363",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.7509994500",
+    "longitude": "-97.8219986000"
+  },
+  {
+    "location_id": "dc874012500",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "35.2179985000",
+    "longitude": "-80.7858963000"
   },
   {
     "id": "Bodyshop_NA556",
