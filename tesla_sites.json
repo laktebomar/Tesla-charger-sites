@@ -138851,6 +138851,16 @@
     "longitude": "5.8981760000"
   },
   {
+    "location_id": "kochisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.5682339100",
+    "longitude": "133.5543808000"
+  },
+  {
     "location_id": "hotelgranbaitadolomites",
     "location_type": [
       "standard charger",
@@ -141249,9 +141259,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "-38.3834210000",
-    "longitude": "142.4854520000"
+    "open_soon": "0",
+    "latitude": "-38.3812980000",
+    "longitude": "142.5192600000"
   },
   {
     "location_id": "AbingdonMDsupercharger",
@@ -164543,6 +164553,26 @@
     "open_soon": "0",
     "latitude": "35.2179985000",
     "longitude": "-80.7858963000"
+  },
+  {
+    "location_id": "yamagatasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.1878566700",
+    "longitude": "140.3106107000"
+  },
+  {
+    "location_id": "horshamdarlotsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "-36.7158340000",
+    "longitude": "142.1965010000"
   },
   {
     "id": "Bodyshop_NA556",
