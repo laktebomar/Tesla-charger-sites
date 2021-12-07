@@ -56976,16 +56976,6 @@
     "longitude": "8.5913640000"
   },
   {
-    "location_id": "dc19047",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "54.3390780000",
-    "longitude": "-2.9361930000"
-  },
-  {
     "location_id": "dc20666",
     "location_type": [
       "destination charger",
@@ -62373,16 +62363,6 @@
     "open_soon": "0",
     "latitude": "54.7912410000",
     "longitude": "8.8323650000"
-  },
-  {
-    "location_id": "dc23747",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.1917990000",
-    "longitude": "8.5203260000"
   },
   {
     "location_id": "dc24110",
@@ -70010,8 +69990,8 @@
   {
     "location_id": "dc33009",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "24.6796710000",
@@ -110060,8 +110040,8 @@
   {
     "location_id": "dc35913",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "22.6260930000",
@@ -112085,16 +112065,6 @@
     "open_soon": "0",
     "latitude": "44.2828700000",
     "longitude": "12.3498170000"
-  },
-  {
-    "location_id": "dc53391",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "45.9733340000",
-    "longitude": "9.1956400000"
   },
   {
     "location_id": "dc54216",
@@ -139337,8 +139307,8 @@
       "standard charger"
     ],
     "open_soon": "0",
-    "latitude": "48.0275100000",
-    "longitude": "11.6574900000"
+    "latitude": "48.0396510000",
+    "longitude": "11.6612140000"
   },
   {
     "location_id": "erlangensupercharger",
@@ -139496,9 +139466,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "52.3098700000",
-    "longitude": "10.6289800000"
+    "open_soon": "0",
+    "latitude": "52.3131900000",
+    "longitude": "10.6350440000"
   },
   {
     "location_id": "WinkelnGermanysupercharger",
@@ -141242,6 +141212,16 @@
     "open_soon": "1",
     "latitude": "22.6384563600",
     "longitude": "120.5377276000"
+  },
+  {
+    "location_id": "singaporesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "1.3079331452",
+    "longitude": "103.7911593328"
   },
   {
     "location_id": "bairnsdalesupercharger",
@@ -156358,8 +156338,8 @@
   {
     "location_id": "dc844633",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "22.7523670000",
@@ -157934,9 +157914,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "62.6444058732",
-    "longitude": "14.3715736256"
+    "open_soon": "0",
+    "latitude": "62.6404230000",
+    "longitude": "14.3712760000"
   },
   {
     "location_id": "AvestaSupercharger",
@@ -164573,6 +164553,86 @@
     "open_soon": "0",
     "latitude": "-36.7158340000",
     "longitude": "142.1965010000"
+  },
+  {
+    "location_id": "böblingensupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.6913580000",
+    "longitude": "9.0037070000"
+  },
+  {
+    "location_id": "grandatesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "45.7691100300",
+    "longitude": "9.0568813300"
+  },
+  {
+    "location_id": "cuneosupercharger",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.4208635700",
+    "longitude": "7.5512613300"
+  },
+  {
+    "location_id": "biberwiersupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "47.3724310000",
+    "longitude": "10.8860930000"
+  },
+  {
+    "location_id": "dc1099366",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "23.8888747400",
+    "longitude": "120.9433272000"
+  },
+  {
+    "location_id": "dc1099372",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.8758543000",
+    "longitude": "121.2221751000"
+  },
+  {
+    "location_id": "dc1099376",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "24.0613484900",
+    "longitude": "120.4369521000"
+  },
+  {
+    "location_id": "dc1100226",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "24.6814950200",
+    "longitude": "121.8067229000"
   },
   {
     "id": "Bodyshop_NA556",
