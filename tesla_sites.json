@@ -164635,6 +164635,17 @@
     "longitude": "121.8067229000"
   },
   {
+    "location_id": "singaporetoapayoh",
+    "location_type": [
+      "store",
+      "service",
+      "delivery"
+    ],
+    "open_soon": "0",
+    "latitude": "1.3404393000",
+    "longitude": "103.8586733000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
