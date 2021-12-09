@@ -51454,8 +51454,8 @@
     "location_id": "indianapolis",
     "location_type": [
       "store",
-      "delivery",
-      "service"
+      "service",
+      "delivery"
     ],
     "open_soon": "0",
     "latitude": "39.9069700000",
