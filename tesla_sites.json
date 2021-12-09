@@ -62505,6 +62505,16 @@
     "longitude": "16.2809480000"
   },
   {
+    "location_id": "dc27978",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "55.0852200000",
+    "longitude": "14.7102750000"
+  },
+  {
     "location_id": "shanghaitaikoohui",
     "location_type": [
       "store"
@@ -66009,6 +66019,26 @@
     "open_soon": "0",
     "latitude": "51.8942100000",
     "longitude": "-2.0315680000"
+  },
+  {
+    "location_id": "dc27979",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "55.0821840000",
+    "longitude": "14.7145370000"
+  },
+  {
+    "location_id": "dc27980",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "55.1078060000",
+    "longitude": "14.7006980000"
   },
   {
     "location_id": "dc17280",
