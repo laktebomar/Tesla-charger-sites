@@ -74213,9 +74213,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "61.0549870000",
-    "longitude": "28.1894980000"
+    "open_soon": "0",
+    "latitude": "61.0526900000",
+    "longitude": "28.2611750000"
   },
   {
     "location_id": "hendersonsupercharger",
@@ -164525,7 +164525,7 @@
     "longitude": "142.1965010000"
   },
   {
-    "location_id": "böblingensupercharger",
+    "location_id": "boblingensupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
@@ -164547,8 +164547,8 @@
   {
     "location_id": "cuneosupercharger",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "supercharger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "44.4208635700",
@@ -164614,6 +164614,16 @@
     "open_soon": "0",
     "latitude": "1.3404393000",
     "longitude": "103.8586733000"
+  },
+  {
+    "location_id": "pyeongtaeksupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.0532910000",
+    "longitude": "127.0802391000"
   },
   {
     "id": "Bodyshop_NA556",
