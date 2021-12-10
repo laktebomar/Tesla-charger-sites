@@ -43032,13 +43032,14 @@
     "longitude": "-6.3056510000"
   },
   {
-    "location_id": "tasmaniamobileservice",
+    "location_id": "dc21466",
     "location_type": [
-      "service"
+      "destination charger",
+      "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "-42.8804843358",
-    "longitude": "147.3250293217"
+    "open_soon": "0",
+    "latitude": "34.6512790000",
+    "longitude": "135.4364490000"
   },
   {
     "location_id": "dc293",
@@ -141488,9 +141489,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "45.6257086000",
-    "longitude": "-73.8510292000"
+    "open_soon": "1",
+    "latitude": "45.6126490000",
+    "longitude": "-73.8388410000"
   },
   {
     "location_id": "BowieMDsupercharger",
@@ -142818,9 +142819,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "43.0261830000",
-    "longitude": "-73.7913910000"
+    "open_soon": "1",
+    "latitude": "42.9853890000",
+    "longitude": "-73.7868680000"
   },
   {
     "location_id": "ManassasVAsupercharger",
@@ -144280,7 +144281,7 @@
     ],
     "open_soon": "0",
     "latitude": "44.0188710000",
-    "longitude": "-90.5074880000"
+    "longitude": "90.5074880000"
   },
   {
     "location_id": "TorontoONDonMillssupercharger",
@@ -161591,9 +161592,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "33.9759220000",
-    "longitude": "-117.8383370000"
+    "open_soon": "1",
+    "latitude": "34.0286080000",
+    "longitude": "-117.8106240000"
   },
   {
     "location_id": "EphrataPASupercharger",
@@ -164150,8 +164151,7 @@
   {
     "location_id": "mooresvillencsupercharger",
     "location_type": [
-      "supercharger",
-      "standard charger"
+      ""
     ],
     "open_soon": "0",
     "latitude": "35.5874130000",
@@ -164160,8 +164160,7 @@
   {
     "location_id": "normalileastcollegeavesupercharger",
     "location_type": [
-      "supercharger",
-      "standard charger"
+      ""
     ],
     "open_soon": "0",
     "latitude": "40.5111600000",
@@ -164353,7 +164352,8 @@
   {
     "location_id": "johnsoncitytxus281supercharger",
     "location_type": [
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "30.2699580000",
@@ -164624,36 +164624,6 @@
     "open_soon": "0",
     "latitude": "37.0532910000",
     "longitude": "127.0802391000"
-  },
-  {
-    "location_id": "westpalmbeachflturnpikeserviceplazasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "26.6355190000",
-    "longitude": "-80.1746900000"
-  },
-  {
-    "location_id": "townsvillemobileservice",
-    "location_type": [
-      "service"
-    ],
-    "open_soon": "0",
-    "latitude": "-19.2578172479",
-    "longitude": "146.8180779962"
-  },
-  {
-    "location_id": "signestempdelivery",
-    "location_type": [
-      "store",
-      "service",
-      "delivery"
-    ],
-    "open_soon": "0",
-    "latitude": "43.2603969000",
-    "longitude": "5.7864264000"
   },
   {
     "id": "Bodyshop_NA556",
