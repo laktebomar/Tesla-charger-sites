@@ -55045,9 +55045,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "39.3281600000",
-    "longitude": "-120.1840540000"
+    "open_soon": "0",
+    "latitude": "39.3195010000",
+    "longitude": "-120.1558310000"
   },
   {
     "location_id": "tokyojapansupercharger",
@@ -103353,9 +103353,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.7030380000",
-    "longitude": "-85.8646610000"
+    "open_soon": "0",
+    "latitude": "37.6716300000",
+    "longitude": "-85.8455100000"
   },
   {
     "location_id": "enfieldiesupercharger",
@@ -161111,9 +161111,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.7606540000",
-    "longitude": "-111.8910870000"
+    "open_soon": "0",
+    "latitude": "40.7300850000",
+    "longitude": "-111.9017590000"
   },
   {
     "location_id": "ScottsdaleAZSupercharger3",
@@ -163276,9 +163276,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "43.9887012161",
-    "longitude": "-80.7435282905"
+    "open_soon": "0",
+    "latitude": "43.9880600000",
+    "longitude": "-80.7440850000"
   },
   {
     "location_id": "exeteronsupercharger",
@@ -164654,6 +164654,36 @@
     "open_soon": "0",
     "latitude": "43.2603969000",
     "longitude": "5.7864264000"
+  },
+  {
+    "location_id": "malaganjsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "39.5723726000",
+    "longitude": "-75.0527218900"
+  },
+  {
+    "location_id": "paloaltocahanoverstsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.4115800000",
+    "longitude": "-122.1464390000"
+  },
+  {
+    "location_id": "madisonheightsvasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.4660400000",
+    "longitude": "-79.1177300000"
   },
   {
     "id": "Bodyshop_NA556",
