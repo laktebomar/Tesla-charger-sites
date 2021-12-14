@@ -40692,16 +40692,6 @@
     "longitude": "-4.9948970000"
   },
   {
-    "location_id": "dc1093",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "61.3077880000",
-    "longitude": "12.2443290000"
-  },
-  {
     "location_id": "dc9924",
     "location_type": [
       "destination charger",
@@ -59819,16 +59809,6 @@
     "open_soon": "0",
     "latitude": "62.4727350000",
     "longitude": "6.8139480000"
-  },
-  {
-    "location_id": "dc26673",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "46.7016280000",
-    "longitude": "10.0949970000"
   },
   {
     "location_id": "dc26786",
@@ -96257,16 +96237,6 @@
     "longitude": "-0.2968330000"
   },
   {
-    "location_id": "dc38391",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "46.2237040000",
-    "longitude": "6.1007000000"
-  },
-  {
     "location_id": "dc38618",
     "location_type": [
       "destination charger",
@@ -123167,16 +123137,6 @@
     "longitude": "6.5089150000"
   },
   {
-    "location_id": "dc76495",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "39.3570740000",
-    "longitude": "-9.3631400000"
-  },
-  {
     "location_id": "dc78778",
     "location_type": [
       "destination charger",
@@ -130055,16 +130015,6 @@
     "open_soon": "0",
     "latitude": "45.6948840000",
     "longitude": "13.0668150000"
-  },
-  {
-    "location_id": "dc49724",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "39.3350150000",
-    "longitude": "-9.3539190000"
   },
   {
     "location_id": "dc75303",
@@ -137041,7 +136991,7 @@
     "longitude": "7.2977936000"
   },
   {
-    "location_id": "madridfuenlabrada",
+    "location_id": "madridsur",
     "location_type": [
       "store",
       "service",
@@ -161927,7 +161877,7 @@
     "longitude": "13.5215000000"
   },
   {
-    "location_id": "bjärkasgolfclub",
+    "location_id": "bjarkasgolfclub",
     "location_type": [
       "standard charger",
       "destination charger"
@@ -164684,6 +164634,76 @@
     "open_soon": "0",
     "latitude": "37.4660400000",
     "longitude": "-79.1177300000"
+  },
+  {
+    "location_id": "dc1101022",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "24.6701654000",
+    "longitude": "121.7846924000"
+  },
+  {
+    "location_id": "dc1101528",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "24.6735746000",
+    "longitude": "121.7500532000"
+  },
+  {
+    "location_id": "dc1101529",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.8798070300",
+    "longitude": "120.5618254000"
+  },
+  {
+    "location_id": "dc1101530",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "24.6699829000",
+    "longitude": "121.7849132000"
+  },
+  {
+    "location_id": "dc1101534",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "23.9458901200",
+    "longitude": "121.5423509000"
+  },
+  {
+    "location_id": "hotelparadiso",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.5172000000",
+    "longitude": "10.1233900000"
+  },
+  {
+    "location_id": "kennesaw1875",
+    "location_type": [
+      "store",
+      "service"
+    ],
+    "open_soon": "0",
+    "latitude": "34.0000213000",
+    "longitude": "-84.5815257000"
   },
   {
     "id": "Bodyshop_NA556",
