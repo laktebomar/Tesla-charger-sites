@@ -164706,6 +164706,87 @@
     "longitude": "-84.5815257000"
   },
   {
+    "location_id": "benniksgaardhotel",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "54.8909430000",
+    "longitude": "9.5485920000"
+  },
+  {
+    "location_id": "hjertingbadehotel",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "55.5233370000",
+    "longitude": "8.3541640000"
+  },
+  {
+    "location_id": "hotelpanorama",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "47.2651910000",
+    "longitude": "11.7771890000"
+  },
+  {
+    "location_id": "innenstadtgarage",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "47.2692790000",
+    "longitude": "11.3990820000"
+  },
+  {
+    "location_id": "marstalhavn",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "54.8562840000",
+    "longitude": "10.5216620000"
+  },
+  {
+    "location_id": "orenasslotthotell",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "55.9410210000",
+    "longitude": "12.7791590000"
+  },
+  {
+    "location_id": "reitimwinklfestsaal",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "47.6757100000",
+    "longitude": "12.4654290000"
+  },
+  {
+    "location_id": "reimssainteloi",
+    "location_type": [
+      "store",
+      "service",
+      "delivery"
+    ],
+    "open_soon": "0",
+    "latitude": "48.9872643000",
+    "longitude": "4.3446829000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
