@@ -35850,14 +35850,14 @@
     "longitude": "10.9657810000"
   },
   {
-    "location_id": "dc17374",
+    "location_id": "hokkaidosapporosupercharger",
     "location_type": [
-      "destination charger",
+      "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "48.8220120000",
-    "longitude": "2.1828900000"
+    "open_soon": "1",
+    "latitude": "43.0613165800",
+    "longitude": "141.3602621000"
   },
   {
     "location_id": "dc17634",
@@ -140673,14 +140673,14 @@
     "longitude": "145.4261320000"
   },
   {
-    "location_id": "frankstonsupercharger",
+    "location_id": "morningtonsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "-38.1960030000",
-    "longitude": "145.1569850000"
+    "open_soon": "0",
+    "latitude": "-38.2343050000",
+    "longitude": "145.0510850000"
   },
   {
     "location_id": "sydney2supercharger",
@@ -164785,6 +164785,26 @@
     "open_soon": "0",
     "latitude": "48.9872643000",
     "longitude": "4.3446829000"
+  },
+  {
+    "location_id": "toyamasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.6932281718",
+    "longitude": "137.2105711900"
+  },
+  {
+    "location_id": "fukuisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.0854555000",
+    "longitude": "136.2472946000"
   },
   {
     "id": "Bodyshop_NA556",
