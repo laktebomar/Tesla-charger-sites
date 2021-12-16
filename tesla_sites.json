@@ -58611,16 +58611,6 @@
     "longitude": "-105.5626630000"
   },
   {
-    "location_id": "dc20018",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "58.4510780000",
-    "longitude": "14.8906090000"
-  },
-  {
     "location_id": "dc15253",
     "location_type": [
       "destination charger",
@@ -140258,9 +140248,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "60.6826370000",
-    "longitude": "13.7133390000"
+    "open_soon": "0",
+    "latitude": "60.6853320000",
+    "longitude": "13.7135370000"
   },
   {
     "location_id": "orebrosesupercharger",
@@ -164805,6 +164795,16 @@
     "open_soon": "1",
     "latitude": "36.0854555000",
     "longitude": "136.2472946000"
+  },
+  {
+    "location_id": "giljagistingehf",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "63.7189530000",
+    "longitude": "-18.5048300000"
   },
   {
     "id": "Bodyshop_NA556",
