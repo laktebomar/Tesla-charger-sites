@@ -111132,12 +111132,12 @@
   {
     "location_id": "dc50282",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
-    "latitude": "-45.0155640000",
-    "longitude": "168.7469960000"
+    "latitude": "-45.0114881166",
+    "longitude": "168.7429068151"
   },
   {
     "location_id": "dc56543",
@@ -164805,6 +164805,24 @@
     "open_soon": "0",
     "latitude": "63.7189530000",
     "longitude": "-18.5048300000"
+  },
+  {
+    "location_id": "dc1096744",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "33.8817100000",
+    "longitude": "130.8829700000"
+  },
+  {
+    "location_id": "dc1103258",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "34.2583400000",
+    "longitude": "133.8556600000"
   },
   {
     "id": "Bodyshop_NA556",
