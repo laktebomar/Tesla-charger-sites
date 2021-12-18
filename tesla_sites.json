@@ -141290,9 +141290,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "30.1628830000",
-    "longitude": "-97.7920960000"
+    "open_soon": "1",
+    "latitude": "30.1119540000",
+    "longitude": "-97.8073000000"
   },
   {
     "location_id": "AustinTXWestsupercharger",
@@ -142190,9 +142190,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "42.0904210000",
-    "longitude": "-71.4248980000"
+    "open_soon": "1",
+    "latitude": "42.0835560000",
+    "longitude": "-71.3968370000"
   },
   {
     "location_id": "FredericksburgTXsupercharger",
@@ -143910,9 +143910,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "37.7230740000",
-    "longitude": "-121.9442180000"
+    "open_soon": "1",
+    "latitude": "37.7643510000",
+    "longitude": "-121.9540000000"
   },
   {
     "location_id": "SanYsidroCAsupercharger",
@@ -164921,26 +164921,6 @@
     "open_soon": "0",
     "latitude": "46.7746470000",
     "longitude": "5.5222090000"
-  },
-  {
-    "location_id": "rockinghamncsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "34.9219510000",
-    "longitude": "-79.7486070000"
-  },
-  {
-    "location_id": "quebeccityquebecblvddesgradinssupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "46.8406662600",
-    "longitude": "-71.2774370000"
   },
   {
     "id": "Bodyshop_NA556",
