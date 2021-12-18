@@ -11456,6 +11456,15 @@
     "longitude": "-76.6038306000"
   },
   {
+    "location_id": "dc5955",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "40.9830110000",
+    "longitude": "-73.6878980000"
+  },
+  {
     "location_id": "dc5965",
     "location_type": [
       "destination charger"
@@ -139940,9 +139949,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "63.4417750000",
-    "longitude": "10.4572030000"
+    "open_soon": "1",
+    "latitude": "63.4329980000",
+    "longitude": "10.3915290000"
   },
   {
     "location_id": "VossSouthnosupercharger",
