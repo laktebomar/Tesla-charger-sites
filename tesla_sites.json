@@ -142750,9 +142750,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "38.7930200000",
-    "longitude": "-77.5155400000"
+    "open_soon": "1",
+    "latitude": "38.7510110000",
+    "longitude": "-77.4751730000"
   },
   {
     "location_id": "MankatoMNsupercharger",
@@ -144110,9 +144110,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "49.1922010000",
-    "longitude": "-122.7881670000"
+    "open_soon": "1",
+    "latitude": "49.0601240000",
+    "longitude": "-122.7992040000"
   },
   {
     "location_id": "SouthTemeculaCAsupercharger",
@@ -161224,9 +161224,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "39.0812400000",
-    "longitude": "-76.8887800000"
+    "open_soon": "1",
+    "latitude": "39.0993020000",
+    "longitude": "-76.8483420000"
   },
   {
     "location_id": "MelbourneFLSupercharger",
