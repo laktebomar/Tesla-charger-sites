@@ -73730,7 +73730,7 @@
     "longitude": "132.4043820000"
   },
   {
-    "location_id": "holbaeksupercharger",
+    "location_id": "kirkesabysupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
@@ -140205,14 +140205,14 @@
     "longitude": "17.0240000000"
   },
   {
-    "location_id": "Riksgransensesupercharger",
+    "location_id": "bjorklidensupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "68.4299590000",
-    "longitude": "18.1185580000"
+    "open_soon": "0",
+    "latitude": "68.4071050000",
+    "longitude": "18.6765540000"
   },
   {
     "location_id": "angesesupercharger",
@@ -159946,15 +159946,6 @@
     "longitude": "114.1578900000"
   },
   {
-    "location_id": "copenhagensouth",
-    "location_type": [
-      "service"
-    ],
-    "open_soon": "1",
-    "latitude": "55.5869255085",
-    "longitude": "12.2508717663"
-  },
-  {
     "location_id": "mesa7444",
     "location_type": [
       "store",
@@ -164559,16 +164550,6 @@
     "longitude": "-75.0527218900"
   },
   {
-    "location_id": "paloaltocahanoverstsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.4115800000",
-    "longitude": "-122.1464390000"
-  },
-  {
     "location_id": "madisonheightsvasupercharger",
     "location_type": [
       "supercharger",
@@ -164950,6 +164931,16 @@
     "open_soon": "0",
     "latitude": "46.8406662600",
     "longitude": "-71.2774370000"
+  },
+  {
+    "location_id": "kasselsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "51.3139500000",
+    "longitude": "9.4934334100"
   },
   {
     "id": "Bodyshop_NA556",
