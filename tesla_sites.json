@@ -142922,7 +142922,7 @@
     ],
     "open_soon": "0",
     "latitude": "30.0019280000",
-    "longitude": "-90.1559780000"
+    "longitude": "-90.1246300000"
   },
   {
     "location_id": "MexicoCitySouthsupercharger",
@@ -164257,6 +164257,7 @@
   {
     "location_id": "johnsoncitytxus281supercharger",
     "location_type": [
+      "supercharger",
       "standard charger"
     ],
     "open_soon": "0",
