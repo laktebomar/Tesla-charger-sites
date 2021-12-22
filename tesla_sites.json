@@ -164943,26 +164943,6 @@
     "longitude": "9.4934334100"
   },
   {
-    "location_id": "elementssupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.3062000000",
-    "longitude": "114.1615000000"
-  },
-  {
-    "location_id": "dc1096754",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.3062710000",
-    "longitude": "114.1614240000"
-  },
-  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
