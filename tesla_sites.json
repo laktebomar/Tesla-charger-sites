@@ -149479,6 +149479,16 @@
     "longitude": "121.3758600000"
   },
   {
+    "location_id": "cnsc9083",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "31.4686500000",
+    "longitude": "121.8304940000"
+  },
+  {
     "location_id": "cnsc9084",
     "location_type": [
       "supercharger",
