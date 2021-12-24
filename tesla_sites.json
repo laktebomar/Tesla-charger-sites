@@ -142100,9 +142100,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.1195160000",
-    "longitude": "-75.7723120000"
+    "open_soon": "0",
+    "latitude": "40.1219769500",
+    "longitude": "-75.7756586100"
   },
   {
     "location_id": "EscondidoCAsupercharger",
@@ -157945,9 +157945,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "41.4299160000",
-    "longitude": "-81.7513440000"
+    "open_soon": "0",
+    "latitude": "41.4226400000",
+    "longitude": "-81.7583600000"
   },
   {
     "location_id": "CapeGiradeauMOSupercharger",
@@ -158005,9 +158005,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "38.9516450000",
-    "longitude": "-92.3341290000"
+    "open_soon": "0",
+    "latitude": "38.9543720000",
+    "longitude": "-92.3831160000"
   },
   {
     "location_id": "CottonwoodCASupercharger",
@@ -160404,9 +160404,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.1315035600",
-    "longitude": "128.2048458000"
+    "open_soon": "0",
+    "latitude": "37.0724746092",
+    "longitude": "128.1917695916"
   },
   {
     "location_id": "maposupercharger",
@@ -160434,9 +160434,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "38.0597548600",
-    "longitude": "128.6593084000"
+    "open_soon": "0",
+    "latitude": "38.0543500000",
+    "longitude": "128.6606100000"
   },
   {
     "location_id": "tainanyongkangsupercharger",
@@ -165050,6 +165050,16 @@
     "open_soon": "0",
     "latitude": "44.2651490000",
     "longitude": "-76.5018160000"
+  },
+  {
+    "location_id": "cheongnasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.5323600000",
+    "longitude": "126.6416600000"
   },
   {
     "id": "Bodyshop_NA556",
