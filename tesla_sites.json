@@ -101903,16 +101903,6 @@
     "longitude": "-6.4160680000"
   },
   {
-    "location_id": "dc38226",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "36.7322070000",
-    "longitude": "-3.6973500000"
-  },
-  {
     "location_id": "dc42103",
     "location_type": [
       "destination charger",
@@ -140290,9 +140280,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "47.4531600000",
-    "longitude": "8.7038400000"
+    "open_soon": "0",
+    "latitude": "47.4518450000",
+    "longitude": "8.7044850000"
   },
   {
     "location_id": "Luzernchsupercharger",
@@ -157715,9 +157705,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.6622225000",
-    "longitude": "126.6196789000"
+    "open_soon": "0",
+    "latitude": "37.6453842000",
+    "longitude": "126.6302604000"
   },
   {
     "location_id": "namyangjusupercharger",
@@ -164952,6 +164942,26 @@
     "open_soon": "0",
     "latitude": "22.3062710000",
     "longitude": "114.1614240000"
+  },
+  {
+    "location_id": "santamariabriones",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "42.5443960000",
+    "longitude": "-2.7862800000"
+  },
+  {
+    "location_id": "feuchtsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "49.3650190000",
+    "longitude": "11.2072730000"
   },
   {
     "id": "Bodyshop_NA556",
