@@ -46692,8 +46692,8 @@
   {
     "location_id": "dc17055",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "-37.8379360000",
@@ -72405,9 +72405,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "30.5049670000",
-    "longitude": "-97.8202250000"
+    "open_soon": "0",
+    "latitude": "30.5257275000",
+    "longitude": "-97.8193780000"
   },
   {
     "location_id": "celebrationfloridasupercharger",
@@ -103454,9 +103454,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "36.6304210000",
-    "longitude": "136.9081890000"
+    "open_soon": "0",
+    "latitude": "36.5987643772",
+    "longitude": "136.6242858637"
   },
   {
     "location_id": "kincardinesupercharger",
@@ -142390,9 +142390,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "21.3070310000",
-    "longitude": "-157.8603360000"
+    "open_soon": "0",
+    "latitude": "21.3832500000",
+    "longitude": "-157.9411390000"
   },
   {
     "location_id": "HoodRiverORsupercharger",
@@ -142500,9 +142500,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "42.5847800000",
-    "longitude": "-87.8210190000"
+    "open_soon": "0",
+    "latitude": "42.5690820000",
+    "longitude": "-87.9475740000"
   },
   {
     "location_id": "KettlemanCityCAsupercharger",
@@ -159461,14 +159461,13 @@
     "longitude": "120.2738290000"
   },
   {
-    "location_id": "maxingecenter",
+    "location_id": "tokyoitabashi",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "service"
     ],
     "open_soon": "0",
-    "latitude": "60.1303520000",
-    "longitude": "19.9339330000"
+    "latitude": "35.7800390000",
+    "longitude": "139.6919530000"
   },
   {
     "location_id": "thebellkennett",
@@ -161065,9 +161064,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "27.2159920000",
-    "longitude": "-81.8585100000"
+    "open_soon": "0",
+    "latitude": "27.2095000000",
+    "longitude": "-81.8377400000"
   },
   {
     "location_id": "BadAxeMISupercharger",
@@ -161155,9 +161154,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "41.4903790000",
-    "longitude": "-83.3686700000"
+    "open_soon": "0",
+    "latitude": "41.4900500000",
+    "longitude": "-83.3705100000"
   },
   {
     "location_id": "GirardOHSupercharger",
@@ -161285,9 +161284,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "33.6082820000",
-    "longitude": "-80.3511460000"
+    "open_soon": "0",
+    "latitude": "33.5870300000",
+    "longitude": "-80.3572000000"
   },
   {
     "location_id": "TorranceCASupercharger2",
@@ -161745,9 +161744,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "49.4992530000",
-    "longitude": "-119.5939410000"
+    "open_soon": "0",
+    "latitude": "49.4962437700",
+    "longitude": "-119.6151225000"
   },
   {
     "location_id": "RichmondBCSupercharger2",
@@ -164962,6 +164961,95 @@
     "open_soon": "0",
     "latitude": "49.3650190000",
     "longitude": "11.2072730000"
+  },
+  {
+    "location_id": "newyorkjfknysupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "40.6617900000",
+    "longitude": "-73.7928200000"
+  },
+  {
+    "location_id": "rockfordilmcfarlandrdsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "42.3062160000",
+    "longitude": "-88.9764730000"
+  },
+  {
+    "location_id": "elkhartingeorgecraigtravelplazasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "41.7317000000",
+    "longitude": "-86.0051400000"
+  },
+  {
+    "location_id": "elkhartinhenryschrickertravelplazasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "41.7328100000",
+    "longitude": "-86.0048400000"
+  },
+  {
+    "location_id": "missionviejocacrownvalleyparkwaysupercharger",
+    "location_type": [
+      ""
+    ],
+    "open_soon": "0",
+    "latitude": "33.5607959000",
+    "longitude": "-117.6717680000"
+  },
+  {
+    "location_id": "portageinjohntmccutcheontravelplazasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "41.5883900000",
+    "longitude": "-87.2165600000"
+  },
+  {
+    "location_id": "portageingeorgeadetravelplazasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "41.5874500000",
+    "longitude": "-87.2175900000"
+  },
+  {
+    "location_id": "genoaohnbsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "41.4906200000",
+    "longitude": "-83.3666500000"
+  },
+  {
+    "location_id": "kingstonondaltonavesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.2651490000",
+    "longitude": "-76.5018160000"
   },
   {
     "id": "Bodyshop_NA556",
