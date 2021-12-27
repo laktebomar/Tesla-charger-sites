@@ -61821,6 +61821,16 @@
     "longitude": "126.4561000000"
   },
   {
+    "location_id": "dc27203",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.5245000000",
+    "longitude": "127.0365000000"
+  },
+  {
     "location_id": "dc27216",
     "location_type": [
       "destination charger",
@@ -74090,14 +74100,14 @@
     "longitude": "139.9245550000"
   },
   {
-    "location_id": "kobemikagesupercharger",
+    "location_id": "kobejpsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "34.7153663000",
-    "longitude": "135.2552938400"
+    "open_soon": "1",
+    "latitude": "34.6914720000",
+    "longitude": "135.1929310000"
   },
   {
     "location_id": "kyotojpsupercharger",
@@ -103464,9 +103474,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "37.3957630604",
-    "longitude": "140.3327510330"
+    "open_soon": "1",
+    "latitude": "37.4629630000",
+    "longitude": "140.3588850000"
   },
   {
     "location_id": "laedalnosupercharger",
@@ -141055,6 +141065,16 @@
     "longitude": "120.3619396000"
   },
   {
+    "location_id": "greatertaipeiixsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "25.0927930000",
+    "longitude": "121.5273700000"
+  },
+  {
     "location_id": "yunlinchaiyisupercharger",
     "location_type": [
       "supercharger",
@@ -165040,36 +165060,6 @@
     "open_soon": "0",
     "latitude": "37.5323600000",
     "longitude": "126.6416600000"
-  },
-  {
-    "location_id": "taichungfengyuanamartsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "24.2562560100",
-    "longitude": "120.7343466000"
-  },
-  {
-    "location_id": "taipeishilinfulinsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.0928040500",
-    "longitude": "121.5271815000"
-  },
-  {
-    "location_id": "newtaipeisanchongamartsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.0717185000",
-    "longitude": "121.4759775000"
   },
   {
     "id": "Bodyshop_NA556",
