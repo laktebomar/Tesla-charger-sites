@@ -164058,15 +164058,6 @@
     "longitude": "139.6488900000"
   },
   {
-    "location_id": "shatinservice",
-    "location_type": [
-      "service"
-    ],
-    "open_soon": "0",
-    "latitude": "22.3829200000",
-    "longitude": "114.2056950000"
-  },
-  {
     "location_id": "yuchuisupercharger",
     "location_type": [
       "supercharger",
@@ -165070,6 +165061,16 @@
     "open_soon": "0",
     "latitude": "25.0717185000",
     "longitude": "121.4759775000"
+  },
+  {
+    "location_id": "shatinstoreservice",
+    "location_type": [
+      "store",
+      "service"
+    ],
+    "open_soon": "0",
+    "latitude": "22.3829200000",
+    "longitude": "114.2056950000"
   },
   {
     "id": "Bodyshop_NA556",
