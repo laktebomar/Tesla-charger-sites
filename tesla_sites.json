@@ -165073,6 +165073,16 @@
     "longitude": "114.2056950000"
   },
   {
+    "location_id": "cheongdosupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "35.6541179000",
+    "longitude": "128.7493510000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
