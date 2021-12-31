@@ -141270,9 +141270,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "30.2355950000",
-    "longitude": "-97.8245000000"
+    "open_soon": "0",
+    "latitude": "30.2334120000",
+    "longitude": "-97.7931100000"
   },
   {
     "location_id": "BancroftONsupercharger",
@@ -143190,9 +143190,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "44.0536805000",
-    "longitude": "-71.1284041000"
+    "open_soon": "0",
+    "latitude": "44.0202740000",
+    "longitude": "-71.1136700000"
   },
   {
     "location_id": "NorthVancouverBCsupercharger",
@@ -143320,9 +143320,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "28.3775840000",
-    "longitude": "-81.5045900000"
+    "open_soon": "0",
+    "latitude": "28.3849700000",
+    "longitude": "-81.5012700000"
   },
   {
     "location_id": "PacificPalisadesCAsupercharger",
@@ -158055,9 +158055,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "25.8197220000",
-    "longitude": "-80.3552840000"
+    "open_soon": "0",
+    "latitude": "25.8062200000",
+    "longitude": "-80.3377800000"
   },
   {
     "location_id": "ElwoodNJSupercharger",
@@ -165081,6 +165081,16 @@
     "open_soon": "0",
     "latitude": "35.6541179000",
     "longitude": "128.7493510000"
+  },
+  {
+    "location_id": "madisonflsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "30.4338700000",
+    "longitude": "-83.4535000000"
   },
   {
     "id": "Bodyshop_NA556",
