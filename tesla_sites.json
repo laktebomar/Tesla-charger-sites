@@ -133376,15 +133376,6 @@
     "longitude": "-122.5835360000"
   },
   {
-    "location_id": "singaporerafflescity",
-    "location_type": [
-      "store"
-    ],
-    "open_soon": "0",
-    "latitude": "1.2938200000",
-    "longitude": "103.8527800000"
-  },
-  {
     "location_id": "londononsupercharger",
     "location_type": [
       "supercharger",
@@ -165091,6 +165082,26 @@
     "open_soon": "0",
     "latitude": "30.4338700000",
     "longitude": "-83.4535000000"
+  },
+  {
+    "location_id": "genovanorthsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.4703700000",
+    "longitude": "8.9008020000"
+  },
+  {
+    "location_id": "echingsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.3065140000",
+    "longitude": "11.6345770000"
   },
   {
     "id": "Bodyshop_NA556",
