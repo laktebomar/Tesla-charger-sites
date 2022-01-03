@@ -37039,15 +37039,6 @@
     "longitude": "-113.3971890000"
   },
   {
-    "location_id": "londonchiswick",
-    "location_type": [
-      "store"
-    ],
-    "open_soon": "0",
-    "latitude": "51.4873680000",
-    "longitude": "-0.2530830000"
-  },
-  {
     "location_id": "dc19073",
     "location_type": [
       "destination charger",
