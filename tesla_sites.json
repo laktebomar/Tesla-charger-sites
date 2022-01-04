@@ -165095,6 +165095,26 @@
     "longitude": "11.6345770000"
   },
   {
+    "location_id": "hsinchuzhubei",
+    "location_type": [
+      "store",
+      "service"
+    ],
+    "open_soon": "0",
+    "latitude": "24.8242465500",
+    "longitude": "121.0238898000"
+  },
+  {
+    "location_id": "berlinroedernallee",
+    "location_type": [
+      "store",
+      "service"
+    ],
+    "open_soon": "0",
+    "latitude": "52.5791500000",
+    "longitude": "13.3479100000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
