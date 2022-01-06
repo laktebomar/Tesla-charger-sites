@@ -27052,15 +27052,6 @@
     "longitude": "0.0641690000"
   },
   {
-    "location_id": "nicepolygoneriviera",
-    "location_type": [
-      "store"
-    ],
-    "open_soon": "0",
-    "latitude": "43.6627950000",
-    "longitude": "7.1318180000"
-  },
-  {
     "location_id": "frankfurtbockenheimer",
     "location_type": [
       "store"
@@ -165057,8 +165048,7 @@
   {
     "location_id": "hsinchuzhubei",
     "location_type": [
-      "store",
-      "service"
+      "store"
     ],
     "open_soon": "0",
     "latitude": "24.8242465500",
