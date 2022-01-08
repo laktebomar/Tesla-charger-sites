@@ -142723,9 +142723,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "38.0194160000",
-    "longitude": "-122.1341420000"
+    "open_soon": "0",
+    "latitude": "37.9929560000",
+    "longitude": "-122.1213620000"
   },
   {
     "location_id": "MataneQCsupercharger",
@@ -160226,16 +160226,6 @@
     "longitude": "6.9318915000"
   },
   {
-    "location_id": "Reims",
-    "location_type": [
-      "store",
-      "service"
-    ],
-    "open_soon": "1",
-    "latitude": "48.9753574000",
-    "longitude": "4.3371017000"
-  },
-  {
     "location_id": "Parisest",
     "location_type": [
       "store",
@@ -165063,6 +165053,26 @@
     "open_soon": "0",
     "latitude": "52.5791500000",
     "longitude": "13.3479100000"
+  },
+  {
+    "location_id": "gyeonggiyongin",
+    "location_type": [
+      "service",
+      "body repair center"
+    ],
+    "open_soon": "0",
+    "latitude": "33.4927362967",
+    "longitude": "126.5070560976"
+  },
+  {
+    "location_id": "canoecreekflfloridaturnpikeserviceplsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "28.0953140000",
+    "longitude": "-81.2746260000"
   },
   {
     "id": "Bodyshop_NA556",
