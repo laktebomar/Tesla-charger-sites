@@ -38457,8 +38457,8 @@
   {
     "location_id": "dc15631",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "54.7410220000",
@@ -46411,6 +46411,16 @@
     "open_soon": "0",
     "latitude": "51.6701200000",
     "longitude": "5.2934470000"
+  },
+  {
+    "location_id": "dc15968",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "54.9684880000",
+    "longitude": "-1.6320410000"
   },
   {
     "location_id": "dc17678",
@@ -60795,8 +60805,8 @@
   {
     "location_id": "dc19423",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "56.8978780000",
@@ -76930,8 +76940,8 @@
   {
     "location_id": "dc30272",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "45.5121720000",
@@ -79324,6 +79334,16 @@
     "open_soon": "0",
     "latitude": "39.2352170000",
     "longitude": "-8.6763440000"
+  },
+  {
+    "location_id": "dc23749",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "51.1919460000",
+    "longitude": "8.5213450000"
   },
   {
     "location_id": "dc29627",
@@ -89766,8 +89786,8 @@
   {
     "location_id": "dc21440",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "46.7168440000",
@@ -95232,8 +95252,8 @@
   {
     "location_id": "dc25728",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "47.5367540000",
@@ -95923,8 +95943,8 @@
   {
     "location_id": "dc31670",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.0357170000",
@@ -160196,14 +160216,14 @@
     "longitude": "-87.9511833000"
   },
   {
-    "location_id": "cannesmandelieu",
+    "location_id": "cannes",
     "location_type": [
       "store",
-      "delivery"
+      "service"
     ],
-    "open_soon": "0",
-    "latitude": "43.5501360000",
-    "longitude": "6.9476110000"
+    "open_soon": "1",
+    "latitude": "43.5426744000",
+    "longitude": "6.9318915000"
   },
   {
     "location_id": "Parisest",
