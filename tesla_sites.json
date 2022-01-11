@@ -72612,16 +72612,6 @@
     "longitude": "-83.0008020000"
   },
   {
-    "location_id": "comoitsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "45.8069900000",
-    "longitude": "9.0849300000"
-  },
-  {
     "location_id": "ConcordCAsupercharger",
     "location_type": [
       "supercharger",
