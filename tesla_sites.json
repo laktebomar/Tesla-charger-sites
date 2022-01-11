@@ -39831,8 +39831,8 @@
   {
     "location_id": "dc21703",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "48.6389850000",
@@ -50512,16 +50512,6 @@
     "open_soon": "0",
     "latitude": "62.3172070000",
     "longitude": "7.2943910000"
-  },
-  {
-    "location_id": "dc24501",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "48.0151944800",
-    "longitude": "7.8023570000"
   },
   {
     "location_id": "dc20716",
@@ -103250,16 +103240,6 @@
     "open_soon": "0",
     "latitude": "40.7610150000",
     "longitude": "-73.8297770000"
-  },
-  {
-    "location_id": "genovaitsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "44.4223770000",
-    "longitude": "8.8894510000"
   },
   {
     "location_id": "brooklynatlanticsupercharger",
@@ -165043,6 +165023,25 @@
     "open_soon": "0",
     "latitude": "28.0953140000",
     "longitude": "-81.2746260000"
+  },
+  {
+    "location_id": "exeter_popup",
+    "location_type": [
+      "store"
+    ],
+    "open_soon": "1",
+    "latitude": "50.6864210000",
+    "longitude": "-3.4480680000"
+  },
+  {
+    "location_id": "agriturismobelmonte",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "43.5072780000",
+    "longitude": "10.8747060000"
   },
   {
     "id": "Bodyshop_NA556",
