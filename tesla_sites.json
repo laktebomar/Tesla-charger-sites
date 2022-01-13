@@ -40588,8 +40588,8 @@
   {
     "location_id": "dc21836",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "51.1950650000",
@@ -40638,8 +40638,8 @@
   {
     "location_id": "dc16979",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "36.5133990000",
@@ -126353,16 +126353,6 @@
     "longitude": "9.9318590000"
   },
   {
-    "location_id": "dc21875",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "50.6336840000",
-    "longitude": "4.4772160000"
-  },
-  {
     "location_id": "dc52055",
     "location_type": [
       "destination charger",
@@ -165042,6 +165032,36 @@
     "open_soon": "0",
     "latitude": "43.5072780000",
     "longitude": "10.8747060000"
+  },
+  {
+    "location_id": "dc1109089",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "24.8224229300",
+    "longitude": "121.0233365000"
+  },
+  {
+    "location_id": "hotelspagrumsbarcelona",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "41.3730205100",
+    "longitude": "2.1720648100"
+  },
+  {
+    "location_id": "aquiladolomitesresidence",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.5742400000",
+    "longitude": "11.6722800000"
   },
   {
     "id": "Bodyshop_NA556",
