@@ -165016,11 +165016,11 @@
     "longitude": "-81.2746260000"
   },
   {
-    "location_id": "exeter_popup",
+    "location_id": "exeterpopup",
     "location_type": [
       "store"
     ],
-    "open_soon": "1",
+    "open_soon": "0",
     "latitude": "50.6864210000",
     "longitude": "-3.4480680000"
   },
