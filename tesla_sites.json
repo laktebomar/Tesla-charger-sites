@@ -32238,14 +32238,14 @@
     "longitude": "145.3140810000"
   },
   {
-    "location_id": "dc18703",
+    "location_id": "tailembendsupercharger",
     "location_type": [
-      "destination charger",
+      "supercharger",
       "standard charger"
     ],
     "open_soon": "0",
-    "latitude": "-38.5045610000",
-    "longitude": "145.2600040000"
+    "latitude": "-35.3039550000",
+    "longitude": "139.5013330000"
   },
   {
     "location_id": "dc11334",
@@ -164220,9 +164220,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "38.1878566700",
-    "longitude": "140.3106107000"
+    "open_soon": "0",
+    "latitude": "38.1928480500",
+    "longitude": "140.3113534800"
   },
   {
     "location_id": "horshamdarlotsupercharger",
