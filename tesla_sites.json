@@ -5411,6 +5411,17 @@
     "longitude": "-71.8330590000"
   },
   {
+    "location_id": "brentcross",
+    "location_type": [
+      "store",
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "51.5766090000",
+    "longitude": "-0.2230063000"
+  },
+  {
     "location_id": "springfieldilsupercharger",
     "location_type": [
       "supercharger",
@@ -137593,6 +137604,16 @@
     "open_soon": "0",
     "latitude": "25.0205850000",
     "longitude": "121.5432400000"
+  },
+  {
+    "location_id": "dc780197",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.0842770000",
+    "longitude": "121.5589900000"
   },
   {
     "location_id": "dc780186",
