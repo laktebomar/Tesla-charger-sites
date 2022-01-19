@@ -42795,16 +42795,6 @@
     "longitude": "10.9283360000"
   },
   {
-    "location_id": "dc12841",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "47.7623550000",
-    "longitude": "12.6457990000"
-  },
-  {
     "location_id": "dc13312",
     "location_type": [
       "destination charger",
@@ -156666,8 +156656,8 @@
       "store"
     ],
     "open_soon": "0",
-    "latitude": "48.3859113000",
-    "longitude": "10.0275427000"
+    "latitude": "48.3853821000",
+    "longitude": "10.0303674000"
   },
   {
     "location_id": "kawasakitomei",
@@ -165042,6 +165032,105 @@
     "open_soon": "0",
     "latitude": "46.5742400000",
     "longitude": "11.6722800000"
+  },
+  {
+    "location_id": "derbysupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "52.9183290000",
+    "longitude": "-1.4718478000"
+  },
+  {
+    "location_id": "dc1109460",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.6160475400",
+    "longitude": "120.3083485000"
+  },
+  {
+    "location_id": "dc1109463",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.9979386100",
+    "longitude": "120.1873863000"
+  },
+  {
+    "location_id": "dc1109465",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.1360510200",
+    "longitude": "121.5069330000"
+  },
+  {
+    "location_id": "dc1109466",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.0681978100",
+    "longitude": "121.4574055000"
+  },
+  {
+    "location_id": "dc1109467",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.7307745400",
+    "longitude": "120.4010734000"
+  },
+  {
+    "location_id": "dc1109470",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "23.8962648700",
+    "longitude": "120.9336803000"
+  },
+  {
+    "location_id": "dc1109917",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "24.1516188800",
+    "longitude": "120.4887212000"
+  },
+  {
+    "location_id": "dc1109919",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "23.5530165000",
+    "longitude": "120.6705011000"
+  },
+  {
+    "location_id": "madridpopup",
+    "location_type": [
+      "store"
+    ],
+    "open_soon": "1",
+    "latitude": "40.4268750000",
+    "longitude": "-3.6982680000"
   },
   {
     "id": "Bodyshop_NA556",
