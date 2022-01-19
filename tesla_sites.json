@@ -162982,9 +162982,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "43.3625240000",
-    "longitude": "-81.4799780000"
+    "open_soon": "1",
+    "latitude": "43.3629081779",
+    "longitude": "-81.4798371350"
   },
   {
     "location_id": "taoyuanguishansupercharger",
@@ -165131,26 +165131,6 @@
     "open_soon": "1",
     "latitude": "40.4268750000",
     "longitude": "-3.6982680000"
-  },
-  {
-    "location_id": "llanotxsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "30.7505360000",
-    "longitude": "-98.6748996000"
-  },
-  {
-    "location_id": "brooksvilleflsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "28.5226900000",
-    "longitude": "-82.2299900000"
   },
   {
     "id": "Bodyshop_NA556",
