@@ -165152,6 +165152,16 @@
     "longitude": "-82.2299900000"
   },
   {
+    "location_id": "singaporestarvistasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "1.3069321400",
+    "longitude": "103.7882218700"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
