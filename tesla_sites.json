@@ -1523,7 +1523,6 @@
   {
     "location_id": "stuttgart",
     "location_type": [
-      "store",
       "service",
       "delivery"
     ],
