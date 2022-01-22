@@ -140021,9 +140021,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "61.2949070000",
-    "longitude": "17.0209820000"
+    "open_soon": "1",
+    "latitude": "61.2971460000",
+    "longitude": "17.0240000000"
   },
   {
     "location_id": "bjorklidensupercharger",
@@ -140186,14 +140186,14 @@
     "longitude": "55.9663090000"
   },
   {
-    "location_id": "mallofemiratessupercharger",
+    "location_id": "DubaiMarinaaesupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "25.1167420000",
-    "longitude": "55.2028450000"
+    "open_soon": "1",
+    "latitude": "25.1181908000",
+    "longitude": "55.2000957000"
   },
   {
     "location_id": "Flintmountainsupercharger",
