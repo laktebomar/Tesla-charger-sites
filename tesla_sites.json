@@ -97281,16 +97281,6 @@
     "longitude": "24.9260940000"
   },
   {
-    "location_id": "dc43770",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "47.0005810000",
-    "longitude": "9.5037580000"
-  },
-  {
     "location_id": "dc45836",
     "location_type": [
       "destination charger",
@@ -165123,11 +165113,11 @@
     "longitude": "120.6705011000"
   },
   {
-    "location_id": "madridpopup",
+    "location_id": "madridursohotel",
     "location_type": [
       "store"
     ],
-    "open_soon": "1",
+    "open_soon": "0",
     "latitude": "40.4268750000",
     "longitude": "-3.6982680000"
   },
