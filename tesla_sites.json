@@ -23575,8 +23575,8 @@
   {
     "location_id": "dc10024",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "48.8598940000",
@@ -63442,16 +63442,6 @@
     "open_soon": "0",
     "latitude": "46.5542910000",
     "longitude": "11.6601540000"
-  },
-  {
-    "location_id": "dc17231",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "49.1403370000",
-    "longitude": "16.6326170000"
   },
   {
     "location_id": "dc22177",
@@ -125691,16 +125681,6 @@
     "longitude": "5.4688680000"
   },
   {
-    "location_id": "dc72720",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.0807700000",
-    "longitude": "55.1207190000"
-  },
-  {
     "location_id": "dc73757",
     "location_type": [
       "destination charger",
@@ -125709,16 +125689,6 @@
     "open_soon": "0",
     "latitude": "54.8874390000",
     "longitude": "-2.8747330000"
-  },
-  {
-    "location_id": "dc85687",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.0823090000",
-    "longitude": "55.1220590000"
   },
   {
     "location_id": "dc77492",
@@ -127036,16 +127006,6 @@
     "open_soon": "0",
     "latitude": "47.0524370000",
     "longitude": "4.8572210000"
-  },
-  {
-    "location_id": "dc77821",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "52.3867010000",
-    "longitude": "4.5353510000"
   },
   {
     "location_id": "dc79925",
@@ -165141,6 +165101,26 @@
     "open_soon": "0",
     "latitude": "63.7522820000",
     "longitude": "-20.2358880000"
+  },
+  {
+    "location_id": "elfaro",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "38.8852050000",
+    "longitude": "-7.0219060000"
+  },
+  {
+    "location_id": "elfarouniversal",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "38.8843210000",
+    "longitude": "-7.0219730000"
   },
   {
     "id": "Bodyshop_NA556",
