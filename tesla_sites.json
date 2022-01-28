@@ -62,8 +62,7 @@
     "location_id": "aurlandsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "60.8986490000",
