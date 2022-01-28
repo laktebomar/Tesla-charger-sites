@@ -165133,6 +165133,16 @@
     "longitude": "103.7882218700"
   },
   {
+    "location_id": "hvolsvöllursupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "63.7522820000",
+    "longitude": "-20.2358880000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
