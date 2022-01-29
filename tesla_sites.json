@@ -103165,9 +103165,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "42.0503600000",
-    "longitude": "-87.6856340000"
+    "open_soon": "1",
+    "latitude": "42.0451740000",
+    "longitude": "-87.6877910000"
   },
   {
     "location_id": "evergreenparksupercharger",
@@ -142032,9 +142032,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "40.5646162000",
-    "longitude": "-76.0074535600"
+    "open_soon": "1",
+    "latitude": "40.5554610000",
+    "longitude": "-75.9816430000"
   },
   {
     "location_id": "HamdenCTsupercharger",
@@ -165171,16 +165171,6 @@
     "open_soon": "0",
     "latitude": "23.0339812500",
     "longitude": "120.2282850000"
-  },
-  {
-    "location_id": "austintxfm969supercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "30.2548270000",
-    "longitude": "-97.6051180000"
   },
   {
     "id": "Bodyshop_NA556",
