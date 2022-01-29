@@ -165123,56 +165123,6 @@
     "longitude": "-7.0219730000"
   },
   {
-    "location_id": "laxousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "48.6911080000",
-    "longitude": "6.1277920000"
-  },
-  {
-    "location_id": "taichungqingshuiserviceareasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "24.2813890000",
-    "longitude": "120.6020560000"
-  },
-  {
-    "location_id": "hsinchuhukouserviceareanorthboundsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "24.8622660000",
-    "longitude": "121.0125760000"
-  },
-  {
-    "location_id": "hsinchuhukouserviceareasouthboundsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "24.8570600000",
-    "longitude": "121.0086280000"
-  },
-  {
-    "location_id": "tainanyongkangamartsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "23.0339812500",
-    "longitude": "120.2282850000"
-  },
-  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
