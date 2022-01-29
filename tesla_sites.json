@@ -144022,9 +144022,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "45.5407670000",
-    "longitude": "-122.3905720000"
+    "open_soon": "0",
+    "latitude": "45.5427310000",
+    "longitude": "-122.3893550000"
   },
   {
     "location_id": "TukwilaWAsupercharger",
@@ -160647,9 +160647,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "35.1896610000",
-    "longitude": "-114.0529450000"
+    "open_soon": "0",
+    "latitude": "35.1894010000",
+    "longitude": "-114.0590080000"
   },
   {
     "location_id": "KissimmeeFLSupercharger",
@@ -161237,9 +161237,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "33.7090160000",
-    "longitude": "-117.9544090000"
+    "open_soon": "0",
+    "latitude": "33.7156600000",
+    "longitude": "-117.9649470000"
   },
   {
     "location_id": "GardenCityNYSupercharger",
@@ -161267,9 +161267,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "34.1425880000",
-    "longitude": "-118.2549990000"
+    "open_soon": "0",
+    "latitude": "34.1477380000",
+    "longitude": "-118.2272630000"
   },
   {
     "location_id": "KimballTNSupercharger",
@@ -165181,6 +165181,26 @@
     "open_soon": "0",
     "latitude": "30.2548270000",
     "longitude": "-97.6051180000"
+  },
+  {
+    "location_id": "hudsonnysupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "42.2230870000",
+    "longitude": "-73.8267510000"
+  },
+  {
+    "location_id": "princetonwvsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.3638800000",
+    "longitude": "-81.0523800000"
   },
   {
     "id": "Bodyshop_NA556",
