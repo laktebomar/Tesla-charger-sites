@@ -165254,6 +165254,16 @@
     "longitude": "13.1413780000"
   },
   {
+    "location_id": "grayssupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "51.4894700000",
+    "longitude": "0.2866220000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
