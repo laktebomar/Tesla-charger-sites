@@ -58137,8 +58137,8 @@
   {
     "location_id": "dc24997",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "-37.3502370000",
@@ -132978,8 +132978,8 @@
   {
     "location_id": "dc514617",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "-41.2848900000",
@@ -165253,6 +165253,46 @@
     "open_soon": "0",
     "latitude": "51.4894700000",
     "longitude": "0.2866220000"
+  },
+  {
+    "location_id": "dc1109912",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.3394500000",
+    "longitude": "127.1015200000"
+  },
+  {
+    "location_id": "dc1106876",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.4705930000",
+    "longitude": "126.6647440000"
+  },
+  {
+    "location_id": "dc1109434",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "-44.8373600000",
+    "longitude": "169.3562890000"
+  },
+  {
+    "location_id": "kirraweesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "-34.0339460000",
+    "longitude": "151.0739130000"
   },
   {
     "id": "Bodyshop_NA556",
