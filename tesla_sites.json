@@ -53356,16 +53356,6 @@
     "longitude": "-95.4516280000"
   },
   {
-    "location_id": "ShelbyMTsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.5066603000",
-    "longitude": "-111.8561447000"
-  },
-  {
     "location_id": "sherburnmnsupercharger",
     "location_type": [
       "supercharger",
@@ -54130,8 +54120,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "56.5094730000",
-    "longitude": "27.3310070000"
+    "latitude": "56.5098860000",
+    "longitude": "27.3338420000"
   },
   {
     "location_id": "apeldoornsupercharger",
@@ -71402,8 +71392,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "24.0552900000",
-    "longitude": "53.4135080000"
+    "latitude": "24.1314502000",
+    "longitude": "52.5549270000"
   },
   {
     "location_id": "atalayadelcanavatesupercharger",
@@ -71422,8 +71412,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "44.9071900000",
-    "longitude": "8.6120200000"
+    "latitude": "44.9272506900",
+    "longitude": "8.6259252270"
   },
   {
     "location_id": "vikesasupercharger",
@@ -71694,6 +71684,16 @@
     "open_soon": "1",
     "latitude": "39.6506230000",
     "longitude": "27.8893480000"
+  },
+  {
+    "location_id": "BaltimoreMDSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.2904556400",
+    "longitude": "-76.6131567300"
   },
   {
     "location_id": "santcugatsupercharger",
@@ -72548,16 +72548,6 @@
     "longitude": "-96.3348160000"
   },
   {
-    "location_id": "ColumbiaHeightsDCsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "38.9276410000",
-    "longitude": "-77.0297000000"
-  },
-  {
     "location_id": "ColumbusGAsupercharger",
     "location_type": [
       "supercharger",
@@ -72616,16 +72606,6 @@
     "open_soon": "0",
     "latitude": "36.1558170000",
     "longitude": "-85.5151860000"
-  },
-  {
-    "location_id": "CordobaVeracruzsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "18.8839000000",
-    "longitude": "-96.9238000000"
   },
   {
     "location_id": "coronacasupercharger",
@@ -73678,14 +73658,14 @@
     "longitude": "-95.8218110000"
   },
   {
-    "location_id": "hsinchusupercharger",
+    "location_id": "Hsinchusupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "24.7796480000",
-    "longitude": "121.0052770000"
+    "open_soon": "1",
+    "latitude": "24.7932831200",
+    "longitude": "120.9629561000"
   },
   {
     "location_id": "hualiensupercharger",
@@ -74269,16 +74249,6 @@
     "longitude": "-121.8914450000"
   },
   {
-    "location_id": "MinatitlanVeracruzsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "18.0005000000",
-    "longitude": "-94.5573000000"
-  },
-  {
     "location_id": "missionviejocasupercharger",
     "location_type": [
       "supercharger",
@@ -74797,8 +74767,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "42.8805300000",
-    "longitude": "-8.5457240000"
+    "latitude": "42.9101970000",
+    "longitude": "-8.4932470000"
   },
   {
     "location_id": "saultstemarieonsupercharger",
@@ -75300,16 +75270,6 @@
     "longitude": "-84.6592100000"
   },
   {
-    "location_id": "gangbuksupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.6637500000",
-    "longitude": "127.0087100000"
-  },
-  {
     "location_id": "jackmanmesupercharger",
     "location_type": [
       "supercharger",
@@ -75428,16 +75388,6 @@
     "open_soon": "0",
     "latitude": "44.1140820000",
     "longitude": "15.4071120000"
-  },
-  {
-    "location_id": "PembinaNDsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.9664700000",
-    "longitude": "-97.2434880000"
   },
   {
     "location_id": "dc23442",
@@ -103181,9 +103131,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "42.0503600000",
-    "longitude": "-87.6856340000"
+    "open_soon": "1",
+    "latitude": "42.0451740000",
+    "longitude": "-87.6877910000"
   },
   {
     "location_id": "evergreenparksupercharger",
@@ -103224,16 +103174,6 @@
     "open_soon": "0",
     "latitude": "40.6837150000",
     "longitude": "-73.9743370000"
-  },
-  {
-    "location_id": "GrandForksBCsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "49.0301840000",
-    "longitude": "-118.4449400000"
   },
   {
     "location_id": "greatchesterfordsupercharger",
@@ -103476,16 +103416,6 @@
     "longitude": "-93.4467010000"
   },
   {
-    "location_id": "MontebelloCAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.0170160000",
-    "longitude": "-118.1139150000"
-  },
-  {
     "location_id": "nepeanonsupercharger",
     "location_type": [
       "supercharger",
@@ -103616,16 +103546,6 @@
     "longitude": "-116.5478430000"
   },
   {
-    "location_id": "PensacolaFLsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.4212920000",
-    "longitude": "-87.2173150000"
-  },
-  {
     "location_id": "perthonsupercharger",
     "location_type": [
       "supercharger",
@@ -103654,16 +103574,6 @@
     "open_soon": "0",
     "latitude": "44.2831630000",
     "longitude": "-78.3331860000"
-  },
-  {
-    "location_id": "PortChesterNYsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "41.0018000000",
-    "longitude": "-73.6657000000"
   },
   {
     "location_id": "queenstownnzsupercharger",
@@ -103832,8 +103742,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "46.0855640000",
-    "longitude": "13.2110160000"
+    "latitude": "46.1344230000",
+    "longitude": "13.1860890000"
   },
   {
     "location_id": "aafayatrailsupercharger",
@@ -103864,16 +103774,6 @@
     "open_soon": "0",
     "latitude": "36.9156210000",
     "longitude": "-121.7730480000"
-  },
-  {
-    "location_id": "WhitePlainsNYsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "41.0340000000",
-    "longitude": "-73.7629000000"
   },
   {
     "location_id": "williamssupercharger",
@@ -103932,8 +103832,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "49.6423500000",
-    "longitude": "0.7471400000"
+    "latitude": "49.4307525000",
+    "longitude": "0.2742101580"
   },
   {
     "location_id": "greenvillesouthcarolinasupercharger",
@@ -124437,8 +124337,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "53.3009380000",
-    "longitude": "-8.7454820000"
+    "latitude": "53.2996570000",
+    "longitude": "-8.7459150000"
   },
   {
     "location_id": "corksupercharger",
@@ -131569,16 +131469,6 @@
     "longitude": "-121.4961080000"
   },
   {
-    "location_id": "SanBrunoCASupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.6308150000",
-    "longitude": "-122.4114090000"
-  },
-  {
     "location_id": "soledadsupercharger",
     "location_type": [
       "supercharger",
@@ -133203,16 +133093,6 @@
     "open_soon": "0",
     "latitude": "29.6662980000",
     "longitude": "-98.6332790000"
-  },
-  {
-    "location_id": "LakewoodCOsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.7047140000",
-    "longitude": "-105.0815040000"
   },
   {
     "location_id": "emeryvillecapowellstreetplazasupercharger",
@@ -138484,16 +138364,6 @@
     "longitude": "5.8981760000"
   },
   {
-    "location_id": "kochisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "33.5715557103",
-    "longitude": "133.5549597182"
-  },
-  {
     "location_id": "hotelgranbaitadolomites",
     "location_type": [
       "standard charger",
@@ -138811,8 +138681,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "44.8048280000",
-    "longitude": "-0.5431490000"
+    "latitude": "44.7938612900",
+    "longitude": "-0.5396317980"
   },
   {
     "location_id": "Dardillyfrsupercharger",
@@ -138863,8 +138733,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "43.6209630000",
-    "longitude": "1.3940880000"
+    "latitude": "43.6460902800",
+    "longitude": "1.3684302020"
   },
   {
     "location_id": "Vierzonfrsupercharger",
@@ -138886,16 +138756,6 @@
     "open_soon": "1",
     "latitude": "49.0095240000",
     "longitude": "2.5283740000"
-  },
-  {
-    "location_id": "ToulFrancesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.6737040000",
-    "longitude": "5.8902830000"
   },
   {
     "location_id": "ColmarFrancesupercharger",
@@ -139378,16 +139238,6 @@
     "longitude": "8.1445900000"
   },
   {
-    "location_id": "HvolsvollurBakkiissupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "63.6991920000",
-    "longitude": "-20.2103240000"
-  },
-  {
     "location_id": "Vatnagardarissupercharger",
     "location_type": [
       "supercharger",
@@ -139530,6 +139380,16 @@
     "longitude": "4.6337670000"
   },
   {
+    "location_id": "Maastrichtnlsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.8491720000",
+    "longitude": "5.6885760000"
+  },
+  {
     "location_id": "Ridderkerknlsupercharger",
     "location_type": [
       "supercharger",
@@ -139558,6 +139418,16 @@
     "open_soon": "1",
     "latitude": "51.9170500000",
     "longitude": "4.3903910000"
+  },
+  {
+    "location_id": "Nederweertnlsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.2809910000",
+    "longitude": "5.7546190000"
   },
   {
     "location_id": "Hengelonlsupercharger",
@@ -139974,16 +139844,6 @@
     "longitude": "11.1931290000"
   },
   {
-    "location_id": "Soderhamnsesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "61.2949070000",
-    "longitude": "17.0209820000"
-  },
-  {
     "location_id": "bjorklidensupercharger",
     "location_type": [
       "supercharger",
@@ -140192,16 +140052,6 @@
     "open_soon": "1",
     "latitude": "53.7919210000",
     "longitude": "-1.4266030000"
-  },
-  {
-    "location_id": "Birchgbsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "53.5678620000",
-    "longitude": "-2.2313360000"
   },
   {
     "location_id": "Cardiffgbsupercharger",
@@ -140514,16 +140364,6 @@
     "longitude": "114.1811300000"
   },
   {
-    "location_id": "hongkongislandsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.2555200000",
-    "longitude": "114.1883100000"
-  },
-  {
     "location_id": "newterritoriessupercharger",
     "location_type": [
       "supercharger",
@@ -140584,16 +140424,6 @@
     "longitude": "176.8899390000"
   },
   {
-    "location_id": "yeongdeungposupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.5264190000",
-    "longitude": "126.8825980000"
-  },
-  {
     "location_id": "ilsansupercharger",
     "location_type": [
       "supercharger",
@@ -140612,16 +140442,6 @@
     "open_soon": "0",
     "latitude": "37.5032160000",
     "longitude": "127.0416200000"
-  },
-  {
-    "location_id": "seongnamsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.3929250000",
-    "longitude": "127.1118280000"
   },
   {
     "location_id": "yeojusupercharger",
@@ -140664,46 +140484,6 @@
     "longitude": "128.6357100000"
   },
   {
-    "location_id": "daegudalseosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.8107362000",
-    "longitude": "128.5156733000"
-  },
-  {
-    "location_id": "daejeonsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "36.3407600000",
-    "longitude": "127.3894900000"
-  },
-  {
-    "location_id": "ulsansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.5504380000",
-    "longitude": "129.2618900000"
-  },
-  {
-    "location_id": "songpasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.5135340000",
-    "longitude": "127.1061740000"
-  },
-  {
     "location_id": "seongdongsupercharger",
     "location_type": [
       "supercharger",
@@ -140722,16 +140502,6 @@
     "open_soon": "0",
     "latitude": "37.1348500000",
     "longitude": "126.8957180000"
-  },
-  {
-    "location_id": "gwangmyeongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.4191720400",
-    "longitude": "126.8821175100"
   },
   {
     "location_id": "suncheonsupercharger",
@@ -140814,16 +140584,6 @@
     "longitude": "127.1213280000"
   },
   {
-    "location_id": "euiwangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.3756350000",
-    "longitude": "127.0094700000"
-  },
-  {
     "location_id": "gwangjuwestsupercharger",
     "location_type": [
       "supercharger",
@@ -140860,8 +140620,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "23.5067854400",
-    "longitude": "120.4889659000"
+    "latitude": "23.7771866200",
+    "longitude": "120.4773464000"
   },
   {
     "location_id": "pingtungiisupercharger",
@@ -140870,8 +140630,18 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "22.6384563600",
-    "longitude": "120.5377276000"
+    "latitude": "22.6385382200",
+    "longitude": "120.5376607000"
+  },
+  {
+    "location_id": "singaporesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "1.3079331450",
+    "longitude": "103.7911593000"
   },
   {
     "location_id": "bairnsdalesupercharger",
@@ -141014,16 +140784,6 @@
     "longitude": "-82.5239560000"
   },
   {
-    "location_id": "AstoriaNYsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.7746920000",
-    "longitude": "-73.9038000000"
-  },
-  {
     "location_id": "AuburnCAsupercharger",
     "location_type": [
       "supercharger",
@@ -141144,16 +140904,6 @@
     "longitude": "-73.1849060000"
   },
   {
-    "location_id": "BeverlyHillsCAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.0737590000",
-    "longitude": "-118.4006100000"
-  },
-  {
     "location_id": "BlythevilleARsupercharger",
     "location_type": [
       "supercharger",
@@ -141234,16 +140984,6 @@
     "longitude": "-91.2000320000"
   },
   {
-    "location_id": "BrookfieldWIsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "43.0603490000",
-    "longitude": "-88.1062000000"
-  },
-  {
     "location_id": "BrooklynNYBeltPkwysupercharger",
     "location_type": [
       "supercharger",
@@ -141304,16 +141044,6 @@
     "longitude": "-66.6721720000"
   },
   {
-    "location_id": "CanoeCreekFLsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.0863180000",
-    "longitude": "-81.2655610000"
-  },
-  {
     "location_id": "CarlePlaceNYsupercharger",
     "location_type": [
       "supercharger",
@@ -141334,16 +141064,6 @@
     "longitude": "-117.3192440000"
   },
   {
-    "location_id": "CentralLosAngelesCAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.9791490000",
-    "longitude": "-118.3924160000"
-  },
-  {
     "location_id": "CentralValleyNYsupercharger",
     "location_type": [
       "supercharger",
@@ -141352,16 +141072,6 @@
     "open_soon": "1",
     "latitude": "41.3317230000",
     "longitude": "-74.1212950000"
-  },
-  {
-    "location_id": "ChappaquaNYsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "41.1594370000",
-    "longitude": "-73.7648370000"
   },
   {
     "location_id": "CharlottesvilleVAsupercharger",
@@ -141422,26 +141132,6 @@
     "open_soon": "1",
     "latitude": "28.6333220000",
     "longitude": "-106.0690310000"
-  },
-  {
-    "location_id": "ClearfieldUTsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "41.1108440000",
-    "longitude": "-112.0259830000"
-  },
-  {
-    "location_id": "ClevelandOHsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "41.4992230000",
-    "longitude": "-81.6945000000"
   },
   {
     "location_id": "ClovisCAsupercharger",
@@ -141544,16 +141234,6 @@
     "longitude": "-122.8623020000"
   },
   {
-    "location_id": "CoralGablesFLsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.7493430000",
-    "longitude": "-80.2627000000"
-  },
-  {
     "location_id": "CostaMesaCAsupercharger",
     "location_type": [
       "supercharger",
@@ -141602,16 +141282,6 @@
     "open_soon": "0",
     "latitude": "28.8992020000",
     "longitude": "-82.5866710000"
-  },
-  {
-    "location_id": "CusterMTsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "46.1291490000",
-    "longitude": "-107.5552940000"
   },
   {
     "location_id": "CutlerBayFLsupercharger",
@@ -141874,16 +141544,6 @@
     "longitude": "-75.7756586100"
   },
   {
-    "location_id": "EscondidoCAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.1192068000",
-    "longitude": "-117.0864210000"
-  },
-  {
     "location_id": "FairOaksINsupercharger",
     "location_type": [
       "supercharger",
@@ -141954,16 +141614,6 @@
     "longitude": "-71.4248980000"
   },
   {
-    "location_id": "FredericksburgTXsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.2751080000",
-    "longitude": "-98.8723000000"
-  },
-  {
     "location_id": "GaspeQCsupercharger",
     "location_type": [
       "supercharger",
@@ -142024,16 +141674,6 @@
     "longitude": "-97.0658570000"
   },
   {
-    "location_id": "GreshamORsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "45.5098500000",
-    "longitude": "-122.4346910000"
-  },
-  {
     "location_id": "HackensackNJsupercharger",
     "location_type": [
       "supercharger",
@@ -142042,16 +141682,6 @@
     "open_soon": "1",
     "latitude": "40.8859570000",
     "longitude": "-74.0454030000"
-  },
-  {
-    "location_id": "HamburgPAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "40.5646162000",
-    "longitude": "-76.0074535600"
   },
   {
     "location_id": "HamdenCTsupercharger",
@@ -142104,16 +141734,6 @@
     "longitude": "-73.2385410000"
   },
   {
-    "location_id": "HaywardCAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.6689050000",
-    "longitude": "-122.0810000000"
-  },
-  {
     "location_id": "HenryettaOKsupercharger",
     "location_type": [
       "supercharger",
@@ -142122,16 +141742,6 @@
     "open_soon": "1",
     "latitude": "35.4398280000",
     "longitude": "-95.9819070000"
-  },
-  {
-    "location_id": "HerculesCAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "38.0173070000",
-    "longitude": "-122.2883130000"
   },
   {
     "location_id": "HighlandParkILsupercharger",
@@ -142252,16 +141862,6 @@
     "open_soon": "0",
     "latitude": "37.0334790000",
     "longitude": "-94.5156120000"
-  },
-  {
-    "location_id": "KahuluiHIsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "20.8880300000",
-    "longitude": "-156.4678501000"
   },
   {
     "location_id": "KenoshaWIsupercharger",
@@ -142444,16 +142044,6 @@
     "longitude": "-118.3916910000"
   },
   {
-    "location_id": "LosAngelesCAChinatownsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.0623000000",
-    "longitude": "-118.2383000000"
-  },
-  {
     "location_id": "LouisvilleKYSouthsupercharger",
     "location_type": [
       "supercharger",
@@ -142572,16 +142162,6 @@
     "open_soon": "1",
     "latitude": "37.7307810000",
     "longitude": "-88.9326000000"
-  },
-  {
-    "location_id": "MartinezCAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.9929560000",
-    "longitude": "-122.1213620000"
   },
   {
     "location_id": "MataneQCsupercharger",
@@ -142782,16 +142362,6 @@
     "open_soon": "0",
     "latitude": "32.3612420000",
     "longitude": "-86.1611090000"
-  },
-  {
-    "location_id": "MontLaurierQCsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "46.5504090000",
-    "longitude": "-75.4959760000"
   },
   {
     "location_id": "MonumentCOsupercharger",
@@ -143064,16 +142634,6 @@
     "longitude": "-122.7877700000"
   },
   {
-    "location_id": "OlympiaWAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "47.0380490000",
-    "longitude": "-122.9008140000"
-  },
-  {
     "location_id": "OntarioCAsupercharger",
     "location_type": [
       "supercharger",
@@ -143082,16 +142642,6 @@
     "open_soon": "1",
     "latitude": "34.0633443000",
     "longitude": "-117.6508876000"
-  },
-  {
-    "location_id": "OrangeNJsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.7706860000",
-    "longitude": "-74.2322000000"
   },
   {
     "location_id": "OrlandoFLMilleniasupercharger",
@@ -143182,16 +142732,6 @@
     "open_soon": "0",
     "latitude": "39.9035740000",
     "longitude": "-75.1977200000"
-  },
-  {
-    "location_id": "PhillipsburgNJsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.6938990000",
-    "longitude": "-75.1904440000"
   },
   {
     "location_id": "PhoenixAZsupercharger",
@@ -143314,16 +142854,6 @@
     "longitude": "-111.6585000000"
   },
   {
-    "location_id": "QuebecCityQCLebourgneufsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "46.8508000000",
-    "longitude": "-71.3091900000"
-  },
-  {
     "location_id": "QuebecCityQCLesSaulessupercharger",
     "location_type": [
       "supercharger",
@@ -143444,16 +142974,6 @@
     "longitude": "-86.6215152700"
   },
   {
-    "location_id": "RoseburgORsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "43.2164690000",
-    "longitude": "-123.3417440000"
-  },
-  {
     "location_id": "RoslynHeightsNYsupercharger",
     "location_type": [
       "supercharger",
@@ -143522,16 +143042,6 @@
     "open_soon": "1",
     "latitude": "46.4389300000",
     "longitude": "-71.0210840000"
-  },
-  {
-    "location_id": "SalinasCAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.6776700000",
-    "longitude": "-121.6559710000"
   },
   {
     "location_id": "SalmonArmBCsupercharger",
@@ -143742,16 +143252,6 @@
     "open_soon": "0",
     "latitude": "46.4647215500",
     "longitude": "-84.3857351700"
-  },
-  {
-    "location_id": "SeekonkMAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "41.8092830000",
-    "longitude": "-71.3369150000"
   },
   {
     "location_id": "ShermanOaksCAsupercharger",
@@ -143994,16 +143494,6 @@
     "longitude": "-103.4068970000"
   },
   {
-    "location_id": "TotemLakeWAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "47.7082200000",
-    "longitude": "-122.1807030000"
-  },
-  {
     "location_id": "TowsonMDsupercharger",
     "location_type": [
       "supercharger",
@@ -144034,16 +143524,6 @@
     "longitude": "-72.5420630000"
   },
   {
-    "location_id": "TroutdaleORsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "45.5427310000",
-    "longitude": "-122.3893550000"
-  },
-  {
     "location_id": "TukwilaWAsupercharger",
     "location_type": [
       "supercharger",
@@ -144072,16 +143552,6 @@
     "open_soon": "1",
     "latitude": "33.2094590000",
     "longitude": "-87.5697090000"
-  },
-  {
-    "location_id": "TuxtlaGutierrezChiapassupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "16.7516000000",
-    "longitude": "-93.1030000000"
   },
   {
     "location_id": "TyngsboroughMAsupercharger",
@@ -144434,16 +143904,6 @@
     "longitude": "-81.6375570000"
   },
   {
-    "location_id": "Zacatecassupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.7708790000",
-    "longitude": "-102.5832770000"
-  },
-  {
     "location_id": "ZapopanJaliscosupercharger",
     "location_type": [
       "supercharger",
@@ -144462,16 +143922,6 @@
     "open_soon": "0",
     "latitude": "50.5128340000",
     "longitude": "-115.9964560000"
-  },
-  {
-    "location_id": "CentralSantaMonicaCAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.0195000000",
-    "longitude": "-118.4910000000"
   },
   {
     "location_id": "Ferndowngbsupercharger",
@@ -144734,16 +144184,6 @@
     "longitude": "-106.0708180000"
   },
   {
-    "location_id": "gwangjukrsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.3666148000",
-    "longitude": "127.3115807000"
-  },
-  {
     "location_id": "pasingarcadensupercharger",
     "location_type": [
       "supercharger",
@@ -144832,7 +144272,7 @@
     ],
     "open_soon": "1",
     "latitude": "50.4089100000",
-    "longitude": "-5.0691290000"
+    "longitude": "-4.9520000000"
   },
   {
     "location_id": "banburysupercharger",
@@ -153493,8 +152933,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "33.5046000000",
-    "longitude": "119.1530000000"
+    "latitude": "34.8115400000",
+    "longitude": "127.0936200000"
   },
   {
     "location_id": "shanghaisupercharger2",
@@ -157030,16 +156470,6 @@
     "longitude": "152.0191680000"
   },
   {
-    "location_id": "CharleroiSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "50.4058500000",
-    "longitude": "4.4437450000"
-  },
-  {
     "location_id": "MerrittBCSupercharger2",
     "location_type": [
       "supercharger",
@@ -157056,8 +156486,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "54.7791931851",
-    "longitude": "11.4813792181"
+    "latitude": "54.7791931900",
+    "longitude": "11.4813792200"
   },
   {
     "location_id": "OdenseSupercharger",
@@ -157268,8 +156698,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "31.7669401400",
-    "longitude": "35.1940876800"
+    "latitude": "31.8074820000",
+    "longitude": "35.2026810000"
   },
   {
     "location_id": "KiryatGatSupercharger",
@@ -157328,8 +156758,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "38.1458036297",
-    "longitude": "13.3370321823"
+    "latitude": "38.1458036300",
+    "longitude": "13.3370321800"
   },
   {
     "location_id": "RomeNorditsupercharger",
@@ -157378,8 +156808,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "60.5335847808",
-    "longitude": "8.2087779284"
+    "latitude": "60.5335847800",
+    "longitude": "8.2087779280"
   },
   {
     "location_id": "HonefossSupercharger",
@@ -157390,17 +156820,6 @@
     "open_soon": "1",
     "latitude": "60.1683080200",
     "longitude": "10.2564118700"
-  },
-  {
-    "location_id": "LillehammerCentralSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger",
-      "party"
-    ],
-    "open_soon": "0",
-    "latitude": "61.1145750000",
-    "longitude": "10.4472600000"
   },
   {
     "location_id": "NordfjordeidSupercharger",
@@ -157429,8 +156848,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "59.9496100000",
-    "longitude": "10.7310420000"
+    "latitude": "59.9502570000",
+    "longitude": "10.7375150000"
   },
   {
     "location_id": "OsloWestCentralSupercharger",
@@ -157471,26 +156890,6 @@
     "open_soon": "0",
     "latitude": "44.2032650000",
     "longitude": "28.6311450000"
-  },
-  {
-    "location_id": "gimposupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.6453842000",
-    "longitude": "126.6302604000"
-  },
-  {
-    "location_id": "namyangjusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.6268005000",
-    "longitude": "127.1667025000"
   },
   {
     "location_id": "pajusupercharger",
@@ -157579,8 +156978,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "56.2061178200",
-    "longitude": "15.6414104200"
+    "latitude": "56.2104190000",
+    "longitude": "15.2770110000"
   },
   {
     "location_id": "SodertaljeSupercharger",
@@ -157619,8 +157018,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "24.0920697600",
-    "longitude": "120.5335462000"
+    "latitude": "23.9836462600",
+    "longitude": "120.5075004000"
   },
   {
     "location_id": "hualientaitungsupercharger",
@@ -157639,8 +157038,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "24.7013520300",
-    "longitude": "120.8663192000"
+    "latitude": "24.7013474100",
+    "longitude": "120.8662933000"
   },
   {
     "location_id": "CroydonSupercharger",
@@ -157893,16 +157292,6 @@
     "longitude": "-83.6711000000"
   },
   {
-    "location_id": "FortLauderdaleFLSupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.1224320000",
-    "longitude": "-80.1373180000"
-  },
-  {
     "location_id": "FortWayneINSupercharger",
     "location_type": [
       "supercharger",
@@ -158033,16 +157422,6 @@
     "longitude": "-84.1874150000"
   },
   {
-    "location_id": "MillbraeCASupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.5984640000",
-    "longitude": "-122.3874300000"
-  },
-  {
     "location_id": "NewPaltzNYSupercharger",
     "location_type": [
       "supercharger",
@@ -158103,16 +157482,6 @@
     "longitude": "-117.0994750000"
   },
   {
-    "location_id": "SanJoseCASupercharger6",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.3004310000",
-    "longitude": "-121.9818100000"
-  },
-  {
     "location_id": "SarasotaFLSupercharger",
     "location_type": [
       "supercharger",
@@ -158131,16 +157500,6 @@
     "open_soon": "1",
     "latitude": "45.6646290000",
     "longitude": "-97.0496930000"
-  },
-  {
-    "location_id": "SoledadCAsupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.4247360000",
-    "longitude": "-121.3259090000"
   },
   {
     "location_id": "SouthBostonVASupercharger",
@@ -158183,24 +157542,14 @@
     "longitude": "-121.2911390000"
   },
   {
-    "location_id": "SunValleyCASupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.2274650000",
-    "longitude": "-118.3810460000"
-  },
-  {
     "location_id": "tampafloridasupercharger3",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "27.9551170000",
-    "longitude": "-82.5056080000"
+    "latitude": "27.9504990000",
+    "longitude": "-82.4572340000"
   },
   {
     "location_id": "tampafloridasupercharger4",
@@ -158209,8 +157558,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "28.0880100000",
-    "longitude": "-82.4548290000"
+    "latitude": "27.9551170000",
+    "longitude": "-82.5056080000"
   },
   {
     "location_id": "WalterboroSCSupercharger",
@@ -158231,16 +157580,6 @@
     "open_soon": "1",
     "latitude": "40.7309150000",
     "longitude": "-122.9421600000"
-  },
-  {
-    "location_id": "WoodstockGASupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.1012990000",
-    "longitude": "-84.5193790000"
   },
   {
     "location_id": "adderstonesupercharger",
@@ -160162,24 +159501,14 @@
     "longitude": "174.8140400000"
   },
   {
-    "location_id": "jecheonsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.0724746092",
-    "longitude": "128.1917695916"
-  },
-  {
-    "location_id": "maposupercharger",
+    "location_id": "Maposupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "37.5569820000",
-    "longitude": "126.9187850000"
+    "latitude": "37.5492000000",
+    "longitude": "126.9134300000"
   },
   {
     "location_id": "newplymouthsupercharger",
@@ -160190,16 +159519,6 @@
     "open_soon": "1",
     "latitude": "-39.0660010000",
     "longitude": "174.0473410000"
-  },
-  {
-    "location_id": "yangyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "38.0543500000",
-    "longitude": "128.6606100000"
   },
   {
     "location_id": "tainanyongkangsupercharger",
@@ -160228,8 +159547,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "46.4955860000",
-    "longitude": "3.3634740000"
+    "latitude": "46.4973314100",
+    "longitude": "3.3617299420"
   },
   {
     "location_id": "Aabenraasupercharger",
@@ -160238,8 +159557,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "54.9829448200",
-    "longitude": "9.3796263530"
+    "latitude": "55.0660790000",
+    "longitude": "9.3624050000"
   },
   {
     "location_id": "Ammansupercharger",
@@ -160318,8 +159637,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "62.6178200000",
-    "longitude": "29.7773390000"
+    "latitude": "62.6165000000",
+    "longitude": "29.7711590000"
   },
   {
     "location_id": "Kajaanisupercharger",
@@ -160388,8 +159707,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "31.1514810000",
-    "longitude": "35.3638300000"
+    "latitude": "31.1994330000",
+    "longitude": "35.3638310000"
   },
   {
     "location_id": "Oskarshamnsupercharger",
@@ -160418,8 +159737,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "66.7733190000",
-    "longitude": "23.9657390000"
+    "latitude": "66.7734690000",
+    "longitude": "23.9650850000"
   },
   {
     "location_id": "PetahTikvasupercharger",
@@ -160428,8 +159747,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "32.0840430000",
-    "longitude": "34.8943380000"
+    "latitude": "32.0872950000",
+    "longitude": "34.8798040000"
   },
   {
     "location_id": "Skeesupercharger",
@@ -160498,8 +159817,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "47.4551260000",
-    "longitude": "19.0602800000"
+    "latitude": "47.4695541000",
+    "longitude": "19.0268500000"
   },
   {
     "location_id": "Koldingsupercharger",
@@ -160662,16 +159981,6 @@
     "longitude": "-80.3575570000"
   },
   {
-    "location_id": "KingmanAZSupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "35.1894010000",
-    "longitude": "-114.0590080000"
-  },
-  {
     "location_id": "KissimmeeFLSupercharger",
     "location_type": [
       "supercharger",
@@ -160680,16 +159989,6 @@
     "open_soon": "1",
     "latitude": "28.2919610000",
     "longitude": "-81.4077980000"
-  },
-  {
-    "location_id": "LagunaHillsCASupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.5920260000",
-    "longitude": "-117.6989790000"
   },
   {
     "location_id": "MountainBrookALSupercharger",
@@ -160742,16 +160041,6 @@
     "longitude": "-77.4355700000"
   },
   {
-    "location_id": "RiverviewFLSupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.8657390000",
-    "longitude": "-82.3266160000"
-  },
-  {
     "location_id": "SaltLakeCityUTSupercharger2",
     "location_type": [
       "supercharger",
@@ -160788,8 +160077,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "27.9504990000",
-    "longitude": "-82.4572340000"
+    "latitude": "28.0880100000",
+    "longitude": "-82.4548290000"
   },
   {
     "location_id": "TracyCASupercharger",
@@ -160942,16 +160231,6 @@
     "longitude": "-89.0194960000"
   },
   {
-    "location_id": "LagunaWoodsCASupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.6101240000",
-    "longitude": "-117.7251860000"
-  },
-  {
     "location_id": "LaurelMDSupercharger2",
     "location_type": [
       "supercharger",
@@ -160980,16 +160259,6 @@
     "open_soon": "1",
     "latitude": "35.1496670000",
     "longitude": "-90.0489600000"
-  },
-  {
-    "location_id": "MontereyCASupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.6000580000",
-    "longitude": "-121.8950590000"
   },
   {
     "location_id": "MysticCTSupercharger",
@@ -161070,16 +160339,6 @@
     "open_soon": "1",
     "latitude": "39.1500320000",
     "longitude": "-123.2076500000"
-  },
-  {
-    "location_id": "VeniceCASupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.9850350000",
-    "longitude": "-118.4701060000"
   },
   {
     "location_id": "WallerTXSupercharger",
@@ -161172,16 +160431,6 @@
     "longitude": "-74.3054490000"
   },
   {
-    "location_id": "PalmBeachGardensFLSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.8394880000",
-    "longitude": "-80.1020080000"
-  },
-  {
     "location_id": "SanLuisObispoCASupercharger3",
     "location_type": [
       "supercharger",
@@ -161190,26 +160439,6 @@
     "open_soon": "0",
     "latitude": "35.2481370000",
     "longitude": "-120.6713110000"
-  },
-  {
-    "location_id": "SantaBarbaraCASupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.4208130000",
-    "longitude": "-119.6984150000"
-  },
-  {
-    "location_id": "TustinCASupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.7420900000",
-    "longitude": "-117.8236510000"
   },
   {
     "location_id": "BreaCASupercharger2",
@@ -161257,9 +160486,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "33.7156600000",
-    "longitude": "-117.9649470000"
+    "open_soon": "1",
+    "latitude": "33.7090160000",
+    "longitude": "-117.9544090000"
   },
   {
     "location_id": "GardenCityNYSupercharger",
@@ -161280,16 +160509,6 @@
     "open_soon": "0",
     "latitude": "35.6084120000",
     "longitude": "-78.5630710000"
-  },
-  {
-    "location_id": "GlendaleCASupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "34.1477380000",
-    "longitude": "-118.2272630000"
   },
   {
     "location_id": "KimballTNSupercharger",
@@ -162234,16 +161453,6 @@
     "longitude": "114.1851646000"
   },
   {
-    "location_id": "incheonmichuholsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.4707980000",
-    "longitude": "126.6658550000"
-  },
-  {
     "location_id": "dc1072748",
     "location_type": [
       "destination charger"
@@ -162907,16 +162116,6 @@
     "longitude": "126.5070560976"
   },
   {
-    "location_id": "jejusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "33.4926110000",
-    "longitude": "126.5071000000"
-  },
-  {
     "location_id": "mountforestonsupercharger",
     "location_type": [
       "supercharger",
@@ -162932,9 +162131,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "43.3625240000",
-    "longitude": "-81.4799780000"
+    "open_soon": "1",
+    "latitude": "43.3472710000",
+    "longitude": "-81.4806030000"
   },
   {
     "location_id": "taoyuanguishansupercharger",
@@ -164087,16 +163286,6 @@
     "longitude": "114.2382000000"
   },
   {
-    "location_id": "yeosusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "34.7217500000",
-    "longitude": "127.6993800000"
-  },
-  {
     "location_id": "cnsc9673",
     "location_type": [
       "supercharger",
@@ -164140,9 +163329,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "38.1928480500",
-    "longitude": "140.3113534800"
+    "open_soon": "1",
+    "latitude": "38.1878566700",
+    "longitude": "140.3106107000"
   },
   {
     "location_id": "horshamdarlotsupercharger",
@@ -164244,16 +163433,6 @@
     "open_soon": "0",
     "latitude": "1.3404393000",
     "longitude": "103.8586733000"
-  },
-  {
-    "location_id": "pyeongtaeksupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.0532910000",
-    "longitude": "127.0802391000"
   },
   {
     "location_id": "westpalmbeachflturnpikeserviceplazasupercharger",
@@ -164452,8 +163631,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "36.6932281718",
-    "longitude": "137.2105711900"
+    "latitude": "36.6932281700",
+    "longitude": "137.2105712000"
   },
   {
     "location_id": "fukuisupercharger",
@@ -164857,16 +164036,6 @@
     "longitude": "114.2056950000"
   },
   {
-    "location_id": "cheongdosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "35.6541179000",
-    "longitude": "128.7493510000"
-  },
-  {
     "location_id": "madisonflsupercharger",
     "location_type": [
       "supercharger",
@@ -165094,16 +164263,6 @@
     "longitude": "-98.6748996000"
   },
   {
-    "location_id": "brooksvilleflsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "28.5226900000",
-    "longitude": "-82.2299900000"
-  },
-  {
     "location_id": "singaporestarvistasupercharger",
     "location_type": [
       "supercharger",
@@ -165215,16 +164374,6 @@
     "longitude": "-73.8267510000"
   },
   {
-    "location_id": "princetonwvsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.3638800000",
-    "longitude": "-81.0523800000"
-  },
-  {
     "location_id": "hamburgstillhorn",
     "location_type": [
       "supercharger",
@@ -165293,6 +164442,3776 @@
     "open_soon": "0",
     "latitude": "-34.0339460000",
     "longitude": "151.0739130000"
+  },
+  {
+    "location_id": "aalborgsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "57.0521080000",
+    "longitude": "9.9660260000"
+  },
+  {
+    "location_id": "agadirsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.3919040000",
+    "longitude": "-9.5970970000"
+  },
+  {
+    "location_id": "agensuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.2018850000",
+    "longitude": "0.6163600000"
+  },
+  {
+    "location_id": "ajmansuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "25.4026300000",
+    "longitude": "55.4840900000"
+  },
+  {
+    "location_id": "DubaiMarinaaesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "25.1181908000",
+    "longitude": "55.2000957000"
+  },
+  {
+    "location_id": "algecirassuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.1416040000",
+    "longitude": "-5.4511600000"
+  },
+  {
+    "location_id": "AlgonquinILSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "42.1655249500",
+    "longitude": "-88.2939447600"
+  },
+  {
+    "location_id": "AlhambraCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.0951920000",
+    "longitude": "-118.1268385000"
+  },
+  {
+    "location_id": "AlmaQCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.5499261200",
+    "longitude": "-71.6521554600"
+  },
+  {
+    "location_id": "alsfeldsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.7499800000",
+    "longitude": "9.2997000000"
+  },
+  {
+    "location_id": "AmarilloTXSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.2220074700",
+    "longitude": "-101.8310283000"
+  },
+  {
+    "location_id": "anconasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.5981436000",
+    "longitude": "13.4498136400"
+  },
+  {
+    "location_id": "annecysuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.8992680000",
+    "longitude": "6.1314510000"
+  },
+  {
+    "location_id": "ApopkaFLSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "28.6933950000",
+    "longitude": "-81.5317540000"
+  },
+  {
+    "location_id": "CulverCityCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.0211477600",
+    "longitude": "-118.3966671000"
+  },
+  {
+    "location_id": "AustinTXSupercharger10",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.2288600000",
+    "longitude": "-97.8154330000"
+  },
+  {
+    "location_id": "AustinTXSupercharger11",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.2474730000",
+    "longitude": "-97.5830240000"
+  },
+  {
+    "location_id": "AustinTXSupercharger12",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.2981360000",
+    "longitude": "-97.8023740000"
+  },
+  {
+    "location_id": "AvenelNJSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.5802588000",
+    "longitude": "-74.2848509700"
+  },
+  {
+    "location_id": "AventuraFLSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "25.9564910000",
+    "longitude": "-80.1391730000"
+  },
+  {
+    "location_id": "avignonsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.9538577100",
+    "longitude": "4.8048884020"
+  },
+  {
+    "location_id": "AzusaCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.1335499900",
+    "longitude": "-117.9075427000"
+  },
+  {
+    "location_id": "badoeynhausensuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.2049900000",
+    "longitude": "8.8405800000"
+  },
+  {
+    "location_id": "BakersfieldCASupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.3733350000",
+    "longitude": "-119.0188160000"
+  },
+  {
+    "location_id": "bassindarcachonsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.6427316700",
+    "longitude": "-0.9986412670"
+  },
+  {
+    "location_id": "BastropTXSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.1105999800",
+    "longitude": "-97.3150839200"
+  },
+  {
+    "location_id": "BatonRougeLASupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.4514680000",
+    "longitude": "-91.1871470000"
+  },
+  {
+    "location_id": "BaytownTXSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "29.7353890000",
+    "longitude": "-94.9776530000"
+  },
+  {
+    "location_id": "beershevasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "31.2440710000",
+    "longitude": "34.8110210000"
+  },
+  {
+    "location_id": "beaunenordsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.0415681500",
+    "longitude": "4.8505070250"
+  },
+  {
+    "location_id": "BeavercreekOHSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.7092174300",
+    "longitude": "-84.0631142000"
+  },
+  {
+    "location_id": "BeeCaveTXSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.3060460000",
+    "longitude": "-97.9520120000"
+  },
+  {
+    "location_id": "BeltsvilleMDSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.0348403400",
+    "longitude": "-76.9074160900"
+  },
+  {
+    "location_id": "BensonNCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.3820100000",
+    "longitude": "-78.5489550000"
+  },
+  {
+    "location_id": "berchtesgadensuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.6297816000",
+    "longitude": "12.9970943000"
+  },
+  {
+    "location_id": "BethesdaMDSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.9847933700",
+    "longitude": "-77.0942448800"
+  },
+  {
+    "location_id": "bexleyheathsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.4534810000",
+    "longitude": "0.1385450000"
+  },
+  {
+    "location_id": "bézierssuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.3443805700",
+    "longitude": "3.2157048920"
+  },
+  {
+    "location_id": "BigPineKeyFLSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "24.6696050000",
+    "longitude": "-81.3540070000"
+  },
+  {
+    "location_id": "BoardmanORSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.8400300000",
+    "longitude": "-119.7009340000"
+  },
+  {
+    "location_id": "bobbausuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.6337281600",
+    "longitude": "12.1962279000"
+  },
+  {
+    "location_id": "Boseongsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.8115400000",
+    "longitude": "127.0936200000"
+  },
+  {
+    "location_id": "bourgachardsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.3542962300",
+    "longitude": "0.8176309870"
+  },
+  {
+    "location_id": "BoyntonBeachFLSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "26.5317820000",
+    "longitude": "-80.0905640000"
+  },
+  {
+    "location_id": "braşovsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.6525810000",
+    "longitude": "25.6111150000"
+  },
+  {
+    "location_id": "BreezewoodPASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.9994652000",
+    "longitude": "-78.2388276700"
+  },
+  {
+    "location_id": "BroadviewHeightsOHSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.3138476700",
+    "longitude": "-81.6846932100"
+  },
+  {
+    "location_id": "BundangSunaesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.3822600000",
+    "longitude": "127.1217100000"
+  },
+  {
+    "location_id": "BurlingtonONSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.3255614300",
+    "longitude": "-79.7976828200"
+  },
+  {
+    "location_id": "BurrRidgeILSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.7491560000",
+    "longitude": "-87.9187960000"
+  },
+  {
+    "location_id": "BusanGijangsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.1987300000",
+    "longitude": "129.2067200000"
+  },
+  {
+    "location_id": "BusanMyeongjisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.0983200000",
+    "longitude": "128.9176100000"
+  },
+  {
+    "location_id": "BusanSasangsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.1621400000",
+    "longitude": "128.9846100000"
+  },
+  {
+    "location_id": "Buyeosupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.2933900000",
+    "longitude": "126.8942700000"
+  },
+  {
+    "location_id": "cadenazzosuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.1504210000",
+    "longitude": "8.9634710000"
+  },
+  {
+    "location_id": "CameronParkCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.6687619400",
+    "longitude": "-120.9876885000"
+  },
+  {
+    "location_id": "CarlinNVSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.7142240000",
+    "longitude": "-116.1039330000"
+  },
+  {
+    "location_id": "CarmelINSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.9784829000",
+    "longitude": "-86.1179143700"
+  },
+  {
+    "location_id": "CedarRapidsIASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.9776650000",
+    "longitude": "-91.6658580000"
+  },
+  {
+    "location_id": "chalonsursaônesuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.7809481100",
+    "longitude": "4.8565300410"
+  },
+  {
+    "location_id": "CharlotteNCSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.2271980000",
+    "longitude": "-80.8430850000"
+  },
+  {
+    "location_id": "châtelleraultsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.8177446800",
+    "longitude": "0.5437515270"
+  },
+  {
+    "location_id": "ChattanoogaTNSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.0457780000",
+    "longitude": "-85.3094280000"
+  },
+  {
+    "location_id": "Cheongju Asupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.6743200000",
+    "longitude": "127.4832700000"
+  },
+  {
+    "location_id": "chiayicoastsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "23.3797444200",
+    "longitude": "120.1567809000"
+  },
+  {
+    "location_id": "eastchiayisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "23.4291792600",
+    "longitude": "120.4671981000"
+  },
+  {
+    "location_id": "ChicagoILSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.8781540300",
+    "longitude": "-87.6297252200"
+  },
+  {
+    "location_id": "ChipleyFLSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.7817810000",
+    "longitude": "-85.5387130000"
+  },
+  {
+    "location_id": "ChowchillaCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.1228420000",
+    "longitude": "-120.2600470000"
+  },
+  {
+    "location_id": "ChulaVistaCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "32.6401567600",
+    "longitude": "-117.0839838000"
+  },
+  {
+    "location_id": "Chuncheonsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.8635400000",
+    "longitude": "127.7475100000"
+  },
+  {
+    "location_id": "cloppenburgsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.8446427300",
+    "longitude": "8.0525973920"
+  },
+  {
+    "location_id": "clujnapocasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.7699150000",
+    "longitude": "23.5799300000"
+  },
+  {
+    "location_id": "CobourgONSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.9595720000",
+    "longitude": "-78.1681660000"
+  },
+  {
+    "location_id": "ColumbusOHSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.9613599500",
+    "longitude": "-82.9977318900"
+  },
+  {
+    "location_id": "ConcordNHSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.2084030000",
+    "longitude": "-71.5369360000"
+  },
+  {
+    "location_id": "CorpusChristiTXSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "27.8003763400",
+    "longitude": "-97.3968013700"
+  },
+  {
+    "location_id": "CovingtonLASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.4754330000",
+    "longitude": "-90.1007330000"
+  },
+  {
+    "location_id": "LasVegasNVSupercharger221",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.1698930000",
+    "longitude": "-115.1402490000"
+  },
+  {
+    "location_id": "DaeguCentralsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.8655000000",
+    "longitude": "128.5933900000"
+  },
+  {
+    "location_id": "DaeguSuseongsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.8300800000",
+    "longitude": "128.6233100000"
+  },
+  {
+    "location_id": "DartmouthMASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.6127620000",
+    "longitude": "-70.9711790000"
+  },
+  {
+    "location_id": "DecaturGASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.7755840000",
+    "longitude": "-84.2965080000"
+  },
+  {
+    "location_id": "denboschsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.6980210000",
+    "longitude": "5.1567510000"
+  },
+  {
+    "location_id": "DentonTXSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.2145250000",
+    "longitude": "-97.1330770000"
+  },
+  {
+    "location_id": "DestinFLSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.3935910000",
+    "longitude": "-86.4955850000"
+  },
+  {
+    "location_id": "deventersuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.2446970000",
+    "longitude": "6.3418400000"
+  },
+  {
+    "location_id": "DistrictHeightsMDSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.8576717300",
+    "longitude": "-76.8893492300"
+  },
+  {
+    "location_id": "DobbsFerryNYSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.0142750000",
+    "longitude": "-73.8726830000"
+  },
+  {
+    "location_id": "Dongjaksupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.4997200000",
+    "longitude": "126.9281700000"
+  },
+  {
+    "location_id": "DongtanLakesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.1656600000",
+    "longitude": "127.1066100000"
+  },
+  {
+    "location_id": "DublinCASupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.7159684600",
+    "longitude": "-121.9102411000"
+  },
+  {
+    "location_id": "DuluthGASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.0028850000",
+    "longitude": "-84.1444880000"
+  },
+  {
+    "location_id": "EastPaloAltoCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.4688614200",
+    "longitude": "-122.1412839000"
+  },
+  {
+    "location_id": "EastRutherfordNJSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.8338062200",
+    "longitude": "-74.0975307300"
+  },
+  {
+    "location_id": "EastTempletonMASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "42.5624660000",
+    "longitude": "-72.0374820000"
+  },
+  {
+    "location_id": "EdmontonABSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.5461720000",
+    "longitude": "-113.4937500000"
+  },
+  {
+    "location_id": "ElDoradoKSSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.8173770000",
+    "longitude": "-96.8623100000"
+  },
+  {
+    "location_id": "ElginILSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "42.0354140400",
+    "longitude": "-88.2825664300"
+  },
+  {
+    "location_id": "ElkridgeMDSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.1982225700",
+    "longitude": "-76.7634133200"
+  },
+  {
+    "location_id": "EllensburgWASupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.9965400100",
+    "longitude": "-120.5479032000"
+  },
+  {
+    "location_id": "ElyNVSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.2533765000",
+    "longitude": "-114.8742038000"
+  },
+  {
+    "location_id": "emdensuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.3881200500",
+    "longitude": "7.2076990940"
+  },
+  {
+    "location_id": "endseesuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.4475528100",
+    "longitude": "10.2503946400"
+  },
+  {
+    "location_id": "EstevanSKSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.1391350000",
+    "longitude": "-102.9914960000"
+  },
+  {
+    "location_id": "Eunpyeongsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.6194600000",
+    "longitude": "126.9208000000"
+  },
+  {
+    "location_id": "AuburnALSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "32.6098720000",
+    "longitude": "-85.4817430000"
+  },
+  {
+    "location_id": "ExmoreVASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.5319080000",
+    "longitude": "-75.8228480000"
+  },
+  {
+    "location_id": "FairmontWVSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.4848290000",
+    "longitude": "-80.1426760000"
+  },
+  {
+    "location_id": "FalmouthMESupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.7436637900",
+    "longitude": "-70.2603766000"
+  },
+  {
+    "location_id": "favershamsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.3057730000",
+    "longitude": "0.9022810000"
+  },
+  {
+    "location_id": "fessuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.0382230000",
+    "longitude": "-5.0228700000"
+  },
+  {
+    "location_id": "FlorenceSCSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.1957420000",
+    "longitude": "-79.7626940000"
+  },
+  {
+    "location_id": "FondDuLacWISupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.7732415700",
+    "longitude": "-88.4470755800"
+  },
+  {
+    "location_id": "FortLauderdaleFLSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "26.1224320000",
+    "longitude": "-80.1373180000"
+  },
+  {
+    "location_id": "FortMillSCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.0073380000",
+    "longitude": "-80.9450960000"
+  },
+  {
+    "location_id": "fredericiasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "55.5331630600",
+    "longitude": "9.7159298740"
+  },
+  {
+    "location_id": "FredericksburgVASupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.3033073400",
+    "longitude": "-77.4606611400"
+  },
+  {
+    "location_id": "FremontCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.5486466100",
+    "longitude": "-121.9883386000"
+  },
+  {
+    "location_id": "fuenlabradasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.2982537900",
+    "longitude": "-3.8213066150"
+  },
+  {
+    "location_id": "FullertonCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.8703671100",
+    "longitude": "-117.9243001000"
+  },
+  {
+    "location_id": "GananoqueONSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.3306790000",
+    "longitude": "-76.1617870000"
+  },
+  {
+    "location_id": "GangnamSinsasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.5161100000",
+    "longitude": "127.0195300000"
+  },
+  {
+    "location_id": "GastoniaNCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.2621650000",
+    "longitude": "-81.1871050000"
+  },
+  {
+    "location_id": "Geojesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.8887300000",
+    "longitude": "128.6142600000"
+  },
+  {
+    "location_id": "Geumcheonsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.4800700000",
+    "longitude": "126.8817200000"
+  },
+  {
+    "location_id": "GilroyCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.0030266300",
+    "longitude": "-121.5564713000"
+  },
+  {
+    "location_id": "Gimhaesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.2275600000",
+    "longitude": "128.8941800000"
+  },
+  {
+    "location_id": "golfedesainttropezsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.2624810000",
+    "longitude": "6.5755440000"
+  },
+  {
+    "location_id": "GoyangNorthsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.6504800000",
+    "longitude": "126.8738300000"
+  },
+  {
+    "location_id": "grålumsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "59.2963190900",
+    "longitude": "11.0675265400"
+  },
+  {
+    "location_id": "granthamsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.9484910000",
+    "longitude": "-0.6779630000"
+  },
+  {
+    "location_id": "GreenvilleNCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.6129030000",
+    "longitude": "-77.3663700000"
+  },
+  {
+    "location_id": "GrinnellIASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.7432550000",
+    "longitude": "-92.7232760000"
+  },
+  {
+    "location_id": "groningensuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.1962650000",
+    "longitude": "6.5379120000"
+  },
+  {
+    "location_id": "GuaynaboPRSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "18.3574521700",
+    "longitude": "-66.1108320000"
+  },
+  {
+    "location_id": "guildfordsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.2373750000",
+    "longitude": "-0.5694820000"
+  },
+  {
+    "location_id": "Gumi Asupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.1266100000",
+    "longitude": "128.3367700000"
+  },
+  {
+    "location_id": "Gunposupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.3690400000",
+    "longitude": "126.9376600000"
+  },
+  {
+    "location_id": "Gurisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.6105800000",
+    "longitude": "127.1379600000"
+  },
+  {
+    "location_id": "Gwanggyo Lakesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.2863400000",
+    "longitude": "127.0558600000"
+  },
+  {
+    "location_id": "GwangjuEast (Jeolla)supercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.1176600000",
+    "longitude": "126.8986300000"
+  },
+  {
+    "location_id": "GwangjuWest (Jeolla)supercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.2177700000",
+    "longitude": "126.8460000000"
+  },
+  {
+    "location_id": "Gwangyang Asupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.9708700000",
+    "longitude": "127.5822600000"
+  },
+  {
+    "location_id": "HallandaleBeachFLSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "25.9818490000",
+    "longitude": "-80.1482920000"
+  },
+  {
+    "location_id": "HancockNYSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.9541729700",
+    "longitude": "-75.2802424600"
+  },
+  {
+    "location_id": "HanoverMASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "42.1160075800",
+    "longitude": "-70.8473112700"
+  },
+  {
+    "location_id": "HarlingenTXSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "26.1906790000",
+    "longitude": "-97.6961360000"
+  },
+  {
+    "location_id": "HarrisburgORSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.2738460000",
+    "longitude": "-123.1709490000"
+  },
+  {
+    "location_id": "hendeksuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.8001180000",
+    "longitude": "30.7430210000"
+  },
+  {
+    "location_id": "HendersonvilleTNSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.3048060000",
+    "longitude": "-86.6199180000"
+  },
+  {
+    "location_id": "herriedensuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.2606572800",
+    "longitude": "10.5034634600"
+  },
+  {
+    "location_id": "holonsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "32.0171650000",
+    "longitude": "34.7893880000"
+  },
+  {
+    "location_id": "HonoluluHISupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "21.3061592300",
+    "longitude": "-157.8596058000"
+  },
+  {
+    "location_id": "HoustonTXSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "29.7608359000",
+    "longitude": "-95.3695306900"
+  },
+  {
+    "location_id": "houtensuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.0349900000",
+    "longitude": "5.1376670000"
+  },
+  {
+    "location_id": "HuntsvilleALSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.7304080000",
+    "longitude": "-86.5859350000"
+  },
+  {
+    "location_id": "HuttoTXSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.5430030000",
+    "longitude": "-97.5464460000"
+  },
+  {
+    "location_id": "Icheonsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.2788200000",
+    "longitude": "127.4344900000"
+  },
+  {
+    "location_id": "IncheonBupyeongsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.5074500000",
+    "longitude": "126.7205500000"
+  },
+  {
+    "location_id": "IndianapolisINSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.7679540200",
+    "longitude": "-86.1580492600"
+  },
+  {
+    "location_id": "IowaCityIASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.6612650000",
+    "longitude": "-91.5301660000"
+  },
+  {
+    "location_id": "JacksonvilleNCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.7540800000",
+    "longitude": "-77.4304350000"
+  },
+  {
+    "location_id": "JasperFLSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.5183080000",
+    "longitude": "-82.9484520000"
+  },
+  {
+    "location_id": "Jeonjusupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.8066500000",
+    "longitude": "127.1166500000"
+  },
+  {
+    "location_id": "JonesboroARSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.8420950000",
+    "longitude": "-90.7048940000"
+  },
+  {
+    "location_id": "kaohsiungcitysupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "22.6594217500",
+    "longitude": "120.2984239000"
+  },
+  {
+    "location_id": "eastkaohsiungsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "22.5986601100",
+    "longitude": "120.3412614000"
+  },
+  {
+    "location_id": "kärsämäkisuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "63.9828877100",
+    "longitude": "25.7575411900"
+  },
+  {
+    "location_id": "KearneyNESupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.6993324200",
+    "longitude": "-99.0816394200"
+  },
+  {
+    "location_id": "KemptvilleONSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.0163480000",
+    "longitude": "-75.6463080000"
+  },
+  {
+    "location_id": "KernersvilleNCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.1197690000",
+    "longitude": "-80.0732240000"
+  },
+  {
+    "location_id": "kiryatshmonasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.2005210000",
+    "longitude": "35.5696500000"
+  },
+  {
+    "location_id": "LagrangevilleNYSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.6497490200",
+    "longitude": "-73.7632498700"
+  },
+  {
+    "location_id": "LakeDeltonWISupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.6010480000",
+    "longitude": "-89.7935200000"
+  },
+  {
+    "location_id": "Lakewood,CASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.8536773700",
+    "longitude": "-118.1337520000"
+  },
+  {
+    "location_id": "LamarCOSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.0870910000",
+    "longitude": "-102.6205250000"
+  },
+  {
+    "location_id": "LangleyBCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.1040050000",
+    "longitude": "-122.6602470000"
+  },
+  {
+    "location_id": "LansingMISupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "42.7326064600",
+    "longitude": "-84.5554642100"
+  },
+  {
+    "location_id": "LawrenceKSSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.9716350000",
+    "longitude": "-95.2352900000"
+  },
+  {
+    "location_id": "leedswestsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.8013000000",
+    "longitude": "-1.5657000000"
+  },
+  {
+    "location_id": "LeedsALSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.5481380000",
+    "longitude": "-86.5443780000"
+  },
+  {
+    "location_id": "LelandNCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.2294060000",
+    "longitude": "-78.0343790000"
+  },
+  {
+    "location_id": "LenoxMASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "42.3567450000",
+    "longitude": "-73.2850310000"
+  },
+  {
+    "location_id": "leobensuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.3791700000",
+    "longitude": "14.9937700000"
+  },
+  {
+    "location_id": "LexingtonKYSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.0404258500",
+    "longitude": "-84.5044649800"
+  },
+  {
+    "location_id": "LexingtonVASupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.7841571400",
+    "longitude": "-79.4429721100"
+  },
+  {
+    "location_id": "LincolnNESupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.8136189500",
+    "longitude": "-96.7026093900"
+  },
+  {
+    "location_id": "liverpooleastsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.4069640000",
+    "longitude": "-2.9014150000"
+  },
+  {
+    "location_id": "LompocCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.6389740000",
+    "longitude": "-120.4578600000"
+  },
+  {
+    "location_id": "LostHillsCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.6165084600",
+    "longitude": "-119.6941844000"
+  },
+  {
+    "location_id": "MadocONSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.5052250000",
+    "longitude": "-77.4726510000"
+  },
+  {
+    "location_id": "MammothLakesCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.6482109100",
+    "longitude": "-118.9721383000"
+  },
+  {
+    "location_id": "MapleRidgeBCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.2193280800",
+    "longitude": "-122.5990829000"
+  },
+  {
+    "location_id": "MarinetteWISupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.0999940000",
+    "longitude": "-87.6307280000"
+  },
+  {
+    "location_id": "MarkhamONSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.8562022300",
+    "longitude": "-79.3379553500"
+  },
+  {
+    "location_id": "marrakeshsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "31.6271490000",
+    "longitude": "-8.0261800000"
+  },
+  {
+    "location_id": "MechanicsvilleVASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.6087950000",
+    "longitude": "-77.3734430000"
+  },
+  {
+    "location_id": "MentorOHSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.6664402500",
+    "longitude": "-81.3399623700"
+  },
+  {
+    "location_id": "merklingensuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.5183724800",
+    "longitude": "9.7610938440"
+  },
+  {
+    "location_id": "MesaAZSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.4151201300",
+    "longitude": "-111.8314753000"
+  },
+  {
+    "location_id": "MillenGASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "32.8043370000",
+    "longitude": "-81.9491130000"
+  },
+  {
+    "location_id": "MindenONSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.9266019300",
+    "longitude": "-78.7262929400"
+  },
+  {
+    "location_id": "MinocquaWISupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.8713910000",
+    "longitude": "-89.7100780000"
+  },
+  {
+    "location_id": "Misasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.5609300000",
+    "longitude": "127.1938700000"
+  },
+  {
+    "location_id": "MocksvilleNCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.8940820000",
+    "longitude": "-80.5618500000"
+  },
+  {
+    "location_id": "ModestoCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.6392770300",
+    "longitude": "-120.9970266000"
+  },
+  {
+    "location_id": "MojaveCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.0525835800",
+    "longitude": "-118.1736997000"
+  },
+  {
+    "location_id": "MokenaILSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.5265980000",
+    "longitude": "-87.8892420000"
+  },
+  {
+    "location_id": "Mokposupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.8144300000",
+    "longitude": "126.4712200000"
+  },
+  {
+    "location_id": "MonroeTownshipNJSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.3365360000",
+    "longitude": "-74.4348500000"
+  },
+  {
+    "location_id": "MonticelloMNSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.3056954200",
+    "longitude": "-93.7941746200"
+  },
+  {
+    "location_id": "MorrisMBSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.3546863200",
+    "longitude": "-97.3645500100"
+  },
+  {
+    "location_id": "MtAiryNCSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.4999670000",
+    "longitude": "-80.6053810000"
+  },
+  {
+    "location_id": "münchennordsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.1983667100",
+    "longitude": "11.6178794400"
+  },
+  {
+    "location_id": "Namhaesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.8383200000",
+    "longitude": "127.8991800000"
+  },
+  {
+    "location_id": "Namwonsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.4220200000",
+    "longitude": "127.4013100000"
+  },
+  {
+    "location_id": "nantoupulisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "23.9651570600",
+    "longitude": "120.9673108000"
+  },
+  {
+    "location_id": "NatchitochesLASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "31.7608480000",
+    "longitude": "-93.0861140000"
+  },
+  {
+    "location_id": "neumünstersuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "54.0700657300",
+    "longitude": "9.9228146920"
+  },
+  {
+    "location_id": "NewBraunfelsTXSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "29.7033280000",
+    "longitude": "-98.1243200000"
+  },
+  {
+    "location_id": "NewSpringfieldOHSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.9172250000",
+    "longitude": "-80.6058770000"
+  },
+  {
+    "location_id": "newtaipeidanshuisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "25.1876441200",
+    "longitude": "121.4093416000"
+  },
+  {
+    "location_id": "NewarkNJSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.7355820300",
+    "longitude": "-74.1721221400"
+  },
+  {
+    "location_id": "nordfjordeidsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "61.9121837200",
+    "longitude": "5.9855857320"
+  },
+  {
+    "location_id": "NorthBabylonNYSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.7163869800",
+    "longitude": "-73.3221509800"
+  },
+  {
+    "location_id": "NorthPlatteNESupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.1401261900",
+    "longitude": "-100.7624667000"
+  },
+  {
+    "location_id": "northeimsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.6292909600",
+    "longitude": "9.9185296370"
+  },
+  {
+    "location_id": "norwichsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.6301890000",
+    "longitude": "1.2971380000"
+  },
+  {
+    "location_id": "nottinghamcentresuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.9551590000",
+    "longitude": "-1.1436650000"
+  },
+  {
+    "location_id": "OceanCityMDSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.3850453500",
+    "longitude": "-75.0663900600"
+  },
+  {
+    "location_id": "oddasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "60.0691943600",
+    "longitude": "6.5462243610"
+  },
+  {
+    "location_id": "OmahaNESupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.2565431800",
+    "longitude": "-95.9345179600"
+  },
+  {
+    "location_id": "oppdalsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "62.5942796500",
+    "longitude": "9.6912202850"
+  },
+  {
+    "location_id": "ørjesuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "59.4818617500",
+    "longitude": "11.6608207000"
+  },
+  {
+    "location_id": "OrlandParkILSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.6304880000",
+    "longitude": "-87.8538740000"
+  },
+  {
+    "location_id": "örnsköldsviksouthsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "63.2916090000",
+    "longitude": "18.7060180000"
+  },
+  {
+    "location_id": "Osansupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.1559800000",
+    "longitude": "127.0727300000"
+  },
+  {
+    "location_id": "OswegoILSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.6829660800",
+    "longitude": "-88.3515715600"
+  },
+  {
+    "location_id": "OxfordNCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.3106183500",
+    "longitude": "-78.5911049300"
+  },
+  {
+    "location_id": "padborgsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "54.8365011200",
+    "longitude": "9.3388918500"
+  },
+  {
+    "location_id": "Paldangsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.5477200000",
+    "longitude": "127.2423000000"
+  },
+  {
+    "location_id": "parmasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.8000000000",
+    "longitude": "10.3500000000"
+  },
+  {
+    "location_id": "PattersonCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.4716720400",
+    "longitude": "-121.1298371000"
+  },
+  {
+    "location_id": "PembrokePinesFLSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "26.0077331000",
+    "longitude": "-80.2962057300"
+  },
+  {
+    "location_id": "PerryHallMDSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.4128150000",
+    "longitude": "-76.4638550000"
+  },
+  {
+    "location_id": "PiedmontSCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.7023845900",
+    "longitude": "-82.4645172900"
+  },
+  {
+    "location_id": "pingtungsouthsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "22.4699877900",
+    "longitude": "120.5480100000"
+  },
+  {
+    "location_id": "PlantCityFLSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "28.0183320700",
+    "longitude": "-82.1129457600"
+  },
+  {
+    "location_id": "Pohangsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.0577800000",
+    "longitude": "129.3195100000"
+  },
+  {
+    "location_id": "poitierssudsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.5534419400",
+    "longitude": "0.2819093580"
+  },
+  {
+    "location_id": "portawestfalicasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.2112121300",
+    "longitude": "8.8756477480"
+  },
+  {
+    "location_id": "PortsmouthVASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.8353932600",
+    "longitude": "-76.2979080700"
+  },
+  {
+    "location_id": "PuebloCOSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.2542806600",
+    "longitude": "-104.6085586000"
+  },
+  {
+    "location_id": "QuincyWASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.2344550200",
+    "longitude": "-119.8533723000"
+  },
+  {
+    "location_id": "rabatsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.9597440000",
+    "longitude": "-6.8268710000"
+  },
+  {
+    "location_id": "raulandsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "59.6945721800",
+    "longitude": "8.0645211850"
+  },
+  {
+    "location_id": "ReadingPASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.3353210000",
+    "longitude": "-75.9278770000"
+  },
+  {
+    "location_id": "RedBluffCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.1784131300",
+    "longitude": "-122.2357170000"
+  },
+  {
+    "location_id": "RedHookNYSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.9950770000",
+    "longitude": "-73.8756160000"
+  },
+  {
+    "location_id": "RedOakTXSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "32.5317429200",
+    "longitude": "-96.8137137300"
+  },
+  {
+    "location_id": "reichertshofensuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.6453429900",
+    "longitude": "11.5165756000"
+  },
+  {
+    "location_id": "RestonVASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.9587160600",
+    "longitude": "-77.3569936400"
+  },
+  {
+    "location_id": "RevelstokeBCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.9982011800",
+    "longitude": "-118.1960850000"
+  },
+  {
+    "location_id": "rishonlezionsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "31.9743660000",
+    "longitude": "34.7913230000"
+  },
+  {
+    "location_id": "rjukansuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "59.8780172500",
+    "longitude": "8.5878811160"
+  },
+  {
+    "location_id": "RobertsdaleALSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.5538192600",
+    "longitude": "-87.7115106800"
+  },
+  {
+    "location_id": "RockyHillCTSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.6575380000",
+    "longitude": "-72.6641570000"
+  },
+  {
+    "location_id": "roermondsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.2708720000",
+    "longitude": "6.0920320000"
+  },
+  {
+    "location_id": "romfordsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.5750000000",
+    "longitude": "0.1792000000"
+  },
+  {
+    "location_id": "roosendaalsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.5268260000",
+    "longitude": "4.7441210000"
+  },
+  {
+    "location_id": "rüsselsheimsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.9793200000",
+    "longitude": "8.4158000000"
+  },
+  {
+    "location_id": "RustonLASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "32.5236840300",
+    "longitude": "-92.6384391500"
+  },
+  {
+    "location_id": "Sacheonsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.0802500000",
+    "longitude": "128.0830100000"
+  },
+  {
+    "location_id": "saintjulienengenevoissuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.1377881400",
+    "longitude": "6.0780892100"
+  },
+  {
+    "location_id": "SaintLouisdeBlandfordQCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.2550940900",
+    "longitude": "-72.0094497200"
+  },
+  {
+    "location_id": "saintquentinsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.8470146500",
+    "longitude": "3.2882165910"
+  },
+  {
+    "location_id": "salaspilssuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "56.8514640000",
+    "longitude": "24.3357520000"
+  },
+  {
+    "location_id": "SalisburyMDSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.3604310000",
+    "longitude": "-75.5993660000"
+  },
+  {
+    "location_id": "JacksonvilleFLSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.3322544500",
+    "longitude": "-81.6562168200"
+  },
+  {
+    "location_id": "SanFranciscoCASupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.7751689400",
+    "longitude": "-122.4192732000"
+  },
+  {
+    "location_id": "SanJuanCapistranoCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.5018903200",
+    "longitude": "-117.6628385000"
+  },
+  {
+    "location_id": "SanMateoCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.5630254600",
+    "longitude": "-122.3259856000"
+  },
+  {
+    "location_id": "SanRafaelCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.9733990000",
+    "longitude": "-122.5307620000"
+  },
+  {
+    "location_id": "sansalvomarinasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "42.0716993700",
+    "longitude": "14.7655389100"
+  },
+  {
+    "location_id": "SantaAnaSONSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "30.5398383100",
+    "longitude": "-111.1194749000"
+  },
+  {
+    "location_id": "SantaBarbaraCAsupercharger3",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.4208130000",
+    "longitude": "-119.6984150000"
+  },
+  {
+    "location_id": "SantaMonicaCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.0194971900",
+    "longitude": "-118.4913849000"
+  },
+  {
+    "location_id": "schleizsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.5489497200",
+    "longitude": "11.7943630300"
+  },
+  {
+    "location_id": "SeafordDESupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.6413790000",
+    "longitude": "-75.6111250000"
+  },
+  {
+    "location_id": "SebastianFLSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "27.8163777900",
+    "longitude": "-80.4709149400"
+  },
+  {
+    "location_id": "SebringFLSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "27.4955252100",
+    "longitude": "-81.4408152500"
+  },
+  {
+    "location_id": "PasadenaCASupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.1478549900",
+    "longitude": "-118.1443016000"
+  },
+  {
+    "location_id": "Sejongsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.4999400000",
+    "longitude": "127.2561900000"
+  },
+  {
+    "location_id": "selbsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.1677930900",
+    "longitude": "12.1072571700"
+  },
+  {
+    "location_id": "seljordsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "59.4894028500",
+    "longitude": "8.6441676030"
+  },
+  {
+    "location_id": "SelmaCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.5707450000",
+    "longitude": "-119.6122990000"
+  },
+  {
+    "location_id": "Seosansupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.7727800000",
+    "longitude": "126.4418000000"
+  },
+  {
+    "location_id": "sharjahsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "25.3278780000",
+    "longitude": "55.4197200000"
+  },
+  {
+    "location_id": "ShelbyvilleINSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.5215870000",
+    "longitude": "-85.7770180000"
+  },
+  {
+    "location_id": "Siheungsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.3722000000",
+    "longitude": "126.7271500000"
+  },
+  {
+    "location_id": "sinsheimsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.2410116200",
+    "longitude": "8.8887644030"
+  },
+  {
+    "location_id": "Sokcho Bsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.2038300000",
+    "longitude": "128.5468800000"
+  },
+  {
+    "location_id": "soltausuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.9686800000",
+    "longitude": "9.9088600000"
+  },
+  {
+    "location_id": "somasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.2044500000",
+    "longitude": "27.6217400000"
+  },
+  {
+    "location_id": "SongpaOlympic Parksupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.5176000000",
+    "longitude": "127.1129600000"
+  },
+  {
+    "location_id": "SouthBarringtonILSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "42.0883830000",
+    "longitude": "-88.1536650000"
+  },
+  {
+    "location_id": "SouthLakeTahoeCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.9400621500",
+    "longitude": "-119.9772444000"
+  },
+  {
+    "location_id": "SouthRiverNJSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.4464948900",
+    "longitude": "-74.3858645600"
+  },
+  {
+    "location_id": "StAugustineFLSupercharger22",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "29.9012456600",
+    "longitude": "-81.3126975600"
+  },
+  {
+    "location_id": "SouthingtonCTSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.5966194900",
+    "longitude": "-72.8777106300"
+  },
+  {
+    "location_id": "spiersuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.8250520000",
+    "longitude": "6.4713460000"
+  },
+  {
+    "location_id": "spittaldrausuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.8260747600",
+    "longitude": "13.4859653200"
+  },
+  {
+    "location_id": "SpokaneWASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.6590420000",
+    "longitude": "-117.4265130000"
+  },
+  {
+    "location_id": "SpragueWASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.3002270000",
+    "longitude": "-117.9758260000"
+  },
+  {
+    "location_id": "StCharlesILSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.9144135700",
+    "longitude": "-88.3087135900"
+  },
+  {
+    "location_id": "StLouisMOSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.6274595000",
+    "longitude": "-90.1983389900"
+  },
+  {
+    "location_id": "steinkjersuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "64.0159237500",
+    "longitude": "11.4896356600"
+  },
+  {
+    "location_id": "SunriseFLSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "26.1669262200",
+    "longitude": "-80.2565362200"
+  },
+  {
+    "location_id": "SutherlinORSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.3902265700",
+    "longitude": "-123.3126816000"
+  },
+  {
+    "location_id": "SuttonWVSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.6647672500",
+    "longitude": "-80.7098034000"
+  },
+  {
+    "location_id": "SuwonYeongtongsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.2458100000",
+    "longitude": "127.0568600000"
+  },
+  {
+    "location_id": "swanseasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.6216100000",
+    "longitude": "-3.9431500000"
+  },
+  {
+    "location_id": "swindonsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.5565277500",
+    "longitude": "-1.7806339600"
+  },
+  {
+    "location_id": "SyossetNYSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.8260562100",
+    "longitude": "-73.5022258600"
+  },
+  {
+    "location_id": "taastrupsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "55.6594390600",
+    "longitude": "12.3158477700"
+  },
+  {
+    "location_id": "easttaichungsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "24.1630768600",
+    "longitude": "120.7193467000"
+  },
+  {
+    "location_id": "Taipeisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "25.0513761300",
+    "longitude": "121.5706554000"
+  },
+  {
+    "location_id": "TaipeiDazhisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "25.0774413600",
+    "longitude": "121.5443956000"
+  },
+  {
+    "location_id": "taoyuansupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "24.9570431100",
+    "longitude": "121.1996916000"
+  },
+  {
+    "location_id": "TemeculaCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.4936374800",
+    "longitude": "-117.1485320000"
+  },
+  {
+    "location_id": "teruelsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.3410000000",
+    "longitude": "-1.1097230000"
+  },
+  {
+    "location_id": "ThomasvilleNCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.8826273400",
+    "longitude": "-80.0815060200"
+  },
+  {
+    "location_id": "ThorntonNHSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.8931143000",
+    "longitude": "-71.6755298300"
+  },
+  {
+    "location_id": "TillamookORSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.4563253100",
+    "longitude": "-123.8439388000"
+  },
+  {
+    "location_id": "todhillsmotosouthbound superchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "54.9519920000",
+    "longitude": "-2.9787170000"
+  },
+  {
+    "location_id": "tonghamsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.2264890000",
+    "longitude": "-0.7224910000"
+  },
+  {
+    "location_id": "TopekaKSSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.0473470000",
+    "longitude": "-95.6751600000"
+  },
+  {
+    "location_id": "tournussuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.5634675200",
+    "longitude": "4.9112756120"
+  },
+  {
+    "location_id": "tours sudsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.3310567000",
+    "longitude": "0.6833811830"
+  },
+  {
+    "location_id": "TrentonONSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.1012115300",
+    "longitude": "-77.5762478200"
+  },
+  {
+    "location_id": "PrinceAlbertSkSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.2035375700",
+    "longitude": "-105.7524593000"
+  },
+  {
+    "location_id": "TustinCASupercharger10",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.7420898500",
+    "longitude": "-117.8236498000"
+  },
+  {
+    "location_id": "Ulsan Asupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.5613100000",
+    "longitude": "129.3614800000"
+  },
+  {
+    "location_id": "unterföhringsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.1906646800",
+    "longitude": "11.6469390800"
+  },
+  {
+    "location_id": "UrbanaILSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.1106160000",
+    "longitude": "-88.2088800000"
+  },
+  {
+    "location_id": "utrechtsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.0973190000",
+    "longitude": "5.0678310000"
+  },
+  {
+    "location_id": "VallejoCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.1040960000",
+    "longitude": "-122.2565710000"
+  },
+  {
+    "location_id": "VaughanONSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.8563226500",
+    "longitude": "-79.5085500100"
+  },
+  {
+    "location_id": "VernonCTSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.8187167500",
+    "longitude": "-72.4789837700"
+  },
+  {
+    "location_id": "VeronaNYSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.1381710000",
+    "longitude": "-75.5706390000"
+  },
+  {
+    "location_id": "VictorvilleCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.5363244700",
+    "longitude": "-117.2928493000"
+  },
+  {
+    "location_id": "vigosuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "42.2390780000",
+    "longitude": "-8.7087610000"
+  },
+  {
+    "location_id": "VillaParkILSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.8897722400",
+    "longitude": "-87.9888436800"
+  },
+  {
+    "location_id": "villebonsuryvettesuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.6971747100",
+    "longitude": "2.2315323170"
+  },
+  {
+    "location_id": "vinstra2superchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "61.5930826800",
+    "longitude": "9.7240277110"
+  },
+  {
+    "location_id": "VistaCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "33.2002438800",
+    "longitude": "-117.2423913000"
+  },
+  {
+    "location_id": "WadeNCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.1630265400",
+    "longitude": "-78.7360576700"
+  },
+  {
+    "location_id": "WalcottIASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.5858450000",
+    "longitude": "-90.7746260000"
+  },
+  {
+    "location_id": "WarwickRISupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.7001270000",
+    "longitude": "-71.4158630000"
+  },
+  {
+    "location_id": "WashingtonDCSupercharger10",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.9107780000",
+    "longitude": "-77.0090560000"
+  },
+  {
+    "location_id": "WashingtonDCSupercharger11",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.9334624500",
+    "longitude": "-77.0798114700"
+  },
+  {
+    "location_id": "WestCovinaCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.0688333100",
+    "longitude": "-117.9381763000"
+  },
+  {
+    "location_id": "WestUnityOHSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.5864840000",
+    "longitude": "-84.4348370000"
+  },
+  {
+    "location_id": "wetzlarsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.5709248000",
+    "longitude": "8.5465334850"
+  },
+  {
+    "location_id": "WhartonTXSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "29.3117302800",
+    "longitude": "-96.1030622000"
+  },
+  {
+    "location_id": "WindsorONSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "42.3148821000",
+    "longitude": "-83.0373148600"
+  },
+  {
+    "location_id": "WinstonSalemNCSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.1000385400",
+    "longitude": "-80.2442488700"
+  },
+  {
+    "location_id": "WoodbirdgeTownshipNJSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.5576620000",
+    "longitude": "-74.2843720000"
+  },
+  {
+    "location_id": "UnionNJSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.6976784700",
+    "longitude": "-74.2635093600"
+  },
+  {
+    "location_id": "wuppertalsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.3143786600",
+    "longitude": "7.2663182480"
+  },
+  {
+    "location_id": "Yangsansupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.3209400000",
+    "longitude": "129.0174600000"
+  },
+  {
+    "location_id": "southyilansupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "24.6411840200",
+    "longitude": "121.8049173000"
+  },
+  {
+    "location_id": "YpsilantiMISupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "42.2410290000",
+    "longitude": "-83.6131180000"
+  },
+  {
+    "location_id": "YuccaValleyCASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.1143634000",
+    "longitude": "-116.4315796000"
+  },
+  {
+    "location_id": "žirovnicasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.4033601300",
+    "longitude": "14.1550567600"
+  },
+  {
+    "location_id": "zoetermeersuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.0475020000",
+    "longitude": "4.4843230000"
   },
   {
     "id": "Bodyshop_NA556",
