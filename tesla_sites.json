@@ -162126,16 +162126,6 @@
     "longitude": "-80.7440850000"
   },
   {
-    "location_id": "exeteronsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "43.3472710000",
-    "longitude": "-81.4806030000"
-  },
-  {
     "location_id": "taoyuanguishansupercharger",
     "location_type": [
       "supercharger",
@@ -164712,6 +164702,16 @@
     "open_soon": "1",
     "latitude": "30.4514680000",
     "longitude": "-91.1871470000"
+  },
+  {
+    "location_id": "LaurelMDSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.0995110000",
+    "longitude": "-76.8483710000"
   },
   {
     "location_id": "BaytownTXSupercharger",
