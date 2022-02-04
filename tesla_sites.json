@@ -35811,9 +35811,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "43.0619164826",
-    "longitude": "141.3583369889"
+    "open_soon": "1",
+    "latitude": "43.0613165800",
+    "longitude": "141.3602621000"
   },
   {
     "location_id": "dc17634",
@@ -139298,6 +139298,16 @@
     "longitude": "34.7923110000"
   },
   {
+    "location_id": "beersheevailsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "31.2392400000",
+    "longitude": "34.7978380000"
+  },
+  {
     "location_id": "Eilatilsupercharger",
     "location_type": [
       "supercharger",
@@ -156810,17 +156820,6 @@
     "open_soon": "1",
     "latitude": "60.1683080200",
     "longitude": "10.2564118700"
-  },
-  {
-    "location_id": "LillehammerCentralSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger",
-      "party"
-    ],
-    "open_soon": "0",
-    "latitude": "61.1145750000",
-    "longitude": "10.4472600000"
   },
   {
     "location_id": "NordfjordeidSupercharger",
