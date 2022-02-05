@@ -39581,16 +39581,6 @@
     "longitude": "10.1869110000"
   },
   {
-    "location_id": "dc21177",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "54.3397410000",
-    "longitude": "10.1558520000"
-  },
-  {
     "location_id": "dc21408",
     "location_type": [
       "destination charger",
@@ -63670,16 +63660,6 @@
     "longitude": "1.1942510000"
   },
   {
-    "location_id": "dc27634",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "56.0453270000",
-    "longitude": "12.6036410000"
-  },
-  {
     "location_id": "dc28881",
     "location_type": [
       "destination charger",
@@ -83025,8 +83005,8 @@
   {
     "location_id": "dc16473",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "51.8253420000",
@@ -130367,8 +130347,8 @@
   {
     "location_id": "dc73015",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "40.4203520000",
@@ -138777,16 +138757,6 @@
     "longitude": "7.3561250000"
   },
   {
-    "location_id": "MarseilleFrancesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "43.2950520000",
-    "longitude": "5.3740290000"
-  },
-  {
     "location_id": "PontoiseFrancesupercharger",
     "location_type": [
       "supercharger",
@@ -138805,16 +138775,6 @@
     "open_soon": "1",
     "latitude": "45.4386990000",
     "longitude": "4.3893400000"
-  },
-  {
-    "location_id": "LilleNordFrancesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "50.6693910000",
-    "longitude": "3.1145390000"
   },
   {
     "location_id": "ToulouseLabegeFrancesupercharger",
@@ -160711,16 +160671,6 @@
     "longitude": "10.2265720000"
   },
   {
-    "location_id": "Evrysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.6241810000",
-    "longitude": "2.4192530000"
-  },
-  {
     "location_id": "Gottingensupercharger",
     "location_type": [
       "supercharger",
@@ -168402,6 +168352,26 @@
     "open_soon": "1",
     "latitude": "50.7695260000",
     "longitude": "-1.9194950000"
+  },
+  {
+    "location_id": "vaterstettensupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.1465220000",
+    "longitude": "11.7906010000"
+  },
+  {
+    "location_id": "radhusbolungarvikur",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "66.1580915000",
+    "longitude": "-23.2497180700"
   },
   {
     "id": "Bodyshop_NA556",
