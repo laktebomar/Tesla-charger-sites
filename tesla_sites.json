@@ -168374,16 +168374,6 @@
     "longitude": "-23.2497180700"
   },
   {
-    "location_id": "tempdeliveryhubrennes",
-    "location_type": [
-      "logistics",
-      "delivery"
-    ],
-    "open_soon": "0",
-    "latitude": "48.0791713000",
-    "longitude": "-1.7406140000"
-  },
-  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
