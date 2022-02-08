@@ -102965,6 +102965,16 @@
     "longitude": "-119.0743610000"
   },
   {
+    "location_id": "castelobrancosupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.8331010000",
+    "longitude": "-7.5073760000"
+  },
+  {
     "location_id": "CastlegarBCsupercharger",
     "location_type": [
       "supercharger",
@@ -159859,6 +159869,16 @@
     "open_soon": "1",
     "latitude": "55.4900588400",
     "longitude": "9.4778598540"
+  },
+  {
+    "location_id": "Matosinhossupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.2081790000",
+    "longitude": "-8.6885530000"
   },
   {
     "location_id": "AnaheimCASupercharger2",
