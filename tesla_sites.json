@@ -140778,9 +140778,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "38.8970100000",
-    "longitude": "-121.0768760000"
+    "open_soon": "0",
+    "latitude": "38.9263310000",
+    "longitude": "-121.0581450000"
   },
   {
     "location_id": "AustinTXCentralsupercharger",
@@ -157247,9 +157247,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "41.5868370000",
-    "longitude": "-93.6249600000"
+    "open_soon": "0",
+    "latitude": "41.6524300000",
+    "longitude": "-93.6211100000"
   },
   {
     "location_id": "DoralFLSupercharger",
@@ -157277,9 +157277,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "42.1291740000",
-    "longitude": "-80.0850340000"
+    "open_soon": "0",
+    "latitude": "42.0656560800",
+    "longitude": "-80.0372154000"
   },
   {
     "location_id": "FairPlaySCSupercharger",
@@ -167159,9 +167159,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.3353210000",
-    "longitude": "-75.9278770000"
+    "open_soon": "0",
+    "latitude": "40.3017487000",
+    "longitude": "-75.8538283200"
   },
   {
     "location_id": "RedBluffCASupercharger",
