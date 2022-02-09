@@ -31876,16 +31876,6 @@
     "longitude": "9.4827060000"
   },
   {
-    "location_id": "dc19079",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.3436570000",
-    "longitude": "12.3767870000"
-  },
-  {
     "location_id": "dc19090",
     "location_type": [
       "destination charger",
@@ -42016,16 +42006,6 @@
     "open_soon": "0",
     "latitude": "52.4882720000",
     "longitude": "5.0335320000"
-  },
-  {
-    "location_id": "dc11840",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "61.3288630000",
-    "longitude": "12.1638480000"
   },
   {
     "location_id": "dc13032",
@@ -133838,8 +133818,8 @@
   {
     "location_id": "dc548135",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "48.4126020000",
@@ -156686,9 +156666,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "47.9256100000",
-    "longitude": "10.2137300000"
+    "open_soon": "0",
+    "latitude": "47.9234240000",
+    "longitude": "10.2086630000"
   },
   {
     "location_id": "HerzliyaSupercharger",
@@ -168402,6 +168382,16 @@
     "open_soon": "0",
     "latitude": "48.0791713000",
     "longitude": "-1.7406140000"
+  },
+  {
+    "location_id": "lesjardins",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.8703816200",
+    "longitude": "2.3193000000"
   },
   {
     "id": "Bodyshop_NA556",
