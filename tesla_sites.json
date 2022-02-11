@@ -133094,16 +133094,6 @@
     "longitude": "-122.5517450000"
   },
   {
-    "location_id": "dakasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "24.3011930000",
-    "longitude": "121.7513200000"
-  },
-  {
     "location_id": "camberwellausupercharger",
     "location_type": [
       "supercharger",
@@ -137405,8 +137395,8 @@
   {
     "location_id": "dc780109",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "22.9971800000",
