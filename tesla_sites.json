@@ -157377,9 +157377,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "36.8517440000",
-    "longitude": "-119.9522070000"
+    "open_soon": "1",
+    "latitude": "36.9612300000",
+    "longitude": "-120.0605390000"
   },
   {
     "location_id": "MadisonWISupercharger2",
@@ -157557,9 +157557,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "40.7205300000",
-    "longitude": "-122.9280660000"
+    "open_soon": "1",
+    "latitude": "40.7309150000",
+    "longitude": "-122.9421600000"
   },
   {
     "location_id": "WoodstockGASupercharger",
@@ -159886,9 +159886,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "39.5686700000",
-    "longitude": "-76.3537000000"
+    "open_soon": "1",
+    "latitude": "39.5356560000",
+    "longitude": "-76.3484770000"
   },
   {
     "location_id": "CastaicCASupercharger",
@@ -160476,9 +160476,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "33.9237480000",
-    "longitude": "-116.8032420000"
+    "open_soon": "1",
+    "latitude": "33.9173380000",
+    "longitude": "-116.7874340000"
   },
   {
     "location_id": "DiamondBarCASupercharger",
@@ -160616,9 +160616,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "32.3218870000",
-    "longitude": "-111.0449190000"
+    "open_soon": "1",
+    "latitude": "32.2222170000",
+    "longitude": "-110.9748420000"
   },
   {
     "location_id": "TwinsburgOHSupercharger",
@@ -160626,9 +160626,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "41.3117700000",
-    "longitude": "-81.4495800000"
+    "open_soon": "1",
+    "latitude": "41.3125920000",
+    "longitude": "-81.4402420000"
   },
   {
     "location_id": "YemasseeSCSupercharger",
@@ -165299,9 +165299,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "43.2891000000",
-    "longitude": "-71.5784000000"
+    "open_soon": "1",
+    "latitude": "43.2084030000",
+    "longitude": "-71.5369360000"
   },
   {
     "location_id": "CorpusChristiTXSupercharger",
@@ -168382,16 +168382,6 @@
     "open_soon": "0",
     "latitude": "48.8703816200",
     "longitude": "2.3193000000"
-  },
-  {
-    "location_id": "saint-liboireqcsupercharger",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "45.6881019000",
-    "longitude": "-72.8054251300"
   },
   {
     "id": "Bodyshop_NA556",
