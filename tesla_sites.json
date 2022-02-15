@@ -1142,8 +1142,7 @@
     "location_id": "oosterhoutsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.6265730000",
@@ -1764,8 +1763,7 @@
     "location_id": "zevenaarsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.9407260000",
@@ -3551,8 +3549,7 @@
     "location_id": "urmondsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "50.9881005000",
@@ -18220,8 +18217,7 @@
     "location_id": "eindhovensupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.4072680000",
@@ -28296,8 +28292,7 @@
     "location_id": "drachtensupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "53.1058830000",
@@ -43128,8 +43123,7 @@
     "location_id": "dordrechtsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.7744110000",
@@ -47023,8 +47017,7 @@
     "location_id": "hoornsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.6507690000",
@@ -54113,8 +54106,7 @@
     "location_id": "apeldoornsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.1776520000",
@@ -54124,8 +54116,7 @@
     "location_id": "horstsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.4701060000",
@@ -69685,6 +69676,16 @@
     "longitude": "4.2861820000"
   },
   {
+    "location_id": "dc26219",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "42.8558850000",
+    "longitude": "1.5888860000"
+  },
+  {
     "location_id": "dc27420",
     "location_type": [
       "standard charger",
@@ -71898,8 +71899,7 @@
     "location_id": "bredasupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.5765157000",
@@ -73280,8 +73280,7 @@
     "location_id": "vurensupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.8390790000",
@@ -74031,8 +74030,7 @@
     "location_id": "leiderdorpsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.1608320000",
@@ -75294,8 +75292,7 @@
     "location_id": "zuidbroeksupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "53.1695670000",
@@ -87011,8 +87008,7 @@
     "location_id": "emmeloordsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.7274050000",
@@ -102781,8 +102777,7 @@
     "location_id": "badhoevedorpsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.3293390000",
@@ -103073,8 +103068,7 @@
     "location_id": "rijswijksupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.0482760000",
@@ -121311,8 +121305,7 @@
     "location_id": "goudasupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.0227780000",
@@ -121322,8 +121315,7 @@
     "location_id": "bunniksupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.0610350000",
@@ -131199,8 +131191,7 @@
     "location_id": "assensupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.9929000000",
@@ -131852,8 +131843,7 @@
     "location_id": "shertogenboschsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.7203570000",
@@ -135129,8 +135119,7 @@
     "location_id": "akerslootsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.5475410000",
@@ -135170,8 +135159,7 @@
     "location_id": "middelburgsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.4802750000",
@@ -136370,8 +136358,7 @@
     "location_id": "leusdensupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.1440220000",
@@ -136381,8 +136368,7 @@
     "location_id": "udensupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "51.6713080000",
@@ -155984,8 +155970,7 @@
     "location_id": "emmensupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.7241690000",
@@ -168407,36 +168392,6 @@
     "open_soon": "0",
     "latitude": "45.6881019000",
     "longitude": "-72.8054251300"
-  },
-  {
-    "location_id": "leonbergsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "48.7845480000",
-    "longitude": "9.0192700000"
-  },
-  {
-    "location_id": "thestregisdubaithepalm",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.1139000000",
-    "longitude": "55.1405000000"
-  },
-  {
-    "location_id": "thepheasantinn",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.4582190000",
-    "longitude": "-1.4805230000"
   },
   {
     "id": "Bodyshop_NA556",
