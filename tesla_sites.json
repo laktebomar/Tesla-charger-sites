@@ -94742,7 +94742,8 @@
     "location_id": "zaltbommelsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "51.7962490000",
