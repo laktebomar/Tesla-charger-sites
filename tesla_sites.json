@@ -143683,9 +143683,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "27.0999490000",
-    "longitude": "-82.4500260000"
+    "open_soon": "0",
+    "latitude": "27.1079700000",
+    "longitude": "-82.3852900000"
   },
   {
     "location_id": "VernonBCsupercharger",
@@ -160722,9 +160722,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "49.1579800000",
-    "longitude": "-121.9520520000"
+    "open_soon": "0",
+    "latitude": "49.1416930000",
+    "longitude": "-121.9639150000"
   },
   {
     "location_id": "DeltaBCSupercharger",
@@ -164695,9 +164695,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "34.0211477600",
-    "longitude": "-118.3966671000"
+    "open_soon": "0",
+    "latitude": "33.9976640000",
+    "longitude": "-118.4204220000"
   },
   {
     "location_id": "AustinTXSupercharger10",
