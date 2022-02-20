@@ -47472,15 +47472,6 @@
     "longitude": "-90.3386360000"
   },
   {
-    "location_id": "dc19110",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "33.4963610000",
-    "longitude": "-111.9245920000"
-  },
-  {
     "location_id": "dc24367",
     "location_type": [
       "destination charger"
@@ -111877,15 +111868,6 @@
     "open_soon": "0",
     "latitude": "38.5154940000",
     "longitude": "-122.4109600000"
-  },
-  {
-    "location_id": "dc28354",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "33.4578532000",
-    "longitude": "-86.8209910000"
   },
   {
     "location_id": "dc41184",
