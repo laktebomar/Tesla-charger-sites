@@ -377,8 +377,8 @@
       "standard charger"
     ],
     "open_soon": "0",
-    "latitude": "62.0739230000",
-    "longitude": "9.1255620000"
+    "latitude": "62.0746650000",
+    "longitude": "9.1276610000"
   },
   {
     "location_id": "drammen",
@@ -156634,9 +156634,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "49.9915400000",
-    "longitude": "9.0739300000"
+    "open_soon": "0",
+    "latitude": "49.9940260000",
+    "longitude": "9.0706270000"
   },
   {
     "location_id": "PforzheimSupercharger",
