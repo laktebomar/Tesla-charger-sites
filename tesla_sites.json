@@ -102786,9 +102786,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "44.3876000000",
-    "longitude": "-68.2039000000"
+    "open_soon": "0",
+    "latitude": "44.5326150000",
+    "longitude": "-68.4114260000"
   },
   {
     "location_id": "BayshoreNYsupercharger",
@@ -143555,9 +143555,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.5934090000",
-    "longitude": "-122.0438390000"
+    "open_soon": "0",
+    "latitude": "37.5871620000",
+    "longitude": "-122.0204500000"
   },
   {
     "location_id": "UrbanaMDsupercharger",
@@ -160314,9 +160314,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "27.1973740000",
-    "longitude": "-80.2527950000"
+    "open_soon": "0",
+    "latitude": "27.1754960000",
+    "longitude": "-80.2525620000"
   },
   {
     "location_id": "SummertonSCSupercharger",
@@ -166357,9 +166357,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "34.2294060000",
-    "longitude": "-78.0343790000"
+    "open_soon": "0",
+    "latitude": "34.2172930000",
+    "longitude": "-78.0186420000"
   },
   {
     "location_id": "LenoxMASupercharger",
@@ -167417,9 +167417,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "34.0194971900",
-    "longitude": "-118.4913849000"
+    "open_soon": "0",
+    "latitude": "34.0248810000",
+    "longitude": "-118.4852640000"
   },
   {
     "location_id": "schleizsuperchargerq122",
