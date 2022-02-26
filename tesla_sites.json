@@ -167097,9 +167097,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "33.9597440000",
-    "longitude": "-6.8268710000"
+    "open_soon": "0",
+    "latitude": "33.9912430000",
+    "longitude": "-6.8368820000"
   },
   {
     "location_id": "raulandsuperchargerq122",
@@ -168579,6 +168579,26 @@
     "open_soon": "0",
     "latitude": "36.0237000000",
     "longitude": "136.1254200000"
+  },
+  {
+    "location_id": "marrakechsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "31.6220558600",
+    "longitude": "-8.0019859000"
+  },
+  {
+    "location_id": "agadirsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "30.3919060000",
+    "longitude": "-9.5970810000"
   },
   {
     "id": "Bodyshop_NA556",
