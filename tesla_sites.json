@@ -28228,9 +28228,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "45.5037760000",
-    "longitude": "-73.5692000000"
+    "open_soon": "0",
+    "latitude": "45.5078959000",
+    "longitude": "-73.5589700000"
   },
   {
     "location_id": "airedereimschampagnesudsupercharger",
@@ -42865,8 +42865,8 @@
   {
     "location_id": "dc21487",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "41.5701400000",
@@ -80021,16 +80021,6 @@
     "longitude": "10.4714370000"
   },
   {
-    "location_id": "dc21013",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "62.5803310000",
-    "longitude": "11.3777880000"
-  },
-  {
     "location_id": "dc22410",
     "location_type": [
       "destination charger",
@@ -99547,16 +99537,6 @@
     "open_soon": "0",
     "latitude": "48.9203110000",
     "longitude": "-0.2441610000"
-  },
-  {
-    "location_id": "dc34710",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "42.7082930000",
-    "longitude": "3.0355680000"
   },
   {
     "location_id": "dc39353",
@@ -157486,9 +157466,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.9576520000",
-    "longitude": "-121.2911390000"
+    "open_soon": "0",
+    "latitude": "38.0389270000",
+    "longitude": "-121.2610560000"
   },
   {
     "location_id": "tampafloridasupercharger3",
@@ -167398,9 +167378,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "38.6413790000",
-    "longitude": "-75.6111250000"
+    "open_soon": "0",
+    "latitude": "38.6591500000",
+    "longitude": "-75.5935900000"
   },
   {
     "location_id": "SebastianFLSupercharger",
@@ -168644,6 +168624,26 @@
     "open_soon": "0",
     "latitude": "23.2647000000",
     "longitude": "120.2939100000"
+  },
+  {
+    "location_id": "margaretriverwasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "-33.9505600000",
+    "longitude": "115.0754430000"
+  },
+  {
+    "location_id": "vogafjosfarmresort",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "65.6241000000",
+    "longitude": "-16.9228000000"
   },
   {
     "id": "Bodyshop_NA556",
