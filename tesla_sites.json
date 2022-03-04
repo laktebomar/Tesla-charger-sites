@@ -165153,6 +165153,16 @@
     "longitude": "120.1567809000"
   },
   {
+    "location_id": "eastchiayisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "23.4291792600",
+    "longitude": "120.4671981000"
+  },
+  {
     "location_id": "ChicagoILSupercharger",
     "location_type": [
       "supercharger",
