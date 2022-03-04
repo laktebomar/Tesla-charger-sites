@@ -28228,9 +28228,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "45.5078959000",
-    "longitude": "-73.5589700000"
+    "open_soon": "1",
+    "latitude": "45.5037760000",
+    "longitude": "-73.5692000000"
   },
   {
     "location_id": "airedereimschampagnesudsupercharger",
@@ -157486,9 +157486,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "38.0389270000",
-    "longitude": "-121.2610560000"
+    "open_soon": "1",
+    "latitude": "37.9576520000",
+    "longitude": "-121.2911390000"
   },
   {
     "location_id": "tampafloridasupercharger3",
@@ -167398,9 +167398,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "38.6591500000",
-    "longitude": "-75.5935900000"
+    "open_soon": "1",
+    "latitude": "38.6413790000",
+    "longitude": "-75.6111250000"
   },
   {
     "location_id": "SebastianFLSupercharger",
