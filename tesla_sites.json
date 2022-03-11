@@ -4638,6 +4638,16 @@
     "longitude": "-72.7597170000"
   },
   {
+    "location_id": "superiorsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "47.1921490000",
+    "longitude": "-114.8889010000"
+  },
+  {
     "location_id": "dc710",
     "location_type": [
       "destination charger"
@@ -167209,9 +167219,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "38.4208500000",
-    "longitude": "-75.5661100000"
+    "open_soon": "1",
+    "latitude": "38.3604310000",
+    "longitude": "-75.5993660000"
   },
   {
     "location_id": "JacksonvilleFLSupercharger22",
@@ -168019,9 +168029,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "41.7328530000",
-    "longitude": "-71.4361490000"
+    "open_soon": "1",
+    "latitude": "41.7001270000",
+    "longitude": "-71.4158630000"
   },
   {
     "location_id": "WashingtonDCSupercharger10",
