@@ -138328,9 +138328,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "40.9655120000",
-    "longitude": "-72.1896620000"
+    "open_soon": "1",
+    "latitude": "40.9634410000",
+    "longitude": "-72.1854930000"
   },
   {
     "location_id": "WienerbergCityatsupercharger",
@@ -143458,9 +143458,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "39.3272200000",
-    "longitude": "-77.3465400000"
+    "open_soon": "1",
+    "latitude": "39.3287550000",
+    "longitude": "-77.3521320000"
   },
   {
     "location_id": "VadnaisHeightsMNsupercharger",
@@ -166880,9 +166880,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "34.7571100000",
-    "longitude": "-82.4741900000"
+    "open_soon": "1",
+    "latitude": "34.7023845900",
+    "longitude": "-82.4645172900"
   },
   {
     "location_id": "pingtungsouthsupercharger",
