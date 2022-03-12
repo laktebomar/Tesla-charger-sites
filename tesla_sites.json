@@ -131237,9 +131237,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "59.3280440000",
-    "longitude": "17.0162320000"
+    "open_soon": "1",
+    "latitude": "59.3303100000",
+    "longitude": "17.0174400000"
   },
   {
     "location_id": "vetlandasupercharger",
@@ -168585,36 +168585,6 @@
     "open_soon": "0",
     "latitude": "65.6241000000",
     "longitude": "-16.9228000000"
-  },
-  {
-    "location_id": "szigetszentmiklossupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "47.3834380000",
-    "longitude": "19.0268280000"
-  },
-  {
-    "location_id": "paderbornsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.7109120000",
-    "longitude": "8.7137810000"
-  },
-  {
-    "location_id": "masdarcentralparksupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "24.4305000000",
-    "longitude": "54.6177780000"
   },
   {
     "id": "Bodyshop_NA556",
