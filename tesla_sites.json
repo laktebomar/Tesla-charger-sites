@@ -168619,16 +168619,6 @@
     "longitude": "114.1147290000"
   },
   {
-    "location_id": "harrogatesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "53.9622950000",
-    "longitude": "-1.5285730000"
-  },
-  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
