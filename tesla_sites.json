@@ -168608,26 +168608,6 @@
     "longitude": "54.6177780000"
   },
   {
-    "location_id": "plaza88supercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.3669900000",
-    "longitude": "114.1146300000"
-  },
-  {
-    "location_id": "dc1126921",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.3670660000",
-    "longitude": "114.1147290000"
-  },
-  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
