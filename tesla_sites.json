@@ -23941,8 +23941,8 @@
   {
     "location_id": "dc11151",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "46.7573230000",
@@ -69358,6 +69358,16 @@
     "longitude": "13.0122010000"
   },
   {
+    "location_id": "dc29053",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "53.4221800000",
+    "longitude": "-2.9990520000"
+  },
+  {
     "location_id": "dc30031",
     "location_type": [
       "destination charger",
@@ -74650,9 +74660,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "42.9102140000",
-    "longitude": "-8.4932390000"
+    "open_soon": "1",
+    "latitude": "42.9101970000",
+    "longitude": "-8.4932470000"
   },
   {
     "location_id": "saultstemarieonsupercharger",
@@ -76306,8 +76316,8 @@
   {
     "location_id": "dc10745",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "36.4364190000",
@@ -79360,6 +79370,16 @@
     "open_soon": "0",
     "latitude": "56.4917900000",
     "longitude": "-3.5065740000"
+  },
+  {
+    "location_id": "dc26577",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.3970550000",
+    "longitude": "2.5462570000"
   },
   {
     "location_id": "dc26847",
@@ -165241,9 +165261,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "52.2334010000",
-    "longitude": "6.2102630000"
+    "open_soon": "1",
+    "latitude": "52.2446970000",
+    "longitude": "6.3418400000"
   },
   {
     "location_id": "DistrictHeightsMDSupercharger",
@@ -168607,66 +168627,6 @@
     "open_soon": "0",
     "latitude": "53.9622950000",
     "longitude": "-1.5285730000"
-  },
-  {
-    "location_id": "salensupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "61.1638990000",
-    "longitude": "13.2026930000"
-  },
-  {
-    "location_id": "rovecitywalkhotel",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.2067400000",
-    "longitude": "55.2676700000"
-  },
-  {
-    "location_id": "rovelamerhotel",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.2254600000",
-    "longitude": "55.2541200000"
-  },
-  {
-    "location_id": "hofgutalgertshausen",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "48.0838390200",
-    "longitude": "11.0704374800"
-  },
-  {
-    "location_id": "sushienoodlestuscolana",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "41.8633398000",
-    "longitude": "12.5492360000"
-  },
-  {
-    "location_id": "jungediebäckerei",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "54.1555200000",
-    "longitude": "12.0117700000"
   },
   {
     "id": "Bodyshop_NA556",
