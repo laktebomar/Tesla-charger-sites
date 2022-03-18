@@ -165776,14 +165776,14 @@
     "longitude": "127.1379600000"
   },
   {
-    "location_id": "Gwanggyo Lakesupercharger",
+    "location_id": "gwanggyolakesupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.2863400000",
-    "longitude": "127.0558600000"
+    "open_soon": "0",
+    "latitude": "37.2865600000",
+    "longitude": "127.0559400000"
   },
   {
     "location_id": "GwangjuEast (Jeolla)supercharger",
