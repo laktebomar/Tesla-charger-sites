@@ -35340,6 +35340,16 @@
     "longitude": "115.9286050000"
   },
   {
+    "location_id": "dc19160",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "-38.2657130000",
+    "longitude": "144.6632110000"
+  },
+  {
     "location_id": "dc19557",
     "location_type": [
       "destination charger",
@@ -72045,9 +72055,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "49.2678989100",
-    "longitude": "-123.0027485400"
+    "open_soon": "1",
+    "latitude": "49.2490440000",
+    "longitude": "-122.9807300000"
   },
   {
     "location_id": "bursasupercharger",
@@ -168657,26 +168667,6 @@
     "open_soon": "0",
     "latitude": "54.1555200000",
     "longitude": "12.0117700000"
-  },
-  {
-    "location_id": "westlakehillstxsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "30.2898140000",
-    "longitude": "-97.8274630000"
-  },
-  {
-    "location_id": "seongnamalphadome2supercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.3955190000",
-    "longitude": "127.1122370000"
   },
   {
     "id": "Bodyshop_NA556",
