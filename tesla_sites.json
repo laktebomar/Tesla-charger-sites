@@ -27774,16 +27774,6 @@
     "longitude": "8.9441150000"
   },
   {
-    "location_id": "dc10014",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "48.7560470000",
-    "longitude": "8.2402050000"
-  },
-  {
     "location_id": "dc10790",
     "location_type": [
       "destination charger",
@@ -113401,16 +113391,6 @@
     "longitude": "16.5670080000"
   },
   {
-    "location_id": "dc52327",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "38.0325730000",
-    "longitude": "-1.1488530000"
-  },
-  {
     "location_id": "dc54365",
     "location_type": [
       "destination charger",
@@ -168677,6 +168657,16 @@
     "open_soon": "0",
     "latitude": "37.3955190000",
     "longitude": "127.1122370000"
+  },
+  {
+    "location_id": "logischateaudelabro",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "44.3970550000",
+    "longitude": "2.5462570000"
   },
   {
     "id": "Bodyshop_NA556",
