@@ -141709,9 +141709,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "32.7809850000",
-    "longitude": "-117.0135570000"
+    "open_soon": "1",
+    "latitude": "32.7677930000",
+    "longitude": "-117.0234170000"
   },
   {
     "location_id": "LaTuqueQCsupercharger",
@@ -141949,9 +141949,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "37.7443700000",
-    "longitude": "-88.9622900000"
+    "open_soon": "1",
+    "latitude": "37.7307810000",
+    "longitude": "-88.9326000000"
   },
   {
     "location_id": "MartinezCAsupercharger",
@@ -156929,9 +156929,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "37.3487630000",
-    "longitude": "-89.5983130000"
+    "open_soon": "1",
+    "latitude": "37.3059210000",
+    "longitude": "-89.5182670000"
   },
   {
     "location_id": "CarltonMNSupercharger",
@@ -157129,9 +157129,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "33.5360010000",
-    "longitude": "-112.2629310000"
+    "open_soon": "1",
+    "latitude": "33.5385700000",
+    "longitude": "-112.1861760000"
   },
   {
     "location_id": "HendersonNVSupercharger",
@@ -165421,9 +165421,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "37.5160900000",
-    "longitude": "-75.8317500000"
+    "open_soon": "1",
+    "latitude": "37.5319080000",
+    "longitude": "-75.8228480000"
   },
   {
     "location_id": "FairmontWVSupercharger",
@@ -165981,9 +165981,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "30.4466500000",
-    "longitude": "-82.9336100000"
+    "open_soon": "1",
+    "latitude": "30.5183080000",
+    "longitude": "-82.9484520000"
   },
   {
     "location_id": "Jeonjusupercharger",
@@ -166161,9 +166161,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "33.5439360000",
-    "longitude": "-86.5886700000"
+    "open_soon": "1",
+    "latitude": "33.5481380000",
+    "longitude": "-86.5443780000"
   },
   {
     "location_id": "LelandNCSupercharger",
@@ -166841,9 +166841,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "28.0260600000",
-    "longitude": "-82.1517100000"
+    "open_soon": "1",
+    "latitude": "28.0183320700",
+    "longitude": "-82.1129457600"
   },
   {
     "location_id": "Pohangsupercharger",
@@ -168667,26 +168667,6 @@
     "open_soon": "0",
     "latitude": "44.3970550000",
     "longitude": "2.5462570000"
-  },
-  {
-    "location_id": "thequaysidesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.3162200000",
-    "longitude": "114.2137700000"
-  },
-  {
-    "location_id": "dc1100176",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.3162300000",
-    "longitude": "114.2138300000"
   },
   {
     "id": "Bodyshop_NA556",
