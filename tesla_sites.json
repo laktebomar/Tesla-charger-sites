@@ -168681,8 +168681,8 @@
   {
     "location_id": "dc1100176",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "22.3162300000",
