@@ -140414,6 +140414,16 @@
     "longitude": "120.5376607000"
   },
   {
+    "location_id": "singaporesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "1.3999231088",
+    "longitude": "103.8959999705"
+  },
+  {
     "location_id": "bairnsdalesupercharger",
     "location_type": [
       "supercharger",
@@ -164946,16 +164956,6 @@
     "longitude": "4.8565300410"
   },
   {
-    "location_id": "changwonsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "35.2226900000",
-    "longitude": "128.6812600000"
-  },
-  {
     "location_id": "CharlotteNCSupercharger22",
     "location_type": [
       "supercharger",
@@ -168687,16 +168687,6 @@
     "open_soon": "0",
     "latitude": "22.3162300000",
     "longitude": "114.2138300000"
-  },
-  {
-    "location_id": "singaporewaterwaypointsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "1.4063030991",
-    "longitude": "103.9018783498"
   },
   {
     "id": "Bodyshop_NA556",
