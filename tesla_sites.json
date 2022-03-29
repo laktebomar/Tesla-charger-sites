@@ -54853,9 +54853,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "38.6292400000",
-    "longitude": "-77.2893900000"
+    "open_soon": "1",
+    "latitude": "38.6582520000",
+    "longitude": "-77.2497600000"
   },
   {
     "location_id": "TruckeeCAsupercharger",
@@ -142004,9 +142004,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "48.8528754000",
-    "longitude": "-67.5251777000"
+    "open_soon": "1",
+    "latitude": "48.8445270000",
+    "longitude": "-67.5298560000"
   },
   {
     "location_id": "MazatlanSinaloasupercharger",
@@ -159815,9 +159815,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "39.3870800000",
-    "longitude": "-77.4078100000"
+    "open_soon": "1",
+    "latitude": "39.4141320000",
+    "longitude": "-77.4109680000"
   },
   {
     "location_id": "GainesvilleFLSupercharger2",
@@ -159955,9 +159955,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "27.9969400000",
-    "longitude": "-82.3728800000"
+    "open_soon": "1",
+    "latitude": "28.0880100000",
+    "longitude": "-82.4548290000"
   },
   {
     "location_id": "TracyCASupercharger",
@@ -159985,9 +159985,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "35.1042860000",
-    "longitude": "-106.5658880000"
+    "open_soon": "1",
+    "latitude": "35.0843880000",
+    "longitude": "-106.6504230000"
   },
   {
     "location_id": "ArcadiaFLSupercharger",
@@ -160165,9 +160165,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "26.8957300000",
-    "longitude": "-82.0114200000"
+    "open_soon": "1",
+    "latitude": "26.9298720000",
+    "longitude": "-82.0458530000"
   },
   {
     "location_id": "RocklinCASupercharger2",
@@ -160305,9 +160305,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "40.3911746100",
-    "longitude": "-74.3401128500"
+    "open_soon": "1",
+    "latitude": "40.4126850000",
+    "longitude": "-74.3054490000"
   },
   {
     "location_id": "SanLuisObispoCASupercharger3",
@@ -165969,9 +165969,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "30.5029250000",
-    "longitude": "-97.5808730000"
+    "open_soon": "1",
+    "latitude": "30.5430030000",
+    "longitude": "-97.5464460000"
   },
   {
     "location_id": "Icheonsupercharger",
@@ -167989,9 +167989,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "41.6198090000",
-    "longitude": "-90.7824380000"
+    "open_soon": "1",
+    "latitude": "41.5858450000",
+    "longitude": "-90.7746260000"
   },
   {
     "location_id": "WarwickRISupercharger",
