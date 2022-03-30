@@ -71558,16 +71558,6 @@
     "longitude": "2.0726920000"
   },
   {
-    "location_id": "bardonecchiasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "45.0755900000",
-    "longitude": "6.6980150000"
-  },
-  {
     "location_id": "baileyvillesupercharger",
     "location_type": [
       "supercharger",
@@ -140281,9 +140271,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "36.6354850000",
-    "longitude": "127.4688620000"
+    "open_soon": "0",
+    "latitude": "36.6652900000",
+    "longitude": "127.4993000000"
   },
   {
     "location_id": "gangdongsupercharger",
@@ -140384,6 +140374,16 @@
     "open_soon": "1",
     "latitude": "22.6385382200",
     "longitude": "120.5376607000"
+  },
+  {
+    "location_id": "singaporesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "1.3416599401",
+    "longitude": "103.9469189284"
   },
   {
     "location_id": "bairnsdalesupercharger",
@@ -168679,7 +168679,7 @@
       "party"
     ],
     "open_soon": "0",
-    "latitude": "4.3705000000",
+    "latitude": "51.9248060000",
     "longitude": "4.3722650000"
   },
   {
