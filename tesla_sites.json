@@ -138815,9 +138815,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "51.4015870000",
-    "longitude": "12.1813750000"
+    "open_soon": "1",
+    "latitude": "51.4002400000",
+    "longitude": "12.1824000000"
   },
   {
     "location_id": "NurembergBrunnGermanysupercharger",
@@ -156337,12 +156337,11 @@
     "location_id": "MontaubanSupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "44.0364080000",
-    "longitude": "1.3783670000"
+    "open_soon": "1",
+    "latitude": "44.0172540000",
+    "longitude": "1.3546270000"
   },
   {
     "location_id": "SaintGaudensSupercharger",
@@ -156411,9 +156410,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "52.2382150000",
-    "longitude": "8.1629570000"
+    "open_soon": "1",
+    "latitude": "52.2136200000",
+    "longitude": "8.2746000000"
   },
   {
     "location_id": "KleinostheimSupercharger",
