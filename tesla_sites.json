@@ -88034,16 +88034,6 @@
     "longitude": "9.3072860000"
   },
   {
-    "location_id": "dc37670",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "50.0553290000",
-    "longitude": "8.5935470000"
-  },
-  {
     "location_id": "dc16788",
     "location_type": [
       "destination charger",
@@ -167170,16 +167160,6 @@
     "longitude": "-122.5307620000"
   },
   {
-    "location_id": "sansalvomarinasuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "42.0716993700",
-    "longitude": "14.7655389100"
-  },
-  {
     "location_id": "SantaAnaSONSupercharger",
     "location_type": [
       "supercharger",
@@ -168752,6 +168732,16 @@
     "open_soon": "0",
     "latitude": "24.4117810000",
     "longitude": "54.4849690000"
+  },
+  {
+    "location_id": "hitrasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "63.5215840000",
+    "longitude": "9.1092290000"
   },
   {
     "id": "Bodyshop_NA556",
