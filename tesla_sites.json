@@ -75628,8 +75628,8 @@
   {
     "location_id": "dc27150",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "48.6531560000",
@@ -131097,7 +131097,8 @@
     "location_id": "svolvaersupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "68.2331320000",
@@ -139303,6 +139304,16 @@
     "open_soon": "1",
     "latitude": "60.6355170000",
     "longitude": "6.4517950000"
+  },
+  {
+    "location_id": "Vinjeoranosupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "63.6024350000",
+    "longitude": "8.9758140000"
   },
   {
     "location_id": "Trysilnosupercharger",
@@ -168726,8 +168737,7 @@
     "location_id": "hitrasupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "63.5215840000",
