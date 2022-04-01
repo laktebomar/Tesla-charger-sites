@@ -104460,6 +104460,16 @@
     "longitude": "128.5707140000"
   },
   {
+    "location_id": "dc51619",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.0190880000",
+    "longitude": "127.0477560000"
+  },
+  {
     "location_id": "dc40310",
     "location_type": [
       "destination charger"
@@ -165078,14 +165088,14 @@
     "longitude": "128.5933900000"
   },
   {
-    "location_id": "daegususeongsupercharger",
+    "location_id": "DaeguSuseongsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "35.8272600000",
-    "longitude": "128.6236900000"
+    "open_soon": "1",
+    "latitude": "35.8300800000",
+    "longitude": "128.6233100000"
   },
   {
     "location_id": "DartmouthMASupercharger",
@@ -165919,14 +165929,14 @@
     "longitude": "-82.9336100000"
   },
   {
-    "location_id": "jeonjusupercharger",
+    "location_id": "Jeonjusupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "35.8069800000",
-    "longitude": "127.1156600000"
+    "open_soon": "1",
+    "latitude": "35.8066500000",
+    "longitude": "127.1166500000"
   },
   {
     "location_id": "JonesboroARSupercharger",
@@ -166779,14 +166789,14 @@
     "longitude": "-82.1517100000"
   },
   {
-    "location_id": "pohangsupercharger",
+    "location_id": "Pohangsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "36.0590930000",
-    "longitude": "129.3205550000"
+    "open_soon": "1",
+    "latitude": "36.0577800000",
+    "longitude": "129.3195100000"
   },
   {
     "location_id": "poitierssudsuperchargerq122",
@@ -168712,16 +168722,6 @@
     "open_soon": "0",
     "latitude": "63.5215840000",
     "longitude": "9.1092290000"
-  },
-  {
-    "location_id": "singaporewoodlandsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "1.4263303234",
-    "longitude": "103.7863950710"
   },
   {
     "id": "Bodyshop_NA556",
