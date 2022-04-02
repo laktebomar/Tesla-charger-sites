@@ -74158,7 +74158,8 @@
   {
     "location_id": "sormashungarysupercharger",
     "location_type": [
-      "supercharger"
+      "supercharger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "46.4605770000",
@@ -139510,9 +139511,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "58.9484090000",
-    "longitude": "11.1931290000"
+    "open_soon": "0",
+    "latitude": "58.9456980000",
+    "longitude": "11.1935380000"
   },
   {
     "location_id": "Soderhamnsesupercharger",
@@ -156450,9 +156451,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "44.4953980000",
-    "longitude": "11.3382040000"
+    "open_soon": "0",
+    "latitude": "44.4839395900",
+    "longitude": "11.2684562400"
   },
   {
     "location_id": "Mestreitsupercharger",
@@ -166904,9 +166905,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "48.6453429900",
-    "longitude": "11.5165756000"
+    "open_soon": "0",
+    "latitude": "48.6456282500",
+    "longitude": "11.5206525800"
   },
   {
     "location_id": "RestonVASupercharger",
@@ -168722,6 +168723,16 @@
     "open_soon": "1",
     "latitude": "1.4263303234",
     "longitude": "103.7863950710"
+  },
+  {
+    "location_id": "bauernmarktsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.3937340000",
+    "longitude": "11.0705360000"
   },
   {
     "id": "Bodyshop_NA556",
