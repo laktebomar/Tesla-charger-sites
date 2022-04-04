@@ -33486,16 +33486,6 @@
     "longitude": "-100.4533930000"
   },
   {
-    "location_id": "dc11616",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "60.1564300000",
-    "longitude": "24.9209200000"
-  },
-  {
     "location_id": "dc17973",
     "location_type": [
       "destination charger",
@@ -36477,16 +36467,6 @@
     "open_soon": "0",
     "latitude": "42.6452080000",
     "longitude": "-6.7051900000"
-  },
-  {
-    "location_id": "dc16909",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.5866900000",
-    "longitude": "-0.4416160000"
   },
   {
     "location_id": "dc18332",
@@ -102913,9 +102893,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "53.4143290000",
-    "longitude": "-6.8296540000"
+    "open_soon": "0",
+    "latitude": "53.4061380000",
+    "longitude": "-6.8381940000"
   },
   {
     "location_id": "evanstonilsupercharger",
@@ -124141,9 +124121,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "45.0560820000",
-    "longitude": "7.6134860000"
+    "open_soon": "0",
+    "latitude": "45.0587584000",
+    "longitude": "7.6125538000"
   },
   {
     "location_id": "hernessupercharger",
@@ -138422,9 +138402,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "44.7938612900",
-    "longitude": "-0.5396317980"
+    "open_soon": "0",
+    "latitude": "44.7937759700",
+    "longitude": "-0.5331855600"
   },
   {
     "location_id": "Dardillyfrsupercharger",
@@ -138945,9 +138925,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "49.8412500000",
-    "longitude": "8.1445900000"
+    "open_soon": "0",
+    "latitude": "49.8400150000",
+    "longitude": "8.1436580000"
   },
   {
     "location_id": "Vatnagardarissupercharger",
@@ -139801,9 +139781,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "53.4642250000",
-    "longitude": "-2.3573180000"
+    "open_soon": "0",
+    "latitude": "53.4668630000",
+    "longitude": "-2.3539750000"
   },
   {
     "location_id": "Stratfordgbsupercharger",
@@ -156310,9 +156290,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "43.1079040000",
-    "longitude": "0.7237130000"
+    "open_soon": "0",
+    "latitude": "43.1165810000",
+    "longitude": "0.7669750000"
   },
   {
     "location_id": "Valencefrsupercharger",
@@ -156351,9 +156331,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "48.6938830000",
-    "longitude": "9.2940210000"
+    "open_soon": "0",
+    "latitude": "48.7069390000",
+    "longitude": "9.3064620000"
   },
   {
     "location_id": "DerendorfSupercharger",
@@ -164494,9 +164474,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "52.2049900000",
-    "longitude": "8.8405800000"
+    "open_soon": "0",
+    "latitude": "52.2133210000",
+    "longitude": "8.8143170000"
   },
   {
     "location_id": "BakersfieldCASupercharger22",
@@ -164567,16 +164547,6 @@
     "open_soon": "1",
     "latitude": "31.2440710000",
     "longitude": "34.8110210000"
-  },
-  {
-    "location_id": "beaunenordsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "47.0415681500",
-    "longitude": "4.8505070250"
   },
   {
     "location_id": "BeavercreekOHSupercharger",
@@ -166575,9 +166545,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "52.9551590000",
-    "longitude": "-1.1436650000"
+    "open_soon": "0",
+    "latitude": "52.9570090000",
+    "longitude": "-1.1473880000"
   },
   {
     "location_id": "OceanCityMDSupercharger22",
@@ -168118,16 +168088,6 @@
     "open_soon": "0",
     "latitude": "45.6881019000",
     "longitude": "-72.8054251300"
-  },
-  {
-    "location_id": "leonbergglemsecksupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "48.7845480000",
-    "longitude": "9.0192700000"
   },
   {
     "location_id": "thepheasantinn",
