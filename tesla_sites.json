@@ -49358,16 +49358,6 @@
     "longitude": "-6.2330810000"
   },
   {
-    "location_id": "dc15804",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "53.3523900000",
-    "longitude": "13.0807980000"
-  },
-  {
     "location_id": "dc16451",
     "location_type": [
       "destination charger",
@@ -138226,16 +138216,6 @@
     "longitude": "11.4753570000"
   },
   {
-    "location_id": "SalzburgNordAustriasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "47.8311820000",
-    "longitude": "13.0566870000"
-  },
-  {
     "location_id": "BrusselsBelgiumsupercharger",
     "location_type": [
       "supercharger",
@@ -168693,6 +168673,16 @@
     "open_soon": "0",
     "latitude": "48.3937340000",
     "longitude": "11.0705360000"
+  },
+  {
+    "location_id": "novotelsharjahexpocentre",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.3117920000",
+    "longitude": "55.3736000000"
   },
   {
     "id": "Bodyshop_NA556",
