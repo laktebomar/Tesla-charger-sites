@@ -159971,9 +159971,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "28.0836260000",
-    "longitude": "-80.6081900000"
+    "open_soon": "0",
+    "latitude": "28.1199800000",
+    "longitude": "-80.6992800000"
   },
   {
     "location_id": "MemphisTNSupercharger2",
@@ -164389,16 +164389,6 @@
     "longitude": "-97.8154330000"
   },
   {
-    "location_id": "AustinTXSupercharger11",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.2474730000",
-    "longitude": "-97.5830240000"
-  },
-  {
     "location_id": "AustinTXSupercharger12",
     "location_type": [
       "supercharger",
@@ -167365,9 +167355,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "47.6590420000",
-    "longitude": "-117.4265130000"
+    "open_soon": "0",
+    "latitude": "47.6738100000",
+    "longitude": "-117.1130101000"
   },
   {
     "location_id": "SpragueWASupercharger",
@@ -167375,9 +167365,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "47.3002270000",
-    "longitude": "-117.9758260000"
+    "open_soon": "0",
+    "latitude": "47.2090580000",
+    "longitude": "-118.2256700000"
   },
   {
     "location_id": "StCharlesILSupercharger",
@@ -168683,6 +168673,16 @@
     "open_soon": "0",
     "latitude": "25.3117920000",
     "longitude": "55.3736000000"
+  },
+  {
+    "location_id": "tampaflnorthdalemabryhighwaysupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "27.9493140000",
+    "longitude": "-82.5046710000"
   },
   {
     "id": "Bodyshop_NA556",
