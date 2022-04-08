@@ -165880,6 +165880,16 @@
     "longitude": "-90.7048940000"
   },
   {
+    "location_id": "kaohsiungcitysupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "22.6594217500",
+    "longitude": "120.2984239000"
+  },
+  {
     "location_id": "eastkaohsiungsupercharger",
     "location_type": [
       "supercharger",
@@ -168812,16 +168822,6 @@
     "open_soon": "0",
     "latitude": "37.3654600000",
     "longitude": "140.3929100000"
-  },
-  {
-    "location_id": "kaohsiungeskylandsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.6561380000",
-    "longitude": "120.3062770000"
   },
   {
     "id": "Bodyshop_NA556",
