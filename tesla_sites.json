@@ -34905,6 +34905,16 @@
     "longitude": "10.7869560000"
   },
   {
+    "location_id": "dc18265",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.9530470000",
+    "longitude": "7.4493070000"
+  },
+  {
     "location_id": "dc15030",
     "location_type": [
       "destination charger"
@@ -102903,9 +102913,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "53.6985990000",
-    "longitude": "-1.2655390000"
+    "open_soon": "1",
+    "latitude": "53.7117060000",
+    "longitude": "-1.2909810000"
   },
   {
     "location_id": "flushingnewyorksupercharger",
@@ -156732,9 +156742,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "51.0671180000",
-    "longitude": "-1.2998160000"
+    "open_soon": "1",
+    "latitude": "51.0670250000",
+    "longitude": "-1.3184680000"
   },
   {
     "location_id": "AbingdonMDsupercharger2",
@@ -166390,6 +166400,16 @@
     "longitude": "-93.0861140000"
   },
   {
+    "location_id": "neumünstersuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "54.0700657300",
+    "longitude": "9.9228146920"
+  },
+  {
     "location_id": "NewBraunfelsTXSupercharger",
     "location_type": [
       "supercharger",
@@ -168802,46 +168822,6 @@
     "open_soon": "0",
     "latitude": "22.6561380000",
     "longitude": "120.3062770000"
-  },
-  {
-    "location_id": "neumünstersupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "54.0700270000",
-    "longitude": "9.9415330000"
-  },
-  {
-    "location_id": "beaunenordsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger",
-      "party"
-    ],
-    "open_soon": "0",
-    "latitude": "47.0431200000",
-    "longitude": "4.8411820000"
-  },
-  {
-    "location_id": "hoteltorino",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "43.9093319300",
-    "longitude": "8.0798373400"
-  },
-  {
-    "location_id": "theroyalinnparkhotel",
-    "location_type": [
-      ""
-    ],
-    "open_soon": "0",
-    "latitude": "53.3523900000",
-    "longitude": "13.0807980000"
   },
   {
     "id": "Bodyshop_NA556",
