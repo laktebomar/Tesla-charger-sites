@@ -74024,16 +74024,6 @@
     "longitude": "-99.2533810000"
   },
   {
-    "location_id": "southbeachmiamisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.7913860000",
-    "longitude": "-80.1340740000"
-  },
-  {
     "location_id": "miaolitwsupercharger",
     "location_type": [
       "supercharger",
@@ -74682,9 +74672,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "42.3905840000",
-    "longitude": "-71.0860010000"
+    "open_soon": "1",
+    "latitude": "42.3868370000",
+    "longitude": "-71.0987180000"
   },
   {
     "location_id": "songdoincheonsupercharger",
@@ -129979,6 +129969,15 @@
     "longitude": "-79.5130770000"
   },
   {
+    "location_id": "dc89751",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "35.6085920000",
+    "longitude": "-78.5624810000"
+  },
+  {
     "location_id": "dc89752",
     "location_type": [
       "destination charger"
@@ -129995,6 +129994,15 @@
     "open_soon": "0",
     "latitude": "35.9630820000",
     "longitude": "-77.8203690000"
+  },
+  {
+    "location_id": "dc89755",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "34.9927940000",
+    "longitude": "-78.1358720000"
   },
   {
     "location_id": "dc89099",
@@ -131435,16 +131443,6 @@
     "open_soon": "0",
     "latitude": "38.9486680000",
     "longitude": "-77.3398320000"
-  },
-  {
-    "location_id": "chihuahuasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "28.6306360700",
-    "longitude": "-106.1210182500"
   },
   {
     "location_id": "PuertoVallartasupercharger",
@@ -141873,9 +141871,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "40.7985470000",
-    "longitude": "-73.4123470000"
+    "open_soon": "1",
+    "latitude": "40.7938210000",
+    "longitude": "-73.4152990000"
   },
   {
     "location_id": "MenomoneeFallsWIsupercharger",
@@ -142343,9 +142341,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "34.0474300000",
-    "longitude": "-118.5249300000"
+    "open_soon": "1",
+    "latitude": "34.0411040000",
+    "longitude": "-118.5182970000"
   },
   {
     "location_id": "ParkCityUTsupercharger",
@@ -159623,9 +159621,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "30.1724200000",
-    "longitude": "-97.6309130000"
+    "open_soon": "1",
+    "latitude": "30.2077210000",
+    "longitude": "-97.6483850000"
   },
   {
     "location_id": "EdisonNJSupercharger2",
@@ -164486,9 +164484,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "39.0961600000",
-    "longitude": "-76.8408800000"
+    "open_soon": "1",
+    "latitude": "39.0995110000",
+    "longitude": "-76.8483710000"
   },
   {
     "location_id": "BaytownTXSupercharger",
@@ -164996,9 +164994,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "36.0831230000",
-    "longitude": "-115.1203810000"
+    "open_soon": "1",
+    "latitude": "36.1698930000",
+    "longitude": "-115.1402490000"
   },
   {
     "location_id": "DaeguCentralsupercharger",
@@ -165297,9 +165295,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "39.4716700000",
-    "longitude": "-80.1536900000"
+    "open_soon": "1",
+    "latitude": "39.4848290000",
+    "longitude": "-80.1426760000"
   },
   {
     "location_id": "FalmouthMESupercharger",
@@ -165917,9 +165915,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "36.0698060000",
-    "longitude": "-80.1119380000"
+    "open_soon": "1",
+    "latitude": "36.1197690000",
+    "longitude": "-80.0732240000"
   },
   {
     "location_id": "kiryatshmonasuperchargerq122",
@@ -166587,9 +166585,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "36.2810720200",
-    "longitude": "-78.6033953000"
+    "open_soon": "1",
+    "latitude": "36.3106183500",
+    "longitude": "-78.5911049300"
   },
   {
     "location_id": "padborgsuperchargerq122",
@@ -166797,9 +166795,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "41.9794420000",
-    "longitude": "-73.8821610000"
+    "open_soon": "1",
+    "latitude": "41.9950770000",
+    "longitude": "-73.8756160000"
   },
   {
     "location_id": "RedOakTXSupercharger",
