@@ -122623,8 +122623,8 @@
   {
     "location_id": "dc54635",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "48.0547070000",
@@ -168839,11 +168839,32 @@
   {
     "location_id": "theroyalinnparkhotel",
     "location_type": [
-      ""
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "53.3523900000",
     "longitude": "13.0807980000"
+  },
+  {
+    "location_id": "villaoccitana",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "43.7585751600",
+    "longitude": "4.1994422600"
+  },
+  {
+    "location_id": "unstadarcticsurf",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "68.2654494400",
+    "longitude": "13.5909864300"
   },
   {
     "id": "Bodyshop_NA556",
