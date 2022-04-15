@@ -168857,16 +168857,6 @@
     "longitude": "12.0117700000"
   },
   {
-    "location_id": "dc1146925",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.9900564000",
-    "longitude": "120.1601904000"
-  },
-  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
