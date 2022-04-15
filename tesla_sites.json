@@ -168445,6 +168445,16 @@
     "longitude": "12.5492360000"
   },
   {
+    "location_id": "jungediebäckerei",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "54.1555200000",
+    "longitude": "12.0117700000"
+  },
+  {
     "location_id": "westlakehillstxsupercharger",
     "location_type": [
       "supercharger",
@@ -168845,16 +168855,6 @@
     "open_soon": "0",
     "latitude": "68.2654494400",
     "longitude": "13.5909864300"
-  },
-  {
-    "location_id": "jungediebackerei",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "54.1555200000",
-    "longitude": "12.0117700000"
   },
   {
     "id": "Bodyshop_NA556",
