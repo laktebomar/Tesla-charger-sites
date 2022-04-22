@@ -62396,8 +62396,8 @@
   {
     "location_id": "dc28296",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "21.9496920000",
@@ -79316,8 +79316,8 @@
   {
     "location_id": "dc28648",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "24.0508300000",
@@ -79326,8 +79326,8 @@
   {
     "location_id": "dc35975",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "23.4827420000",
@@ -83245,16 +83245,6 @@
     "longitude": "113.9431000000"
   },
   {
-    "location_id": "dc37640",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "23.8507640000",
-    "longitude": "120.9027150000"
-  },
-  {
     "location_id": "dc36215",
     "location_type": [
       "destination charger",
@@ -83267,8 +83257,8 @@
   {
     "location_id": "dc37639",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "22.2634630000",
@@ -89027,8 +89017,8 @@
   {
     "location_id": "dc39139",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "23.4768630000",
@@ -90146,8 +90136,8 @@
   {
     "location_id": "dc39500",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "24.3935130000",
@@ -115290,8 +115280,8 @@
   {
     "location_id": "dc56792",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "25.0931690000",
@@ -118453,8 +118443,8 @@
   {
     "location_id": "dc72621",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "24.5968320000",
@@ -120587,8 +120577,8 @@
   {
     "location_id": "dc73142",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "22.7964650000",
@@ -122331,8 +122321,8 @@
   {
     "location_id": "dc79201",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "21.9287740000",
@@ -137229,8 +137219,8 @@
   {
     "location_id": "dc762419",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "23.1334800000",
@@ -137730,8 +137720,8 @@
   {
     "location_id": "dc744981",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "24.8354790000",
