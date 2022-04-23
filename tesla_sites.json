@@ -144116,7 +144116,8 @@
   {
     "location_id": "nangangtaipeisupercharger",
     "location_type": [
-      "supercharger"
+      "supercharger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "25.0568490000",
