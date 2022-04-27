@@ -124656,6 +124656,15 @@
     "longitude": "-121.2974530000"
   },
   {
+    "location_id": "dc46915",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "29.6383580000",
+    "longitude": "-95.2753390000"
+  },
+  {
     "location_id": "dc62904",
     "location_type": [
       "destination charger"
@@ -140854,9 +140863,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "49.5248870000",
-    "longitude": "-115.7524810000"
+    "open_soon": "1",
+    "latitude": "49.5130100000",
+    "longitude": "-115.7695250000"
   },
   {
     "location_id": "CrestviewFLsupercharger",
@@ -141034,9 +141043,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "24.0475850000",
-    "longitude": "-104.6245450000"
+    "open_soon": "1",
+    "latitude": "24.0276260000",
+    "longitude": "-104.6529780000"
   },
   {
     "location_id": "DurhamNCsupercharger",
@@ -141724,9 +141733,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "40.8716460000",
-    "longitude": "-72.7989750000"
+    "open_soon": "1",
+    "latitude": "40.8734190000",
+    "longitude": "-72.8080000000"
   },
   {
     "location_id": "MariannaFLsupercharger",
@@ -141794,9 +141803,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "23.1972400000",
-    "longitude": "-106.1947580000"
+    "open_soon": "1",
+    "latitude": "23.2494600000",
+    "longitude": "-106.4112230000"
   },
   {
     "location_id": "MebaneNCsupercharger",
@@ -142894,9 +142903,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "40.8058800000",
-    "longitude": "-72.8597800000"
+    "open_soon": "1",
+    "latitude": "40.8013210000",
+    "longitude": "-72.8675870000"
   },
   {
     "location_id": "SilerCityNCsupercharger",
@@ -156996,9 +157005,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "39.1032200000",
-    "longitude": "-77.5251600000"
+    "open_soon": "1",
+    "latitude": "39.1154590000",
+    "longitude": "-77.5645280000"
   },
   {
     "location_id": "LivermoreCASupercharger2",
@@ -157186,9 +157195,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "32.9332600000",
-    "longitude": "-80.6925700000"
+    "open_soon": "1",
+    "latitude": "32.9051680000",
+    "longitude": "-80.6666060000"
   },
   {
     "location_id": "WeavervilleCASupercharger",
@@ -159505,7 +159514,7 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
+    "open_soon": "1",
     "latitude": "37.7588470000",
     "longitude": "-77.4799690000"
   },
@@ -159585,9 +159594,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "26.4352210000",
-    "longitude": "-81.7732130000"
+    "open_soon": "1",
+    "latitude": "26.4381170000",
+    "longitude": "-81.8049940000"
   },
   {
     "location_id": "FrederickMDSupercharger2",
@@ -159745,9 +159754,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "37.7529060000",
-    "longitude": "-121.4676610000"
+    "open_soon": "1",
+    "latitude": "37.7396730000",
+    "longitude": "-121.4259860000"
   },
   {
     "location_id": "WashingtonDCSupercharger",
@@ -164298,9 +164307,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "28.6538500000",
-    "longitude": "-81.4680800000"
+    "open_soon": "1",
+    "latitude": "28.6933950000",
+    "longitude": "-81.5317540000"
   },
   {
     "location_id": "CulverCityCASupercharger",
@@ -164621,16 +164630,6 @@
     "open_soon": "1",
     "latitude": "41.3138476700",
     "longitude": "-81.6846932100"
-  },
-  {
-    "location_id": "LasVegasNVSupercharger22",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "36.1205030000",
-    "longitude": "-115.1874000000"
   },
   {
     "location_id": "BundangSunaesupercharger",
@@ -166819,9 +166818,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "30.6336175000",
-    "longitude": "-87.6754700000"
+    "open_soon": "1",
+    "latitude": "30.5538192600",
+    "longitude": "-87.7115106800"
   },
   {
     "location_id": "RockyHillCTSupercharger",
