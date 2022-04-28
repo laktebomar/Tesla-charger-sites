@@ -42792,8 +42792,8 @@
       "service"
     ],
     "open_soon": "1",
-    "latitude": "-42.8804843358",
-    "longitude": "147.3250293217"
+    "latitude": "-42.8804843400",
+    "longitude": "147.3250293000"
   },
   {
     "location_id": "dc293",
@@ -71731,16 +71731,6 @@
     "longitude": "10.1650370000"
   },
   {
-    "location_id": "brestfrsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.3903900000",
-    "longitude": "-4.4860700000"
-  },
-  {
     "location_id": "breukelensupercharger",
     "location_type": [
       "supercharger",
@@ -72288,8 +72278,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "34.4047987000",
-    "longitude": "-103.2052272000"
+    "latitude": "34.4046710000",
+    "longitude": "-103.2053440000"
   },
   {
     "location_id": "colbykssupercharger",
@@ -72570,16 +72560,6 @@
     "open_soon": "0",
     "latitude": "35.8435900000",
     "longitude": "-78.8863680000"
-  },
-  {
-    "location_id": "edirnesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "41.6878970000",
-    "longitude": "26.5893570000"
   },
   {
     "location_id": "saintleonardsupercharger",
@@ -73459,8 +73439,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "33.6594835000",
-    "longitude": "-117.9988026000"
+    "latitude": "33.6594920000",
+    "longitude": "-117.9989140000"
   },
   {
     "location_id": "huntingtonwvsupercharger",
@@ -73471,16 +73451,6 @@
     "open_soon": "0",
     "latitude": "38.4109510000",
     "longitude": "-82.4871250000"
-  },
-  {
-    "location_id": "iidasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.5015150000",
-    "longitude": "137.7967540000"
   },
   {
     "location_id": "indianapolisdowntownsupercharger",
@@ -74586,6 +74556,16 @@
     "open_soon": "0",
     "latitude": "37.4036420000",
     "longitude": "127.1090510000"
+  },
+  {
+    "location_id": "seoulseongsusupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.5458870000",
+    "longitude": "127.0386440000"
   },
   {
     "location_id": "sevillaessupercharger",
@@ -102567,16 +102547,6 @@
     "longitude": "144.3064780000"
   },
   {
-    "location_id": "bergenopzoomsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "51.5121100000",
-    "longitude": "4.3125400000"
-  },
-  {
     "location_id": "bethelmesupercharger",
     "location_type": [
       "supercharger",
@@ -102676,16 +102646,6 @@
     "open_soon": "0",
     "latitude": "43.5726500000",
     "longitude": "-119.0743610000"
-  },
-  {
-    "location_id": "castelobrancosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.8331010000",
-    "longitude": "-7.5073760000"
   },
   {
     "location_id": "CastlegarBCsupercharger",
@@ -103055,8 +103015,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "68.4932469221",
-    "longitude": "16.7000123873"
+    "latitude": "68.4932469200",
+    "longitude": "16.7000123900"
   },
   {
     "location_id": "madridsupercharger",
@@ -103259,16 +103219,6 @@
     "longitude": "-76.2662220000"
   },
   {
-    "location_id": "perugiaitsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "43.1002620000",
-    "longitude": "12.3755160000"
-  },
-  {
     "location_id": "peterboroughonlansdownestreetwestsupercharger",
     "location_type": [
       "supercharger",
@@ -103447,6 +103397,16 @@
     "open_soon": "0",
     "latitude": "40.4309170000",
     "longitude": "-120.6579080000"
+  },
+  {
+    "location_id": "tauranganzsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "-37.7052950000",
+    "longitude": "176.1543610000"
   },
   {
     "location_id": "dineitsupercharger",
@@ -131040,6 +131000,16 @@
     "longitude": "127.0961830000"
   },
   {
+    "location_id": "brisbaneqldsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "-27.4697540000",
+    "longitude": "153.0251200000"
+  },
+  {
     "location_id": "macquarienswsupercharger",
     "location_type": [
       "supercharger",
@@ -138181,16 +138151,6 @@
     "longitude": "12.5856750000"
   },
   {
-    "location_id": "AalborgCentralDenmarksupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "57.0521080000",
-    "longitude": "9.9660260000"
-  },
-  {
     "location_id": "EsbjergDenmarksupercharger",
     "location_type": [
       "supercharger",
@@ -138199,16 +138159,6 @@
     "open_soon": "1",
     "latitude": "55.5112090000",
     "longitude": "8.5025170000"
-  },
-  {
-    "location_id": "HillerodDenmarksupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "55.8771340000",
-    "longitude": "12.4816360000"
   },
   {
     "location_id": "LeviFinlandsupercharger",
@@ -138241,16 +138191,6 @@
     "longitude": "25.5068820000"
   },
   {
-    "location_id": "RovaniemiFinlandsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "66.5059040000",
-    "longitude": "25.7290250000"
-  },
-  {
     "location_id": "JyvaskylaFinlandsupercharger",
     "location_type": [
       "supercharger",
@@ -138259,16 +138199,6 @@
     "open_soon": "1",
     "latitude": "62.2426000000",
     "longitude": "25.7473000000"
-  },
-  {
-    "location_id": "Mikkelifisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "61.6761780000",
-    "longitude": "27.2429580000"
   },
   {
     "location_id": "HelsinkiFinlandsupercharger",
@@ -138565,26 +138495,6 @@
     "longitude": "8.4287470000"
   },
   {
-    "location_id": "Leerdesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "53.2603300000",
-    "longitude": "7.4452800000"
-  },
-  {
-    "location_id": "FeldkirchenGermanysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.1414400000",
-    "longitude": "11.7378100000"
-  },
-  {
     "location_id": "WolfsburgGermanysupercharger",
     "location_type": [
       "supercharger",
@@ -138663,26 +138573,6 @@
     "open_soon": "0",
     "latitude": "51.4015870000",
     "longitude": "12.1813750000"
-  },
-  {
-    "location_id": "NurembergBrunnGermanysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "49.4613217000",
-    "longitude": "11.2375662000"
-  },
-  {
-    "location_id": "PassauGermanysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.6057133000",
-    "longitude": "13.3693020000"
   },
   {
     "location_id": "murrsupercharger",
@@ -138785,16 +138675,6 @@
     "longitude": "12.1206310000"
   },
   {
-    "location_id": "RosentalGermanysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.7253200000",
-    "longitude": "9.0692100000"
-  },
-  {
     "location_id": "TroisdorfGermanysupercharger",
     "location_type": [
       "supercharger",
@@ -138855,16 +138735,6 @@
     "longitude": "-18.0519160000"
   },
   {
-    "location_id": "ReykjavikCentralissupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "64.1484130000",
-    "longitude": "-21.9343240000"
-  },
-  {
     "location_id": "Haifailsupercharger",
     "location_type": [
       "supercharger",
@@ -138883,6 +138753,16 @@
     "open_soon": "0",
     "latitude": "32.0738460000",
     "longitude": "34.7923110000"
+  },
+  {
+    "location_id": "beersheevailsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "31.2392400000",
+    "longitude": "34.7978380000"
   },
   {
     "location_id": "Eilatilsupercharger",
@@ -138906,16 +138786,6 @@
     "longitude": "5.2301290000"
   },
   {
-    "location_id": "Amsterdamnlsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "52.3585037000",
-    "longitude": "4.8709317000"
-  },
-  {
     "location_id": "Tilburgnlsupercharger",
     "location_type": [
       "supercharger",
@@ -138925,26 +138795,6 @@
     "open_soon": "0",
     "latitude": "51.5431835600",
     "longitude": "5.1119267000"
-  },
-  {
-    "location_id": "Almerenlsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "52.4002380000",
-    "longitude": "5.3420680000"
-  },
-  {
-    "location_id": "Haarlemnlsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "52.3868140000",
-    "longitude": "4.6337670000"
   },
   {
     "location_id": "Maastrichtnlsupercharger",
@@ -138965,16 +138815,6 @@
     "open_soon": "1",
     "latitude": "51.8678960000",
     "longitude": "4.5538640000"
-  },
-  {
-    "location_id": "Zurichsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "53.0958430000",
-    "longitude": "5.3818960000"
   },
   {
     "location_id": "Nederweertnlsupercharger",
@@ -139060,26 +138900,6 @@
     "longitude": "5.7309740000"
   },
   {
-    "location_id": "Arendalnosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "58.4740700000",
-    "longitude": "8.7440670000"
-  },
-  {
-    "location_id": "Rorosnosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "62.5747350000",
-    "longitude": "11.3843250000"
-  },
-  {
     "location_id": "Reinenosupercharger",
     "location_type": [
       "supercharger",
@@ -139129,16 +138949,6 @@
     "open_soon": "0",
     "latitude": "59.1796840000",
     "longitude": "10.2091820000"
-  },
-  {
-    "location_id": "Skedsmonosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "59.9984020000",
-    "longitude": "11.0414530000"
   },
   {
     "location_id": "Trondheimsupercharger",
@@ -139501,16 +139311,6 @@
     "longitude": "8.8614900000"
   },
   {
-    "location_id": "StGallenchsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "47.4341600000",
-    "longitude": "9.3977800000"
-  },
-  {
     "location_id": "Versoixchsupercharger",
     "location_type": [
       "supercharger",
@@ -139569,16 +139369,6 @@
     "open_soon": "0",
     "latitude": "53.2321400000",
     "longitude": "-3.1421460000"
-  },
-  {
-    "location_id": "MiltonKeynesgbsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "52.0117770000",
-    "longitude": "-0.7391020000"
   },
   {
     "location_id": "Rugbygbsupercharger",
@@ -139661,16 +139451,6 @@
     "longitude": "-0.4530130000"
   },
   {
-    "location_id": "Hullgbsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "53.7404550000",
-    "longitude": "-0.3436870000"
-  },
-  {
     "location_id": "Traffordgbsupercharger",
     "location_type": [
       "supercharger",
@@ -139699,26 +139479,6 @@
     "open_soon": "1",
     "latitude": "51.0168580000",
     "longitude": "-3.0290850000"
-  },
-  {
-    "location_id": "Liverpoolgbsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "53.4100950000",
-    "longitude": "-2.9270310000"
-  },
-  {
-    "location_id": "Ketteringgbsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "52.3755520000",
-    "longitude": "-0.7193610000"
   },
   {
     "location_id": "Exetergbsupercharger",
@@ -139939,16 +139699,6 @@
     "open_soon": "0",
     "latitude": "-41.2250200000",
     "longitude": "174.8083270000"
-  },
-  {
-    "location_id": "taurangasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "-37.6763150000",
-    "longitude": "176.2225050000"
   },
   {
     "location_id": "hastingssupercharger",
@@ -140181,16 +139931,6 @@
     "longitude": "120.3072705000"
   },
   {
-    "location_id": "kaohsiungivsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.6254903200",
-    "longitude": "120.3619396000"
-  },
-  {
     "location_id": "yunlinchaiyisupercharger",
     "location_type": [
       "supercharger",
@@ -140201,24 +139941,14 @@
     "longitude": "120.4773464000"
   },
   {
-    "location_id": "pingtungiisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.6385382200",
-    "longitude": "120.5376607000"
-  },
-  {
     "location_id": "singaporesupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "1.3416599401",
-    "longitude": "103.9469189284"
+    "latitude": "1.3416599400",
+    "longitude": "103.9469189000"
   },
   {
     "location_id": "bairnsdalesupercharger",
@@ -140327,8 +140057,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "34.1209640000",
-    "longitude": "-93.0535390000"
+    "latitude": "34.1224900000",
+    "longitude": "-93.0571150000"
   },
   {
     "location_id": "ArroyoGrandeCAsupercharger",
@@ -140487,8 +140217,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "35.9274070000",
-    "longitude": "-89.9188000000"
+    "latitude": "35.9284850000",
+    "longitude": "-89.9080060000"
   },
   {
     "location_id": "BoisbriandQCsupercharger",
@@ -140699,16 +140429,6 @@
     "open_soon": "0",
     "latitude": "41.9278029100",
     "longitude": "-87.6858806100"
-  },
-  {
-    "location_id": "ChihuahuaChihuahuasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.6333220000",
-    "longitude": "-106.0690310000"
   },
   {
     "location_id": "ClovisCAsupercharger",
@@ -140957,8 +140677,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "31.2233370000",
-    "longitude": "-85.3897430000"
+    "latitude": "31.2234260000",
+    "longitude": "-85.3908210000"
   },
   {
     "location_id": "DouglasvilleGAsupercharger",
@@ -141427,8 +141147,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "38.5766700000",
-    "longitude": "-92.1736110000"
+    "latitude": "38.5764720000",
+    "longitude": "-92.1730330000"
   },
   {
     "location_id": "JimThorpePAsupercharger",
@@ -141871,16 +141591,6 @@
     "longitude": "-99.1859910000"
   },
   {
-    "location_id": "MiamiBeachFLsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.7923500000",
-    "longitude": "-80.1297320000"
-  },
-  {
     "location_id": "MiamiBeachFLsupercharger2",
     "location_type": [
       "supercharger",
@@ -141997,8 +141707,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "43.1329280000",
-    "longitude": "-115.6916960000"
+    "latitude": "43.1328690000",
+    "longitude": "-115.6916700000"
   },
   {
     "location_id": "MountainVillageCOsupercharger",
@@ -142269,16 +141979,6 @@
     "open_soon": "0",
     "latitude": "34.0474300000",
     "longitude": "-118.5249300000"
-  },
-  {
-    "location_id": "ParkCityUTsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.6460622000",
-    "longitude": "-111.4979729000"
   },
   {
     "location_id": "PaspebiacQCsupercharger",
@@ -142609,16 +142309,6 @@
     "open_soon": "1",
     "latitude": "45.7755330000",
     "longitude": "-74.0045040000"
-  },
-  {
-    "location_id": "SaintLiboireQCsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "45.6510680000",
-    "longitude": "-72.7590090000"
   },
   {
     "location_id": "SainteAnnedesMontsQCsupercharger",
@@ -143539,16 +143229,6 @@
     "open_soon": "0",
     "latitude": "50.5128340000",
     "longitude": "-115.9964560000"
-  },
-  {
-    "location_id": "Ferndowngbsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "50.7695260000",
-    "longitude": "-1.9194950000"
   },
   {
     "location_id": "Brzegplsupercharger",
@@ -151085,3806 +150765,6 @@
     "longitude": "125.9349000000"
   },
   {
-    "location_id": "chaoyangbeijingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.9555610000",
-    "longitude": "116.4716120000"
-  },
-  {
-    "location_id": "gulounanjingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.0284670000",
-    "longitude": "118.7913470000"
-  },
-  {
-    "location_id": "anwenchongqingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.6646510000",
-    "longitude": "106.7849790000"
-  },
-  {
-    "location_id": "beijingchangpingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.2282000000",
-    "longitude": "116.1910000000"
-  },
-  {
-    "location_id": "beijingsanyuuanqiaosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.9592270000",
-    "longitude": "116.4652760000"
-  },
-  {
-    "location_id": "beijingshunyisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.0823000000",
-    "longitude": "116.6140000000"
-  },
-  {
-    "location_id": "beijingsoutheastsupercharer",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.8814240000",
-    "longitude": "116.4930870000"
-  },
-  {
-    "location_id": "shandongdongyingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.4456180000",
-    "longitude": "118.6122000000"
-  },
-  {
-    "location_id": "duyunguizhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.2220400000",
-    "longitude": "107.5211000000"
-  },
-  {
-    "location_id": "guangzhoutianhesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.1252870000",
-    "longitude": "113.3804810000"
-  },
-  {
-    "location_id": "guangzhouzengchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.2464000000",
-    "longitude": "113.7960000000"
-  },
-  {
-    "location_id": "hepuguangxisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "21.7497900000",
-    "longitude": "109.2439990000"
-  },
-  {
-    "location_id": "huanghuahebeisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "38.3118400000",
-    "longitude": "117.4031750000"
-  },
-  {
-    "location_id": "huizeyunansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.4262530000",
-    "longitude": "103.2746370000"
-  },
-  {
-    "location_id": "jilinfuyusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "45.0039530000",
-    "longitude": "126.0133220000"
-  },
-  {
-    "location_id": "jingzhouhubeisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.3820700000",
-    "longitude": "112.2654510000"
-  },
-  {
-    "location_id": "linfenshanxisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.3197610000",
-    "longitude": "111.7083920000"
-  },
-  {
-    "location_id": "pueryunansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.2573610000",
-    "longitude": "104.1554470000"
-  },
-  {
-    "location_id": "shandongbinzhoushisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.4629440000",
-    "longitude": "117.9214780000"
-  },
-  {
-    "location_id": "shandonglaiwusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.2627630000",
-    "longitude": "117.7610770000"
-  },
-  {
-    "location_id": "shandongxinyisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.3560580000",
-    "longitude": "118.4951150000"
-  },
-  {
-    "location_id": "shanghaijinshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.8845000000",
-    "longitude": "121.3410000000"
-  },
-  {
-    "location_id": "shanghaipudongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.1013920000",
-    "longitude": "121.6676630000"
-  },
-  {
-    "location_id": "shanghaisongjiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.0183270000",
-    "longitude": "121.1620210000"
-  },
-  {
-    "location_id": "shengzhouzhejiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.5659050000",
-    "longitude": "120.8432420000"
-  },
-  {
-    "location_id": "baoanshenzhensupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.5915060000",
-    "longitude": "113.8830460000"
-  },
-  {
-    "location_id": "tianjinbaodisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.7135000000",
-    "longitude": "117.3310000000"
-  },
-  {
-    "location_id": "tianjinwuqingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.3821000000",
-    "longitude": "117.0460000000"
-  },
-  {
-    "location_id": "wenzhouzhejiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.9234940000",
-    "longitude": "120.7025420000"
-  },
-  {
-    "location_id": "xianshannxicnsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.2002740000",
-    "longitude": "108.8345730000"
-  },
-  {
-    "location_id": "xiangtanhunansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.8392350000",
-    "longitude": "112.9587620000"
-  },
-  {
-    "location_id": "xuanchenganhuisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.9618060000",
-    "longitude": "118.8851880000"
-  },
-  {
-    "location_id": "ynachiningxiasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.7836680000",
-    "longitude": "107.4313140000"
-  },
-  {
-    "location_id": "yangquanshanxisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.7998940000",
-    "longitude": "113.6768710000"
-  },
-  {
-    "location_id": "yunxiaofujiansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.9582530000",
-    "longitude": "117.3400270000"
-  },
-  {
-    "location_id": "fuzhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.0409200000",
-    "longitude": "119.2882000000"
-  },
-  {
-    "location_id": "yueyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.3404000000",
-    "longitude": "113.2185000000"
-  },
-  {
-    "location_id": "bengbusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.9863800000",
-    "longitude": "117.3904000000"
-  },
-  {
-    "location_id": "binjiangxuhuisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.1863700000",
-    "longitude": "121.4580000000"
-  },
-  {
-    "location_id": "caofeidiantianjinsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.3288200000",
-    "longitude": "118.5309000000"
-  },
-  {
-    "location_id": "changchunsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "43.9174100000",
-    "longitude": "125.3416000000"
-  },
-  {
-    "location_id": "beijingchaoyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.9238800000",
-    "longitude": "116.4626000000"
-  },
-  {
-    "location_id": "chenghuachengdusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.6686700000",
-    "longitude": "104.1124000000"
-  },
-  {
-    "location_id": "chibihubeisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.7358100000",
-    "longitude": "113.9000000000"
-  },
-  {
-    "location_id": "datongcnsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.0886200000",
-    "longitude": "113.2732000000"
-  },
-  {
-    "location_id": "donglitianjinsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.0892200000",
-    "longitude": "117.3164000000"
-  },
-  {
-    "location_id": "erdoscnsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.6653200000",
-    "longitude": "109.8443000000"
-  },
-  {
-    "location_id": "gubeishanghaisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.1966300000",
-    "longitude": "121.3935000000"
-  },
-  {
-    "location_id": "guloudistrictsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.0664100000",
-    "longitude": "118.7701000000"
-  },
-  {
-    "location_id": "haidianbeijingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.9583900000",
-    "longitude": "116.2863000000"
-  },
-  {
-    "location_id": "hebeitianjinsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.1586700000",
-    "longitude": "117.2169000000"
-  },
-  {
-    "location_id": "hechiguangxisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.6720200000",
-    "longitude": "108.0306000000"
-  },
-  {
-    "location_id": "hezeshandongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.2731800000",
-    "longitude": "115.4962000000"
-  },
-  {
-    "location_id": "hezhouguangxisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.4034700000",
-    "longitude": "111.5666000000"
-  },
-  {
-    "location_id": "jianjiangxisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.1138100000",
-    "longitude": "115.0003000000"
-  },
-  {
-    "location_id": "jiangbeisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.6155800000",
-    "longitude": "106.5558000000"
-  },
-  {
-    "location_id": "jinshuizhengzhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.8059500000",
-    "longitude": "113.6107000000"
-  },
-  {
-    "location_id": "langfangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.5203100000",
-    "longitude": "116.7044000000"
-  },
-  {
-    "location_id": "longlinguangxisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.7706600000",
-    "longitude": "105.3504000000"
-  },
-  {
-    "location_id": "lupubridgeshanghaisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.1917200000",
-    "longitude": "121.4792000000"
-  },
-  {
-    "location_id": "nanpingfujiansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.5019800000",
-    "longitude": "118.0498000000"
-  },
-  {
-    "location_id": "shenzhenguaondong1supercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.5608100000",
-    "longitude": "114.0516000000"
-  },
-  {
-    "location_id": "tongzhoubeijing1supercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.9178500000",
-    "longitude": "116.6535000000"
-  },
-  {
-    "location_id": "wuhouchengdusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.6459500000",
-    "longitude": "104.0576000000"
-  },
-  {
-    "location_id": "xiamenfujiansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.3317609000",
-    "longitude": "118.1204340000"
-  },
-  {
-    "location_id": "yanqingbeijingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.4711400000",
-    "longitude": "115.9902000000"
-  },
-  {
-    "location_id": "jianfujianusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.0226560000",
-    "longitude": "118.3049620000"
-  },
-  {
-    "location_id": "huajiguangdongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.9119000000",
-    "longitude": "112.1846000000"
-  },
-  {
-    "location_id": "longhuashenzhensupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.7217400000",
-    "longitude": "114.0603000000"
-  },
-  {
-    "location_id": "guangdonglianzhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.7853691000",
-    "longitude": "112.3732640000"
-  },
-  {
-    "location_id": "chengdussichuansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.5839780000",
-    "longitude": "104.0298500000"
-  },
-  {
-    "location_id": "shenzhenlonggangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.6985675000",
-    "longitude": "114.2616960000"
-  },
-  {
-    "location_id": "shenzhenluohusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.5444762000",
-    "longitude": "114.1402430000"
-  },
-  {
-    "location_id": "shenzhenfutiansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.5227862000",
-    "longitude": "114.0549800000"
-  },
-  {
-    "location_id": "shenzhenyantiansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.5571317000",
-    "longitude": "114.2370280000"
-  },
-  {
-    "location_id": "bejinghaidiansouthsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.9585407000",
-    "longitude": "116.2879260000"
-  },
-  {
-    "location_id": "beijingnorthsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.9851517000",
-    "longitude": "116.4008450000"
-  },
-  {
-    "location_id": "bejingchaoyangsanhuansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.9551252000",
-    "longitude": "116.4717000000"
-  },
-  {
-    "location_id": "beijinghaidiannorthsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.0420133000",
-    "longitude": "116.2934070000"
-  },
-  {
-    "location_id": "beijinghuaxiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.8419649000",
-    "longitude": "116.3261050000"
-  },
-  {
-    "location_id": "beijingtiantongyuansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.0752461000",
-    "longitude": "116.4128130000"
-  },
-  {
-    "location_id": "guangzhouyuexiusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.1290180000",
-    "longitude": "113.2669800000"
-  },
-  {
-    "location_id": "guangzhoufanyusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.9375757000",
-    "longitude": "113.3839920000"
-  },
-  {
-    "location_id": "shanghaizhangjiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.1892076000",
-    "longitude": "121.6289490000"
-  },
-  {
-    "location_id": "shanghaixuhuisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.1946342000",
-    "longitude": "121.4372320000"
-  },
-  {
-    "location_id": "shanghaiminxingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.0950880000",
-    "longitude": "121.5039730000"
-  },
-  {
-    "location_id": "shanghaichangningsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.2057985000",
-    "longitude": "121.4072120000"
-  },
-  {
-    "location_id": "shanghaijingansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.2274889000",
-    "longitude": "121.4470010000"
-  },
-  {
-    "location_id": "shanghaiputuosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.2264169000",
-    "longitude": "121.3913230000"
-  },
-  {
-    "location_id": "chengdusouthsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.8403678000",
-    "longitude": "104.3021210000"
-  },
-  {
-    "location_id": "chengdugaoxinsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.5942186000",
-    "longitude": "104.0638110000"
-  },
-  {
-    "location_id": "hangzhouxihulakesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.2925379000",
-    "longitude": "120.0669600000"
-  },
-  {
-    "location_id": "shanghaifengxiansupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.9276000000",
-    "longitude": "121.6170000000"
-  },
-  {
-    "location_id": "zhangzhoulonghaisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.5096000000",
-    "longitude": "117.9080000000"
-  },
-  {
-    "location_id": "zhangzhouchangtaisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.6295000000",
-    "longitude": "117.7600000000"
-  },
-  {
-    "location_id": "futianchengxiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.4172000000",
-    "longitude": "118.9630000000"
-  },
-  {
-    "location_id": "longyanlianchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.6737000000",
-    "longitude": "116.7380000000"
-  },
-  {
-    "location_id": "nanpingshaowusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.3498000000",
-    "longitude": "117.4990000000"
-  },
-  {
-    "location_id": "hangzhouxiaoshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.1861000000",
-    "longitude": "120.2520000000"
-  },
-  {
-    "location_id": "ningbojiangbeisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.9049000000",
-    "longitude": "121.5690000000"
-  },
-  {
-    "location_id": "jinhuawuchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.0856000000",
-    "longitude": "119.6500000000"
-  },
-  {
-    "location_id": "hangzhouyuhangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.2591000000",
-    "longitude": "119.9510000000"
-  },
-  {
-    "location_id": "zhoushanputuosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.9645000000",
-    "longitude": "122.2120000000"
-  },
-  {
-    "location_id": "hangzhouputuosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.0560000000",
-    "longitude": "119.9650000000"
-  },
-  {
-    "location_id": "shaoxingzhujisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.7179000000",
-    "longitude": "120.2450000000"
-  },
-  {
-    "location_id": "hangzhoutonglusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.8109000000",
-    "longitude": "119.6960000000"
-  },
-  {
-    "location_id": "taizhoulinhaisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.8639000000",
-    "longitude": "121.1390000000"
-  },
-  {
-    "location_id": "ningbocixisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.2365000000",
-    "longitude": "121.1680000000"
-  },
-  {
-    "location_id": "suzhouxiangchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.4191000000",
-    "longitude": "120.6490000000"
-  },
-  {
-    "location_id": "shanghaiputongsupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.0535000000",
-    "longitude": "121.7620000000"
-  },
-  {
-    "location_id": "shanghaisongjiangsupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.1038000000",
-    "longitude": "121.2300000000"
-  },
-  {
-    "location_id": "shanghaisongjiangsupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.0779000000",
-    "longitude": "121.3440000000"
-  },
-  {
-    "location_id": "taizhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.4444000000",
-    "longitude": "119.9180000000"
-  },
-  {
-    "location_id": "yangzhoujiangdusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.4326000000",
-    "longitude": "119.5750000000"
-  },
-  {
-    "location_id": "lianyunganglianyunsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.6676000000",
-    "longitude": "119.2200000000"
-  },
-  {
-    "location_id": "shanghaibaoshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.4820000000",
-    "longitude": "121.3410000000"
-  },
-  {
-    "location_id": "maanshanhuashansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.6767000000",
-    "longitude": "118.5050000000"
-  },
-  {
-    "location_id": "bangbuyuhuisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.9106000000",
-    "longitude": "117.3360000000"
-  },
-  {
-    "location_id": "tonglingtongguansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.9482000000",
-    "longitude": "117.8390000000"
-  },
-  {
-    "location_id": "huainantianjiaansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.6260000000",
-    "longitude": "117.0050000000"
-  },
-  {
-    "location_id": "bozhouqiaochengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.8548000000",
-    "longitude": "115.7870000000"
-  },
-  {
-    "location_id": "liuanjinansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.7382000000",
-    "longitude": "116.5260000000"
-  },
-  {
-    "location_id": "suzhouyongqiaosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.6316000000",
-    "longitude": "116.9680000000"
-  },
-  {
-    "location_id": "xuanchengxuanzhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.9376000000",
-    "longitude": "118.7340000000"
-  },
-  {
-    "location_id": "wuhujinghusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.3252000000",
-    "longitude": "118.3680000000"
-  },
-  {
-    "location_id": "zhenjiangjingkousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.2015000000",
-    "longitude": "119.4640000000"
-  },
-  {
-    "location_id": "hefeifeixisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.7715000000",
-    "longitude": "117.1030000000"
-  },
-  {
-    "location_id": "huaibeixiangshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.9549000000",
-    "longitude": "116.8200000000"
-  },
-  {
-    "location_id": "chizhousguichiupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.6231000000",
-    "longitude": "117.5120000000"
-  },
-  {
-    "location_id": "chuzhounanqiaosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.2535000000",
-    "longitude": "118.3150000000"
-  },
-  {
-    "location_id": "xuzhouxinyisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.3650000000",
-    "longitude": "118.3410000000"
-  },
-  {
-    "location_id": "yanchengtinghusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.4034000000",
-    "longitude": "120.1890000000"
-  },
-  {
-    "location_id": "hangzhoulinansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.2199000000",
-    "longitude": "119.7320000000"
-  },
-  {
-    "location_id": "jiaxingtongxiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.6290000000",
-    "longitude": "120.5590000000"
-  },
-  {
-    "location_id": "wenzhouruiansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.7944000000",
-    "longitude": "120.7350000000"
-  },
-  {
-    "location_id": "xiamenjimeisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.6467000000",
-    "longitude": "118.0700000000"
-  },
-  {
-    "location_id": "xiamenxiangansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.6660000000",
-    "longitude": "118.2250000000"
-  },
-  {
-    "location_id": "shaoxingkeqiaosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.0875000000",
-    "longitude": "120.4900000000"
-  },
-  {
-    "location_id": "nantonghaimensupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.8765000000",
-    "longitude": "121.1720000000"
-  },
-  {
-    "location_id": "nantongtongzhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.0503000000",
-    "longitude": "121.0790000000"
-  },
-  {
-    "location_id": "wuxiyixingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.3509000000",
-    "longitude": "119.8550000000"
-  },
-  {
-    "location_id": "changzhoujingtansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.7457000000",
-    "longitude": "119.5690000000"
-  },
-  {
-    "location_id": "nanjingjiangningsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.8663000000",
-    "longitude": "118.8330000000"
-  },
-  {
-    "location_id": "nanjingpukousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.0690000000",
-    "longitude": "118.6450000000"
-  },
-  {
-    "location_id": "suzhouzhangjiagangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.7839000000",
-    "longitude": "120.6300000000"
-  },
-  {
-    "location_id": "suzhoutaicangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.4331000000",
-    "longitude": "121.1300000000"
-  },
-  {
-    "location_id": "huaiansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.8115400000",
-    "longitude": "127.0936200000"
-  },
-  {
-    "location_id": "shanghaisupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.9891000000",
-    "longitude": "121.4320000000"
-  },
-  {
-    "location_id": "shanghaisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.6235000000",
-    "longitude": "121.3970000000"
-  },
-  {
-    "location_id": "shanghaipudongsupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.1527000000",
-    "longitude": "121.4800000000"
-  },
-  {
-    "location_id": "shanghaipudongsupercharger3",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.2056000000",
-    "longitude": "121.6030000000"
-  },
-  {
-    "location_id": "shanghaijiadingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.3451000000",
-    "longitude": "121.2610000000"
-  },
-  {
-    "location_id": "lishuiliandusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.4349000000",
-    "longitude": "119.9350000000"
-  },
-  {
-    "location_id": "shanghaiqingpusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.1585000000",
-    "longitude": "121.1260000000"
-  },
-  {
-    "location_id": "hangzhoujiandesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.4898000000",
-    "longitude": "119.3280000000"
-  },
-  {
-    "location_id": "wuxiliangxisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.5761000000",
-    "longitude": "120.3030000000"
-  },
-  {
-    "location_id": "quanzhouhuiansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.0010000000",
-    "longitude": "118.7840000000"
-  },
-  {
-    "location_id": "sanmingsanyuansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.2392000000",
-    "longitude": "117.6140000000"
-  },
-  {
-    "location_id": "nanpingyanpingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.6278000000",
-    "longitude": "118.1960000000"
-  },
-  {
-    "location_id": "wenzhouyueqingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.1229000000",
-    "longitude": "121.0120000000"
-  },
-  {
-    "location_id": "huzhoudeqingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.5410000000",
-    "longitude": "119.9840000000"
-  },
-  {
-    "location_id": "ningboyuyaosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.1475000000",
-    "longitude": "120.9800000000"
-  },
-  {
-    "location_id": "jinhuadongyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.0370000000",
-    "longitude": "120.3830000000"
-  },
-  {
-    "location_id": "hefeichaohusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.5972000000",
-    "longitude": "117.8690000000"
-  },
-  {
-    "location_id": "suzhoukunshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.3805000000",
-    "longitude": "120.9260000000"
-  },
-  {
-    "location_id": "luoheyuanhuisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.5506000000",
-    "longitude": "114.0270000000"
-  },
-  {
-    "location_id": "weihaihuancuisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.4574000000",
-    "longitude": "122.1240000000"
-  },
-  {
-    "location_id": "jiningrenchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.3890000000",
-    "longitude": "116.5920000000"
-  },
-  {
-    "location_id": "lvlianglishisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.4923000000",
-    "longitude": "111.1600000000"
-  },
-  {
-    "location_id": "shuozhoushuochengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.2493000000",
-    "longitude": "112.4780000000"
-  },
-  {
-    "location_id": "chifenghongshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "42.2285000000",
-    "longitude": "118.8940000000"
-  },
-  {
-    "location_id": "mudanjiangdongansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "44.5357000000",
-    "longitude": "129.6280000000"
-  },
-  {
-    "location_id": "xingtaixiangdusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.0639000000",
-    "longitude": "114.5100000000"
-  },
-  {
-    "location_id": "tianjinjinghaisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "38.9316000000",
-    "longitude": "116.9740000000"
-  },
-  {
-    "location_id": "hezemudansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.1918000000",
-    "longitude": "115.4880000000"
-  },
-  {
-    "location_id": "liaochengdongchangfusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.4390000000",
-    "longitude": "116.0050000000"
-  },
-  {
-    "location_id": "xinzhouwutaisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "38.6641000000",
-    "longitude": "113.2200000000"
-  },
-  {
-    "location_id": "beijingpinggusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.1337000000",
-    "longitude": "117.1280000000"
-  },
-  {
-    "location_id": "beijingyanqingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.4255000000",
-    "longitude": "115.9450000000"
-  },
-  {
-    "location_id": "yunchengyanhusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.9985000000",
-    "longitude": "111.0170000000"
-  },
-  {
-    "location_id": "xianxinchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.2843000000",
-    "longitude": "108.9740000000"
-  },
-  {
-    "location_id": "xianyangweichengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.3349000000",
-    "longitude": "108.7180000000"
-  },
-  {
-    "location_id": "yinchuanjinfengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "38.4719000000",
-    "longitude": "106.2510000000"
-  },
-  {
-    "location_id": "zhongweishapotousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.5007000000",
-    "longitude": "105.1930000000"
-  },
-  {
-    "location_id": "urumchi supercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "43.7889000000",
-    "longitude": "87.6331000000"
-  },
-  {
-    "location_id": "harbindaowaisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "45.7867000000",
-    "longitude": "126.7710000000"
-  },
-  {
-    "location_id": "tangshanlubeisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.6480000000",
-    "longitude": "118.2130000000"
-  },
-  {
-    "location_id": "yantailaizhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.1866000000",
-    "longitude": "119.9380000000"
-  },
-  {
-    "location_id": "qingdaohuangdaosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.9513000000",
-    "longitude": "120.1790000000"
-  },
-  {
-    "location_id": "jinanshizhongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.6288000000",
-    "longitude": "117.0100000000"
-  },
-  {
-    "location_id": "jinanlichengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.6728000000",
-    "longitude": "117.2190000000"
-  },
-  {
-    "location_id": "qingdaojiaozhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.2670000000",
-    "longitude": "120.0370000000"
-  },
-  {
-    "location_id": "linyilanshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.0997000000",
-    "longitude": "118.3280000000"
-  },
-  {
-    "location_id": "linyihedongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.0390000000",
-    "longitude": "118.4220000000"
-  },
-  {
-    "location_id": "weifangweichengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.6728000000",
-    "longitude": "119.0920000000"
-  },
-  {
-    "location_id": "yantailaishansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.4051000000",
-    "longitude": "121.5390000000"
-  },
-  {
-    "location_id": "hohhotexinchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.8200000000",
-    "longitude": "111.6900000000"
-  },
-  {
-    "location_id": "wuhaihaibowansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.5634000000",
-    "longitude": "106.8420000000"
-  },
-  {
-    "location_id": "shijiazhuangzhengdingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "38.1389000000",
-    "longitude": "114.5630000000"
-  },
-  {
-    "location_id": "taiyuanxinghualingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.8749000000",
-    "longitude": "112.6540000000"
-  },
-  {
-    "location_id": "baodingxiongcountysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "38.9658000000",
-    "longitude": "116.0680000000"
-  },
-  {
-    "location_id": "beijingtongzhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.0082000000",
-    "longitude": "116.6710000000"
-  },
-  {
-    "location_id": "zhangjiakouchonglisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.9529000000",
-    "longitude": "115.3120000000"
-  },
-  {
-    "location_id": "beijingchangpingsupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.0624000000",
-    "longitude": "116.4200000000"
-  },
-  {
-    "location_id": "beijingxichengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.8902000000",
-    "longitude": "116.3450000000"
-  },
-  {
-    "location_id": "tianjinjizhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.0423000000",
-    "longitude": "117.4520000000"
-  },
-  {
-    "location_id": "beijingchaoyangsupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.8847000000",
-    "longitude": "116.4560000000"
-  },
-  {
-    "location_id": "rizhaodonggangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.3532000000",
-    "longitude": "119.5310000000"
-  },
-  {
-    "location_id": "tangshanfengrunsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.7874000000",
-    "longitude": "118.2070000000"
-  },
-  {
-    "location_id": "tianjinbeichensupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.2280000000",
-    "longitude": "117.1750000000"
-  },
-  {
-    "location_id": "tianjinbinhainewareasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "38.7027000000",
-    "longitude": "117.5320000000"
-  },
-  {
-    "location_id": "beijinghaidiansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.9329000000",
-    "longitude": "116.2900000000"
-  },
-  {
-    "location_id": "beijinghuairousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.3382000000",
-    "longitude": "116.5320000000"
-  },
-  {
-    "location_id": "chengdexinglongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.3968000000",
-    "longitude": "117.4770000000"
-  },
-  {
-    "location_id": "qinhuangdaohaigangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.9182000000",
-    "longitude": "119.6080000000"
-  },
-  {
-    "location_id": "datongpingchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.0592000000",
-    "longitude": "113.3050000000"
-  },
-  {
-    "location_id": "handanhanshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.5935000000",
-    "longitude": "114.5350000000"
-  },
-  {
-    "location_id": "zibozhoucunsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.8313000000",
-    "longitude": "117.9000000000"
-  },
-  {
-    "location_id": "zibolinzisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.7653000000",
-    "longitude": "118.2290000000"
-  },
-  {
-    "location_id": "yingkouzhanqiansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.6723000000",
-    "longitude": "122.2640000000"
-  },
-  {
-    "location_id": "anshantiexisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "41.0918000000",
-    "longitude": "122.9690000000"
-  },
-  {
-    "location_id": "langfangguangyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.5178000000",
-    "longitude": "116.7090000000"
-  },
-  {
-    "location_id": "suihuaandasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "46.4492000000",
-    "longitude": "125.3430000000"
-  },
-  {
-    "location_id": "dalianjinzhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.1066000000",
-    "longitude": "121.7810000000"
-  },
-  {
-    "location_id": "turpangaochangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "42.9504000000",
-    "longitude": "89.1788000000"
-  },
-  {
-    "location_id": "liaochengyanggusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.0938000000",
-    "longitude": "115.8110000000"
-  },
-  {
-    "location_id": "changchunchaoyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "43.8761000000",
-    "longitude": "125.3070000000"
-  },
-  {
-    "location_id": "beijingchaoyangsupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.9642000000",
-    "longitude": "116.5560000000"
-  },
-  {
-    "location_id": "meizhoumeijiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.2695000000",
-    "longitude": "116.1230000000"
-  },
-  {
-    "location_id": "jieyangrongchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.5036000000",
-    "longitude": "116.3780000000"
-  },
-  {
-    "location_id": "chaozhouxiangqiaosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.6294000000",
-    "longitude": "116.6640000000"
-  },
-  {
-    "location_id": "haikoulonghuasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "20.0416000000",
-    "longitude": "110.3220000000"
-  },
-  {
-    "location_id": "hiakouqiongshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "20.0152000000",
-    "longitude": "110.3700000000"
-  },
-  {
-    "location_id": "hiakouxiuyingsupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "20.0217000000",
-    "longitude": "110.2640000000"
-  },
-  {
-    "location_id": "hiakoumeilansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "19.9411000000",
-    "longitude": "110.4560000000"
-  },
-  {
-    "location_id": "hiakouxiuyingsupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "20.0078000000",
-    "longitude": "110.2850000000"
-  },
-  {
-    "location_id": "sanyajiyangsupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "18.2410000000",
-    "longitude": "109.5150000000"
-  },
-  {
-    "location_id": "sanyatianyasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "18.3031000000",
-    "longitude": "109.3730000000"
-  },
-  {
-    "location_id": "sanyajiyangsupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "18.2967000000",
-    "longitude": "109.5270000000"
-  },
-  {
-    "location_id": "sanyahaitangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "18.3167000000",
-    "longitude": "109.7290000000"
-  },
-  {
-    "location_id": "danzhousupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "19.7609000000",
-    "longitude": "109.2030000000"
-  },
-  {
-    "location_id": "danzhousupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "19.5218000000",
-    "longitude": "109.5710000000"
-  },
-  {
-    "location_id": "hainanqionghaishengsupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "19.1614000000",
-    "longitude": "110.5860000000"
-  },
-  {
-    "location_id": "hainanqionghaisupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "19.2590000000",
-    "longitude": "110.4680000000"
-  },
-  {
-    "location_id": "hainanwanshengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "18.7245000000",
-    "longitude": "110.2950000000"
-  },
-  {
-    "location_id": "hiananledongliautonomouscountysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "18.7534000000",
-    "longitude": "109.1800000000"
-  },
-  {
-    "location_id": "hainanwuzhishansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "18.7764000000",
-    "longitude": "109.5170000000"
-  },
-  {
-    "location_id": "hainanchengmaisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "19.7412000000",
-    "longitude": "110.0030000000"
-  },
-  {
-    "location_id": "lingshuiliautonomouscountysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "18.5174000000",
-    "longitude": "110.0300000000"
-  },
-  {
-    "location_id": "hainanwenchangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "19.5497000000",
-    "longitude": "110.8070000000"
-  },
-  {
-    "location_id": "hainanchangjianglisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "19.2887000000",
-    "longitude": "109.0560000000"
-  },
-  {
-    "location_id": "hainantunchangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "19.3668000000",
-    "longitude": "110.1040000000"
-  },
-  {
-    "location_id": "hainanlingaosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "19.9068000000",
-    "longitude": "109.6880000000"
-  },
-  {
-    "location_id": "zhongshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.2497000000",
-    "longitude": "113.4390000000"
-  },
-  {
-    "location_id": "yunfuyunchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.9432000000",
-    "longitude": "112.0700000000"
-  },
-  {
-    "location_id": "zhaoqingsihuisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.3259000000",
-    "longitude": "112.7570000000"
-  },
-  {
-    "location_id": "qingyuanqingxinsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.7313000000",
-    "longitude": "113.0180000000"
-  },
-  {
-    "location_id": "jieyangpuningsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.2784000000",
-    "longitude": "116.1240000000"
-  },
-  {
-    "location_id": "meizhouxingningsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.1330000000",
-    "longitude": "115.7620000000"
-  },
-  {
-    "location_id": "jieyangrongchengsupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.5638000000",
-    "longitude": "116.3740000000"
-  },
-  {
-    "location_id": "jieyangjiexisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.4481000000",
-    "longitude": "115.8380000000"
-  },
-  {
-    "location_id": "jieyangrongchnegsupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.5564000000",
-    "longitude": "116.5050000000"
-  },
-  {
-    "location_id": "jieyangpiningsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.4078000000",
-    "longitude": "116.2560000000"
-  },
-  {
-    "location_id": "jieyanghuilaisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.0039000000",
-    "longitude": "116.3030000000"
-  },
-  {
-    "location_id": "shantouchaoyangsupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.3032000000",
-    "longitude": "116.5180000000"
-  },
-  {
-    "location_id": "meizhouwuhuasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.0891000000",
-    "longitude": "115.6280000000"
-  },
-  {
-    "location_id": "shantouchaonansupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.2792000000",
-    "longitude": "116.3710000000"
-  },
-  {
-    "location_id": "shantouchaoyangsupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.1934000000",
-    "longitude": "116.6580000000"
-  },
-  {
-    "location_id": "shantouchaonansupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.1492000000",
-    "longitude": "116.4940000000"
-  },
-  {
-    "location_id": "shanweisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.7866000000",
-    "longitude": "115.3870000000"
-  },
-  {
-    "location_id": "shanweilufengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.9483000000",
-    "longitude": "115.6380000000"
-  },
-  {
-    "location_id": "dongguansupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.7926000000",
-    "longitude": "113.6780000000"
-  },
-  {
-    "location_id": "dongguansupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.8850000000",
-    "longitude": "113.6290000000"
-  },
-  {
-    "location_id": "dongguansupercharger3",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.9015000000",
-    "longitude": "113.7210000000"
-  },
-  {
-    "location_id": "huizhouboluosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.1328000000",
-    "longitude": "113.8710000000"
-  },
-  {
-    "location_id": "dongguansupercharger4",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.0823000000",
-    "longitude": "113.7190000000"
-  },
-  {
-    "location_id": "dongguansupercharger5",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.0254000000",
-    "longitude": "113.9820000000"
-  },
-  {
-    "location_id": "dongguansupercharger6",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.0026000000",
-    "longitude": "113.8020000000"
-  },
-  {
-    "location_id": "foshannahaisupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.9887000000",
-    "longitude": "112.9370000000"
-  },
-  {
-    "location_id": "foshannanhaisupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.1227000000",
-    "longitude": "113.0010000000"
-  },
-  {
-    "location_id": "foshanshundesupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.8559000000",
-    "longitude": "113.0630000000"
-  },
-  {
-    "location_id": "foshanshundesupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.7407000000",
-    "longitude": "113.1880000000"
-  },
-  {
-    "location_id": "foshanshundesupercharger3",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.8218000000",
-    "longitude": "113.2730000000"
-  },
-  {
-    "location_id": "zhongshansupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.6102000000",
-    "longitude": "113.2830000000"
-  },
-  {
-    "location_id": "zhongshansupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.4872000000",
-    "longitude": "113.2540000000"
-  },
-  {
-    "location_id": "zhongshansupercharger3",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.3507000000",
-    "longitude": "113.3390000000"
-  },
-  {
-    "location_id": "zhongshansupercharger4",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.6533000000",
-    "longitude": "113.4240000000"
-  },
-  {
-    "location_id": "jiangmenxinhuisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.4529000000",
-    "longitude": "113.0510000000"
-  },
-  {
-    "location_id": "jiangmenkaipingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.4066000000",
-    "longitude": "112.7390000000"
-  },
-  {
-    "location_id": "jiangmenheshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.5988000000",
-    "longitude": "112.9490000000"
-  },
-  {
-    "location_id": "huizhouhuidongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.9508000000",
-    "longitude": "114.7850000000"
-  },
-  {
-    "location_id": "huizhouhuiyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.7825000000",
-    "longitude": "114.5680000000"
-  },
-  {
-    "location_id": "huizhouhuichengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.1631000000",
-    "longitude": "114.3950000000"
-  },
-  {
-    "location_id": "guangzhouhuadusupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.4242000000",
-    "longitude": "113.1220000000"
-  },
-  {
-    "location_id": "guangzhoubaiyunsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.3290000000",
-    "longitude": "113.3700000000"
-  },
-  {
-    "location_id": "guangzhouhuadusupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.2590000000",
-    "longitude": "113.0710000000"
-  },
-  {
-    "location_id": "deyangjingyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.1405000000",
-    "longitude": "104.3890000000"
-  },
-  {
-    "location_id": "meishandongposupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.0453000000",
-    "longitude": "103.8190000000"
-  },
-  {
-    "location_id": "chongqingyuzhongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.5416000000",
-    "longitude": "106.5200000000"
-  },
-  {
-    "location_id": "chongqingnanansupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.5157000000",
-    "longitude": "106.6560000000"
-  },
-  {
-    "location_id": "chongqingshapingbasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.5416000000",
-    "longitude": "106.4640000000"
-  },
-  {
-    "location_id": "chongqingyubeisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.7184000000",
-    "longitude": "106.5900000000"
-  },
-  {
-    "location_id": "zigongziliujingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.3307000000",
-    "longitude": "104.7830000000"
-  },
-  {
-    "location_id": "chongqingnanansupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.5870000000",
-    "longitude": "106.5940000000"
-  },
-  {
-    "location_id": "chongqingbanansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.3921000000",
-    "longitude": "106.5420000000"
-  },
-  {
-    "location_id": "chengdupidusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.8179000000",
-    "longitude": "103.8810000000"
-  },
-  {
-    "location_id": "chongqingdadukousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.4751000000",
-    "longitude": "106.4770000000"
-  },
-  {
-    "location_id": "chengdushuangliusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.5711000000",
-    "longitude": "103.9010000000"
-  },
-  {
-    "location_id": "chongqingbeibeisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.8092000000",
-    "longitude": "106.4000000000"
-  },
-  {
-    "location_id": "chongqingjiulongposupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.5183000000",
-    "longitude": "106.5180000000"
-  },
-  {
-    "location_id": "abawenchuansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.4796000000",
-    "longitude": "103.5800000000"
-  },
-  {
-    "location_id": "chongqingqianjiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.5193000000",
-    "longitude": "108.7730000000"
-  },
-  {
-    "location_id": "abamaerkangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.8962000000",
-    "longitude": "102.2170000000"
-  },
-  {
-    "location_id": "bijieqixingguansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.2872000000",
-    "longitude": "105.3640000000"
-  },
-  {
-    "location_id": "qiannanbuyeiandmiaoautonomousprefectureduyunsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.2474000000",
-    "longitude": "107.5040000000"
-  },
-  {
-    "location_id": "tongrenbijiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.7208000000",
-    "longitude": "109.2100000000"
-  },
-  {
-    "location_id": "qiannanbuyeiandmiaoautonomousprefecturexingyisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.1126000000",
-    "longitude": "104.9220000000"
-  },
-  {
-    "location_id": "yuxihongtasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "24.3363000000",
-    "longitude": "102.5110000000"
-  },
-  {
-    "location_id": "yichunyuanzhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.7516000000",
-    "longitude": "114.4010000000"
-  },
-  {
-    "location_id": "puersimaosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.8137000000",
-    "longitude": "100.9780000000"
-  },
-  {
-    "location_id": "jianqingyuansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.0591000000",
-    "longitude": "115.0270000000"
-  },
-  {
-    "location_id": "baoshanlongyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.0556000000",
-    "longitude": "99.1774000000"
-  },
-  {
-    "location_id": "honghesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.4706000000",
-    "longitude": "103.3240000000"
-  },
-  {
-    "location_id": "chuxiongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.0541000000",
-    "longitude": "101.4810000000"
-  },
-  {
-    "location_id": "changdumangkangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.6881000000",
-    "longitude": "98.6078000000"
-  },
-  {
-    "location_id": "litangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.9853000000",
-    "longitude": "100.2850000000"
-  },
-  {
-    "location_id": "ziyangyanjiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.0691000000",
-    "longitude": "104.6120000000"
-  },
-  {
-    "location_id": "chengduchongzhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.6403000000",
-    "longitude": "103.6940000000"
-  },
-  {
-    "location_id": "chengduqingbaijiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.8728000000",
-    "longitude": "104.2190000000"
-  },
-  {
-    "location_id": "chengdujianyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.4155000000",
-    "longitude": "104.5480000000"
-  },
-  {
-    "location_id": "chengduxinjinsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.4068000000",
-    "longitude": "103.8110000000"
-  },
-  {
-    "location_id": "chengdudayisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.5762000000",
-    "longitude": "103.5260000000"
-  },
-  {
-    "location_id": "lhasaduilongdeqingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.5639000000",
-    "longitude": "91.1536000000"
-  },
-  {
-    "location_id": "beihaiyinhaisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "21.5348000000",
-    "longitude": "109.2260000000"
-  },
-  {
-    "location_id": "liupanshuizhongshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.5394000000",
-    "longitude": "104.8860000000"
-  },
-  {
-    "location_id": "kunmingwuhuasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.0732000000",
-    "longitude": "102.6600000000"
-  },
-  {
-    "location_id": "guiyangbaiyunsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.6775000000",
-    "longitude": "106.6420000000"
-  },
-  {
-    "location_id": "guiyangwudangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.6398000000",
-    "longitude": "106.7610000000"
-  },
-  {
-    "location_id": "nanningxixiangtangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.8300000000",
-    "longitude": "108.2390000000"
-  },
-  {
-    "location_id": "nanningliangqingsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "22.7268000000",
-    "longitude": "108.3660000000"
-  },
-  {
-    "location_id": "guiyanghuaxisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.4183000000",
-    "longitude": "106.6720000000"
-  },
-  {
-    "location_id": "nanchangqingyunpusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.6364000000",
-    "longitude": "115.9200000000"
-  },
-  {
-    "location_id": "nanchangqingshanlatesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.7050000000",
-    "longitude": "116.0090000000"
-  },
-  {
-    "location_id": "puyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.7287000000",
-    "longitude": "115.0490000000"
-  },
-  {
-    "location_id": "shangqiusuiyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.4069000000",
-    "longitude": "115.6750000000"
-  },
-  {
-    "location_id": "anyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.0846000000",
-    "longitude": "114.4340000000"
-  },
-  {
-    "location_id": "lousisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.6738000000",
-    "longitude": "112.0000000000"
-  },
-  {
-    "location_id": "yiyangheshansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.5363000000",
-    "longitude": "112.3240000000"
-  },
-  {
-    "location_id": "wuhanwuchangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.5126000000",
-    "longitude": "114.2960000000"
-  },
-  {
-    "location_id": "kaifengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.7597000000",
-    "longitude": "114.3460000000"
-  },
-  {
-    "location_id": "luoyangluolongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.5790000000",
-    "longitude": "112.4780000000"
-  },
-  {
-    "location_id": "nanyangwanchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.9441000000",
-    "longitude": "112.5770000000"
-  },
-  {
-    "location_id": "wuhandongxihusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.6201000000",
-    "longitude": "114.1360000000"
-  },
-  {
-    "location_id": "wuhanjiangansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.6689000000",
-    "longitude": "114.3490000000"
-  },
-  {
-    "location_id": "changshayuhuasupercharger1",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.1652000000",
-    "longitude": "113.0050000000"
-  },
-  {
-    "location_id": "changshakaifusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.2354000000",
-    "longitude": "113.0360000000"
-  },
-  {
-    "location_id": "changshayuhuasupercharger2",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.1606000000",
-    "longitude": "113.0440000000"
-  },
-  {
-    "location_id": "zhengzhouguanchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.6915000000",
-    "longitude": "113.6860000000"
-  },
-  {
-    "location_id": "zhengzhouhzhongyuansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.7388000000",
-    "longitude": "113.5450000000"
-  },
-  {
-    "location_id": "jiaozuzojiefangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.2344000000",
-    "longitude": "113.2160000000"
-  },
-  {
-    "location_id": "xinxianghongqisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.2989000000",
-    "longitude": "113.9210000000"
-  },
-  {
-    "location_id": "pingdingshanweidongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.7326000000",
-    "longitude": "113.3280000000"
-  },
-  {
-    "location_id": "xiangyangfanchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.0640000000",
-    "longitude": "112.1590000000"
-  },
-  {
-    "location_id": "xiaoganxiaonansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.9617000000",
-    "longitude": "113.9300000000"
-  },
-  {
-    "location_id": "jingzhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.3711000000",
-    "longitude": "112.2320000000"
-  },
-  {
-    "location_id": "huangganghuangzhousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.4948000000",
-    "longitude": "114.8960000000"
-  },
-  {
-    "location_id": "zhengzhouzhongmousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.7241000000",
-    "longitude": "113.9540000000"
-  },
-  {
-    "location_id": "zhengzhouxinzhengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.3848000000",
-    "longitude": "113.7410000000"
-  },
-  {
-    "location_id": "jingmenduodaosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.0012000000",
-    "longitude": "112.2230000000"
-  },
-  {
-    "location_id": "huangshidazhisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.1534000000",
-    "longitude": "115.0040000000"
-  },
-  {
-    "location_id": "wuhanhanyangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.5744000000",
-    "longitude": "114.1890000000"
-  },
-  {
-    "location_id": "yueyangyueyanglousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "29.3900000000",
-    "longitude": "113.1280000000"
-  },
-  {
-    "location_id": "xiangtanyuetangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.8239000000",
-    "longitude": "112.9310000000"
-  },
-  {
-    "location_id": "xiangxitujiaandmiaoautonomousprefecturejishousupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.2868000000",
-    "longitude": "109.7090000000"
-  },
-  {
-    "location_id": "hebishanchengsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.8978000000",
-    "longitude": "114.1800000000"
-  },
-  {
-    "location_id": "anyangyindusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.1251000000",
-    "longitude": "114.2570000000"
-  },
-  {
-    "location_id": "xinxiangchangyuansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.2142000000",
-    "longitude": "114.7250000000"
-  },
-  {
-    "location_id": "shaoyangshaodongsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.2693000000",
-    "longitude": "111.7390000000"
-  },
-  {
-    "location_id": "changshaningxiangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "28.2584000000",
-    "longitude": "112.5630000000"
-  },
-  {
-    "location_id": "wuhanjiangxiasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.3705000000",
-    "longitude": "114.3550000000"
-  },
-  {
     "location_id": "sydneychatswood",
     "location_type": [
       "store",
@@ -156109,16 +151989,6 @@
     "longitude": "11.4813792200"
   },
   {
-    "location_id": "OdenseSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "55.3868220600",
-    "longitude": "10.4254507000"
-  },
-  {
     "location_id": "RandersWestSupercharger",
     "location_type": [
       "supercharger",
@@ -156148,16 +152018,6 @@
     "open_soon": "0",
     "latitude": "48.0529838600",
     "longitude": "0.1663884100"
-  },
-  {
-    "location_id": "LyonEstFrancesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "45.5928810000",
-    "longitude": "5.2727710000"
   },
   {
     "location_id": "MetzSudfrsupercharger",
@@ -156200,16 +152060,6 @@
     "open_soon": "0",
     "latitude": "45.3271280000",
     "longitude": "4.8053940000"
-  },
-  {
-    "location_id": "ApfelstadtSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "50.8957700000",
-    "longitude": "10.9290100000"
   },
   {
     "location_id": "BedburgSupercharger",
@@ -156282,36 +152132,6 @@
     "longitude": "10.2086630000"
   },
   {
-    "location_id": "HerzliyaSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.1710280000",
-    "longitude": "34.8236410000"
-  },
-  {
-    "location_id": "JerusalemSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.8074820000",
-    "longitude": "35.2026810000"
-  },
-  {
-    "location_id": "KiryatGatSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.6126910000",
-    "longitude": "34.7612020000"
-  },
-  {
     "location_id": "Modiinilsupercharger",
     "location_type": [
       "supercharger",
@@ -156330,26 +152150,6 @@
     "open_soon": "0",
     "latitude": "44.4839395900",
     "longitude": "11.2684562400"
-  },
-  {
-    "location_id": "Mestreitsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "45.4729870000",
-    "longitude": "12.2123850000"
-  },
-  {
-    "location_id": "NapoliSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.9069799700",
-    "longitude": "14.2935475700"
   },
   {
     "location_id": "PalermoSupercharger",
@@ -156533,16 +152333,6 @@
     "longitude": "1.0577710000"
   },
   {
-    "location_id": "OviedoSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "43.3640760000",
-    "longitude": "-5.8500810000"
-  },
-  {
     "location_id": "ValenciaSouthessupercharger",
     "location_type": [
       "supercharger",
@@ -156569,8 +152359,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "60.1450873557",
-    "longitude": "16.1732454180"
+    "latitude": "60.1450873600",
+    "longitude": "16.1732454200"
   },
   {
     "location_id": "KarlskronaSupercharger",
@@ -156581,16 +152371,6 @@
     "open_soon": "1",
     "latitude": "56.2104190000",
     "longitude": "15.2770110000"
-  },
-  {
-    "location_id": "SodertaljeSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "59.1988770000",
-    "longitude": "17.6623070000"
   },
   {
     "location_id": "Uddevallasesupercharger",
@@ -156741,16 +152521,6 @@
     "open_soon": "0",
     "latitude": "46.6648760000",
     "longitude": "-92.4776850000"
-  },
-  {
-    "location_id": "CastleCreekNYSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "42.2276650000",
-    "longitude": "-75.9182450000"
   },
   {
     "location_id": "ChapelHillNCSupercharger",
@@ -157151,16 +152921,6 @@
     "open_soon": "1",
     "latitude": "27.9504990000",
     "longitude": "-82.4572340000"
-  },
-  {
-    "location_id": "tampafloridasupercharger4",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "27.9551170000",
-    "longitude": "-82.5056080000"
   },
   {
     "location_id": "WalterboroSCSupercharger",
@@ -159152,16 +154912,6 @@
     "longitude": "128.6606100000"
   },
   {
-    "location_id": "tainanyongkangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.0345798300",
-    "longitude": "120.2288711000"
-  },
-  {
     "location_id": "Salzgittersupercharger",
     "location_type": [
       "supercharger",
@@ -159192,16 +154942,6 @@
     "longitude": "9.3624050000"
   },
   {
-    "location_id": "Ammansupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.9832370000",
-    "longitude": "35.9054150000"
-  },
-  {
     "location_id": "CopenhagenNorthsupercharger",
     "location_type": [
       "supercharger",
@@ -159220,26 +154960,6 @@
     "open_soon": "1",
     "latitude": "67.2588390000",
     "longitude": "15.3918410000"
-  },
-  {
-    "location_id": "FrankfurtOstendsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "50.1229000000",
-    "longitude": "8.7258400000"
-  },
-  {
-    "location_id": "Gersthofensupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.4147600000",
-    "longitude": "10.8704100000"
   },
   {
     "location_id": "Glasewitzsupercharger",
@@ -159282,16 +155002,6 @@
     "longitude": "27.7367520000"
   },
   {
-    "location_id": "Keflaviksupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "63.9985210000",
-    "longitude": "-22.5882190000"
-  },
-  {
     "location_id": "Kielsupercharger",
     "location_type": [
       "supercharger",
@@ -159310,16 +155020,6 @@
     "open_soon": "1",
     "latitude": "52.3032700000",
     "longitude": "9.8513900000"
-  },
-  {
-    "location_id": "Lahtisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "60.9827830300",
-    "longitude": "25.6611767300"
   },
   {
     "location_id": "Limburgsupercharger",
@@ -159352,16 +155052,6 @@
     "longitude": "16.4308440000"
   },
   {
-    "location_id": "Palmasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "39.5674650000",
-    "longitude": "2.6480550000"
-  },
-  {
     "location_id": "Pellosupercharger",
     "location_type": [
       "supercharger",
@@ -159382,16 +155072,6 @@
     "longitude": "34.8798040000"
   },
   {
-    "location_id": "Skeesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "58.9142416451",
-    "longitude": "11.2640462063"
-  },
-  {
     "location_id": "Stenungsundsupercharger",
     "location_type": [
       "supercharger",
@@ -159400,16 +155080,6 @@
     "open_soon": "1",
     "latitude": "58.0660481700",
     "longitude": "11.8348474300"
-  },
-  {
-    "location_id": "Tamperesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "61.5008651416",
-    "longitude": "23.7603481591"
   },
   {
     "location_id": "Veldensupercharger",
@@ -162185,42 +157855,6 @@
     "longitude": "134.0049910000"
   },
   {
-    "location_id": "kumamotomobileservice",
-    "location_type": [
-      "service"
-    ],
-    "open_soon": "1",
-    "latitude": "32.7897200000",
-    "longitude": "130.7416700000"
-  },
-  {
-    "location_id": "naganomobileservice",
-    "location_type": [
-      "service"
-    ],
-    "open_soon": "1",
-    "latitude": "36.6513900000",
-    "longitude": "138.1811100000"
-  },
-  {
-    "location_id": "gunmamobileservice",
-    "location_type": [
-      "service"
-    ],
-    "open_soon": "1",
-    "latitude": "36.3911100000",
-    "longitude": "139.0608300000"
-  },
-  {
-    "location_id": "kyotomobileservice",
-    "location_type": [
-      "service"
-    ],
-    "open_soon": "1",
-    "latitude": "35.0213900000",
-    "longitude": "135.7555600000"
-  },
-  {
     "location_id": "taichungzhoujisupercharger",
     "location_type": [
       "supercharger",
@@ -162682,24 +158316,6 @@
     "open_soon": "0",
     "latitude": "37.5862930000",
     "longitude": "128.3226650000"
-  },
-  {
-    "location_id": "hokkaidojpmobileservice",
-    "location_type": [
-      "service"
-    ],
-    "open_soon": "1",
-    "latitude": "43.0641700000",
-    "longitude": "141.3469400000"
-  },
-  {
-    "location_id": "saitamajpmobileservice",
-    "location_type": [
-      "service"
-    ],
-    "open_soon": "1",
-    "latitude": "35.8569400000",
-    "longitude": "139.6488900000"
   },
   {
     "location_id": "yuchuisupercharger",
@@ -164185,16 +159801,6 @@
     "longitude": "55.4840900000"
   },
   {
-    "location_id": "DubaiMarinaaesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.1181908000",
-    "longitude": "55.2000957000"
-  },
-  {
     "location_id": "algecirassuperchargerq122",
     "location_type": [
       "supercharger",
@@ -164305,16 +159911,6 @@
     "longitude": "-97.8154330000"
   },
   {
-    "location_id": "AustinTXSupercharger12",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.2981360000",
-    "longitude": "-97.8023740000"
-  },
-  {
     "location_id": "AvenelNJSupercharger",
     "location_type": [
       "supercharger",
@@ -164333,16 +159929,6 @@
     "open_soon": "1",
     "latitude": "25.9564910000",
     "longitude": "-80.1391730000"
-  },
-  {
-    "location_id": "avignonsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "43.9538577100",
-    "longitude": "4.8048884020"
   },
   {
     "location_id": "AzusaCASupercharger",
@@ -164445,16 +160031,6 @@
     "longitude": "-84.0631142000"
   },
   {
-    "location_id": "BeeCaveTXSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "30.3060460000",
-    "longitude": "-97.9520120000"
-  },
-  {
     "location_id": "BeltsvilleMDSupercharger",
     "location_type": [
       "supercharger",
@@ -164505,7 +160081,7 @@
     "longitude": "0.1385450000"
   },
   {
-    "location_id": "bézierssuperchargerq122",
+    "location_id": "bezierssuperchargerq122",
     "location_type": [
       "supercharger",
       "standard charger"
@@ -164725,17 +160301,7 @@
     "longitude": "-86.1179143700"
   },
   {
-    "location_id": "CedarRapidsIASupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "41.9776650000",
-    "longitude": "-91.6658580000"
-  },
-  {
-    "location_id": "chalonsursaônesuperchargerq122",
+    "location_id": "chalonsursaonesuperchargerq122",
     "location_type": [
       "supercharger",
       "standard charger"
@@ -164765,16 +160331,6 @@
     "longitude": "-80.8430850000"
   },
   {
-    "location_id": "châtelleraultsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "46.8177446800",
-    "longitude": "0.5437515270"
-  },
-  {
     "location_id": "ChattanoogaTNSupercharger",
     "location_type": [
       "supercharger",
@@ -164783,16 +160339,6 @@
     "open_soon": "1",
     "latitude": "35.0457780000",
     "longitude": "-85.3094280000"
-  },
-  {
-    "location_id": "Cheongju Asupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.6743200000",
-    "longitude": "127.4832700000"
   },
   {
     "location_id": "chiayicoastsupercharger",
@@ -164865,16 +160411,6 @@
     "longitude": "8.0525973920"
   },
   {
-    "location_id": "clujnapocasuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "46.7699150000",
-    "longitude": "23.5799300000"
-  },
-  {
     "location_id": "CobourgONSupercharger",
     "location_type": [
       "supercharger",
@@ -164945,14 +160481,14 @@
     "longitude": "128.5933900000"
   },
   {
-    "location_id": "daegususeongsupercharger",
+    "location_id": "DaeguSuseongsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "35.8272600000",
-    "longitude": "128.6236900000"
+    "open_soon": "1",
+    "latitude": "35.8300800000",
+    "longitude": "128.6233100000"
   },
   {
     "location_id": "DartmouthMASupercharger",
@@ -164973,16 +160509,6 @@
     "open_soon": "1",
     "latitude": "33.7755840000",
     "longitude": "-84.2965080000"
-  },
-  {
-    "location_id": "denboschsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "51.6980210000",
-    "longitude": "5.1567510000"
   },
   {
     "location_id": "DentonTXSupercharger",
@@ -165146,16 +160672,6 @@
     "longitude": "-76.7634133200"
   },
   {
-    "location_id": "EllensburgWASupercharger22",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "46.9965400100",
-    "longitude": "-120.5479032000"
-  },
-  {
     "location_id": "ElyNVSupercharger",
     "location_type": [
       "supercharger",
@@ -165164,16 +160680,6 @@
     "open_soon": "1",
     "latitude": "39.2533765000",
     "longitude": "-114.8742038000"
-  },
-  {
-    "location_id": "emdensuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "53.3881200500",
-    "longitude": "7.2076990940"
   },
   {
     "location_id": "endseesuperchargerq122",
@@ -165446,7 +160952,7 @@
     "longitude": "126.8738300000"
   },
   {
-    "location_id": "grålumsuperchargerq122",
+    "location_id": "gralumsuperchargerq122",
     "location_type": [
       "supercharger",
       "standard charger"
@@ -165454,16 +160960,6 @@
     "open_soon": "1",
     "latitude": "59.2963190900",
     "longitude": "11.0675265400"
-  },
-  {
-    "location_id": "granthamsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "52.9484910000",
-    "longitude": "-0.6779630000"
   },
   {
     "location_id": "GreenvilleNCSupercharger",
@@ -165486,16 +160982,6 @@
     "longitude": "-92.7232760000"
   },
   {
-    "location_id": "groningensuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "53.1962650000",
-    "longitude": "6.5379120000"
-  },
-  {
     "location_id": "GuaynaboPRSupercharger",
     "location_type": [
       "supercharger",
@@ -165514,16 +161000,6 @@
     "open_soon": "1",
     "latitude": "51.2373750000",
     "longitude": "-0.5694820000"
-  },
-  {
-    "location_id": "Gumi Asupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.1266100000",
-    "longitude": "128.3367700000"
   },
   {
     "location_id": "Gunposupercharger",
@@ -165554,36 +161030,6 @@
     "open_soon": "0",
     "latitude": "37.2865600000",
     "longitude": "127.0559400000"
-  },
-  {
-    "location_id": "GwangjuEast (Jeolla)supercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.1176600000",
-    "longitude": "126.8986300000"
-  },
-  {
-    "location_id": "GwangjuWest (Jeolla)supercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.2177700000",
-    "longitude": "126.8460000000"
-  },
-  {
-    "location_id": "Gwangyang Asupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.9708700000",
-    "longitude": "127.5822600000"
   },
   {
     "location_id": "HallandaleBeachFLSupercharger",
@@ -165816,16 +161262,6 @@
     "longitude": "120.3412614000"
   },
   {
-    "location_id": "kärsämäkisuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "63.9828877100",
-    "longitude": "25.7575411900"
-  },
-  {
     "location_id": "KearneyNESupercharger",
     "location_type": [
       "supercharger",
@@ -165934,16 +161370,6 @@
     "open_soon": "1",
     "latitude": "38.9716350000",
     "longitude": "-95.2352900000"
-  },
-  {
-    "location_id": "leedswestsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "53.8013000000",
-    "longitude": "-1.5657000000"
   },
   {
     "location_id": "LeedsALSupercharger",
@@ -166096,16 +161522,6 @@
     "longitude": "-79.3379553500"
   },
   {
-    "location_id": "marrakeshsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.6271490000",
-    "longitude": "-8.0261800000"
-  },
-  {
     "location_id": "MechanicsvilleVASupercharger",
     "location_type": [
       "supercharger",
@@ -166144,16 +161560,6 @@
     "open_soon": "1",
     "latitude": "33.4151201300",
     "longitude": "-111.8314753000"
-  },
-  {
-    "location_id": "MillenGASupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "32.8043370000",
-    "longitude": "-81.9491130000"
   },
   {
     "location_id": "MindenONSupercharger",
@@ -166276,7 +161682,7 @@
     "longitude": "-80.6053810000"
   },
   {
-    "location_id": "münchennordsuperchargerq122",
+    "location_id": "munchennordsuperchargerq122",
     "location_type": [
       "supercharger",
       "standard charger"
@@ -166466,16 +161872,6 @@
     "longitude": "9.6912202850"
   },
   {
-    "location_id": "ørjesuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "59.4818617500",
-    "longitude": "11.6608207000"
-  },
-  {
     "location_id": "OrlandParkILSupercharger",
     "location_type": [
       "supercharger",
@@ -166486,7 +161882,7 @@
     "longitude": "-87.8538740000"
   },
   {
-    "location_id": "örnsköldsviksouthsuperchargerq122",
+    "location_id": "ornskoldsviksouthsuperchargerq122",
     "location_type": [
       "supercharger",
       "standard charger"
@@ -166636,16 +162032,6 @@
     "longitude": "129.3205550000"
   },
   {
-    "location_id": "poitierssudsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "46.5534419400",
-    "longitude": "0.2819093580"
-  },
-  {
     "location_id": "portawestfalicasuperchargerq122",
     "location_type": [
       "supercharger",
@@ -166694,16 +162080,6 @@
     "open_soon": "0",
     "latitude": "33.9912430000",
     "longitude": "-6.8368820000"
-  },
-  {
-    "location_id": "raulandsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "59.6945721800",
-    "longitude": "8.0645211850"
   },
   {
     "location_id": "ReadingPASupercharger",
@@ -166816,16 +162192,6 @@
     "longitude": "-72.6641570000"
   },
   {
-    "location_id": "roermondsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "51.2708720000",
-    "longitude": "6.0920320000"
-  },
-  {
     "location_id": "romfordsuperchargerq122",
     "location_type": [
       "supercharger",
@@ -166844,16 +162210,6 @@
     "open_soon": "1",
     "latitude": "51.5268260000",
     "longitude": "4.7441210000"
-  },
-  {
-    "location_id": "rüsselsheimsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "49.9793200000",
-    "longitude": "8.4158000000"
   },
   {
     "location_id": "RustonLASupercharger",
@@ -166894,26 +162250,6 @@
     "open_soon": "1",
     "latitude": "46.2550940900",
     "longitude": "-72.0094497200"
-  },
-  {
-    "location_id": "saintquentinsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "49.8470146500",
-    "longitude": "3.2882165910"
-  },
-  {
-    "location_id": "salaspilssuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "56.8514640000",
-    "longitude": "24.3357520000"
   },
   {
     "location_id": "SalisburyMDSupercharger",
@@ -167136,26 +162472,6 @@
     "longitude": "126.7271500000"
   },
   {
-    "location_id": "sinsheimsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "49.2410116200",
-    "longitude": "8.8887644030"
-  },
-  {
-    "location_id": "Sokcho Bsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "38.2038300000",
-    "longitude": "128.5468800000"
-  },
-  {
     "location_id": "soltausuperchargerq122",
     "location_type": [
       "supercharger",
@@ -167174,16 +162490,6 @@
     "open_soon": "1",
     "latitude": "39.2044500000",
     "longitude": "27.6217400000"
-  },
-  {
-    "location_id": "SongpaOlympic Parksupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "37.5176000000",
-    "longitude": "127.1129600000"
   },
   {
     "location_id": "SouthBarringtonILSupercharger",
@@ -167296,16 +162602,6 @@
     "longitude": "-90.1983389900"
   },
   {
-    "location_id": "steinkjersuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "64.0159237500",
-    "longitude": "11.4896356600"
-  },
-  {
     "location_id": "SunriseFLSupercharger",
     "location_type": [
       "supercharger",
@@ -167356,16 +162652,6 @@
     "longitude": "-3.9431500000"
   },
   {
-    "location_id": "swindonsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "51.5565277500",
-    "longitude": "-1.7806339600"
-  },
-  {
     "location_id": "SyossetNYSupercharger",
     "location_type": [
       "supercharger",
@@ -167394,16 +162680,6 @@
     "open_soon": "1",
     "latitude": "24.1630768600",
     "longitude": "120.7193467000"
-  },
-  {
-    "location_id": "Taipeisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.0513761300",
-    "longitude": "121.5706554000"
   },
   {
     "location_id": "TaipeiDazhisupercharger",
@@ -167476,16 +162752,6 @@
     "longitude": "-123.8439388000"
   },
   {
-    "location_id": "todhillsmotosouthbound superchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "54.9519920000",
-    "longitude": "-2.9787170000"
-  },
-  {
     "location_id": "tonghamsuperchargerq122",
     "location_type": [
       "supercharger",
@@ -167514,16 +162780,6 @@
     "open_soon": "1",
     "latitude": "46.5634675200",
     "longitude": "4.9112756120"
-  },
-  {
-    "location_id": "tours sudsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "47.3310567000",
-    "longitude": "0.6833811830"
   },
   {
     "location_id": "TrentonONSupercharger",
@@ -167556,26 +162812,6 @@
     "longitude": "-117.8236498000"
   },
   {
-    "location_id": "Ulsan Asupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.5613100000",
-    "longitude": "129.3614800000"
-  },
-  {
-    "location_id": "unterföhringsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.1906646800",
-    "longitude": "11.6469390800"
-  },
-  {
     "location_id": "UrbanaILSupercharger",
     "location_type": [
       "supercharger",
@@ -167584,16 +162820,6 @@
     "open_soon": "1",
     "latitude": "40.1106160000",
     "longitude": "-88.2088800000"
-  },
-  {
-    "location_id": "utrechtsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "52.0973190000",
-    "longitude": "5.0678310000"
   },
   {
     "location_id": "VallejoCASupercharger",
@@ -167676,16 +162902,6 @@
     "longitude": "2.2315323170"
   },
   {
-    "location_id": "vinstra2superchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "61.5930826800",
-    "longitude": "9.7240277110"
-  },
-  {
     "location_id": "VistaCASupercharger",
     "location_type": [
       "supercharger",
@@ -167764,16 +162980,6 @@
     "open_soon": "1",
     "latitude": "41.5864840000",
     "longitude": "-84.4348370000"
-  },
-  {
-    "location_id": "wetzlarsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "50.5709248000",
-    "longitude": "8.5465334850"
   },
   {
     "location_id": "WhartonTXSupercharger",
@@ -167874,16 +163080,6 @@
     "open_soon": "1",
     "latitude": "34.1143634000",
     "longitude": "-116.4315796000"
-  },
-  {
-    "location_id": "žirovnicasuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "46.4033601300",
-    "longitude": "14.1550567600"
   },
   {
     "location_id": "zoetermeersuperchargerq122",
@@ -168541,16 +163737,6 @@
     "longitude": "9.1092290000"
   },
   {
-    "location_id": "singaporewoodlandssupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "1.4263303234",
-    "longitude": "103.7863950710"
-  },
-  {
     "location_id": "bauernmarktsupercharger",
     "location_type": [
       "supercharger",
@@ -168863,6 +164049,1776 @@
     "open_soon": "0",
     "latitude": "30.1495600000",
     "longitude": "-85.7469300000"
+  },
+  {
+    "location_id": "CheongjuAsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.6743200000",
+    "longitude": "127.4832700000"
+  },
+  {
+    "location_id": "GumiAsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.1266100000",
+    "longitude": "128.3367700000"
+  },
+  {
+    "location_id": "GwangjuEastJeollasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.1176600000",
+    "longitude": "126.8986300000"
+  },
+  {
+    "location_id": "GwangjuWestJeollasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.2177700000",
+    "longitude": "126.8460000000"
+  },
+  {
+    "location_id": "GwangyangAsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "34.9708700000",
+    "longitude": "127.5822600000"
+  },
+  {
+    "location_id": "SokchoBsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.2038300000",
+    "longitude": "128.5468800000"
+  },
+  {
+    "location_id": "SongpaOlympicParksupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.5176000000",
+    "longitude": "127.1129600000"
+  },
+  {
+    "location_id": "UlsanAsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "35.5613100000",
+    "longitude": "129.3614800000"
+  },
+  {
+    "location_id": "Ratzendorfq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.6823780000",
+    "longitude": "14.3361330000"
+  },
+  {
+    "location_id": "Feldkirchq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.2794850000",
+    "longitude": "9.6229520000"
+  },
+  {
+    "location_id": "Weblingq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.0329920000",
+    "longitude": "15.4118350000"
+  },
+  {
+    "location_id": "Karröstenq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.2177800000",
+    "longitude": "10.7502680000"
+  },
+  {
+    "location_id": "Waterlooq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.7097079000",
+    "longitude": "4.4082803000"
+  },
+  {
+    "location_id": "Charleroiq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.4530060000",
+    "longitude": "4.4322810000"
+  },
+  {
+    "location_id": "Hasseltq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.9545646000",
+    "longitude": "5.3541512000"
+  },
+  {
+    "location_id": "Ghentq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.0191887000",
+    "longitude": "3.7352357000"
+  },
+  {
+    "location_id": "LavauxSainteAnneq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.0133085000",
+    "longitude": "5.2267825000"
+  },
+  {
+    "location_id": "Monsq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.4555429000",
+    "longitude": "3.9393906000"
+  },
+  {
+    "location_id": "Schmiedeq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.2895015000",
+    "longitude": "6.0985787000"
+  },
+  {
+    "location_id": "Beverenq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.1542622000",
+    "longitude": "4.1585988000"
+  },
+  {
+    "location_id": "CopenhagenSouthKastrupq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "55.6703153000",
+    "longitude": "12.5244680000"
+  },
+  {
+    "location_id": "Fredrikshavnq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "57.4376490000",
+    "longitude": "10.5379777000"
+  },
+  {
+    "location_id": "mikkeliq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "61.6887107000",
+    "longitude": "27.2807686000"
+  },
+  {
+    "location_id": "Karsamakiq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "63.9742700000",
+    "longitude": "25.7598218000"
+  },
+  {
+    "location_id": "Albertvilleq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.6556387500",
+    "longitude": "6.3665945950"
+  },
+  {
+    "location_id": "Avignonq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.9511824000",
+    "longitude": "4.8063967000"
+  },
+  {
+    "location_id": "BordeauxNordq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.8849491800",
+    "longitude": "-0.5615132510"
+  },
+  {
+    "location_id": "Brestq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.4475359000",
+    "longitude": "-4.4588716000"
+  },
+  {
+    "location_id": "Bronq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.7178933000",
+    "longitude": "4.9267510000"
+  },
+  {
+    "location_id": "Carcassonneq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.2026108800",
+    "longitude": "2.3143448510"
+  },
+  {
+    "location_id": "Cessonq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.6077461600",
+    "longitude": "2.5811245590"
+  },
+  {
+    "location_id": "ChalonsenChampagneq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.9759218600",
+    "longitude": "4.2911391850"
+  },
+  {
+    "location_id": "Chatelleraultq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.8164870000",
+    "longitude": "0.5481460000"
+  },
+  {
+    "location_id": "evryCourcouronnesq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.6317630000",
+    "longitude": "2.4070820000"
+  },
+  {
+    "location_id": "Letouquetq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.5186008000",
+    "longitude": "1.5949771260"
+  },
+  {
+    "location_id": "MarseilleLaValentineq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.2927630700",
+    "longitude": "5.4770840850"
+  },
+  {
+    "location_id": "Megeveq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.8570696700",
+    "longitude": "6.6178257770"
+  },
+  {
+    "location_id": "NeuvilleenFerrainq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.7423212100",
+    "longitude": "3.1432949540"
+  },
+  {
+    "location_id": "Neversq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.9908227200",
+    "longitude": "3.1622563360"
+  },
+  {
+    "location_id": "NoyellesGodaultq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.4144044400",
+    "longitude": "2.9850012280"
+  },
+  {
+    "location_id": "ParisEastq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.8325051500",
+    "longitude": "2.7828217380"
+  },
+  {
+    "location_id": "PoitiersSudq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.5357090000",
+    "longitude": "0.2871220000"
+  },
+  {
+    "location_id": "Riomq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.8958228200",
+    "longitude": "3.1405507410"
+  },
+  {
+    "location_id": "Saintes2q222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.7546885000",
+    "longitude": "-0.6558178600"
+  },
+  {
+    "location_id": "SaintQuentinq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.8412719000",
+    "longitude": "3.2704230000"
+  },
+  {
+    "location_id": "StrasbourgNordq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.6223682500",
+    "longitude": "7.7263031490"
+  },
+  {
+    "location_id": "tourssudsuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.3310567000",
+    "longitude": "0.6833811830"
+  },
+  {
+    "location_id": "Leerq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.2593118000",
+    "longitude": "7.4328983000"
+  },
+  {
+    "location_id": "Koblenzq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.3399594000",
+    "longitude": "7.4406318000"
+  },
+  {
+    "location_id": "Russelsheimq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.0379326000",
+    "longitude": "8.5621518000"
+  },
+  {
+    "location_id": "Sinsheimq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.2360754000",
+    "longitude": "8.8800992000"
+  },
+  {
+    "location_id": "Olchingq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.2207559000",
+    "longitude": "11.3334581000"
+  },
+  {
+    "location_id": "Bielefeldq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.9968370000",
+    "longitude": "8.6157806000"
+  },
+  {
+    "location_id": "Solingenq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.1306334000",
+    "longitude": "6.9968661000"
+  },
+  {
+    "location_id": "Lindauq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.5652152400",
+    "longitude": "9.7375139670"
+  },
+  {
+    "location_id": "Weiterstadtq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.8904904000",
+    "longitude": "8.6073475000"
+  },
+  {
+    "location_id": "Hemsbachq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.5940174000",
+    "longitude": "8.6323076000"
+  },
+  {
+    "location_id": "Wetzlarq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.5572283300",
+    "longitude": "8.5649642240"
+  },
+  {
+    "location_id": "Hattersheimq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.0724298000",
+    "longitude": "8.4769670000"
+  },
+  {
+    "location_id": "Thiersheimq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.0609623000",
+    "longitude": "12.1077389000"
+  },
+  {
+    "location_id": "Viernheimq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.5266150000",
+    "longitude": "8.5638397000"
+  },
+  {
+    "location_id": "BispingenBehringenq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.1048455000",
+    "longitude": "9.9795166000"
+  },
+  {
+    "location_id": "Unterfohringq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.1851543000",
+    "longitude": "11.6438804000"
+  },
+  {
+    "location_id": "Braunschweigq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.2427145000",
+    "longitude": "10.5123111000"
+  },
+  {
+    "location_id": "HalleTornauq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.5447310000",
+    "longitude": "12.0140235000"
+  },
+  {
+    "location_id": "Kaiserslauternq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.4403397000",
+    "longitude": "7.7018010000"
+  },
+  {
+    "location_id": "KolnMarsdorfq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.9233099000",
+    "longitude": "6.8503398000"
+  },
+  {
+    "location_id": "Maintalq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.1305526000",
+    "longitude": "8.8668853000"
+  },
+  {
+    "location_id": "Neumarktq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.3126000000",
+    "longitude": "11.4713758000"
+  },
+  {
+    "location_id": "Plattlingq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.7892053000",
+    "longitude": "12.8985373000"
+  },
+  {
+    "location_id": "Schwandorfq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.3135644000",
+    "longitude": "12.1445587000"
+  },
+  {
+    "location_id": "SoltauOstq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.0013920000",
+    "longitude": "9.9309390000"
+  },
+  {
+    "location_id": "Lorrachq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.6190275800",
+    "longitude": "7.5816641900"
+  },
+  {
+    "location_id": "Ladbergenq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.1466420000",
+    "longitude": "7.7376870000"
+  },
+  {
+    "location_id": "NossenSiebenlehnq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.0572752000",
+    "longitude": "13.5314402000"
+  },
+  {
+    "location_id": "Herbornq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.6750563000",
+    "longitude": "8.2799665000"
+  },
+  {
+    "location_id": "Nottulnq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.9112143000",
+    "longitude": "7.3987537000"
+  },
+  {
+    "location_id": "BerlinAlexaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.5197380000",
+    "longitude": "13.4161851000"
+  },
+  {
+    "location_id": "Schonefeldq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.4000787000",
+    "longitude": "13.5459580000"
+  },
+  {
+    "location_id": "Neuruppinq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.9045490600",
+    "longitude": "12.7384221800"
+  },
+  {
+    "location_id": "MunchenChiemgaustraßeq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "48.0965410000",
+    "longitude": "11.6042884000"
+  },
+  {
+    "location_id": "Emstekq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.8138060000",
+    "longitude": "8.1935454000"
+  },
+  {
+    "location_id": "Kirchheimq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.8347454000",
+    "longitude": "9.5733653000"
+  },
+  {
+    "location_id": "Lohfeldenq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.2722440000",
+    "longitude": "9.5510030000"
+  },
+  {
+    "location_id": "AtalantiWestq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.9838096000",
+    "longitude": "23.7275388000"
+  },
+  {
+    "location_id": "LarissaSouthq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.6327432000",
+    "longitude": "22.4347457000"
+  },
+  {
+    "location_id": "NorthDublinq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.4018994000",
+    "longitude": "-6.2604334000"
+  },
+  {
+    "location_id": "KiryatGatq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "31.6111480000",
+    "longitude": "34.7684590000"
+  },
+  {
+    "location_id": "Ashdodq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "31.8849393000",
+    "longitude": "34.7395075000"
+  },
+  {
+    "location_id": "Jerusalemq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "31.7657333000",
+    "longitude": "35.1986546000"
+  },
+  {
+    "location_id": "MilanoNorthq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.5529868000",
+    "longitude": "9.2390668000"
+  },
+  {
+    "location_id": "MilanoUrbanq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.4766751000",
+    "longitude": "9.1602850000"
+  },
+  {
+    "location_id": "RomaNorthq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.9718817000",
+    "longitude": "12.5402013000"
+  },
+  {
+    "location_id": "SerravalleScriviaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.7350358000",
+    "longitude": "8.8369741000"
+  },
+  {
+    "location_id": "Riminiq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.0398216000",
+    "longitude": "12.5866426000"
+  },
+  {
+    "location_id": "Piacenza2q222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.0704356000",
+    "longitude": "9.7294534000"
+  },
+  {
+    "location_id": "PadovaNorthq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.4537974000",
+    "longitude": "11.8567569000"
+  },
+  {
+    "location_id": "Mestreq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.5105568000",
+    "longitude": "12.2274309000"
+  },
+  {
+    "location_id": "Cagliari2q222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.2643794000",
+    "longitude": "9.1011555000"
+  },
+  {
+    "location_id": "NapoliNorthq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.9335390000",
+    "longitude": "14.3589143000"
+  },
+  {
+    "location_id": "BarberinodelMugelloq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.5080817000",
+    "longitude": "9.2398761000"
+  },
+  {
+    "location_id": "RomaUrbanq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.9020474000",
+    "longitude": "12.4382373000"
+  },
+  {
+    "location_id": "Vicolungoq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "45.4675771000",
+    "longitude": "8.4614738000"
+  },
+  {
+    "location_id": "Salernoq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.6798859000",
+    "longitude": "14.7600469000"
+  },
+  {
+    "location_id": "Sarzanaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.1164443000",
+    "longitude": "9.9478611000"
+  },
+  {
+    "location_id": "Mondovìq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.4193038000",
+    "longitude": "7.8532058000"
+  },
+  {
+    "location_id": "VadoLigureq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "44.2649548000",
+    "longitude": "8.4252229000"
+  },
+  {
+    "location_id": "Ammanq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "31.9505472000",
+    "longitude": "35.9406424000"
+  },
+  {
+    "location_id": "LuxembourgUrbanq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.6445359000",
+    "longitude": "6.2699157000"
+  },
+  {
+    "location_id": "LuxembourgUrban2q222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "49.5823768000",
+    "longitude": "6.1243062000"
+  },
+  {
+    "location_id": "GroningenHoogkerkq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.1881168000",
+    "longitude": "6.5306618000"
+  },
+  {
+    "location_id": "Heerlenq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.8922662000",
+    "longitude": "5.9553693000"
+  },
+  {
+    "location_id": "Nootdorpq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.0523962000",
+    "longitude": "4.4014273000"
+  },
+  {
+    "location_id": "Nulandq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.7205459000",
+    "longitude": "5.4379781000"
+  },
+  {
+    "location_id": "The Wallq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.1097713000",
+    "longitude": "5.0493413000"
+  },
+  {
+    "location_id": "Harderwijkq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.3350389000",
+    "longitude": "5.6423463000"
+  },
+  {
+    "location_id": "ElverumWestq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "60.8876300000",
+    "longitude": "11.5155620000"
+  },
+  {
+    "location_id": "Hemsedalq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "60.8626924000",
+    "longitude": "8.5554960000"
+  },
+  {
+    "location_id": "Narvikq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "68.4372318000",
+    "longitude": "17.4263908000"
+  },
+  {
+    "location_id": "orjeq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "59.4810920000",
+    "longitude": "11.6637650000"
+  },
+  {
+    "location_id": "Arendalq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "58.4673080000",
+    "longitude": "8.7219670000"
+  },
+  {
+    "location_id": "VinstraNorthq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "61.5940426000",
+    "longitude": "9.7271640000"
+  },
+  {
+    "location_id": "Nesbyenq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "60.5698410000",
+    "longitude": "9.1065430000"
+  },
+  {
+    "location_id": "Steinkjerq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "64.0191426000",
+    "longitude": "11.4918889000"
+  },
+  {
+    "location_id": "Innlandsportenq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "60.6337014000",
+    "longitude": "11.3017102000"
+  },
+  {
+    "location_id": "WarsawRadzyminskaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.3017924000",
+    "longitude": "21.0884895000"
+  },
+  {
+    "location_id": "Koszalinq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "54.1862736000",
+    "longitude": "16.1531101000"
+  },
+  {
+    "location_id": "Szczecinq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.3782505000",
+    "longitude": "14.6909712000"
+  },
+  {
+    "location_id": "zirovnicaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.4068639000",
+    "longitude": "14.1319644000"
+  },
+  {
+    "location_id": "BarcelonaNortheastBadalonaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.4433376000",
+    "longitude": "2.2298985000"
+  },
+  {
+    "location_id": "Mallorcaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.6329860000",
+    "longitude": "2.7333440000"
+  },
+  {
+    "location_id": "Oviedoq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "43.3891190000",
+    "longitude": "-5.8037240000"
+  },
+  {
+    "location_id": "Sallentq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.7893860000",
+    "longitude": "1.8978070000"
+  },
+  {
+    "location_id": "SanJavierSanPedrodelPinatarq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.8229260000",
+    "longitude": "-0.8103410000"
+  },
+  {
+    "location_id": "Antequeraq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.1127850000",
+    "longitude": "-4.5668320000"
+  },
+  {
+    "location_id": "SevillaEastq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.4401870000",
+    "longitude": "-5.8856740000"
+  },
+  {
+    "location_id": "Jaenq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "37.7926483000",
+    "longitude": "-3.7724628000"
+  },
+  {
+    "location_id": "GavleWestq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "60.6537102000",
+    "longitude": "17.1122896000"
+  },
+  {
+    "location_id": "Lyckseleq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "64.5914490000",
+    "longitude": "18.6903745000"
+  },
+  {
+    "location_id": "Piteaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "65.3204053000",
+    "longitude": "21.4269061000"
+  },
+  {
+    "location_id": "MoraNorthq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "61.0081637000",
+    "longitude": "14.5424338000"
+  },
+  {
+    "location_id": "Ronnebyq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "56.2314890000",
+    "longitude": "15.2576310000"
+  },
+  {
+    "location_id": "Gaddedetatortq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "64.5065610200",
+    "longitude": "14.1444190000"
+  },
+  {
+    "location_id": "overtorneatatortq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "66.3933889000",
+    "longitude": "23.5855145000"
+  },
+  {
+    "location_id": "Malatatortq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "66.3821502000",
+    "longitude": "23.6494794500"
+  },
+  {
+    "location_id": "FagerstaLudvikaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "59.9783683000",
+    "longitude": "15.7992321000"
+  },
+  {
+    "location_id": "SundsvallNorthq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "62.4411170000",
+    "longitude": "17.3382820000"
+  },
+  {
+    "location_id": "BernWestsideq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.9437941000",
+    "longitude": "7.3668223000"
+  },
+  {
+    "location_id": "WallisellenGlattzentrumq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "47.4084666000",
+    "longitude": "8.5960524000"
+  },
+  {
+    "location_id": "Minusioq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.1790980000",
+    "longitude": "8.8416050000"
+  },
+  {
+    "location_id": "Edirneq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.6809020000",
+    "longitude": "26.5817210000"
+  },
+  {
+    "location_id": "Herzliyaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "32.1679058000",
+    "longitude": "34.8240441000"
+  },
+  {
+    "location_id": "Istanbulq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.0033630000",
+    "longitude": "29.0711600000"
+  },
+  {
+    "location_id": "Istanbul2q222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.1052989000",
+    "longitude": "28.9862025000"
+  },
+  {
+    "location_id": "Fujairahq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "25.1417571000",
+    "longitude": "56.3355581000"
+  },
+  {
+    "location_id": "Ruwaisq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "24.0759757000",
+    "longitude": "52.6717263000"
+  },
+  {
+    "location_id": "AlWarqaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "25.2048493000",
+    "longitude": "55.2707828000"
+  },
+  {
+    "location_id": "BirchEastboundq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.5717278000",
+    "longitude": "-2.2192584000"
+  },
+  {
+    "location_id": "BirchWestboundq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.5672256000",
+    "longitude": "-2.2309431000"
+  },
+  {
+    "location_id": "GlasgowServiceCentreq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "55.8680026000",
+    "longitude": "-4.2389608000"
+  },
+  {
+    "location_id": "ReadingserviceCenterq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.4393997000",
+    "longitude": "-0.9681182000"
+  },
+  {
+    "location_id": "BrightonStationq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.8384889000",
+    "longitude": "-0.1472018000"
+  },
+  {
+    "location_id": "LondonWimbledonq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.4221294000",
+    "longitude": "-0.2030595000"
+  },
+  {
+    "location_id": "Ferndownq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.8204165000",
+    "longitude": "-1.9031264000"
+  },
+  {
+    "location_id": "CoventryjuddsLaneq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.4497935000",
+    "longitude": "-1.4960219000"
+  },
+  {
+    "location_id": "Newarkq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.0816650000",
+    "longitude": "-0.8050072000"
+  },
+  {
+    "location_id": "MerryHillq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.5080726000",
+    "longitude": "-2.0797755000"
+  },
+  {
+    "location_id": "Sheffieldq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "53.4127174000",
+    "longitude": "-1.4074516000"
+  },
+  {
+    "location_id": "Newportq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.6009700000",
+    "longitude": "-2.9286358000"
+  },
+  {
+    "location_id": "Swanseaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.6237893000",
+    "longitude": "-3.9420217000"
+  },
+  {
+    "location_id": "Broraq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "58.0120187000",
+    "longitude": "-3.8463346000"
+  },
+  {
+    "location_id": "Watfordq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.6595305000",
+    "longitude": "-0.4015431000"
+  },
+  {
+    "location_id": "Dorkingq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.2439022000",
+    "longitude": "-0.3248314000"
+  },
+  {
+    "location_id": "Northamptonq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "52.2443944000",
+    "longitude": "-0.8345401000"
+  },
+  {
+    "location_id": "Swindonq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.5665136000",
+    "longitude": "-1.7977776000"
+  },
+  {
+    "location_id": "Carmarthenq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.8586177000",
+    "longitude": "-4.3092446000"
+  },
+  {
+    "location_id": "Bromleyq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.4039501000",
+    "longitude": "0.0193894000"
   },
   {
     "id": "Bodyshop_NA556",
