@@ -46055,16 +46055,6 @@
     "longitude": "8.8749670000"
   },
   {
-    "location_id": "dc16027",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "46.9808380000",
-    "longitude": "8.6178460000"
-  },
-  {
     "location_id": "dc19139",
     "location_type": [
       "destination charger",
@@ -88456,16 +88446,6 @@
     "longitude": "2.9675420000"
   },
   {
-    "location_id": "dc33506",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.2887940000",
-    "longitude": "-5.9418500000"
-  },
-  {
     "location_id": "dc33540",
     "location_type": [
       "destination charger",
@@ -88688,8 +88668,8 @@
   {
     "location_id": "dc26258",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "45.4340570000",
@@ -89527,8 +89507,8 @@
   {
     "location_id": "dc26259",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "45.4214150000",
@@ -99422,16 +99402,6 @@
     "open_soon": "0",
     "latitude": "45.5433470000",
     "longitude": "12.6507300000"
-  },
-  {
-    "location_id": "dc35443",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "50.1413620000",
-    "longitude": "5.1626800000"
   },
   {
     "location_id": "dc36083",
@@ -160011,16 +159981,6 @@
     "longitude": "-94.9776530000"
   },
   {
-    "location_id": "beershevasuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "31.2440710000",
-    "longitude": "34.8110210000"
-  },
-  {
     "location_id": "BeavercreekOHSupercharger",
     "location_type": [
       "supercharger",
@@ -165867,6 +165827,16 @@
     "open_soon": "0",
     "latitude": "35.7062600000",
     "longitude": "139.3498000000"
+  },
+  {
+    "location_id": "hotelprincipedilazise",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "45.4801838600",
+    "longitude": "10.7338940200"
   },
   {
     "id": "Bodyshop_NA556",
