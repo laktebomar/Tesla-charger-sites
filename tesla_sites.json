@@ -165821,54 +165821,6 @@
     "longitude": "0.0193894000"
   },
   {
-    "location_id": "dc20220328",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "-26.3958410000",
-    "longitude": "153.0743240000"
-  },
-  {
-    "location_id": "dc20220329",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "-43.1396990000",
-    "longitude": "147.0336430000"
-  },
-  {
-    "location_id": "dc20191107",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "-34.5503520000",
-    "longitude": "146.4045810000"
-  },
-  {
-    "location_id": "dc1132454",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "35.0484700000",
-    "longitude": "136.9261000000"
-  },
-  {
-    "location_id": "dc1142417",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "35.7062600000",
-    "longitude": "139.3498000000"
-  },
-  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
