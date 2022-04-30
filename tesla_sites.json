@@ -72542,16 +72542,6 @@
     "longitude": "-78.8863680000"
   },
   {
-    "location_id": "edirnesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "41.6878970000",
-    "longitude": "26.5893570000"
-  },
-  {
     "location_id": "saintleonardsupercharger",
     "location_type": [
       "supercharger",
@@ -161032,6 +161022,16 @@
     "longitude": "-123.1709490000"
   },
   {
+    "location_id": "hendeksuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "40.8001180000",
+    "longitude": "30.7430210000"
+  },
+  {
     "location_id": "HendersonvilleTNSupercharger",
     "location_type": [
       "supercharger",
@@ -162420,6 +162420,16 @@
     "open_soon": "1",
     "latitude": "52.9686800000",
     "longitude": "9.9088600000"
+  },
+  {
+    "location_id": "somasuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "39.2044500000",
+    "longitude": "27.6217400000"
   },
   {
     "location_id": "SouthBarringtonILSupercharger",
@@ -165481,6 +165491,46 @@
     "longitude": "8.8416050000"
   },
   {
+    "location_id": "Edirneq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.6809020000",
+    "longitude": "26.5817210000"
+  },
+  {
+    "location_id": "Herzliyaq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "32.1679058000",
+    "longitude": "34.8240441000"
+  },
+  {
+    "location_id": "Istanbulq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.0033630000",
+    "longitude": "29.0711600000"
+  },
+  {
+    "location_id": "Istanbul2q222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "41.1052989000",
+    "longitude": "28.9862025000"
+  },
+  {
     "location_id": "Fujairahq222",
     "location_type": [
       "supercharger",
@@ -165767,16 +165817,6 @@
     "open_soon": "0",
     "latitude": "45.4801838600",
     "longitude": "10.7338940200"
-  },
-  {
-    "location_id": "WoodlandsSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "1.4263303230",
-    "longitude": "103.7863951000"
   },
   {
     "id": "Bodyshop_NA556",
