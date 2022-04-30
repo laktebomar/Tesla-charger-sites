@@ -60571,6 +60571,16 @@
     "longitude": "14.7756170000"
   },
   {
+    "location_id": "dc19423",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "56.8978780000",
+    "longitude": "9.2336870000"
+  },
+  {
     "location_id": "dc19956",
     "location_type": [
       "destination charger",
@@ -99282,6 +99292,16 @@
     "open_soon": "0",
     "latitude": "45.4868140000",
     "longitude": "9.1571780000"
+  },
+  {
+    "location_id": "dc22297",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "47.3119790000",
+    "longitude": "11.1479450000"
   },
   {
     "location_id": "dc27417",
@@ -138710,9 +138730,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "31.2429150000",
-    "longitude": "34.8134910000"
+    "open_soon": "1",
+    "latitude": "31.2392400000",
+    "longitude": "34.7978380000"
   },
   {
     "location_id": "Eilatilsupercharger",
@@ -164877,8 +164897,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "31.8058268000",
-    "longitude": "34.6727301000"
+    "latitude": "31.8849393000",
+    "longitude": "34.7395075000"
   },
   {
     "location_id": "Jerusalemq222",
