@@ -151959,6 +151959,16 @@
     "longitude": "11.4813792200"
   },
   {
+    "location_id": "OdenseSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "55.3865110000",
+    "longitude": "10.4267220000"
+  },
+  {
     "location_id": "RandersWestSupercharger",
     "location_type": [
       "supercharger",
