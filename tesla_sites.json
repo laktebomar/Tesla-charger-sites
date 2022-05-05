@@ -163895,7 +163895,7 @@
     "longitude": "120.3062770000"
   },
   {
-    "location_id": "neumünstersupercharger",
+    "location_id": "neumunstersupercharger1",
     "location_type": [
       "supercharger",
       "standard charger"
@@ -165836,6 +165836,36 @@
     "open_soon": "1",
     "latitude": "46.7699150000",
     "longitude": "23.5799300000"
+  },
+  {
+    "location_id": "vegglisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "60.0409231358",
+    "longitude": "9.1578687797"
+  },
+  {
+    "location_id": "aisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "60.6282148991",
+    "longitude": "8.5627659181"
+  },
+  {
+    "location_id": "dc1127818",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.3200460000",
+    "longitude": "114.1581040000"
   },
   {
     "id": "Bodyshop_NA556",
