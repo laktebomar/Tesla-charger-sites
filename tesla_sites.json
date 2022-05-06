@@ -139288,6 +139288,16 @@
     "longitude": "8.8614900000"
   },
   {
+    "location_id": "StGallenchsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "47.4081557000",
+    "longitude": "9.3043631000"
+  },
+  {
     "location_id": "Versoixchsupercharger",
     "location_type": [
       "supercharger",
