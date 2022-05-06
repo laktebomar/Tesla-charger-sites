@@ -155765,9 +155765,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "40.1636046000",
-    "longitude": "-76.1538948400"
+    "open_soon": "1",
+    "latitude": "40.1796690000",
+    "longitude": "-76.1788010000"
   },
   {
     "location_id": "FountainValleyCASupercharger2",
@@ -160000,16 +160000,6 @@
     "longitude": "-84.0631142000"
   },
   {
-    "location_id": "BeeCaveTXSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "30.3037370000",
-    "longitude": "-97.9417710000"
-  },
-  {
     "location_id": "BeltsvilleMDSupercharger",
     "location_type": [
       "supercharger",
@@ -160278,16 +160268,6 @@
     "open_soon": "1",
     "latitude": "39.9784829000",
     "longitude": "-86.1179143700"
-  },
-  {
-    "location_id": "CedarRapidsIASupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "41.9561990000",
-    "longitude": "-91.6578100000"
   },
   {
     "location_id": "chalonsursaonesuperchargerq122",
@@ -160659,16 +160639,6 @@
     "open_soon": "1",
     "latitude": "39.1982225700",
     "longitude": "-76.7634133200"
-  },
-  {
-    "location_id": "EllensburgWASupercharger22",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "46.9779790000",
-    "longitude": "-120.5425760000"
   },
   {
     "location_id": "ElyNVSupercharger",
@@ -163895,7 +163865,7 @@
     "longitude": "120.3062770000"
   },
   {
-    "location_id": "neumunstersupercharger1",
+    "location_id": "neumünstersupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
@@ -165836,36 +165806,6 @@
     "open_soon": "1",
     "latitude": "46.7699150000",
     "longitude": "23.5799300000"
-  },
-  {
-    "location_id": "vegglisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "60.0409231358",
-    "longitude": "9.1578687797"
-  },
-  {
-    "location_id": "aisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "60.6282148991",
-    "longitude": "8.5627659181"
-  },
-  {
-    "location_id": "dc1127818",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.3200460000",
-    "longitude": "114.1581040000"
   },
   {
     "id": "Bodyshop_NA556",
