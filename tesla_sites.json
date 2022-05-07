@@ -53417,16 +53417,6 @@
     "longitude": "-110.8033810000"
   },
   {
-    "location_id": "tuscaloosasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "33.1752060000",
-    "longitude": "-87.5691735000"
-  },
-  {
     "location_id": "vallejosupercharger",
     "location_type": [
       "supercharger",
@@ -152546,9 +152536,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.3857150000",
-    "longitude": "-122.2811250000"
+    "open_soon": "0",
+    "latitude": "40.3891240000",
+    "longitude": "-122.2880430000"
   },
   {
     "location_id": "CranfordNJSupercharger",
@@ -160035,9 +160025,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "35.3820100000",
-    "longitude": "-78.5489550000"
+    "open_soon": "0",
+    "latitude": "35.3741930000",
+    "longitude": "-78.5424050000"
   },
   {
     "location_id": "berchtesgadensuperchargerq122",
@@ -165876,6 +165866,16 @@
     "open_soon": "0",
     "latitude": "22.3200460000",
     "longitude": "114.1581040000"
+  },
+  {
+    "location_id": "lasvegasnveastsaharaavesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "36.1453200000",
+    "longitude": "-115.1028740000"
   },
   {
     "id": "Bodyshop_NA556",
