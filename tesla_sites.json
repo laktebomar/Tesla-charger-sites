@@ -53827,14 +53827,14 @@
     "longitude": "22.9408770000"
   },
   {
-    "location_id": "lamiasupercharger",
+    "location_id": "atalantiwestsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "38.8963570000",
-    "longitude": "22.4332830000"
+    "latitude": "38.6584274286",
+    "longitude": "23.0720852829"
   },
   {
     "location_id": "ballacollasupercharger",
@@ -164880,14 +164880,14 @@
     "longitude": "9.5510030000"
   },
   {
-    "location_id": "AtalantiWestq222",
+    "location_id": "atalantieastsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "37.9838096000",
-    "longitude": "23.7275388000"
+    "latitude": "38.6611768902",
+    "longitude": "23.0739798197"
   },
   {
     "location_id": "LarissaSouthq222",
