@@ -139984,9 +139984,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "40.5716246500",
-    "longitude": "-75.6167367100"
+    "open_soon": "1",
+    "latitude": "40.5749050000",
+    "longitude": "-75.5560370000"
   },
   {
     "location_id": "AlturasCAsupercharger",
@@ -152777,9 +152777,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "29.1852510000",
-    "longitude": "-82.1774350000"
+    "open_soon": "1",
+    "latitude": "29.1870980000",
+    "longitude": "-82.1403910000"
   },
   {
     "location_id": "OrlandoFLSupercharger2",
@@ -155167,9 +155167,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "37.3056100000",
-    "longitude": "-77.4097000000"
+    "open_soon": "1",
+    "latitude": "37.2440220000",
+    "longitude": "-77.4097590000"
   },
   {
     "location_id": "CulverCityCASupercharger2",
@@ -159877,9 +159877,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "30.2261966000",
-    "longitude": "-97.8219410000"
+    "open_soon": "1",
+    "latitude": "30.2288600000",
+    "longitude": "-97.8154330000"
   },
   {
     "location_id": "AvenelNJSupercharger",
@@ -161128,9 +161128,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "29.7365530000",
-    "longitude": "-95.4022390000"
+    "open_soon": "1",
+    "latitude": "29.7608359000",
+    "longitude": "-95.3695306900"
   },
   {
     "location_id": "houtensuperchargerq122",
@@ -166018,36 +166018,6 @@
     "open_soon": "0",
     "latitude": "22.6565000000",
     "longitude": "120.3063300000"
-  },
-  {
-    "location_id": "sandiegocatruxtunroadsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "32.7379860000",
-    "longitude": "-117.2161870000"
-  },
-  {
-    "location_id": "iowalasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "30.2471710000",
-    "longitude": "-93.0107440000"
-  },
-  {
-    "location_id": "sandiegocacarmelmountainrdsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "32.9213080000",
-    "longitude": "-117.2151260000"
   },
   {
     "id": "Bodyshop_NA556",
