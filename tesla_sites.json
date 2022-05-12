@@ -546,7 +546,8 @@
     "location_id": "golsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "60.7023330000",
@@ -111209,8 +111210,8 @@
   {
     "location_id": "dc38815",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "41.6100330000",
@@ -116604,16 +116605,6 @@
     "open_soon": "0",
     "latitude": "61.5408190000",
     "longitude": "16.3688340000"
-  },
-  {
-    "location_id": "dc57684",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "53.2507590000",
-    "longitude": "-1.4239990000"
   },
   {
     "location_id": "dc58351",
@@ -153975,7 +153966,8 @@
     "location_id": "brekkvasselvsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "64.8476980000",
@@ -161296,9 +161288,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "33.2005210000",
-    "longitude": "35.5696500000"
+    "open_soon": "0",
+    "latitude": "33.1928070000",
+    "longitude": "35.5703950000"
   },
   {
     "location_id": "LagrangevilleNYSupercharger",
@@ -163724,6 +163716,16 @@
     "open_soon": "0",
     "latitude": "63.5215840000",
     "longitude": "9.1092290000"
+  },
+  {
+    "location_id": "singaporewoodlandssupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "1.4263303230",
+    "longitude": "103.7863951000"
   },
   {
     "location_id": "bauernmarktsupercharger",
