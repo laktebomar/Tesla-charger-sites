@@ -63848,15 +63848,6 @@
     "longitude": "120.8873140000"
   },
   {
-    "location_id": "dc29481",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "33.2030160000",
-    "longitude": "130.5923000000"
-  },
-  {
     "location_id": "dc21692",
     "location_type": [
       "destination charger"
@@ -77275,16 +77266,6 @@
     "open_soon": "0",
     "latitude": "34.7059660000",
     "longitude": "-83.7147180000"
-  },
-  {
-    "location_id": "dc34668",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "34.8051700000",
-    "longitude": "126.4223000000"
   },
   {
     "location_id": "dc34670",
@@ -160873,14 +160854,14 @@
     "longitude": "-76.1617870000"
   },
   {
-    "location_id": "GangnamSinsasupercharger",
+    "location_id": "gangnamsinsasupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.5161100000",
-    "longitude": "127.0195300000"
+    "open_soon": "0",
+    "latitude": "37.5199600000",
+    "longitude": "127.0190200000"
   },
   {
     "location_id": "GastoniaNCSupercharger",
@@ -164082,14 +164063,14 @@
     "longitude": "126.8460000000"
   },
   {
-    "location_id": "GwangyangAsupercharger",
+    "location_id": "gwangyangsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "34.9708700000",
-    "longitude": "127.5822600000"
+    "open_soon": "0",
+    "latitude": "34.9618349000",
+    "longitude": "127.5654270900"
   },
   {
     "location_id": "SokchoBsupercharger",
