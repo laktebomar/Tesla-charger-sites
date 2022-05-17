@@ -82979,6 +82979,16 @@
     "longitude": "129.1830000000"
   },
   {
+    "location_id": "dc34365",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "24.9990590000",
+    "longitude": "121.4563530000"
+  },
+  {
     "location_id": "dc32022",
     "location_type": [
       "destination charger",
@@ -87767,8 +87777,8 @@
   {
     "location_id": "dc32476",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "52.0691520000",
@@ -97358,6 +97368,16 @@
     "open_soon": "0",
     "latitude": "51.0185990000",
     "longitude": "3.3802100000"
+  },
+  {
+    "location_id": "dc16812",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "46.1610810000",
+    "longitude": "-1.1582460000"
   },
   {
     "location_id": "dc26910",
@@ -116576,6 +116596,16 @@
     "open_soon": "0",
     "latitude": "39.4050930000",
     "longitude": "-9.2406930000"
+  },
+  {
+    "location_id": "dc59363",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "23.9617310000",
+    "longitude": "120.4726500000"
   },
   {
     "location_id": "dc70972",
@@ -164103,6 +164133,26 @@
     "longitude": "10.7502680000"
   },
   {
+    "location_id": "Waterlooq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.7097079000",
+    "longitude": "4.4082803000"
+  },
+  {
+    "location_id": "Charleroiq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.4530060000",
+    "longitude": "4.4322810000"
+  },
+  {
     "location_id": "Hasseltq222",
     "location_type": [
       "supercharger",
@@ -164111,6 +164161,56 @@
     "open_soon": "1",
     "latitude": "50.9545646000",
     "longitude": "5.3541512000"
+  },
+  {
+    "location_id": "Ghentq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.0191887000",
+    "longitude": "3.7352357000"
+  },
+  {
+    "location_id": "LavauxSainteAnneq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.0133085000",
+    "longitude": "5.2267825000"
+  },
+  {
+    "location_id": "Monsq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.4555429000",
+    "longitude": "3.9393906000"
+  },
+  {
+    "location_id": "Schmiedeq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.2895015000",
+    "longitude": "6.0985787000"
+  },
+  {
+    "location_id": "Beverenq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "51.1542622000",
+    "longitude": "4.1585988000"
   },
   {
     "location_id": "CopenhagenSouthKastrupq222",
@@ -166059,26 +166159,6 @@
     "open_soon": "1",
     "latitude": "34.3093815000",
     "longitude": "134.0614701000"
-  },
-  {
-    "location_id": "nationalbankofkuwait",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "29.3784157100",
-    "longitude": "47.9919049800"
-  },
-  {
-    "location_id": "norwichsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "52.6275300000",
-    "longitude": "1.3837200000"
   },
   {
     "id": "Bodyshop_NA556",
