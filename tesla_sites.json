@@ -166151,26 +166151,6 @@
     "longitude": "120.2215820000"
   },
   {
-    "location_id": "kanagawakawasakisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.5344338800",
-    "longitude": "139.6946541000"
-  },
-  {
-    "location_id": "kagawatakamatsusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.3093815000",
-    "longitude": "134.0614701000"
-  },
-  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
