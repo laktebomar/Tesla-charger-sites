@@ -54865,16 +54865,6 @@
     "longitude": "114.2038100000"
   },
   {
-    "location_id": "arlonbelgiumsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "49.6480380000",
-    "longitude": "5.8188030000"
-  },
-  {
     "location_id": "myrtlebeachscsupercharger",
     "location_type": [
       "supercharger",
