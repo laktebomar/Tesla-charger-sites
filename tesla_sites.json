@@ -86299,8 +86299,8 @@
   {
     "location_id": "dc31819",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "24.2181750000",
@@ -135935,8 +135935,8 @@
   {
     "location_id": "dc636426",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "24.6463910000",
@@ -142065,9 +142065,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "46.8177440000",
-    "longitude": "-71.3335950000"
+    "open_soon": "1",
+    "latitude": "46.8061700000",
+    "longitude": "-71.3159000000"
   },
   {
     "location_id": "QueretaroMexsupercharger",
@@ -153776,8 +153776,8 @@
   {
     "location_id": "dc952789",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "22.4727888100",
@@ -160428,9 +160428,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "41.6407220000",
-    "longitude": "-70.9960000000"
+    "open_soon": "1",
+    "latitude": "41.6127620000",
+    "longitude": "-70.9711790000"
   },
   {
     "location_id": "DecaturGASupercharger",
@@ -160659,9 +160659,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "32.5764330000",
-    "longitude": "-85.4976070000"
+    "open_soon": "1",
+    "latitude": "32.6098720000",
+    "longitude": "-85.4817430000"
   },
   {
     "location_id": "ExmoreVASupercharger",
@@ -166079,46 +166079,6 @@
     "open_soon": "0",
     "latitude": "52.6275300000",
     "longitude": "1.3837200000"
-  },
-  {
-    "location_id": "dc1097574",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.6115553900",
-    "longitude": "120.3034905000"
-  },
-  {
-    "location_id": "dc1170418",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "24.7475300000",
-    "longitude": "121.1834800000"
-  },
-  {
-    "location_id": "dc1125397",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "25.0663333000",
-    "longitude": "121.3616049000"
-  },
-  {
-    "location_id": "dc1125425",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "24.6614900000",
-    "longitude": "121.7957500000"
   },
   {
     "id": "Bodyshop_NA556",
