@@ -142065,9 +142065,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "46.8061700000",
-    "longitude": "-71.3159000000"
+    "open_soon": "0",
+    "latitude": "46.8177440000",
+    "longitude": "-71.3335950000"
   },
   {
     "location_id": "QueretaroMexsupercharger",
@@ -160428,9 +160428,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "41.6127620000",
-    "longitude": "-70.9711790000"
+    "open_soon": "0",
+    "latitude": "41.6407220000",
+    "longitude": "-70.9960000000"
   },
   {
     "location_id": "DecaturGASupercharger",
@@ -160659,9 +160659,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "32.6098720000",
-    "longitude": "-85.4817430000"
+    "open_soon": "0",
+    "latitude": "32.5764330000",
+    "longitude": "-85.4976070000"
   },
   {
     "location_id": "ExmoreVASupercharger",
