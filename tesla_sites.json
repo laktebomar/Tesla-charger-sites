@@ -71928,9 +71928,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "34.1388250000",
-    "longitude": "-118.6590900000"
+    "open_soon": "0",
+    "latitude": "34.1544540000",
+    "longitude": "-118.6454530000"
   },
   {
     "location_id": "cambridgemasupercharger",
@@ -140805,9 +140805,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "32.7920520000",
-    "longitude": "-115.5625960000"
+    "open_soon": "0",
+    "latitude": "32.7730960000",
+    "longitude": "-115.5503030000"
   },
   {
     "location_id": "ElPortalCAsupercharger",
@@ -142505,9 +142505,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "34.9531220000",
-    "longitude": "-120.4358470000"
+    "open_soon": "0",
+    "latitude": "34.9528350000",
+    "longitude": "-120.4346940000"
   },
   {
     "location_id": "SantaYsabelCAsupercharger",
@@ -155344,9 +155344,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.5404680000",
-    "longitude": "-77.4355700000"
+    "open_soon": "0",
+    "latitude": "37.4958600000",
+    "longitude": "-77.5476900000"
   },
   {
     "location_id": "SaltLakeCityUTSupercharger2",
@@ -155524,9 +155524,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "41.1540280000",
-    "longitude": "-80.7009410000"
+    "open_soon": "0",
+    "latitude": "41.1493640000",
+    "longitude": "-80.7007060000"
   },
   {
     "location_id": "JanesvilleWISupercharger",
@@ -160617,9 +160617,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "34.0028850000",
-    "longitude": "-84.1444880000"
+    "open_soon": "0",
+    "latitude": "34.0003880000",
+    "longitude": "-84.1689880000"
   },
   {
     "location_id": "EastPaloAltoCASupercharger",
@@ -160837,9 +160837,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "35.0073380000",
-    "longitude": "-80.9450960000"
+    "open_soon": "0",
+    "latitude": "35.0956970000",
+    "longitude": "-80.9356470000"
   },
   {
     "location_id": "fredericiasuperchargerq122",
@@ -161007,9 +161007,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "41.7432550000",
-    "longitude": "-92.7232760000"
+    "open_soon": "0",
+    "latitude": "41.7000920000",
+    "longitude": "-92.7266560000"
   },
   {
     "location_id": "GuaynaboPRSupercharger",
@@ -161547,9 +161547,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.6087950000",
-    "longitude": "-77.3734430000"
+    "open_soon": "0",
+    "latitude": "37.6135140000",
+    "longitude": "-77.3273070000"
   },
   {
     "location_id": "MentorOHSupercharger",
@@ -166299,6 +166299,26 @@
     "open_soon": "0",
     "latitude": "24.7923163900",
     "longitude": "121.8085144000"
+  },
+  {
+    "location_id": "fortlauderdaleflpowerlinerdsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "26.2024600000",
+    "longitude": "-80.1559740000"
+  },
+  {
+    "location_id": "melvillenywaltwhitmanroadsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "40.7847180000",
+    "longitude": "-73.4209240000"
   },
   {
     "id": "Bodyshop_NA556",
