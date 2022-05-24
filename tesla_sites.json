@@ -95787,8 +95787,8 @@
   {
     "location_id": "dc43735",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "50.6368820000",
