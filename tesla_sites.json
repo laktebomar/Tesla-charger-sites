@@ -20264,7 +20264,8 @@
     "location_id": "brokelandsheiabrusupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "58.8204080000",
