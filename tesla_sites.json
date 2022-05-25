@@ -665,14 +665,14 @@
     "longitude": "-110.1455580000"
   },
   {
-    "location_id": "singaporewestsupercharger",
+    "location_id": "hopewellcentresupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "1.3084891090",
-    "longitude": "103.7659150526"
+    "open_soon": "0",
+    "latitude": "22.2744950000",
+    "longitude": "114.1714290000"
   },
   {
     "location_id": "houstongalleria",
@@ -139920,6 +139920,16 @@
     "longitude": "120.4773464000"
   },
   {
+    "location_id": "singaporesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "1.3416599400",
+    "longitude": "103.9469189000"
+  },
+  {
     "location_id": "bairnsdalesupercharger",
     "location_type": [
       "supercharger",
@@ -165761,6 +165771,16 @@
     "longitude": "10.7338940200"
   },
   {
+    "location_id": "WoodlandsSupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "1.4263303230",
+    "longitude": "103.7863951000"
+  },
+  {
     "location_id": "rjomabuioerpsstaoir",
     "location_type": [
       "standard charger",
@@ -166329,16 +166349,6 @@
     "open_soon": "0",
     "latitude": "45.4379791800",
     "longitude": "11.1659867300"
-  },
-  {
-    "location_id": "singaporecenturysquaresupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "1.3523495809",
-    "longitude": "103.9438457813"
   },
   {
     "id": "Bodyshop_NA556",
