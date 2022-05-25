@@ -166331,6 +166331,26 @@
     "longitude": "127.5242000000"
   },
   {
+    "location_id": "vesturbyggo",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "65.6838200000",
+    "longitude": "-23.6030300000"
+  },
+  {
+    "location_id": "magariestateshotel",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "45.4379791800",
+    "longitude": "11.1659867300"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
