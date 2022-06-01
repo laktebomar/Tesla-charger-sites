@@ -161098,9 +161098,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "49.2579840000",
-    "longitude": "10.5018280000"
+    "open_soon": "1",
+    "latitude": "49.2606572800",
+    "longitude": "10.5034634600"
   },
   {
     "location_id": "holonsuperchargerq122",
@@ -165259,9 +165259,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "46.4037228600",
-    "longitude": "14.1305458400"
+    "open_soon": "1",
+    "latitude": "46.4068639000",
+    "longitude": "14.1319644000"
   },
   {
     "location_id": "BarcelonaNortheastBadalonaq222",
@@ -166410,27 +166410,6 @@
     "open_soon": "0",
     "latitude": "24.0435833900",
     "longitude": "121.1581066000"
-  },
-  {
-    "location_id": "overtorneasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger",
-      "party"
-    ],
-    "open_soon": "0",
-    "latitude": "66.3832120000",
-    "longitude": "23.6550420000"
-  },
-  {
-    "location_id": "belgradeavasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "44.7115940000",
-    "longitude": "20.5616150000"
   },
   {
     "id": "Bodyshop_NA556",
