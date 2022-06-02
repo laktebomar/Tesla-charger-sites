@@ -57404,16 +57404,6 @@
     "longitude": "-3.1876920000"
   },
   {
-    "location_id": "dc10915",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.8992860000",
-    "longitude": "5.4361470000"
-  },
-  {
     "location_id": "dc14169",
     "location_type": [
       "destination charger",
@@ -152289,11 +152279,12 @@
     "location_id": "Cambrilsessupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "1",
-    "latitude": "41.0684010000",
-    "longitude": "1.0577710000"
+    "latitude": "41.0862780000",
+    "longitude": "1.0378060000"
   },
   {
     "location_id": "ValenciaSouthessupercharger",
@@ -166431,6 +166422,17 @@
     "open_soon": "0",
     "latitude": "44.7115940000",
     "longitude": "20.5616150000"
+  },
+  {
+    "location_id": "limburganderlahnsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger",
+      "party"
+    ],
+    "open_soon": "0",
+    "latitude": "50.3812230000",
+    "longitude": "8.0894450000"
   },
   {
     "id": "Bodyshop_NA556",
