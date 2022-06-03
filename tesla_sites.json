@@ -52297,16 +52297,6 @@
     "longitude": "-73.9918690000"
   },
   {
-    "location_id": "lubbocksupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "33.5209320000",
-    "longitude": "-101.9616290000"
-  },
-  {
     "location_id": "ludingtonsupercharger",
     "location_type": [
       "supercharger",
@@ -72709,9 +72699,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "49.4982890000",
-    "longitude": "-115.0810480000"
+    "open_soon": "1",
+    "latitude": "49.5040020000",
+    "longitude": "-115.0638990000"
   },
   {
     "location_id": "firenzeitsupercharger",
@@ -93326,6 +93316,15 @@
     "open_soon": "0",
     "latitude": "41.7706981000",
     "longitude": "-88.1502517000"
+  },
+  {
+    "location_id": "dc36102",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "32.9751620000",
+    "longitude": "-96.8368590000"
   },
   {
     "location_id": "dc36682",
@@ -142197,9 +142196,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "41.9169092000",
-    "longitude": "-89.0691358000"
+    "open_soon": "1",
+    "latitude": "41.9238220000",
+    "longitude": "-89.0688010000"
   },
   {
     "location_id": "RockledgeFLsupercharger",
@@ -155617,9 +155616,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "30.0707190000",
-    "longitude": "-95.9306830000"
+    "open_soon": "1",
+    "latitude": "30.0566820000",
+    "longitude": "-95.9267470000"
   },
   {
     "location_id": "YorbaLindaCASupercharger",
@@ -159969,9 +159968,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "29.8015700000",
-    "longitude": "-94.9979430000"
+    "open_soon": "1",
+    "latitude": "29.7353890000",
+    "longitude": "-94.9776530000"
   },
   {
     "location_id": "BeavercreekOHSupercharger",
@@ -160960,9 +160959,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "35.6052010000",
-    "longitude": "-77.4000150000"
+    "open_soon": "1",
+    "latitude": "35.6129030000",
+    "longitude": "-77.3663700000"
   },
   {
     "location_id": "GrinnellIASupercharger",
@@ -161070,9 +161069,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "44.2797360000",
-    "longitude": "-123.0632160000"
+    "open_soon": "1",
+    "latitude": "44.2738460000",
+    "longitude": "-123.1709490000"
   },
   {
     "location_id": "HendersonvilleTNSupercharger",
