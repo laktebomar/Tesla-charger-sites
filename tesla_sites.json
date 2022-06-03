@@ -141837,9 +141837,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "42.4310800000",
-    "longitude": "-83.4832300000"
+    "open_soon": "0",
+    "latitude": "42.4371590000",
+    "longitude": "-83.4380800000"
   },
   {
     "location_id": "OakBrookILsupercharger",
@@ -161890,9 +161890,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "41.6829660800",
-    "longitude": "-88.3515715600"
+    "open_soon": "0",
+    "latitude": "41.6998502000",
+    "longitude": "-88.3126680000"
   },
   {
     "location_id": "OxfordNCSupercharger",
