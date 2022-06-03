@@ -154982,6 +154982,16 @@
     "longitude": "9.8513900000"
   },
   {
+    "location_id": "Limburgsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "50.3875747000",
+    "longitude": "8.0640630000"
+  },
+  {
     "location_id": "NeveZoharsupercharger",
     "location_type": [
       "supercharger",
@@ -165386,6 +165396,16 @@
     "longitude": "14.1444190000"
   },
   {
+    "location_id": "overtorneatatortq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "66.3818677736",
+    "longitude": "23.6450954865"
+  },
+  {
     "location_id": "Malatatortq222",
     "location_type": [
       "supercharger",
@@ -166408,7 +166428,8 @@
     "location_id": "limburganderlahnsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "50.3812230000",
