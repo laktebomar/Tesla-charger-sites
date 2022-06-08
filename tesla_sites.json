@@ -24060,8 +24060,8 @@
   {
     "location_id": "dc11625",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "50.4681630000",
@@ -80726,16 +80726,6 @@
     "longitude": "35.8431940000"
   },
   {
-    "location_id": "dc14300",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.7355820000",
-    "longitude": "5.8474050000"
-  },
-  {
     "location_id": "dc29745",
     "location_type": [
       "destination charger",
@@ -88397,16 +88387,6 @@
     "open_soon": "0",
     "latitude": "43.1893030000",
     "longitude": "-1.7439120000"
-  },
-  {
-    "location_id": "dc29270",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "48.5776640000",
-    "longitude": "7.7423020000"
   },
   {
     "location_id": "dc29944",
@@ -97383,16 +97363,6 @@
     "open_soon": "0",
     "latitude": "25.1402050000",
     "longitude": "55.1335630000"
-  },
-  {
-    "location_id": "dc37883",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.0185990000",
-    "longitude": "3.3802100000"
   },
   {
     "location_id": "dc26910",
@@ -128631,16 +128601,6 @@
     "open_soon": "0",
     "latitude": "38.7615520000",
     "longitude": "-9.3970200000"
-  },
-  {
-    "location_id": "dc84910",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "44.8391380000",
-    "longitude": "13.8427450000"
   },
   {
     "location_id": "dc35808",
@@ -166413,6 +166373,26 @@
     "open_soon": "0",
     "latitude": "50.3812230000",
     "longitude": "8.0894450000"
+  },
+  {
+    "location_id": "ekraglacierlagoon",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "64.1374800000",
+    "longitude": "16.0672600000"
+  },
+  {
+    "location_id": "logishotel",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "43.7316406400",
+    "longitude": "3.3227617900"
   },
   {
     "id": "Bodyshop_NA556",
