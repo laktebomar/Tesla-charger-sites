@@ -20264,7 +20264,8 @@
     "location_id": "brokelandsheiabrusupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "58.8204080000",
@@ -152544,9 +152545,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "39.5515659000",
-    "longitude": "-74.7351861000"
+    "open_soon": "1",
+    "latitude": "39.5767710000",
+    "longitude": "-74.7166430000"
   },
   {
     "location_id": "EriePASupercharger",
@@ -152734,9 +152735,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "28.4495000000",
-    "longitude": "-81.4902000000"
+    "open_soon": "1",
+    "latitude": "28.4499510000",
+    "longitude": "-81.4914490000"
   },
   {
     "location_id": "PigeonForgeTNSupercharger",
@@ -152774,9 +152775,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "27.2703000000",
-    "longitude": "-82.4628800000"
+    "open_soon": "1",
+    "latitude": "27.3364650000",
+    "longitude": "-82.5310010000"
   },
   {
     "location_id": "SissetonSDSupercharger",
@@ -155486,9 +155487,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "41.3723191700",
-    "longitude": "-71.9566832300"
+    "open_soon": "1",
+    "latitude": "41.3542090000",
+    "longitude": "-71.9666320000"
   },
   {
     "location_id": "OakhurstCASupercharger",
@@ -159948,9 +159949,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "39.0267610000",
-    "longitude": "-76.9171780000"
+    "open_soon": "1",
+    "latitude": "39.0348403400",
+    "longitude": "-76.9074160900"
   },
   {
     "location_id": "BensonNCSupercharger",
@@ -161129,9 +161130,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "39.6650612300",
-    "longitude": "-86.0761198000"
+    "open_soon": "1",
+    "latitude": "39.7679540200",
+    "longitude": "-86.1580492600"
   },
   {
     "location_id": "IowaCityIASupercharger",
@@ -161669,9 +161670,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "29.7269610000",
-    "longitude": "-98.0796980000"
+    "open_soon": "1",
+    "latitude": "29.7033280000",
+    "longitude": "-98.1243200000"
   },
   {
     "location_id": "NewSpringfieldOHSupercharger",
@@ -162909,9 +162910,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "29.3250470000",
-    "longitude": "-96.1243480000"
+    "open_soon": "1",
+    "latitude": "29.3117302800",
+    "longitude": "-96.1030622000"
   },
   {
     "location_id": "WindsorONSupercharger",
@@ -166392,16 +166393,6 @@
     "open_soon": "0",
     "latitude": "43.7316406400",
     "longitude": "3.3227617900"
-  },
-  {
-    "location_id": "gransupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "60.3544340000",
-    "longitude": "10.5722680000"
   },
   {
     "id": "Bodyshop_NA556",
