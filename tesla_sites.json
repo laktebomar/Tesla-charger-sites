@@ -20264,8 +20264,7 @@
     "location_id": "brokelandsheiabrusupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "58.8204080000",
@@ -160630,9 +160629,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "49.4475528100",
-    "longitude": "10.2503946400"
+    "open_soon": "0",
+    "latitude": "49.4450520000",
+    "longitude": "10.2470260000"
   },
   {
     "location_id": "EstevanSKSupercharger",
@@ -166393,6 +166392,16 @@
     "open_soon": "0",
     "latitude": "43.7316406400",
     "longitude": "3.3227617900"
+  },
+  {
+    "location_id": "gransupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "60.3544340000",
+    "longitude": "10.5722680000"
   },
   {
     "id": "Bodyshop_NA556",
