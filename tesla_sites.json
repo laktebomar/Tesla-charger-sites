@@ -166454,16 +166454,6 @@
     "longitude": "19.2778949300"
   },
   {
-    "location_id": "skilandostruzna",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "50.1853266600",
-    "longitude": "17.0511233200"
-  },
-  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
