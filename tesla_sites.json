@@ -30078,8 +30078,8 @@
   {
     "location_id": "dc18754",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "51.7700560000",
@@ -30088,8 +30088,8 @@
   {
     "location_id": "dc18755",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "51.0641520000",
@@ -33216,16 +33216,6 @@
     "open_soon": "0",
     "latitude": "51.9611730000",
     "longitude": "-0.2199000000"
-  },
-  {
-    "location_id": "dc19309",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "44.5324050000",
-    "longitude": "14.4556440000"
   },
   {
     "location_id": "dc14394",
@@ -37920,8 +37910,8 @@
   {
     "location_id": "dc19674",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "52.0317140000",
@@ -46272,8 +46262,8 @@
   {
     "location_id": "dc19652",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "52.7116030000",
@@ -160263,16 +160253,6 @@
     "longitude": "-85.3094280000"
   },
   {
-    "location_id": "chiayicoastsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.3797444200",
-    "longitude": "120.1567809000"
-  },
-  {
     "location_id": "ChicagoILSupercharger",
     "location_type": [
       "supercharger",
@@ -161682,16 +161662,6 @@
     "open_soon": "1",
     "latitude": "40.9172250000",
     "longitude": "-80.6058770000"
-  },
-  {
-    "location_id": "newtaipeidanshuisupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "25.1876441200",
-    "longitude": "121.4093416000"
   },
   {
     "location_id": "NewarkNJSupercharger",
@@ -166402,6 +166372,96 @@
     "open_soon": "0",
     "latitude": "60.3544340000",
     "longitude": "10.5722680000"
+  },
+  {
+    "location_id": "chiayibudaisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "23.3784970000",
+    "longitude": "120.1533450000"
+  },
+  {
+    "location_id": "newtaipeidanshuisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.1760000000",
+    "longitude": "121.4290000000"
+  },
+  {
+    "location_id": "leersupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "53.2597400000",
+    "longitude": "7.4555260000"
+  },
+  {
+    "location_id": "kozifarmapencin",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "50.6884156400",
+    "longitude": "15.2354490200"
+  },
+  {
+    "location_id": "skrytin",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "50.6954076300",
+    "longitude": "14.1911817600"
+  },
+  {
+    "location_id": "hotelcentrum",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "49.5487011000",
+    "longitude": "17.7360055500"
+  },
+  {
+    "location_id": "chateauhotelgalicianueva",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.3566190000",
+    "longitude": "19.5760200000"
+  },
+  {
+    "location_id": "gothal",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.9484042900",
+    "longitude": "19.2778949300"
+  },
+  {
+    "location_id": "skilandostruzna",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "50.1853266600",
+    "longitude": "17.0511233200"
   },
   {
     "id": "Bodyshop_NA556",
