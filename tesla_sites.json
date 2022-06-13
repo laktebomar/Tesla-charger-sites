@@ -137616,16 +137616,6 @@
     "longitude": "174.6128640000"
   },
   {
-    "location_id": "dc796060",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "22.2444850000",
-    "longitude": "114.1647450000"
-  },
-  {
     "location_id": "glenmillspasupercharger",
     "location_type": [
       "supercharger",
@@ -139791,14 +139781,14 @@
     "longitude": "126.8953000000"
   },
   {
-    "location_id": "nowonsupercharger",
+    "location_id": "suyusupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.6545477000",
-    "longitude": "127.0550077000"
+    "open_soon": "0",
+    "latitude": "37.6371400000",
+    "longitude": "127.0233400000"
   },
   {
     "location_id": "yonginsupercharger",
@@ -163985,14 +163975,14 @@
     "longitude": "126.8986300000"
   },
   {
-    "location_id": "GwangjuWestJeollasupercharger",
+    "location_id": "gwangjucheomdansupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "35.2177700000",
-    "longitude": "126.8460000000"
+    "open_soon": "0",
+    "latitude": "35.2164800000",
+    "longitude": "126.8492600000"
   },
   {
     "location_id": "gwangyangsupercharger",
@@ -166462,6 +166452,35 @@
     "open_soon": "0",
     "latitude": "50.1853266600",
     "longitude": "17.0511233200"
+  },
+  {
+    "location_id": "gyeonggigwangjusupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.4033220000",
+    "longitude": "127.2233790000"
+  },
+  {
+    "location_id": "seoulccmmsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.5292900000",
+    "longitude": "126.9248400000"
+  },
+  {
+    "location_id": "dc958249478",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "37.0422300000",
+    "longitude": "-122.1492200000"
   },
   {
     "id": "Bodyshop_NA556",
