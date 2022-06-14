@@ -160464,14 +160464,14 @@
     "longitude": "-73.8726830000"
   },
   {
-    "location_id": "seoultimesstreamsupercharger",
+    "location_id": "Dongjaksupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "37.4839000000",
-    "longitude": "126.9303000000"
+    "open_soon": "1",
+    "latitude": "37.4997200000",
+    "longitude": "126.9281700000"
   },
   {
     "location_id": "DongtanLakesupercharger",
