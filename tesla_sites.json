@@ -86677,6 +86677,16 @@
     "longitude": "13.4189680000"
   },
   {
+    "location_id": "pyhtaasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "60.4890540000",
+    "longitude": "26.5548350000"
+  },
+  {
     "location_id": "baiesaintpaulsupercharger",
     "location_type": [
       "supercharger",
@@ -130673,6 +130683,16 @@
     "open_soon": "0",
     "latitude": "37.4998730000",
     "longitude": "127.0323540000"
+  },
+  {
+    "location_id": "karesuvantosupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "68.4501910000",
+    "longitude": "22.4814320000"
   },
   {
     "location_id": "nicesupercharger",
