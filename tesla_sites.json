@@ -102630,9 +102630,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "49.1191140000",
-    "longitude": "-116.5237850000"
+    "open_soon": "1",
+    "latitude": "49.0955200000",
+    "longitude": "-116.5136970000"
   },
   {
     "location_id": "dangjinsupercharger",
@@ -141826,9 +141826,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "28.4923500000",
-    "longitude": "-81.4293400000"
+    "open_soon": "1",
+    "latitude": "28.4788240000",
+    "longitude": "-81.4493740000"
   },
   {
     "location_id": "OrlandoFLPalmPkwysupercharger",
@@ -142246,9 +142246,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "32.7764230000",
-    "longitude": "-117.1551710000"
+    "open_soon": "1",
+    "latitude": "32.7758300000",
+    "longitude": "-117.1540003000"
   },
   {
     "location_id": "SanFernandoCAsupercharger",
@@ -152334,9 +152334,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "29.7966900000",
-    "longitude": "-82.5003700000"
+    "open_soon": "1",
+    "latitude": "29.7936960000",
+    "longitude": "-82.4942660000"
   },
   {
     "location_id": "BartonsvillePASupercharger",
@@ -159978,9 +159978,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "45.8412810000",
-    "longitude": "-119.6832020000"
+    "open_soon": "1",
+    "latitude": "45.8400300000",
+    "longitude": "-119.7009340000"
   },
   {
     "location_id": "bobbausuperchargerq122",
@@ -161199,9 +161199,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "43.5768740000",
-    "longitude": "-89.7795250000"
+    "open_soon": "1",
+    "latitude": "43.6010480000",
+    "longitude": "-89.7935200000"
   },
   {
     "location_id": "Lakewood,CASupercharger",
@@ -161609,9 +161609,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "31.7250000000",
-    "longitude": "-93.1623700000"
+    "open_soon": "1",
+    "latitude": "31.7608480000",
+    "longitude": "-93.0861140000"
   },
   {
     "location_id": "NewBraunfelsTXSupercharger",
