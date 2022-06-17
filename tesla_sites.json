@@ -7806,15 +7806,6 @@
     "longitude": "133.2876680000"
   },
   {
-    "location_id": "dc5215",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "36.4636316000",
-    "longitude": "140.0863307000"
-  },
-  {
     "location_id": "mensbechsupercharger",
     "location_type": [
       "supercharger",
@@ -138017,8 +138008,7 @@
     "location_id": "LeviFinlandsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "1",
     "latitude": "67.8048600000",
@@ -151884,8 +151874,7 @@
     "location_id": "RandersWestSupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "1",
     "latitude": "56.4143151800",
@@ -155005,8 +154994,7 @@
     "location_id": "Koldingsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "1",
     "latitude": "55.4900588400",
@@ -162545,8 +162533,7 @@
     "location_id": "taastrupsuperchargerq122",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "1",
     "latitude": "55.6594390600",
@@ -164108,8 +164095,7 @@
     "location_id": "Karsamakiq222",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "1",
     "latitude": "63.9742700000",
