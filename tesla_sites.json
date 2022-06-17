@@ -7806,6 +7806,15 @@
     "longitude": "133.2876680000"
   },
   {
+    "location_id": "dc5215",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "36.4636316000",
+    "longitude": "140.0863307000"
+  },
+  {
     "location_id": "mensbechsupercharger",
     "location_type": [
       "supercharger",
@@ -163932,6 +163941,16 @@
     "longitude": "-85.7469300000"
   },
   {
+    "location_id": "CheongjuAsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "36.6743200000",
+    "longitude": "127.4832700000"
+  },
+  {
     "location_id": "GumiAsupercharger",
     "location_type": [
       "supercharger",
@@ -163970,6 +163989,16 @@
     "open_soon": "0",
     "latitude": "34.9618349000",
     "longitude": "127.5654270900"
+  },
+  {
+    "location_id": "SokchoBsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "38.2038300000",
+    "longitude": "128.5468800000"
   },
   {
     "location_id": "SongpaOlympicParksupercharger",
