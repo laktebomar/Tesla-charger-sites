@@ -138017,8 +138017,7 @@
     "location_id": "LeviFinlandsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "1",
     "latitude": "67.8048600000",
@@ -151884,8 +151883,7 @@
     "location_id": "RandersWestSupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "1",
     "latitude": "56.4143151800",
@@ -155005,8 +155003,7 @@
     "location_id": "Koldingsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "1",
     "latitude": "55.4900588400",
@@ -162545,8 +162542,7 @@
     "location_id": "taastrupsuperchargerq122",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "1",
     "latitude": "55.6594390600",
@@ -164108,8 +164104,7 @@
     "location_id": "Karsamakiq222",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "1",
     "latitude": "63.9742700000",
