@@ -7806,15 +7806,6 @@
     "longitude": "133.2876680000"
   },
   {
-    "location_id": "dc5215",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "36.4636316000",
-    "longitude": "140.0863307000"
-  },
-  {
     "location_id": "mensbechsupercharger",
     "location_type": [
       "supercharger",
