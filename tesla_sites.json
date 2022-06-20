@@ -53943,9 +53943,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "56.5098860000",
-    "longitude": "27.3338420000"
+    "open_soon": "0",
+    "latitude": "56.5150890000",
+    "longitude": "27.3524720000"
   },
   {
     "location_id": "apeldoornsupercharger",
@@ -101249,16 +101249,6 @@
     "longitude": "6.6262750000"
   },
   {
-    "location_id": "dc47892",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "50.8032840000",
-    "longitude": "-4.5171180000"
-  },
-  {
     "location_id": "dc49082",
     "location_type": [
       "destination charger",
@@ -102577,11 +102567,12 @@
     "location_id": "chartresfrsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
-    "open_soon": "1",
-    "latitude": "48.4410400000",
-    "longitude": "1.4831500000"
+    "open_soon": "0",
+    "latitude": "48.4458152500",
+    "longitude": "1.5390658100"
   },
   {
     "location_id": "chillicotheohsupercharger",
@@ -138008,11 +137999,12 @@
     "location_id": "LeviFinlandsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
-    "open_soon": "1",
-    "latitude": "67.8048600000",
-    "longitude": "24.8009580000"
+    "open_soon": "0",
+    "latitude": "67.7858410000",
+    "longitude": "24.8182810000"
   },
   {
     "location_id": "Kuopiofisupercharger",
@@ -138124,9 +138116,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "43.6460902800",
-    "longitude": "1.3684302020"
+    "open_soon": "0",
+    "latitude": "43.6475980000",
+    "longitude": "1.3697540000"
   },
   {
     "location_id": "Vierzonfrsupercharger",
@@ -162293,11 +162285,12 @@
     "location_id": "seljordsuperchargerq122",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
-    "open_soon": "1",
-    "latitude": "59.4894028500",
-    "longitude": "8.6441676030"
+    "open_soon": "0",
+    "latitude": "59.4807350000",
+    "longitude": "8.6356370000"
   },
   {
     "location_id": "SelmaCASupercharger",
@@ -162625,9 +162618,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "51.2264890000",
-    "longitude": "-0.7224910000"
+    "open_soon": "0",
+    "latitude": "51.2263080000",
+    "longitude": "-0.7234570000"
   },
   {
     "location_id": "TopekaKSSupercharger",
@@ -164075,11 +164068,12 @@
     "location_id": "Karsamakiq222",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
-    "open_soon": "1",
-    "latitude": "63.9742700000",
-    "longitude": "25.7598218000"
+    "open_soon": "0",
+    "latitude": "63.9740000000",
+    "longitude": "25.7602200000"
   },
   {
     "location_id": "Albertvilleq222",
@@ -164310,16 +164304,6 @@
     "open_soon": "1",
     "latitude": "47.3310567000",
     "longitude": "0.6833811830"
-  },
-  {
-    "location_id": "Leerq222",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "53.2593118000",
-    "longitude": "7.4328983000"
   },
   {
     "location_id": "Koblenzq222",
