@@ -160381,14 +160381,14 @@
     "longitude": "128.5933900000"
   },
   {
-    "location_id": "daegususeongsupercharger",
+    "location_id": "DaeguSuseongsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "35.8272600000",
-    "longitude": "128.6236900000"
+    "open_soon": "1",
+    "latitude": "35.8300800000",
+    "longitude": "128.6233100000"
   },
   {
     "location_id": "dartfordservicecentresuperchargerq122",
