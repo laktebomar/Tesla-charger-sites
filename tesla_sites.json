@@ -53307,16 +53307,6 @@
     "longitude": "-121.3363420000"
   },
   {
-    "location_id": "sturgeonbaysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "44.8221130000",
-    "longitude": "-87.4026860000"
-  },
-  {
     "location_id": "sudburysupercharger",
     "location_type": [
       "supercharger",
@@ -53465,16 +53455,6 @@
     "open_soon": "0",
     "latitude": "49.2877780000",
     "longitude": "-123.1154890000"
-  },
-  {
-    "location_id": "vistasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "33.2008820000",
-    "longitude": "-117.2457890000"
   },
   {
     "location_id": "wallsupercharger",
@@ -74185,16 +74165,6 @@
     "open_soon": "0",
     "latitude": "42.4479130000",
     "longitude": "-75.0489110000"
-  },
-  {
-    "location_id": "ontariocaliforniasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "34.0662510000",
-    "longitude": "-117.6500790000"
   },
   {
     "location_id": "OrangevilleONsupercharger",
@@ -155158,9 +155128,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "25.9429200000",
-    "longitude": "-80.3448400000"
+    "open_soon": "1",
+    "latitude": "25.8577380000",
+    "longitude": "-80.2786770000"
   },
   {
     "location_id": "KendallFLSupercharger",
@@ -161067,9 +161037,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "34.7391030000",
-    "longitude": "-86.6663200000"
+    "open_soon": "1",
+    "latitude": "34.7304080000",
+    "longitude": "-86.5859350000"
   },
   {
     "location_id": "HuttoTXSupercharger",
@@ -161117,9 +161087,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "41.6757800000",
-    "longitude": "-91.5207800000"
+    "open_soon": "1",
+    "latitude": "41.6612650000",
+    "longitude": "-91.5301660000"
   },
   {
     "location_id": "JacksonvilleNCSupercharger",
@@ -162358,9 +162328,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "39.5540970000",
-    "longitude": "-85.7737450000"
+    "open_soon": "1",
+    "latitude": "39.5215870000",
+    "longitude": "-85.7770180000"
   },
   {
     "location_id": "Siheungsupercharger",
@@ -162688,9 +162658,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "53.1992160000",
-    "longitude": "-105.7314950000"
+    "open_soon": "1",
+    "latitude": "53.2035375700",
+    "longitude": "-105.7524593000"
   },
   {
     "location_id": "TustinCASupercharger10",
