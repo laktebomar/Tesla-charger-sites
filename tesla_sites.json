@@ -6596,14 +6596,14 @@
     "longitude": "-121.3653404000"
   },
   {
-    "location_id": "osakakitakupanasonicsupercharger",
+    "location_id": "osakaogimachisupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
     "open_soon": "0",
-    "latitude": "34.7009410000",
-    "longitude": "135.5107700000"
+    "latitude": "34.7016823086",
+    "longitude": "135.5102595809"
   },
   {
     "location_id": "westspringfieldsupercharger",
@@ -73754,7 +73754,8 @@
     "location_id": "lappenrantasupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "61.0526900000",
@@ -122079,15 +122080,6 @@
     "longitude": "175.6187760000"
   },
   {
-    "location_id": "dc81275",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "35.5331000000",
-    "longitude": "139.6958380000"
-  },
-  {
     "location_id": "dc81530",
     "location_type": [
       "destination charger"
@@ -165951,9 +165943,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "35.5344338800",
-    "longitude": "139.6946541000"
+    "open_soon": "0",
+    "latitude": "35.5344338829",
+    "longitude": "139.6946540953"
   },
   {
     "location_id": "kagawatakamatsusupercharger",
