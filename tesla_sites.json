@@ -20256,7 +20256,8 @@
     "location_id": "brokelandsheiabrusupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "58.8204080000",
@@ -53981,14 +53982,14 @@
     "longitude": "6.0572400000"
   },
   {
-    "location_id": "salaspilssupercharger",
+    "location_id": "rigassupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "56.8514440000",
-    "longitude": "24.3339550000"
+    "latitude": "56.9225460000",
+    "longitude": "24.1680804000"
   },
   {
     "location_id": "skibotnsupercharger",
@@ -123815,9 +123816,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "53.2996570000",
-    "longitude": "-8.7459150000"
+    "open_soon": "0",
+    "latitude": "53.3013730000",
+    "longitude": "-8.7620950000"
   },
   {
     "location_id": "corksupercharger",
@@ -164405,9 +164406,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "50.5572283300",
-    "longitude": "8.5649642240"
+    "open_soon": "0",
+    "latitude": "50.5528560000",
+    "longitude": "8.5328060000"
   },
   {
     "location_id": "Hattersheimq222",
