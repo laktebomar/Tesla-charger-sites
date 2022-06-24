@@ -23880,16 +23880,6 @@
     "longitude": "-0.6050290000"
   },
   {
-    "location_id": "dc11005",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "54.4790890000",
-    "longitude": "9.0469330000"
-  },
-  {
     "location_id": "dc11024",
     "location_type": [
       "destination charger",
@@ -38361,16 +38351,6 @@
     "open_soon": "0",
     "latitude": "52.2334140000",
     "longitude": "5.8782420000"
-  },
-  {
-    "location_id": "dc14054",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "46.4541060000",
-    "longitude": "7.4365770000"
   },
   {
     "location_id": "dc17935",
@@ -113104,8 +113084,8 @@
   {
     "location_id": "dc56660",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "50.7460580000",
@@ -154851,11 +154831,12 @@
     "location_id": "Halmstadsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
-    "open_soon": "1",
-    "latitude": "56.6740388400",
-    "longitude": "12.8981576200"
+    "open_soon": "0",
+    "latitude": "56.6574230000",
+    "longitude": "12.9072570000"
   },
   {
     "location_id": "Joensuusupercharger",
@@ -160742,9 +160723,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.2982537900",
-    "longitude": "-3.8213066150"
+    "open_soon": "0",
+    "latitude": "40.2980970000",
+    "longitude": "-3.8209440000"
   },
   {
     "location_id": "FullertonCASupercharger",
@@ -162641,11 +162622,12 @@
     "location_id": "tournussuperchargerq122",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
-    "open_soon": "1",
-    "latitude": "46.5634675200",
-    "longitude": "4.9112756120"
+    "open_soon": "0",
+    "latitude": "46.5773406700",
+    "longitude": "4.8995381800"
   },
   {
     "location_id": "TrentonONSupercharger",
@@ -165254,21 +165236,23 @@
     "location_id": "Gaddedetatortq222",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
-    "open_soon": "1",
-    "latitude": "64.5065610200",
-    "longitude": "14.1444190000"
+    "open_soon": "0",
+    "latitude": "64.5065000000",
+    "longitude": "14.1435000000"
   },
   {
     "location_id": "Malatatortq222",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
-    "open_soon": "1",
-    "latitude": "65.1854777545",
-    "longitude": "18.7376904207"
+    "open_soon": "0",
+    "latitude": "65.1789000000",
+    "longitude": "18.7462000000"
   },
   {
     "location_id": "FagerstaLudvikaq222",
