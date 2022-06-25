@@ -27796,16 +27796,6 @@
     "longitude": "15.8646580000"
   },
   {
-    "location_id": "dc17631",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "56.1652580000",
-    "longitude": "15.5860730000"
-  },
-  {
     "location_id": "dc18478",
     "location_type": [
       "destination charger",
@@ -30118,16 +30108,6 @@
     "open_soon": "0",
     "latitude": "50.4726120000",
     "longitude": "4.4742470000"
-  },
-  {
-    "location_id": "dc13870",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "49.2867760000",
-    "longitude": "-0.1296130000"
   },
   {
     "location_id": "dc13973",
@@ -39449,8 +39429,8 @@
   {
     "location_id": "dc22031",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "47.6477670000",
@@ -99160,16 +99140,6 @@
     "longitude": "35.8589840000"
   },
   {
-    "location_id": "dc22636",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "54.0918100000",
-    "longitude": "10.8021960000"
-  },
-  {
     "location_id": "dc29418",
     "location_type": [
       "destination charger",
@@ -105119,16 +105089,6 @@
     "open_soon": "0",
     "latitude": "50.4016000000",
     "longitude": "-4.0563630000"
-  },
-  {
-    "location_id": "dc36152",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "53.2937120000",
-    "longitude": "-2.9180560000"
   },
   {
     "location_id": "dc39183",
@@ -138561,6 +138521,16 @@
     "longitude": "-18.0519160000"
   },
   {
+    "location_id": "ReykjavikCentralissupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "64.1484130000",
+    "longitude": "-21.9343240000"
+  },
+  {
     "location_id": "Haifailsupercharger",
     "location_type": [
       "supercharger",
@@ -154859,6 +154829,16 @@
     "longitude": "27.7367520000"
   },
   {
+    "location_id": "Keflaviksupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "63.9985210000",
+    "longitude": "-22.5882190000"
+  },
+  {
     "location_id": "Kielsupercharger",
     "location_type": [
       "supercharger",
@@ -166451,6 +166431,46 @@
     "open_soon": "0",
     "latitude": "22.2187230000",
     "longitude": "120.7939294000"
+  },
+  {
+    "location_id": "hotelterraverda",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "42.0142600000",
+    "longitude": "3.1397800000"
+  },
+  {
+    "location_id": "guyershousehotel",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "51.4346300000",
+    "longitude": "-2.2072140000"
+  },
+  {
+    "location_id": "doubletreebyhiltonmilan",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "45.6926100000",
+    "longitude": "8.7021700000"
+  },
+  {
+    "location_id": "ameronhotelregent",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "50.9384697000",
+    "longitude": "6.9089440000"
   },
   {
     "id": "Bodyshop_NA556",
