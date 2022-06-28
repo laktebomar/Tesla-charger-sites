@@ -42287,16 +42287,6 @@
     "longitude": "12.6052870000"
   },
   {
-    "location_id": "dc15868",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "50.4199480000",
-    "longitude": "10.2935050000"
-  },
-  {
     "location_id": "dc16509",
     "location_type": [
       "destination charger",
@@ -75257,16 +75247,6 @@
     "longitude": "120.1488110000"
   },
   {
-    "location_id": "dc28907",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "37.6235600000",
-    "longitude": "127.8683000000"
-  },
-  {
     "location_id": "dc26823",
     "location_type": [
       "destination charger",
@@ -77069,12 +77049,12 @@
   {
     "location_id": "dc26899",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
-    "latitude": "-37.8633580000",
-    "longitude": "145.3530550000"
+    "latitude": "-37.8726600000",
+    "longitude": "145.3438600000"
   },
   {
     "location_id": "dc31649",
@@ -89482,8 +89462,8 @@
   {
     "location_id": "dc31572",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "48.5508720000",
@@ -101075,8 +101055,8 @@
   {
     "location_id": "dc40241",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "42.7589780000",
@@ -129136,8 +129116,8 @@
   {
     "location_id": "dc80096",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "47.2423820000",
@@ -152391,9 +152371,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.6582720000",
-    "longitude": "-74.2998930000"
+    "open_soon": "0",
+    "latitude": "40.6582662300",
+    "longitude": "-74.2878921900"
   },
   {
     "location_id": "CrossvilleTNSupercharger",
@@ -152501,9 +152481,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "41.0792980000",
-    "longitude": "-85.1396120000"
+    "open_soon": "0",
+    "latitude": "41.0731500000",
+    "longitude": "-85.2181800000"
   },
   {
     "location_id": "FriscoTXSupercharger",
@@ -155179,6 +155159,16 @@
     "longitude": "-77.5476900000"
   },
   {
+    "location_id": "RiverviewFLSupercharger2",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "27.8581300000",
+    "longitude": "-82.3274600000"
+  },
+  {
     "location_id": "SaltLakeCityUTSupercharger2",
     "location_type": [
       "supercharger",
@@ -155364,9 +155354,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "42.6830490000",
-    "longitude": "-89.0194960000"
+    "open_soon": "0",
+    "latitude": "42.7176930000",
+    "longitude": "-88.9947180000"
   },
   {
     "location_id": "LaurelMDSupercharger2",
@@ -159692,9 +159682,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "35.2220074700",
-    "longitude": "-101.8310283000"
+    "open_soon": "0",
+    "latitude": "35.1933210000",
+    "longitude": "-101.7445100000"
   },
   {
     "location_id": "anconasuperchargerq122",
@@ -163932,14 +163922,14 @@
     "longitude": "127.5654270900"
   },
   {
-    "location_id": "SongpaOlympicParksupercharger",
+    "location_id": "seoulsongpaolympicparksupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "37.5176000000",
-    "longitude": "127.1129600000"
+    "open_soon": "0",
+    "latitude": "35.5121000000",
+    "longitude": "127.0992000000"
   },
   {
     "location_id": "UlsanAsupercharger",
@@ -166471,6 +166461,46 @@
     "open_soon": "0",
     "latitude": "50.9384697000",
     "longitude": "6.9089440000"
+  },
+  {
+    "location_id": "anseongsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "36.9886000000",
+    "longitude": "127.2669000000"
+  },
+  {
+    "location_id": "bialystoksupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "53.1253240000",
+    "longitude": "23.1685350000"
+  },
+  {
+    "location_id": "richmondrisupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "41.5139200000",
+    "longitude": "-71.6982000000"
+  },
+  {
+    "location_id": "soledadcahdelarosastreetsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "36.4184710000",
+    "longitude": "-121.3203250000"
   },
   {
     "id": "Bodyshop_NA556",
