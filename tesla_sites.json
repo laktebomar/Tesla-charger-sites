@@ -135049,6 +135049,16 @@
     "longitude": "153.4107600000"
   },
   {
+    "location_id": "toombulsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "-27.4087880000",
+    "longitude": "153.0611750000"
+  },
+  {
     "location_id": "serramonte1500collinsave",
     "location_type": [
       "store"
