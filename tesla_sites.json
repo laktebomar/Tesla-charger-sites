@@ -666,14 +666,14 @@
     "longitude": "-110.1455580000"
   },
   {
-    "location_id": "singaporewestsupercharger",
+    "location_id": "singaporewestcoastsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "1.3084891090",
-    "longitude": "103.7659150526"
+    "open_soon": "0",
+    "latitude": "1.3037319100",
+    "longitude": "103.7666297200"
   },
   {
     "location_id": "houstongalleria",
@@ -35628,16 +35628,6 @@
     "longitude": "11.6203960000"
   },
   {
-    "location_id": "dc11607",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "45.4677310000",
-    "longitude": "12.5306740000"
-  },
-  {
     "location_id": "dc14262",
     "location_type": [
       "destination charger",
@@ -44785,16 +44775,6 @@
     "open_soon": "0",
     "latitude": "47.3378400000",
     "longitude": "16.2275550000"
-  },
-  {
-    "location_id": "dc15291",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "50.6003620000",
-    "longitude": "9.7002240000"
   },
   {
     "location_id": "dc15528",
@@ -55825,16 +55805,6 @@
     "open_soon": "0",
     "latitude": "45.9580300000",
     "longitude": "8.4725100000"
-  },
-  {
-    "location_id": "dc23585",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "46.5221750000",
-    "longitude": "6.6267530000"
   },
   {
     "location_id": "dc23869",
@@ -137856,9 +137826,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "50.8468730000",
-    "longitude": "4.3530910000"
+    "open_soon": "0",
+    "latitude": "50.8787820000",
+    "longitude": "4.3733210000"
   },
   {
     "location_id": "SofiaBulgariasupercharger",
@@ -154834,9 +154804,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "31.1994330000",
-    "longitude": "35.3638310000"
+    "open_soon": "0",
+    "latitude": "31.1991520000",
+    "longitude": "35.3641540000"
   },
   {
     "location_id": "Oskarshamnsupercharger",
@@ -159612,9 +159582,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "25.4026300000",
-    "longitude": "55.4840900000"
+    "open_soon": "0",
+    "latitude": "25.3978590000",
+    "longitude": "55.4791860000"
   },
   {
     "location_id": "algecirassuperchargerq122",
@@ -164648,9 +164618,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "31.6111480000",
-    "longitude": "34.7684590000"
+    "open_soon": "0",
+    "latitude": "31.1991520000",
+    "longitude": "35.3641540000"
   },
   {
     "location_id": "Ashdodq222",
@@ -165576,11 +165546,12 @@
     "location_id": "aisupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
-    "open_soon": "1",
-    "latitude": "60.6282148991",
-    "longitude": "8.5627659181"
+    "open_soon": "0",
+    "latitude": "60.6299500000",
+    "longitude": "8.5639610000"
   },
   {
     "location_id": "dc1127818",
@@ -166491,6 +166462,56 @@
     "open_soon": "0",
     "latitude": "36.4184710000",
     "longitude": "-121.3203250000"
+  },
+  {
+    "location_id": "alhabtoorcitysupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "25.1845221000",
+    "longitude": "55.2542576000"
+  },
+  {
+    "location_id": "azrielitownsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "32.0779870000",
+    "longitude": "34.7937980000"
+  },
+  {
+    "location_id": "gleisdreiecksupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "52.5021680000",
+    "longitude": "13.3741850000"
+  },
+  {
+    "location_id": "olympiabrno",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "49.1403370000",
+    "longitude": "16.6326170000"
+  },
+  {
+    "location_id": "maysapartmentsbymays",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "67.9331000000",
+    "longitude": "13.0869400000"
   },
   {
     "id": "Bodyshop_NA556",
