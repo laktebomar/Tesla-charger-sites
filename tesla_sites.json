@@ -54655,6 +54655,16 @@
     "longitude": "-79.0023430000"
   },
   {
+    "location_id": "munchbergnorddesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "50.2028720000",
+    "longitude": "11.7765520000"
+  },
+  {
     "location_id": "newarkdesupercharger",
     "location_type": [
       "supercharger",
@@ -139677,6 +139687,16 @@
     "longitude": "126.8208652000"
   },
   {
+    "location_id": "tainanshanhuasupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "23.1362698400",
+    "longitude": "120.3072705000"
+  },
+  {
     "location_id": "yunlinchaiyisupercharger",
     "location_type": [
       "supercharger",
@@ -153992,6 +154012,16 @@
     "open_soon": "0",
     "latitude": "40.4099800000",
     "longitude": "-105.0728700000"
+  },
+  {
+    "location_id": "reinfeldsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "53.8232230000",
+    "longitude": "10.5036200000"
   },
   {
     "location_id": "sundsvallwestsupercharger",
