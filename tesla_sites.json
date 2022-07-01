@@ -138528,9 +138528,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "50.8165080000",
-    "longitude": "5.7256510000"
+    "open_soon": "1",
+    "latitude": "50.8491720000",
+    "longitude": "5.6885760000"
   },
   {
     "location_id": "Ridderkerknlsupercharger",
@@ -160806,16 +160806,6 @@
     "open_soon": "0",
     "latitude": "37.2865600000",
     "longitude": "127.0559400000"
-  },
-  {
-    "location_id": "gyeongjusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "35.8503500000",
-    "longitude": "129.2771500000"
   },
   {
     "location_id": "HallandaleBeachFLSupercharger",
