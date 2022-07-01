@@ -140152,9 +140152,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "38.9961490000",
-    "longitude": "-77.0757790000"
+    "open_soon": "1",
+    "latitude": "38.9949200000",
+    "longitude": "-77.0771840000"
   },
   {
     "location_id": "ChicagoILBucktownsupercharger",
@@ -141292,9 +141292,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "43.6611350000",
-    "longitude": "-71.4939130000"
+    "open_soon": "1",
+    "latitude": "43.6577210000",
+    "longitude": "-71.4996450000"
   },
   {
     "location_id": "MeridaYucatansupercharger",
@@ -155124,9 +155124,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "43.0672500000",
-    "longitude": "-76.1749720000"
+    "open_soon": "1",
+    "latitude": "43.0479860000",
+    "longitude": "-76.1474570000"
   },
   {
     "location_id": "TampaFLSupercharger5",
@@ -160147,14 +160147,14 @@
     "longitude": "-117.0839838000"
   },
   {
-    "location_id": "chuncheonsupercharger",
+    "location_id": "Chuncheonsupercharger",
     "location_type": [
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "37.8632600000",
-    "longitude": "127.7481400000"
+    "open_soon": "1",
+    "latitude": "37.8635400000",
+    "longitude": "127.7475100000"
   },
   {
     "location_id": "cloppenburgsuperchargerq122",
@@ -160202,9 +160202,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "27.7102820000",
-    "longitude": "-97.3684120000"
+    "open_soon": "1",
+    "latitude": "27.8003763400",
+    "longitude": "-97.3968013700"
   },
   {
     "location_id": "CovingtonLASupercharger",
@@ -161413,9 +161413,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "40.2670997000",
-    "longitude": "-74.4718163000"
+    "open_soon": "1",
+    "latitude": "40.3365360000",
+    "longitude": "-74.4348500000"
   },
   {
     "location_id": "MonticelloMNSupercharger",
@@ -161553,9 +161553,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "41.1205450000",
-    "longitude": "-100.7628020000"
+    "open_soon": "1",
+    "latitude": "41.1401261900",
+    "longitude": "-100.7624667000"
   },
   {
     "location_id": "northeimsuperchargerq122",
@@ -166492,26 +166492,6 @@
     "open_soon": "0",
     "latitude": "23.1291190000",
     "longitude": "120.3089210000"
-  },
-  {
-    "location_id": "madisonvilletxsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "30.9661770000",
-    "longitude": "-95.8795630000"
-  },
-  {
-    "location_id": "hustontxhempsteadroadsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "29.9130130000",
-    "longitude": "-95.6159430000"
   },
   {
     "id": "Bodyshop_NA556",
