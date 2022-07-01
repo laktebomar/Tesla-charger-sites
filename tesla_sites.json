@@ -166484,16 +166484,6 @@
     "longitude": "13.0869400000"
   },
   {
-    "location_id": "tainanshanhuasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "23.1291190000",
-    "longitude": "120.3089210000"
-  },
-  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
