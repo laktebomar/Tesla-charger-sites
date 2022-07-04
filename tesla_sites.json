@@ -166802,6 +166802,36 @@
     "longitude": "-72.6095640000"
   },
   {
+    "location_id": "wmhotelsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.3849700000",
+    "longitude": "114.2760000000"
+  },
+  {
+    "location_id": "fullertonoceanparkhotelsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.2364200000",
+    "longitude": "114.1663800000"
+  },
+  {
+    "location_id": "onepacificcentresupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "22.3127000000",
+    "longitude": "114.2247500000"
+  },
+  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
