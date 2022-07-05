@@ -129090,17 +129090,6 @@
     "longitude": "6.0210930000"
   },
   {
-    "location_id": "naardensupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger",
-      "party"
-    ],
-    "open_soon": "0",
-    "latitude": "52.3086580000",
-    "longitude": "5.1409260000"
-  },
-  {
     "location_id": "dc41241",
     "location_type": [
       "destination charger",
@@ -152023,7 +152012,7 @@
       "standard charger",
       "party"
     ],
-    "open_soon": "1",
+    "open_soon": "0",
     "latitude": "41.0862780000",
     "longitude": "1.0378060000"
   },
@@ -163822,7 +163811,7 @@
       "standard charger"
     ],
     "open_soon": "0",
-    "latitude": "35.5121000000",
+    "latitude": "37.5121000000",
     "longitude": "127.0992000000"
   },
   {
