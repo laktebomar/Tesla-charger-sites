@@ -29883,8 +29883,8 @@
   {
     "location_id": "dc12763",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "43.1564870000",
@@ -50993,8 +50993,8 @@
   {
     "location_id": "dc19020",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "44.0304550000",
@@ -73917,9 +73917,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "43.6019840000",
-    "longitude": "3.9174330000"
+    "open_soon": "1",
+    "latitude": "43.6092550000",
+    "longitude": "3.8762200000"
   },
   {
     "location_id": "montrosecosupercharger",
@@ -97501,6 +97501,16 @@
     "longitude": "55.3270720000"
   },
   {
+    "location_id": "dc28560",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.5710010000",
+    "longitude": "13.6623090000"
+  },
+  {
     "location_id": "dc31874",
     "location_type": [
       "destination charger",
@@ -105173,6 +105183,16 @@
     "open_soon": "0",
     "latitude": "46.4716800000",
     "longitude": "11.3250070000"
+  },
+  {
+    "location_id": "dc34318",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "38.6872770000",
+    "longitude": "0.1370690000"
   },
   {
     "location_id": "dc41958",
@@ -166799,36 +166819,6 @@
     "open_soon": "0",
     "latitude": "22.3127000000",
     "longitude": "114.2247500000"
-  },
-  {
-    "location_id": "motelboczów",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "52.3225904900",
-    "longitude": "14.9436229900"
-  },
-  {
-    "location_id": "sakrisøyrorbueras",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "67.9415800000",
-    "longitude": "13.1117400000"
-  },
-  {
-    "location_id": "lessuitesderobinson",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "43.5376800000",
-    "longitude": "6.9445600000"
   },
   {
     "id": "Bodyshop_NA556",
