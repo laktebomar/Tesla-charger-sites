@@ -121481,8 +121481,8 @@
   {
     "location_id": "dc79795",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "23.1055000000",
@@ -124779,8 +124779,8 @@
   {
     "location_id": "dc86719",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "25.0896460000",
@@ -129030,8 +129030,8 @@
   {
     "location_id": "dc95840",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "24.6686470000",
@@ -137273,8 +137273,8 @@
   {
     "location_id": "dc744971",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "24.7176580000",
@@ -161072,16 +161072,6 @@
     "longitude": "-73.2850310000"
   },
   {
-    "location_id": "leobensuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "47.3791700000",
-    "longitude": "14.9937700000"
-  },
-  {
     "location_id": "LexingtonKYSupercharger22",
     "location_type": [
       "supercharger",
@@ -166251,8 +166241,8 @@
   {
     "location_id": "dc1183220",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "22.2187230000",
