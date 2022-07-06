@@ -29883,8 +29883,8 @@
   {
     "location_id": "dc12763",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "43.1564870000",
@@ -50993,8 +50993,8 @@
   {
     "location_id": "dc19020",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "44.0304550000",
@@ -73917,9 +73917,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "43.6019840000",
-    "longitude": "3.9174330000"
+    "open_soon": "1",
+    "latitude": "43.6092550000",
+    "longitude": "3.8762200000"
   },
   {
     "location_id": "montrosecosupercharger",
@@ -97501,6 +97501,16 @@
     "longitude": "55.3270720000"
   },
   {
+    "location_id": "dc28560",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "48.5710010000",
+    "longitude": "13.6623090000"
+  },
+  {
     "location_id": "dc31874",
     "location_type": [
       "destination charger",
@@ -105173,6 +105183,16 @@
     "open_soon": "0",
     "latitude": "46.4716800000",
     "longitude": "11.3250070000"
+  },
+  {
+    "location_id": "dc34318",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "38.6872770000",
+    "longitude": "0.1370690000"
   },
   {
     "location_id": "dc41958",
@@ -127404,6 +127424,16 @@
     "longitude": "121.5511720000"
   },
   {
+    "location_id": "dc91274",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "23.8123300000",
+    "longitude": "120.8516230000"
+  },
+  {
     "location_id": "dc57998",
     "location_type": [
       "standard charger",
@@ -132613,6 +132643,16 @@
     "open_soon": "0",
     "latitude": "25.0365780000",
     "longitude": "121.5676150000"
+  },
+  {
+    "location_id": "dc524545",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "24.2766470000",
+    "longitude": "120.8453790000"
   },
   {
     "location_id": "dc524546",
@@ -139165,9 +139205,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "51.7296690000",
-    "longitude": "-1.2492570000"
+    "open_soon": "1",
+    "latitude": "51.7295900000",
+    "longitude": "-1.2487600000"
   },
   {
     "location_id": "Trenthamgbsupercharger",
@@ -151869,12 +151909,11 @@
     "location_id": "OrstaVoldaSupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "62.1404220000",
-    "longitude": "6.0901910000"
+    "open_soon": "1",
+    "latitude": "62.1753590000",
+    "longitude": "6.0527860000"
   },
   {
     "location_id": "OsloNorthSupercharger",
@@ -152822,6 +152861,16 @@
     "open_soon": "0",
     "latitude": "23.8723700000",
     "longitude": "120.9440300000"
+  },
+  {
+    "location_id": "dc912454",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "23.9412000000",
+    "longitude": "120.9799700000"
   },
   {
     "location_id": "airedelabissupercharger",
@@ -164000,12 +164049,11 @@
     "location_id": "NeuvilleenFerrainq222",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "50.7418500000",
-    "longitude": "3.1449860000"
+    "open_soon": "1",
+    "latitude": "50.7423212100",
+    "longitude": "3.1432949540"
   },
   {
     "location_id": "Neversq222",
@@ -164683,9 +164731,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "44.2654261300",
-    "longitude": "8.4251869600"
+    "open_soon": "1",
+    "latitude": "44.2649548000",
+    "longitude": "8.4252229000"
   },
   {
     "location_id": "Ammanq222",
@@ -166771,47 +166819,6 @@
     "open_soon": "0",
     "latitude": "22.3127000000",
     "longitude": "114.2247500000"
-  },
-  {
-    "location_id": "motelboczów",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "52.3225904900",
-    "longitude": "14.9436229900"
-  },
-  {
-    "location_id": "sakrisøyrorbueras",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "67.9415800000",
-    "longitude": "13.1117400000"
-  },
-  {
-    "location_id": "lessuitesderobinson",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "43.5376800000",
-    "longitude": "6.9445600000"
-  },
-  {
-    "location_id": "kalwangsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger",
-      "party"
-    ],
-    "open_soon": "0",
-    "latitude": "47.4227250000",
-    "longitude": "14.7592660000"
   },
   {
     "id": "Bodyshop_NA556",
