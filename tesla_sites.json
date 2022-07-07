@@ -54101,8 +54101,7 @@
     "location_id": "zaragozasupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "41.6257600000",
@@ -151676,12 +151675,11 @@
     "location_id": "MetzSudfrsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "49.0796210000",
-    "longitude": "6.1035900000"
+    "open_soon": "1",
+    "latitude": "49.0365980000",
+    "longitude": "6.1129510000"
   },
   {
     "location_id": "MontaubanSupercharger",
@@ -161887,12 +161885,11 @@
     "location_id": "saintjulienengenevoissuperchargerq122",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "46.1295690000",
-    "longitude": "6.0878240000"
+    "open_soon": "1",
+    "latitude": "46.1377881400",
+    "longitude": "6.0780892100"
   },
   {
     "location_id": "SaintLouisdeBlandfordQCSupercharger",
@@ -163873,12 +163870,11 @@
     "location_id": "Avignonq222",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "43.9805280000",
-    "longitude": "4.8798740000"
+    "open_soon": "1",
+    "latitude": "43.9511824000",
+    "longitude": "4.8063967000"
   },
   {
     "location_id": "BordeauxNordq222",
@@ -164065,12 +164061,11 @@
     "location_id": "SaintQuentinq222",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "49.8589910000",
-    "longitude": "3.2535550000"
+    "open_soon": "1",
+    "latitude": "49.8412719000",
+    "longitude": "3.2704230000"
   },
   {
     "location_id": "StrasbourgNordq222",
@@ -164378,9 +164373,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "51.9112810000",
-    "longitude": "7.3984890000"
+    "open_soon": "1",
+    "latitude": "51.9112143000",
+    "longitude": "7.3987537000"
   },
   {
     "location_id": "BerlinAlexaq222",
@@ -164826,12 +164821,11 @@
     "location_id": "VinstraNorthq222",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "61.5944480000",
-    "longitude": "9.7269040000"
+    "open_soon": "1",
+    "latitude": "61.5940426000",
+    "longitude": "9.7271640000"
   },
   {
     "location_id": "Nesbyenq222",
