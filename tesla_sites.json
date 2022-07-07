@@ -141846,9 +141846,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "34.0555790000",
-    "longitude": "-117.1825840000"
+    "open_soon": "0",
+    "latitude": "34.0595000000",
+    "longitude": "-117.1852000000"
   },
   {
     "location_id": "RimouskiQCsupercharger",
@@ -155010,9 +155010,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "33.4942530000",
-    "longitude": "-111.9261210000"
+    "open_soon": "0",
+    "latitude": "33.5835230000",
+    "longitude": "-111.8941990000"
   },
   {
     "location_id": "SyracuseNYSupercharger2",
@@ -159818,9 +159818,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "39.9994652000",
-    "longitude": "-78.2388276700"
+    "open_soon": "0",
+    "latitude": "39.9988270000",
+    "longitude": "-78.2362710000"
   },
   {
     "location_id": "BroadviewHeightsOHSupercharger",
@@ -160739,9 +160739,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "42.1160075800",
-    "longitude": "-70.8473112700"
+    "open_soon": "0",
+    "latitude": "42.1477220000",
+    "longitude": "-70.8416940000"
   },
   {
     "location_id": "HarlingenTXSupercharger",
@@ -161749,9 +161749,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.1784131300",
-    "longitude": "-122.2357170000"
+    "open_soon": "0",
+    "latitude": "40.1630590000",
+    "longitude": "-122.2289160000"
   },
   {
     "location_id": "RedHookNYSupercharger",
