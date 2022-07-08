@@ -138155,16 +138155,6 @@
     "longitude": "10.3497377000"
   },
   {
-    "location_id": "BerlinSchonebergerUferGermanysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "52.5059800000",
-    "longitude": "13.3683800000"
-  },
-  {
     "location_id": "MeierbachGermanysupercharger",
     "location_type": [
       "supercharger",
@@ -140961,16 +140951,6 @@
     "longitude": "-74.0725408400"
   },
   {
-    "location_id": "LongBeachCAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.7705070000",
-    "longitude": "-118.1937320000"
-  },
-  {
     "location_id": "LoomisCAsupercharger",
     "location_type": [
       "supercharger",
@@ -141579,16 +141559,6 @@
     "open_soon": "1",
     "latitude": "38.0405000000",
     "longitude": "-122.7877700000"
-  },
-  {
-    "location_id": "OntarioCAsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.0633443000",
-    "longitude": "-117.6508876000"
   },
   {
     "location_id": "OrlandoFLMilleniasupercharger",
@@ -142369,16 +142339,6 @@
     "open_soon": "0",
     "latitude": "42.1528910000",
     "longitude": "-71.0735290000"
-  },
-  {
-    "location_id": "SturgeonBayWIsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "44.8342510000",
-    "longitude": "-87.3762000000"
   },
   {
     "location_id": "TiltonNHsupercharger",
@@ -160464,16 +160424,6 @@
     "longitude": "-88.4470755800"
   },
   {
-    "location_id": "FortLauderdaleFLSupercharger22",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "26.1224320000",
-    "longitude": "-80.1373180000"
-  },
-  {
     "location_id": "FortMillSCSupercharger",
     "location_type": [
       "supercharger",
@@ -161462,16 +161412,6 @@
     "open_soon": "1",
     "latitude": "51.6292909600",
     "longitude": "9.9185296370"
-  },
-  {
-    "location_id": "norwichsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "52.6301890000",
-    "longitude": "1.2971380000"
   },
   {
     "location_id": "nottinghamcentresuperchargerq122",
@@ -162655,16 +162595,6 @@
     "open_soon": "1",
     "latitude": "36.1000385400",
     "longitude": "-80.2442488700"
-  },
-  {
-    "location_id": "WoodbirdgeTownshipNJSupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "40.5576620000",
-    "longitude": "-74.2843720000"
   },
   {
     "location_id": "UnionNJSupercharger",
@@ -164050,16 +163980,6 @@
     "open_soon": "1",
     "latitude": "45.8958228200",
     "longitude": "3.1405507410"
-  },
-  {
-    "location_id": "Saintes2q222",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "45.7546885000",
-    "longitude": "-0.6558178600"
   },
   {
     "location_id": "SaintQuentinq222",
