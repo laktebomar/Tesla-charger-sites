@@ -138246,16 +138246,6 @@
     "longitude": "12.2024100000"
   },
   {
-    "location_id": "KirchheimunterTeckGermanysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.6395398000",
-    "longitude": "9.4361119000"
-  },
-  {
     "location_id": "Kistdesupercharger",
     "location_type": [
       "supercharger",
