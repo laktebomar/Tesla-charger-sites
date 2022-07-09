@@ -137807,17 +137807,6 @@
     "longitude": "25.5068820000"
   },
   {
-    "location_id": "JyvaskylaFinlandsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger",
-      "party"
-    ],
-    "open_soon": "1",
-    "latitude": "62.2426000000",
-    "longitude": "25.7473000000"
-  },
-  {
     "location_id": "HelsinkiFinlandsupercharger",
     "location_type": [
       "supercharger",
@@ -138244,16 +138233,6 @@
     "open_soon": "1",
     "latitude": "47.6193600000",
     "longitude": "12.2024100000"
-  },
-  {
-    "location_id": "KirchheimunterTeckGermanysupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.6395398000",
-    "longitude": "9.4361119000"
   },
   {
     "location_id": "Kistdesupercharger",
@@ -142440,16 +142419,6 @@
     "open_soon": "1",
     "latitude": "37.4946430000",
     "longitude": "-120.8460000000"
-  },
-  {
-    "location_id": "TuscaloosaALsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "33.2094590000",
-    "longitude": "-87.5697090000"
   },
   {
     "location_id": "TyngsboroughMAsupercharger",
@@ -159404,16 +159373,6 @@
     "longitude": "55.4791860000"
   },
   {
-    "location_id": "algecirassuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "36.1416040000",
-    "longitude": "-5.4511600000"
-  },
-  {
     "location_id": "AlgonquinILSupercharger",
     "location_type": [
       "supercharger",
@@ -161393,16 +161352,6 @@
     "open_soon": "0",
     "latitude": "41.1205450000",
     "longitude": "-100.7628020000"
-  },
-  {
-    "location_id": "northeimsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "51.6292909600",
-    "longitude": "9.9185296370"
   },
   {
     "location_id": "nottinghamcentresuperchargerq122",
@@ -163810,16 +163759,6 @@
     "open_soon": "1",
     "latitude": "44.8849491800",
     "longitude": "-0.5615132510"
-  },
-  {
-    "location_id": "Brestq222",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "48.4475359000",
-    "longitude": "-4.4588716000"
   },
   {
     "location_id": "Bronq222",
