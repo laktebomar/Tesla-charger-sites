@@ -32844,8 +32844,7 @@
     "location_id": "muricasupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "38.0381720000",
@@ -54144,8 +54143,7 @@
     "location_id": "tordesillassupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "41.5159930000",
@@ -70685,8 +70683,8 @@
   {
     "location_id": "dc23953",
     "location_type": [
-      "standard charger",
-      "destination charger"
+      "destination charger",
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "44.5942030000",
@@ -70771,6 +70769,16 @@
     "open_soon": "0",
     "latitude": "53.2033280000",
     "longitude": "-1.6046700000"
+  },
+  {
+    "location_id": "dc27477",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "51.7164200000",
+    "longitude": "-4.6938820000"
   },
   {
     "location_id": "dc28698",
@@ -130500,6 +130508,16 @@
     "longitude": "14.4211000000"
   },
   {
+    "location_id": "hadelandsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "60.3472900000",
+    "longitude": "10.5746400000"
+  },
+  {
     "location_id": "karasjoksupercharger",
     "location_type": [
       "supercharger",
@@ -137787,17 +137805,6 @@
     "open_soon": "1",
     "latitude": "65.0268230000",
     "longitude": "25.5068820000"
-  },
-  {
-    "location_id": "JyvaskylaFinlandsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger",
-      "party"
-    ],
-    "open_soon": "0",
-    "latitude": "62.2143000000",
-    "longitude": "25.7225000000"
   },
   {
     "location_id": "HelsinkiFinlandsupercharger",
@@ -154673,9 +154680,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "55.5125860000",
-    "longitude": "9.4628690000"
+    "open_soon": "1",
+    "latitude": "55.4900588400",
+    "longitude": "9.4778598540"
   },
   {
     "location_id": "Matosinhossupercharger",
@@ -159896,17 +159903,6 @@
     "longitude": "-80.8430850000"
   },
   {
-    "location_id": "chatelleraultsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger",
-      "party"
-    ],
-    "open_soon": "0",
-    "latitude": "46.8357470000",
-    "longitude": "0.5418910000"
-  },
-  {
     "location_id": "ChattanoogaTNSupercharger",
     "location_type": [
       "supercharger",
@@ -161356,16 +161352,6 @@
     "open_soon": "0",
     "latitude": "41.1205450000",
     "longitude": "-100.7628020000"
-  },
-  {
-    "location_id": "northeimsuperchargerq122",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.7318770000",
-    "longitude": "9.9727730000"
   },
   {
     "location_id": "nottinghamcentresuperchargerq122",
@@ -163698,9 +163684,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "50.9517440000",
-    "longitude": "5.3531980000"
+    "open_soon": "1",
+    "latitude": "50.9545646000",
+    "longitude": "5.3541512000"
   },
   {
     "location_id": "CopenhagenSouthKastrupq222",
@@ -163775,16 +163761,6 @@
     "longitude": "-0.5615132510"
   },
   {
-    "location_id": "Brestq222",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "48.4305668000",
-    "longitude": "-4.4699480200"
-  },
-  {
     "location_id": "Bronq222",
     "location_type": [
       "supercharger",
@@ -163823,6 +163799,16 @@
     "open_soon": "1",
     "latitude": "48.9759218600",
     "longitude": "4.2911391850"
+  },
+  {
+    "location_id": "Chatelleraultq222",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "46.8164870000",
+    "longitude": "0.5481460000"
   },
   {
     "location_id": "evryCourcouronnesq222",
@@ -163909,12 +163895,11 @@
     "location_id": "PoitiersSudq222",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "46.5477670000",
-    "longitude": "0.2958970000"
+    "open_soon": "1",
+    "latitude": "46.5357090000",
+    "longitude": "0.2871220000"
   },
   {
     "location_id": "Riomq222",
@@ -166673,26 +166658,6 @@
     "open_soon": "0",
     "latitude": "47.4227250000",
     "longitude": "14.7592660000"
-  },
-  {
-    "location_id": "burgdorfsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "52.1227210000",
-    "longitude": "10.2292860000"
-  },
-  {
-    "location_id": "krakowsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "50.0281250000",
-    "longitude": "19.9508080000"
   },
   {
     "id": "Bodyshop_NA556",
