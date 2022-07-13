@@ -81544,16 +81544,6 @@
     "longitude": "118.4705140000"
   },
   {
-    "location_id": "dc35971",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "-32.8249580000",
-    "longitude": "151.3264430000"
-  },
-  {
     "location_id": "dc33141",
     "location_type": [
       "destination charger",
@@ -140969,9 +140959,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "44.6335150000",
-    "longitude": "-121.1295680000"
+    "open_soon": "0",
+    "latitude": "44.6140950000",
+    "longitude": "-121.1349350000"
   },
   {
     "location_id": "MaltaNYsupercharger",
@@ -161976,8 +161966,8 @@
       "standard charger"
     ],
     "open_soon": "1",
-    "latitude": "36.5707450000",
-    "longitude": "-119.6122990000"
+    "latitude": "36.5755417800",
+    "longitude": "-119.6300780700"
   },
   {
     "location_id": "Seosansupercharger",
@@ -166693,6 +166683,43 @@
     "open_soon": "0",
     "latitude": "50.0281250000",
     "longitude": "19.9508080000"
+  },
+  {
+    "location_id": "dc20220330",
+    "location_type": [
+      "destination charger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "-45.0226340000",
+    "longitude": "168.7390100000"
+  },
+  {
+    "location_id": "dc1174026",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "36.8558400000",
+    "longitude": "138.2932000000"
+  },
+  {
+    "location_id": "dc1169768",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "36.2448500000",
+    "longitude": "137.8719000000"
+  },
+  {
+    "location_id": "dc1189322",
+    "location_type": [
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "32.7129500000",
+    "longitude": "130.7765000000"
   },
   {
     "id": "Bodyshop_NA556",
