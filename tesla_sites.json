@@ -53900,7 +53900,7 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
+    "open_soon": "0",
     "latitude": "56.9225460000",
     "longitude": "24.1680804000"
   },
@@ -126717,8 +126717,8 @@
   {
     "location_id": "dc79076",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "42.3145360000",
