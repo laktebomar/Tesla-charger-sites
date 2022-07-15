@@ -166564,6 +166564,16 @@
     "longitude": "114.2247500000"
   },
   {
+    "location_id": "motelboczów",
+    "location_type": [
+      "standard charger",
+      "destination charger"
+    ],
+    "open_soon": "0",
+    "latitude": "52.3225904900",
+    "longitude": "14.9436229900"
+  },
+  {
     "location_id": "sakrisøyrorbueras",
     "location_type": [
       "standard charger",
@@ -166670,16 +166680,6 @@
     "open_soon": "0",
     "latitude": "45.6241346400",
     "longitude": "10.5565041000"
-  },
-  {
-    "location_id": "motelboczów",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "52.3225904900",
-    "longitude": "14.9436229900"
   },
   {
     "id": "Bodyshop_NA556",
