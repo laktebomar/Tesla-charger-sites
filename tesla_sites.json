@@ -160863,9 +160863,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "38.9716350000",
-    "longitude": "-95.2352900000"
+    "open_soon": "0",
+    "latitude": "39.0185680000",
+    "longitude": "-95.1374430000"
   },
   {
     "location_id": "LeedsALSupercharger",
@@ -162195,9 +162195,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "35.8826273400",
-    "longitude": "-80.0815060200"
+    "open_soon": "0",
+    "latitude": "35.8561339000",
+    "longitude": "-80.0721744000"
   },
   {
     "location_id": "ThorntonNHSupercharger",
@@ -166422,8 +166422,8 @@
       "destination charger"
     ],
     "open_soon": "0",
-    "latitude": "29.7311200000",
-    "longitude": "-99.0792805000"
+    "latitude": "29.7312956000",
+    "longitude": "-99.0792105000"
   },
   {
     "location_id": "dc958050034",
@@ -166680,6 +166680,33 @@
     "open_soon": "0",
     "latitude": "52.3225904900",
     "longitude": "14.9436229900"
+  },
+  {
+    "location_id": "tempeazsupercharger",
+    "location_type": [
+      "supercharger"
+    ],
+    "open_soon": "0",
+    "latitude": "33.3806840000",
+    "longitude": "-111.9628970000"
+  },
+  {
+    "location_id": "saintlouismosupercharger",
+    "location_type": [
+      "supercharger"
+    ],
+    "open_soon": "0",
+    "latitude": "38.6201450000",
+    "longitude": "-90.2605520000"
+  },
+  {
+    "location_id": "millhallpasupercharger",
+    "location_type": [
+      "supercharger"
+    ],
+    "open_soon": "0",
+    "latitude": "41.0253200000",
+    "longitude": "-77.5245640000"
   },
   {
     "id": "Bodyshop_NA556",
