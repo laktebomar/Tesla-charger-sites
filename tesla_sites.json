@@ -53342,16 +53342,6 @@
     "longitude": "-110.8033810000"
   },
   {
-    "location_id": "tuscaloosasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "33.1752060000",
-    "longitude": "-87.4503090000"
-  },
-  {
     "location_id": "vallejosupercharger",
     "location_type": [
       "supercharger",
@@ -53900,7 +53890,7 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
+    "open_soon": "0",
     "latitude": "56.9225460000",
     "longitude": "24.1680804000"
   },
@@ -161915,7 +161905,7 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
+    "open_soon": "1",
     "latitude": "36.5755417800",
     "longitude": "-119.6300780700"
   },
