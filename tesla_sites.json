@@ -18802,15 +18802,6 @@
     "longitude": "-76.2025573000"
   },
   {
-    "location_id": "dc12441",
-    "location_type": [
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "39.1822610000",
-    "longitude": "-78.5108710000"
-  },
-  {
     "location_id": "dc10997",
     "location_type": [
       "destination charger"
@@ -36052,7 +36043,8 @@
     "location_id": "orleanssupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "47.9488690000",
@@ -50083,16 +50075,6 @@
     "longitude": "-0.5958300000"
   },
   {
-    "location_id": "dc22369",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "44.0462080000",
-    "longitude": "1.3902920000"
-  },
-  {
     "location_id": "dc23554",
     "location_type": [
       "destination charger",
@@ -63654,8 +63636,8 @@
   {
     "location_id": "dc25672",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "45.4618330000",
@@ -70395,8 +70377,8 @@
   {
     "location_id": "dc21030",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "51.0664510000",
@@ -93557,16 +93539,6 @@
     "longitude": "-8.6729060000"
   },
   {
-    "location_id": "dc42531",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "47.5139600000",
-    "longitude": "10.4582270000"
-  },
-  {
     "location_id": "dc20089",
     "location_type": [
       "destination charger",
@@ -108546,16 +108518,6 @@
     "longitude": "11.1978540000"
   },
   {
-    "location_id": "dc53186",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.5346910000",
-    "longitude": "9.9269150000"
-  },
-  {
     "location_id": "dc54592",
     "location_type": [
       "destination charger",
@@ -118243,16 +118205,6 @@
     "open_soon": "0",
     "latitude": "31.7673110000",
     "longitude": "35.7421470000"
-  },
-  {
-    "location_id": "dc60131",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "47.0086810000",
-    "longitude": "10.0023590000"
   },
   {
     "location_id": "dc60738",
@@ -138323,11 +138275,12 @@
     "location_id": "Ridderkerknlsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
-    "open_soon": "1",
-    "latitude": "51.8678960000",
-    "longitude": "4.5538640000"
+    "open_soon": "0",
+    "latitude": "51.8679010000",
+    "longitude": "4.5577530000"
   },
   {
     "location_id": "Nederweertnlsupercharger",
@@ -151805,8 +151758,7 @@
     "location_id": "Cambrilsessupercharger",
     "location_type": [
       "supercharger",
-      "standard charger",
-      "party"
+      "standard charger"
     ],
     "open_soon": "0",
     "latitude": "41.0862780000",
@@ -154591,7 +154543,8 @@
     "location_id": "Koldingsupercharger",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "55.5125860000",
@@ -159286,6 +159239,17 @@
     "longitude": "55.4791860000"
   },
   {
+    "location_id": "algecirassuperchargerq122",
+    "location_type": [
+      "supercharger",
+      "standard charger",
+      "party"
+    ],
+    "open_soon": "0",
+    "latitude": "36.1350840000",
+    "longitude": "-5.4616920000"
+  },
+  {
     "location_id": "AlgonquinILSupercharger",
     "location_type": [
       "supercharger",
@@ -161341,11 +161305,12 @@
     "location_id": "oppdalsuperchargerq122",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
-    "open_soon": "1",
-    "latitude": "62.5942796500",
-    "longitude": "9.6912202850"
+    "open_soon": "0",
+    "latitude": "62.5958550000",
+    "longitude": "9.6890800000"
   },
   {
     "location_id": "OrlandParkILSupercharger",
@@ -161423,9 +161388,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "44.8000000000",
-    "longitude": "10.3500000000"
+    "open_soon": "0",
+    "latitude": "44.8210524800",
+    "longitude": "10.3365449000"
   },
   {
     "location_id": "SouthSurreyBCSupercharger22",
@@ -163626,7 +163591,8 @@
     "location_id": "Hasseltq222",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "50.9517440000",
@@ -166707,6 +166673,17 @@
     "open_soon": "0",
     "latitude": "41.0253200000",
     "longitude": "-77.5245640000"
+  },
+  {
+    "location_id": "saintesnordsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger",
+      "party"
+    ],
+    "open_soon": "0",
+    "latitude": "45.7534460000",
+    "longitude": "-0.6528710000"
   },
   {
     "id": "Bodyshop_NA556",
