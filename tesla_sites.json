@@ -141242,9 +141242,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "45.0569130000",
-    "longitude": "-64.4695200000"
+    "open_soon": "1",
+    "latitude": "45.0723330000",
+    "longitude": "-64.4451540000"
   },
   {
     "location_id": "NewOrleansLAsupercharger",
@@ -155286,9 +155286,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "40.1632920000",
-    "longitude": "-74.9041870000"
+    "open_soon": "1",
+    "latitude": "40.1744300000",
+    "longitude": "-74.9230780000"
   },
   {
     "location_id": "MesquiteNVSupercharger",
@@ -159255,9 +159255,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "42.1711703200",
-    "longitude": "-88.3366123400"
+    "open_soon": "1",
+    "latitude": "42.1655249500",
+    "longitude": "-88.2939447600"
   },
   {
     "location_id": "AlhambraCASupercharger",
@@ -160707,9 +160707,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "0",
-    "latitude": "35.7968793000",
-    "longitude": "-90.7304780000"
+    "open_soon": "1",
+    "latitude": "35.8420950000",
+    "longitude": "-90.7048940000"
   },
   {
     "location_id": "eastkaohsiungsupercharger",
