@@ -151837,16 +151837,6 @@
     "longitude": "120.5075004000"
   },
   {
-    "location_id": "hualientaitungsupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "23.2667853600",
-    "longitude": "121.3735291000"
-  },
-  {
     "location_id": "miaoliiisupercharger",
     "location_type": [
       "supercharger",
@@ -166684,6 +166674,26 @@
     "open_soon": "0",
     "latitude": "45.7534460000",
     "longitude": "-0.6528710000"
+  },
+  {
+    "location_id": "singaporesupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "1",
+    "latitude": "1.2834261186",
+    "longitude": "103.8355396935"
+  },
+  {
+    "location_id": "taitungchangbinsupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "23.2828693100",
+    "longitude": "121.4276442000"
   },
   {
     "id": "Bodyshop_NA556",
