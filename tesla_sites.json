@@ -160668,9 +160668,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.6993324200",
-    "longitude": "-99.0816394200"
+    "open_soon": "0",
+    "latitude": "40.6821810000",
+    "longitude": "-99.0833260000"
   },
   {
     "location_id": "KemptvilleONSupercharger",
@@ -160961,6 +160961,16 @@
     "open_soon": "1",
     "latitude": "33.4151201300",
     "longitude": "-111.8314753000"
+  },
+  {
+    "location_id": "MillenGASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "32.8031780000",
+    "longitude": "-81.9487630000"
   },
   {
     "location_id": "MindenONSupercharger",
