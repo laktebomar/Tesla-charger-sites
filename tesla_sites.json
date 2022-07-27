@@ -41912,16 +41912,6 @@
     "longitude": "7.7767470000"
   },
   {
-    "location_id": "dc18300",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "47.3885420000",
-    "longitude": "13.0274560000"
-  },
-  {
     "location_id": "dc18327",
     "location_type": [
       "destination charger",
@@ -58393,16 +58383,6 @@
     "longitude": "11.1441850000"
   },
   {
-    "location_id": "dc21122",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "45.5914620000",
-    "longitude": "10.7018740000"
-  },
-  {
     "location_id": "dc21263",
     "location_type": [
       "destination charger",
@@ -61159,16 +61139,6 @@
     "open_soon": "0",
     "latitude": "52.3003410000",
     "longitude": "-3.5130700000"
-  },
-  {
-    "location_id": "dc26501",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "43.5489320000",
-    "longitude": "-6.3845680000"
   },
   {
     "location_id": "seoulgangseo",
@@ -79427,16 +79397,6 @@
     "longitude": "11.3908050000"
   },
   {
-    "location_id": "dc24435",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "49.5675310000",
-    "longitude": "6.3610070000"
-  },
-  {
     "location_id": "dc13314",
     "location_type": [
       "destination charger",
@@ -89381,8 +89341,8 @@
   {
     "location_id": "dc14950",
     "location_type": [
-      "destination charger",
-      "standard charger"
+      "standard charger",
+      "destination charger"
     ],
     "open_soon": "0",
     "latitude": "45.4211250000",
@@ -105019,16 +104979,6 @@
     "open_soon": "0",
     "latitude": "47.0799056000",
     "longitude": "8.2990685000"
-  },
-  {
-    "location_id": "dc50837",
-    "location_type": [
-      "destination charger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "51.8203960000",
-    "longitude": "9.8594450000"
   },
   {
     "location_id": "dc31598",
@@ -160295,7 +160245,8 @@
     "location_id": "fuenlabradasuperchargerq122",
     "location_type": [
       "supercharger",
-      "standard charger"
+      "standard charger",
+      "party"
     ],
     "open_soon": "0",
     "latitude": "40.2980970000",
@@ -160717,9 +160668,9 @@
       "supercharger",
       "standard charger"
     ],
-    "open_soon": "1",
-    "latitude": "40.6993324200",
-    "longitude": "-99.0816394200"
+    "open_soon": "0",
+    "latitude": "40.6821810000",
+    "longitude": "-99.0833260000"
   },
   {
     "location_id": "KemptvilleONSupercharger",
@@ -161010,6 +160961,16 @@
     "open_soon": "1",
     "latitude": "33.4151201300",
     "longitude": "-111.8314753000"
+  },
+  {
+    "location_id": "MillenGASupercharger",
+    "location_type": [
+      "supercharger",
+      "standard charger"
+    ],
+    "open_soon": "0",
+    "latitude": "32.8031780000",
+    "longitude": "-81.9487630000"
   },
   {
     "location_id": "MindenONSupercharger",
