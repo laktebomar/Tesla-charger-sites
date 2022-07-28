@@ -166657,16 +166657,6 @@
     "longitude": "121.4276442000"
   },
   {
-    "location_id": "parkvineyards",
-    "location_type": [
-      "standard charger",
-      "destination charger"
-    ],
-    "open_soon": "0",
-    "latitude": "31.8067190000",
-    "longitude": "35.1216600000"
-  },
-  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
