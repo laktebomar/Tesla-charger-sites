@@ -166667,56 +166667,6 @@
     "longitude": "35.1216600000"
   },
   {
-    "location_id": "tokyoshinjukusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.6895195300",
-    "longitude": "139.7005820000"
-  },
-  {
-    "location_id": "kyotoshijosupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.0036079900",
-    "longitude": "135.7196361000"
-  },
-  {
-    "location_id": "shizuokayaizusupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "0",
-    "latitude": "34.8724337400",
-    "longitude": "138.3184757000"
-  },
-  {
-    "location_id": "chibainagesupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "35.6602928800",
-    "longitude": "140.1003455000"
-  },
-  {
-    "location_id": "shizuokasupercharger",
-    "location_type": [
-      "supercharger",
-      "standard charger"
-    ],
-    "open_soon": "1",
-    "latitude": "34.9717214700",
-    "longitude": "138.3887917000"
-  },
-  {
     "id": "Bodyshop_NA556",
     "residential": "0",
     "commercial": "0",
